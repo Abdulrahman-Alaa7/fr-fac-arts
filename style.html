@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stylistique</title>
+    <link rel="shortcut icon" href="#" />
+    <link rel="stylesheet" href="css/main-style.css" />
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="stylesheet" href="css/normalise.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <span class="up">
+      <i class="fas fa-angle-double-up" style="font-size: 20px"></i>
+    </span>
+    <div class="progress-container">
+      <div class="progress-bar" id="myBar"></div>
+    </div>
+    <header>
+      <div class="overlay"></div>
+      <a href="/index.html">
+        <i class="fa-solid fa-arrow-left" style="font-size: 20px"></i>
+      </a>
+      <div class="mode">
+        <i class="fa-solid fa-moon" style="font-size: 25px"></i>
+      </div>
+      <div class="info">
+        <i class="fa-solid fa-pen-clip book" style="font-size: 45px"></i>
+        <h1>
+          <a href="/style.html"> Stylistique</a>
+        </h1>
+        <div class="par">
+          <p class="count-down">Countdown to the Exam</p>
+          <div class="time">
+            <div class="unit">
+              <span class="days" id="days"></span>
+              <span>Days</span>
+            </div>
+            <div class="unit">
+              <span class="hours" id="hours"></span>
+              <span>Hours</span>
+            </div>
+            <div class="unit">
+              <span class="minutes" id="min"></span>
+              <span>minutes</span>
+            </div>
+            <div class="unit">
+              <span class="seconds" id="sec"></span>
+              <span>seconds</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <ul class="tabs">
+      <li class="active" data-cont=".one">
+        <h3>التعريفات</h3>
+      </li>
+      <li data-cont=".two">
+        <h3>Fonction</h3>
+      </li>
+      <li data-cont=".three">
+        <h3>Focalisation</h3>
+      </li>
+    </ul>
+
+    <div class="content">
+      <div class="one">
+        <div class="heading">
+          <h3>
+            La comparaison
+            <br />
+            <span>المقارنة</span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            La comparaison met en relation deux éléments : le comparé (ce qui
+            est comparé) et le comparant (ce à quoi on compare) grâce à un outil
+            grammatical (comme, identique à, tel, ressemble à…) : <br />
+            « Je suis belle, ô mortels, comme un rêve de pierre », Charles
+            Baudelaire.
+            <span class="parent">
+              <span class="span-one">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/101.mp3" class="audio-one"></audio>
+              </span>
+              <span class="span-stop-one">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          المقارنة تضع علاقة بين عنصرين: المقارن (الذي يتم المقارنة له) والمقارن
+          به (الذي يتم المقارنة به) باستخدام أداة نحوية (مثل، مطابق ل، مثل، شبيه
+          ب...) : <br />"أنا جميلة يا بشر، مثل حلم بيير"، تشارلز بودلير.
+        </p>
+
+        <div class="heading">
+          <h3>
+            La métonymie <br />
+            <span>الاستعارة</span>
+          </h3>
+        </div>
+
+        <div class="box">
+          <p class="fr">
+            La métonymie remplace un mot par un autre qui lui est lié
+            logiquement : le contenant pour le contenu : <br />
+            «boire un verre », on ne peut pas boire le verre mais plutôt ce
+            qu’il contient.
+            <span class="parent">
+              <span class="span-two">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+
+                <audio src="/sounds/22.mp3" class="audio-two"></audio>
+              </span>
+              <span class="span-stop-two">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          تحل الاستعارة محل كلمة بأخرى مرتبطة بها منطقياً، مثل استخدام الحاوية
+          بدلاً من المحتوى :<br />
+          "نشرب كوباً"، حيث لا يمكن شرب الكوب نفسه، ولكن يمكن شرب ما يوجد في
+          داخله.
+        </p>
+
+        <div class="heading">
+          <h3>
+            Le chiasme
+
+            <br />
+            <span
+              >الكياسم هو شكل من الأساليب اللغوية التي تستخدم تكرار الكلمات أو
+              العبارات بترتيب عكسي.
+            </span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            Le chiasme est une structure symétrique du type (ABBA) qui permet
+            d’unir ou alors d’opposer des éléments : <br />
+            « Il succomba vivant, et mort, il m’assassine»
+            <span class="parent">
+              <span class="span-three">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/33.mp3" class="audio-three"></audio>
+              </span>
+              <span class="span-stop-three">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          الكياسم هو تركيب متماثل يتكون من أربعة أجزاء (ABBA)، والذي يسمح بتوحيد
+          أو مقابلة العناصر : <br />
+          "هو سقط حيًا،ومات ،هو يقتلني ".
+        </p>
+
+        <div class="heading">
+          <h3>
+            L’antithèse
+            <br />
+            <span
+              >الأنتيتيز أو النظيرية هي شكل من الأساليب اللغوية يتم فيه استخدام
+              عبارتين أو كلمتين متناقضتين في نفس الجملة لإبراز التناقض والتضاد
+              بينهما
+            </span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            L’antithèse oppose deux mots de sens contraires à l’intérieur d’une
+            phrase ou d’un paragraphe pour produire un effet de contraste :
+            <br />
+            « J’aimerais mieux une laide bien sotte Qu’une femme fort belle avec
+            beaucoup d’esprit »,Molière.
+
+            <span class="parent">
+              <span class="span-four">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/44.mp3" class="audio-four"></audio>
+              </span>
+              <span class="span-stop-four">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          الأنتيتيز هو استخدام عبارتين متناقضتين في نفس الجملة أو الفقرة لإنتاج
+          تأثير التضاد والتباين :
+          <br />
+          "أفضل ان يكون لي امرأة قبيحة غبية على امرأة جميلة ذكية"، موليير.
+        </p>
+
+        <div class="heading">
+          <h3>
+            L’oxymore
+            <br />
+            <span
+              >الأوكسيمور هو شكل من أشكال الأساليب اللغوية يتم فيها استخدام
+              كلمتين أو عبارتين متناقضتين في نفس الجملة لتشكيل تعبير متناقض
+            </span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            L’oxymore est un cas particulier de l’antithèse, il réunit à
+            l’intérieur de la même expression deux mots dont les significations
+            sont apparemment incompatibles : <br />
+            « une belle horreur », « le soleil noir de la mélancolie », Gérard
+            de Nerval.
+            <span class="parent">
+              <span class="span-five">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/55.mp3" class="audio-five"></audio>
+              </span>
+              <span class="span-stop-five">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          الأوكسيمور هو حالة خاصة من الأنتيتيز، يجمع في نفس التعبير كلمتين
+          يتعارض معانيهما على ما يبدو : <br />
+          "رعب جميل"، "شمس الكآبة السوداء"، جيرار دو نيرفال.
+        </p>
+        <div class="heading">
+          <h3>
+            l’hyperbole
+            <br />
+            <span
+              >المبالغة أو الهجاء هي شكل من الأساليب اللغوية يتم فيه استخدام
+              تعبير مبالغ فيه لإبراز أهمية أو قوة الكلمة أو الفكرة.
+            </span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            L’hyperbole emploie des mots qui créent un effet d’exagération :
+            <br />
+            « Elle me conf ia son sac. Il pesait au moins une tonne ! »
+            <span class="parent">
+              <span class="span-six">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/66.mp3" class="audio-six"></audio>
+              </span>
+              <span class="span-stop-six">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          يستخدم الهجاء الكلمات التي تخلق تأثيرًا للمبالغة : <br />
+          "أعطتني حقيبتها، وكانت تزن على الأقل طناً!"، حيث يتم استخدام تعبير
+          "طناً" للتعبير عن وزن الحقيبة بشكل مبالغ فيه لجعل المستمع يفهم أنها
+          كانت ثقيلة جداً."
+        </p>
+        <div class="heading">
+          <h3>
+            L’euphémisme
+            <br />
+            <span>
+              اليوفيميزم أو التخفيف هو شكل من الأساليب اللغوية يتم فيه استخدام
+              تعبير يخفف من صراحة أو قوة العبارة المستخدمة، وذلك لتجنب الإساءة
+              أو الإسفاف في التعبير.
+            </span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            L’euphémisme est une formulation indirecte qui atténue une
+            réalitédouloureuse ou choquante : <br />
+            « Va, je ne te hais point », Corneille. Cette figure est une
+            révélation indirecte (par bienséance) de l’amour de Chimène pour le
+            meurtrier de son père.
+            <span class="parent">
+              <span class="span-seven">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/77.mp3" class="audio-seven"></audio>
+              </span>
+              <span class="span-stop-seven">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          التعبير اللطيف هو صياغة غير مباشرة تخفف من حقيقة مؤلمة أو مثيرة للصدمة
+          : <br />
+          "ارحل، لستُ أكرهك"، كورنيل. هذه الشكلية هي كشف غير مباشر (لأسباب
+          اللياقة) لحب شيمين لقاتل والدها.
+        </p>
+      </div>
+      <div class="two">
+        <div class="heading">
+          <h3>
+            La fonction de régie
+            <br />
+            <span>
+              في هذا السياق يعني الدور الذي يقوم به الراوي في تنظيم الحكاية.
+            </span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            La fonction de régie : le narrateur organise le récit en choisissant
+            de raconter l’histoire dans l’ordre ou en brouillant la succession
+            événementielle, retour en arrière, sauts en avant, ellipses…
+
+            <span class="parent">
+              <span class="span-eight">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/88.mp3" class="audio-eight"></audio>
+              </span>
+              <span class="span-stop-eight">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          وظيفة السيطرة في الرواية : ينظم الراوي السرد عن طريق اختياره لسرد
+          القصة بالترتيب الزمني أو بتشويش تتابع الأحداث، حيث يعود إلى الوراء أو
+          يقفز إلى المستقبل أو يستخدم الحذف...
+        </p>
+        <div class="heading">
+          <h3>
+            La fonction de communication
+            <br />
+            <span> وظيفة الاتصال في الرواية </span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            La fonction de communication : elle permet au narrateur d’établir un
+            contact indirect ou direct avec le lecteur : dans Jacques le
+            fataliste, le narrateur s’adresse directement à son lecteur : <br />
+            « Vous voyez, lecteur, que je suis en bon chemin ».
+
+            <span class="parent">
+              <span class="span-nine">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/99.mp3" class="audio-nine"></audio>
+              </span>
+              <span class="span-stop-nine">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          وظيفة الاتصال في الرواية : تسمح للراوي بإقامة اتصال غير مباشر أو مباشر
+          مع القارئ : في رواية "جاك القاتل"، يتحدث الراوي مباشرة إلى القارئ
+          قائلاً: <br />
+          "ترى يا قارئي، أنني في الطريق الصحيح".
+        </p>
+        <div class="heading">
+          <h3>
+            La fonction testimoniale
+            <br />
+            <span> وظيفة الشهادة في الرواية </span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            La fonction testimoniale : renvoie aux sentiments que tel passage du
+            texte provoque chez le lecteur (émotion, admiration, jugement
+            négatif ou positif…) : <br />
+            le lecteur de La Grand Maison de Mohammed Dib est très sensible à
+            la.
+            <span class="parent">
+              <span class="span-ten">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/100.mp3" class="audio-ten"></audio>
+              </span>
+              <span class="span-stop-ten">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          وظيفة الشهادة في الرواية : تشير إلى المشاعر التي يثيرها مقطع معين من
+          النص لدى القارئ، مثل (الانفعال، الإعجاب، الحكم السلبي أو الإيجابي،
+          وغيرها) : <br />
+          على سبيل المثال، يشعر القارئ الذي يقرأ رواية "البيت الكبير" لمحمد ديب
+          بشدة بالمشاعر المتعلقة بشهادة الوفاة في الرواية.
+        </p>
+        <div class="heading">
+          <h3>
+            La fonction explicative
+            <br />
+            <span> وظيفة التفسير في الرواية </span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            La fonction explicative : consiste à livrer des informations que le
+            narrateur juge utile à la compréhension du récit : <br />
+            le narrateur du Tour du monde en 80 jours de Jules Verne nous
+            informe des moeurs de l’aristocratie anglaise dans le personnage de
+            Phileas Fogg.
+
+            <span class="parent">
+              <span class="span-eleven">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/111.mp3" class="audio-eleven"></audio>
+              </span>
+              <span class="span-stop-eleven">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          وظيفة التفسير في الرواية : تتكون من توفير المعلومات التي يراها الراوي
+          مفيدة لفهم القصة : <br />
+          في رواية "رحلة حول العالم في 80 يومًا" لجول فيرن، يزودنا الراوي
+          بمعلومات حول عادات الطبقة الأرستقراطية الإنجليزية من خلال شخصية في
+          الرواية تُدعى فيلياس فوج.
+        </p>
+      </div>
+      <div class="three">
+        <div class="heading">
+          <h3>
+            Focalisation zéro ou point de vue omniscient
+            <br />
+            <span> التركيز الصفري أو وجهة النظر الشاملة في الرواية </span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            Focalisation zéro ou point de vue omniscient : le narrateur est
+            conscient de tout : <br />
+            « Paul était angoissé. Il ne savait pas que Marie l’était autant. »
+            <span class="parent">
+              <span class="span-twelve">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/122.mp3" class="audio-twelve"></audio>
+              </span>
+              <span class="span-stop-twelve">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          التركيز الصفرى أو وجهة النظر الشاملة في الرواية : الراوي يكون على
+          دراية بكل شيء : <br />
+          على سبيل المثال، "كان بول قلقاً، وهو لا يعلم أن ماري تشعر بنفس القلق"،
+          <br />
+          وهذا يعني أن الراوي يعرف ما يدور في عقل كل من بول وماري.
+        </p>
+        <div class="heading">
+          <h3>
+            Focalisation interne
+            <br />
+            <span> التركيز الداخلى في الرواية</span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            Focalisation interne : le narrateur se limite au point de vue d’un
+            personnage : <br />
+            « Paul était angoissé. Et Marie que ressentait-elle ? Il ne
+            parvenait à le déceler ».
+            <span class="parent">
+              <span class="span-thirteen">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/133.mp3" class="audio-thirteen"></audio>
+              </span>
+              <span class="span-stop-thirteen">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          التركيز الداخلي في الرواية : الراوي يقتصر على وجهة نظر شخصية واحدة، :
+          <br />
+          على سبيل المثال، "كان بول قلقاً. وكان يتساءل عما يشعر به ماري، ولكنه
+          لم يستطع تحديد ذلك"، <br />
+          وهذا يعني أن الراوي يقتصر على وجهة نظر بول، ولم يكشف عن ما يجول في عقل
+          ماري.
+        </p>
+        <div class="heading">
+          <h3>
+            Focalisation externe
+            <br />
+            <span> التركيز الخارجي في الرواية </span>
+          </h3>
+        </div>
+        <div class="box">
+          <p class="fr">
+            Focalisation externe : le narrateur est un témoin ignorant, un
+            simple observateur : <br />
+            « L’homme marchait le long de la plage. Ses mains tremblaient
+            légèrement . Une femme l’accompagnait. »
+
+            <span class="parent">
+              <span class="span-fourteen">
+                <i
+                  class="fa-solid fa-volume-high sound-icon"
+                  style="font-size: 16px"
+                ></i>
+                <audio src="/sounds/144.mp3" class="audio-fourteen"></audio>
+              </span>
+              <span class="span-stop-fourteen">
+                <i
+                  class="fa-solid fa-stop sound-icon"
+                  style="font-size: 16px"
+                ></i>
+              </span>
+            </span>
+          </p>
+        </div>
+        <p class="ar">
+          التركيز الخارجي في الرواية : الراوي يكون شاهد جاهل مجرد مراقب : <br />
+          على سبيل المثال، "كان الرجل يسير على طول الشاطئ، وكانت يديه ترتعش
+          قليلاً. وكانت امرأة ترافقه"، <br />
+          وهذا يعني أن الراوي يصف الأحداث كما يراها من الخارج، دون الكشف عن أي
+          معلومات حول ما يحدث في عقول الشخصيات أو مشاعرهم الداخلية.
+        </p>
+      </div>
+    </div>
+
+    <footer>
+      <a href="/index.html">
+        <h4>
+          <i class="fa-solid fa-arrow-left" style="font-size: 20px"></i>
+          <span> Home</span>
+        </h4>
+      </a>
+      <p>Designed And Developed By Abdulrahman Alaa &copy; <span>2023</span></p>
+    </footer>
+
+    <script src="js/main-style.js"></script>
+  </body>
+</html>
