@@ -722,3 +722,14 @@ header a h3:hover {
 .trad-new.drop a:not(:first-child) {
   border-top: 1px solid #343a46;
 }
+
+/* p.note {
+  text-align: center;
+  direction: rtl;
+  padding: 15px 0;
+  width: 250px;
+  margin: 10px auto 0;
+  color: #fff;
+  background-color: #000;
+  border-radius: 8px;
+} */
