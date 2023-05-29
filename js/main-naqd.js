@@ -9,8 +9,8 @@ tabsArray.forEach((ele) => {
   ele.addEventListener("click", function (e) {
     tabsArray.forEach((ele) => {
       ele.classList.remove("active");
-      document.body.scrollTop = 0; // For Safari
-      document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+      // document.body.scrollTop = 0; // For Safari
+      // document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
     });
     e.currentTarget.classList.add("active");
     divsArray.forEach((div) => {
@@ -54,7 +54,7 @@ function myFunction() {
 
 // CountDown
 // Set the date we're counting down to
-var countDownDate = new Date("jun 5, 2023 9:00:00").getTime();
+var countDownDate = new Date("jun 3 , 2023 9:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {

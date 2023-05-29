@@ -1,27 +1,3 @@
-let tabs = document.querySelectorAll(".tabs li ");
-let tabsArray = Array.from(tabs);
-let divs = document.querySelectorAll(".content > div");
-let divsArray = Array.from(divs);
-
-// console.log(divsArray);
-
-tabsArray.forEach((ele) => {
-  ele.addEventListener("click", function (e) {
-    tabsArray.forEach((ele) => {
-      ele.classList.remove("active");
-      document.body.scrollTop = 0; // For Safari
-      document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-    });
-    e.currentTarget.classList.add("active");
-    divsArray.forEach((div) => {
-      div.style.display = "none";
-    });
-    // console.log(e.currentTarget.dataset.cont);
-    document.querySelector(e.currentTarget.dataset.cont).style.display =
-      "block";
-  });
-});
-
 // top button
 
 let span = document.querySelector(".up");
@@ -54,7 +30,7 @@ function myFunction() {
 
 // CountDown
 // Set the date we're counting down to
-var countDownDate = new Date("jun 5, 2023 9:00:00").getTime();
+var countDownDate = new Date("jun 19, 2023 9:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {
@@ -98,10 +74,27 @@ dark.addEventListener("click", function darkMode() {
   dark.classList.toggle("active");
   darkBody.classList.toggle("dark");
   darkContent.classList.toggle("dark");
-  darkArabic.forEach((e) => {
-    e.classList.toggle("dark");
-  });
-  darkFr.forEach((ev) => {
-    ev.classList.toggle("dark");
-  });
 });
+
+// dropdown
+
+/* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+const btn = document.querySelector(".dropbtn");
+
+btn.addEventListener("click", function () {
+  document.getElementById("myDropdown").classList.toggle("show");
+});
+// Close the dropdown menu if the user clicks outside of it
+window.onclick = function (event) {
+  if (!event.target.matches(".dropbtn")) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains("show")) {
+        openDropdown.classList.remove("show");
+      }
+    }
+  }
+};

@@ -13,6 +13,7 @@ body {
   font-family: "Cairo", sans-serif;
   scroll-behavior: smooth;
 }
+
 body.dark {
   background-color: #23272f;
 }
@@ -31,7 +32,7 @@ a {
 header {
   position: relative;
   height: 450px;
-  background-image: url("../images/orale-1.jpg");
+  background-image: url("../images/cri.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -61,7 +62,6 @@ header .mode {
 header .mode.active {
   background-color: var(--main-color);
 }
-
 header a i {
   position: absolute;
   z-index: 10;
@@ -92,10 +92,12 @@ header .info {
 }
 
 header .info h1 {
+  color: #fff;
   font-size: 50px;
   text-align: center;
   margin: 0;
 }
+
 header .info h1 a {
   color: #fff;
 }
@@ -113,13 +115,10 @@ header .info h1 a {
   background-color: #04aa6de0;
   color: #fff;
   margin-bottom: 20px;
-  padding: 20px;
+  padding: 10px;
   border-radius: 10px;
   font-size: 20px;
-}
-
-.heading span {
-  line-height: 1.5;
+  line-height: 1.2;
 }
 @media (max-width: 650px) {
   .heading {
@@ -314,8 +313,7 @@ footer a h4 span {
   color: #fff;
 }
 
-.content .box p.fr,
-.content p.fr {
+.content .box p.fr {
   position: relative;
   font-family: "Roboto", sans-serif;
   background-color: #fff;
@@ -327,7 +325,20 @@ footer a h4 span {
   margin-bottom: 20px;
 }
 
-.content p.ar {
+p.fr {
+  position: relative;
+  font-family: "Roboto", sans-serif;
+  background-color: #fff;
+  color: #000;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+.content p.ar,
+p.ar {
   position: relative;
   font-family: "Cairo", sans-serif;
   background-color: var(--ar-color);
@@ -337,20 +348,25 @@ footer a h4 span {
   font-weight: 600;
 }
 
-.content p:not(:last-child) {
+.content p:not(:last-child),
+p:not(:last-child) {
   margin-bottom: 30px;
 }
 .content p.fr,
-.content p.ar {
+.content p.ar,
+p.fr,
+p.ar {
   font-size: 20px;
   line-height: 2;
 }
 
-.content p.ar {
+.content p.ar,
+p.ar {
   direction: rtl;
 }
 
-.content p.ar::before {
+.content p.ar::before,
+p.ar::before {
   content: "";
   position: absolute;
   border-width: 20px;
@@ -365,7 +381,7 @@ footer a h4 span {
   background-color: #23272f;
 }
 
-.box p.fr.dark,
+.content p.fr.dark,
 p.fr.dark {
   background-color: #16181d;
   color: #fff;
@@ -380,101 +396,6 @@ p.ar.dark::before {
 }
 
 /* End Content */
-
-.trad-new {
-  background-image: url(../images/back.jpg);
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin: 10px auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 15px;
-  border: 2px solid var(--main-color);
-  border-radius: 20px;
-  width: 100%;
-  height: 320px;
-  position: relative;
-  overflow: hidden;
-}
-
-.trad-new .infor {
-  z-index: 100;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-
-.trad-new .spar {
-  margin: 0 0 15px;
-  color: #fff;
-}
-
-.trad-new .book {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 90px;
-  height: 90px;
-  background-color: #04aa6d;
-  color: #fff;
-  border-radius: 50%;
-}
-
-.trad-new a {
-  margin-top: 40px;
-}
-.trad-new a h3 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 30px;
-  font-weight: bold;
-  margin-top: 20px;
-  width: 260px;
-  height: 60px;
-  border: 2px solid #04aa6d;
-  background-color: #04aa6d;
-  color: #fff;
-  border-radius: 120px;
-  letter-spacing: 1px;
-  transition: 0.3s;
-}
-
-.trad-new a h3:hover {
-  opacity: 0.8;
-}
-
-@media (max-width: 686px) {
-  .trad-new a h3 {
-    width: 230px;
-    font-size: 25px;
-  }
-}
-
-.go-down {
-  color: var(--main-color);
-  margin: 30px 0;
-  position: absolute;
-  top: 49%;
-  left: 50%;
-  transform: translateX(-50%);
-  transition: var(--main-transition);
-  cursor: pointer;
-  color: #fff;
-  transition: 0.3s;
-}
-
-.go-down:hover {
-  color: black;
-}
-
-.go-down i {
-  animation: bouncing 1.5s infinite;
-}
 
 .info {
   display: flex;
@@ -494,25 +415,6 @@ p.ar.dark::before {
   color: #fff;
   border-radius: 50%;
 }
-
-/* Start Animation */
-@keyframes bouncing {
-  0%,
-  10%,
-  20%,
-  50%,
-  80%,
-  100% {
-    transform: translateY(0);
-  }
-
-  40%,
-  60% {
-    transform: translateY(-15px);
-  }
-}
-
-/* End Animation */
 
 .par {
   text-align: center;
@@ -566,4 +468,12 @@ p.ar.dark::before {
 
 .unit:hover span:last-of-type {
   border-color: var(--main-color);
+}
+
+h3 span {
+  display: block;
+  direction: rtl;
+  padding: 5px;
+  line-height: 1.5;
+  font-size: 20px;
 }
