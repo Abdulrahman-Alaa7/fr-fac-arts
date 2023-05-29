@@ -1,33 +1,3 @@
-// top button
-
-let span = document.querySelector(".up");
-
-window.onscroll = function () {
-  myFunction();
-
-  this.scrollY >= 400
-    ? span.classList.add("show")
-    : span.classList.remove("show");
-};
-
-span.onclick = function () {
-  window.scrollTo({
-    top: 0,
-    behavior: "smooth",
-  });
-};
-
-// Scroll Progress
-
-function myFunction() {
-  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-  var height =
-    document.documentElement.scrollHeight -
-    document.documentElement.clientHeight;
-  var scrolled = (winScroll / height) * 100;
-  document.getElementById("myBar").style.width = scrolled + "%";
-}
-
 // CountDown
 // Set the date we're counting down to
 var countDownDate = new Date("jun 19, 2023 9:00:00").getTime();
