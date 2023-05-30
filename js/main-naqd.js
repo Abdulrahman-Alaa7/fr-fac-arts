@@ -94,14 +94,43 @@ const darkContent = document.querySelector(".content");
 const darkArabic = document.querySelectorAll(".ar");
 const darkFr = document.querySelectorAll(".fr");
 
-dark.addEventListener("click", function darkMode() {
-  dark.classList.toggle("active");
-  darkBody.classList.toggle("dark");
-  darkContent.classList.toggle("dark");
+let darkMode = localStorage.getItem("dark-mode");
+
+const enableDarkMode = () => {
+  dark.classList.add("active");
+  darkBody.classList.add("dark");
+  darkContent.classList.add("dark");
   darkArabic.forEach((e) => {
-    e.classList.toggle("dark");
+    e.classList.add("dark");
   });
   darkFr.forEach((ev) => {
-    ev.classList.toggle("dark");
+    ev.classList.add("dark");
   });
+  localStorage.setItem("dark-mode", "enabled");
+};
+
+const disableDarkMode = () => {
+  dark.classList.remove("active");
+  darkBody.classList.remove("dark");
+  darkContent.classList.remove("dark");
+  darkArabic.forEach((e) => {
+    e.classList.remove("dark");
+  });
+  darkFr.forEach((ev) => {
+    ev.classList.remove("dark");
+  });
+  localStorage.setItem("dark-mode", "disabled");
+};
+
+if (darkMode === "enabled") {
+  enableDarkMode(); // set state of darkMode on page load
+}
+
+dark.addEventListener("click", function () {
+  darkMode = localStorage.getItem("dark-mode"); // update darkMode when clicked
+  if (darkMode === "disabled") {
+    enableDarkMode();
+  } else {
+    disableDarkMode();
+  }
 });

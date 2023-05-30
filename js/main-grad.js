@@ -64,12 +64,41 @@ var x = setInterval(function () {
 
 // Setting Dark Mode
 
+// const darkBody = document.body;
+// const dark = document.querySelector(".mode");
+
+// dark.addEventListener("click", function darkMode() {
+//   dark.classList.toggle("active");
+//   darkBody.classList.toggle("dark");
+// });
+
 const darkBody = document.body;
 const dark = document.querySelector(".mode");
+let darkMode = localStorage.getItem("dark-mode");
 
-dark.addEventListener("click", function darkMode() {
-  dark.classList.toggle("active");
-  darkBody.classList.toggle("dark");
+const enableDarkMode = () => {
+  dark.classList.add("active");
+  darkBody.classList.add("dark");
+  localStorage.setItem("dark-mode", "enabled");
+};
+
+const disableDarkMode = () => {
+  dark.classList.remove("active");
+  darkBody.classList.remove("dark");
+  localStorage.setItem("dark-mode", "disabled");
+};
+
+if (darkMode === "enabled") {
+  enableDarkMode(); // set state of darkMode on page load
+}
+
+dark.addEventListener("click", function () {
+  darkMode = localStorage.getItem("dark-mode"); // update darkMode when clicked
+  if (darkMode === "disabled") {
+    enableDarkMode();
+  } else {
+    disableDarkMode();
+  }
 });
 
 // Start Gallery Section
