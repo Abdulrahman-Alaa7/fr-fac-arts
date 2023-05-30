@@ -387,6 +387,7 @@ p.ar::before {
   border-right: 10px solid transparent;
   top: 0;
   right: -10px;
+  border-radius: 10px;
 }
 
 .content p.ar:before {
@@ -399,6 +400,7 @@ p.ar::before {
   border-right: 11px solid transparent;
   top: 0px;
   right: -10px;
+  border-radius: 10px;
 }
 .content p.fr:after {
   content: "";
@@ -410,6 +412,7 @@ p.ar::before {
   border-right: 10px solid transparent;
   top: 0;
   left: -10px;
+  border-radius: 10px;
 }
 
 .content p.fr:before {
@@ -422,6 +425,7 @@ p.ar::before {
   border-right: 11px solid transparent;
   top: 0px;
   left: -10px;
+  border-radius: 10px;
 }
 .content.dark {
   background-color: #23272f;
