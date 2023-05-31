@@ -12,6 +12,7 @@ let countDown = document.querySelector(".countdown");
 let currentIndex = 0;
 let rightAnswers = 0;
 let countdownInterval;
+let num = 1;
 
 function getQuestions() {
   let myRequest = new XMLHttpRequest();
@@ -30,16 +31,28 @@ function getQuestions() {
       //Start Count Down
       // counDown(5, questionCount);
 
+      const btnRightAns = document.querySelector(".right-ans");
+      let theAns = document.querySelector(".the-answer h3");
+      btnRightAns.onclick = () => {
+        let theAnswer = myObjectJs[currentIndex].right_answer;
+        let thea = document.createTextNode(theAnswer);
+        theAns.appendChild(thea);
+        theAns.style.display = "block";
+        btnRightAns.disabled = true;
+      };
+
       //Click On Submit
       submitButton.onclick = () => {
         //Get Right Answer
         let theRightAnswer = myObjectJs[currentIndex].right_answer;
-
         //Increase Index
         currentIndex++;
         //Cheack The Answer
         cheackAnswer(theRightAnswer, questionCount);
         //Remove Privious Question
+        btnRightAns.disabled = false;
+        theAns.style.display = "none";
+        theAns.innerHTML = "";
         quizArea.innerHTML = "";
         answersArea.innerHTML = "";
 
@@ -52,6 +65,7 @@ function getQuestions() {
         // counDown(5, questionCount);
         //Show Resaults
         showResaults(questionCount);
+        let num = num++;
       };
     }
   };
@@ -81,13 +95,16 @@ function addQuestionData(obj, count) {
   if (currentIndex < count) {
     //Create H2 Question Title
     let questionTitle = document.createElement("h2");
+
     //Create Question Text
-    let questionText = document.createTextNode(obj.title);
+    let questionText = document.createTextNode(`${num++}- ${obj.title}`);
+
     //Append Text To H2
     questionTitle.appendChild(questionText);
     //Append H2 To The Quiz Area
     quizArea.appendChild(questionTitle);
     //Create The Answers
+
     for (let i = 1; i <= 3; i++) {
       //Create Main Answers Div
       let mainDiv = document.createElement("div");
@@ -102,7 +119,7 @@ function addQuestionData(obj, count) {
       radioInput.dataset.answer = obj[`answer_${i}`];
       //Make First Option Selected / 'Cheacked'
       if (i === 1) {
-        radioInput.checked = true;
+        radioInput.checked = false;
       }
       //Create Label
       let theLabel = document.createElement("label");
