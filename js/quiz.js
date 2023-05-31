@@ -12,7 +12,7 @@ let countDown = document.querySelector(".countdown");
 let currentIndex = 0;
 let rightAnswers = 0;
 let countdownInterval;
-let num = 1;
+let number = 1;
 
 function getQuestions() {
   let myRequest = new XMLHttpRequest();
@@ -65,7 +65,7 @@ function getQuestions() {
         // counDown(5, questionCount);
         //Show Resaults
         showResaults(questionCount);
-        let num = num++;
+        number = number++;
       };
     }
   };
@@ -97,7 +97,7 @@ function addQuestionData(obj, count) {
     let questionTitle = document.createElement("h2");
 
     //Create Question Text
-    let questionText = document.createTextNode(`${num++}- ${obj.title}`);
+    let questionText = document.createTextNode(`${number++}- ${obj.title}`);
 
     //Append Text To H2
     questionTitle.appendChild(questionText);
@@ -119,7 +119,7 @@ function addQuestionData(obj, count) {
       radioInput.dataset.answer = obj[`answer_${i}`];
       //Make First Option Selected / 'Cheacked'
       if (i === 1) {
-        radioInput.checked = false;
+        radioInput.checked = true;
       }
       //Create Label
       let theLabel = document.createElement("label");
