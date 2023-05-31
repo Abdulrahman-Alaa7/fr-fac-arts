@@ -8,6 +8,8 @@ let answersArea = document.querySelector(".answers-area");
 let submitButton = document.querySelector(".submit-button");
 let finalyResault = document.querySelector(".results");
 let countDown = document.querySelector(".countdown");
+const btnRightAns = document.querySelector(".right-ans");
+
 //Set Options
 let currentIndex = 0;
 let rightAnswers = 0;
@@ -31,7 +33,6 @@ function getQuestions() {
       //Start Count Down
       // counDown(5, questionCount);
 
-      const btnRightAns = document.querySelector(".right-ans");
       let theAns = document.querySelector(".the-answer h3");
       btnRightAns.onclick = () => {
         let theAnswer = myObjectJs[currentIndex].right_answer;
@@ -180,6 +181,7 @@ function showResaults(count) {
       theResault = `<span class="bad">Bad</span>, ${rightAnswers} From ${count}`;
     }
 
+    btnRightAns.style.display = "none";
     finalyResault.innerHTML = theResault;
     finalyResault.style.padding = "10px";
     finalyResault.style.backgroundColor = "white";
