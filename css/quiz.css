@@ -320,6 +320,7 @@ footer a h4 span {
   position: relative;
   top: -1px;
   text-transform: capitalize;
+  display: block;
 }
 
 .quiz-app .submit-button {
