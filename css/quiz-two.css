@@ -226,6 +226,16 @@ footer a h4 span {
   border-radius: 16px;
   margin: 0 auto;
 }
+@media (max-width: 767px) {
+  .category {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  .count {
+    font-size: 14px;
+    font-weight: bold;
+  }
+}
 
 /* End */
 .quiz-app {
@@ -250,7 +260,7 @@ footer a h4 span {
 }
 .quiz-app .quiz-info.dark .category,
 .quiz-app .quiz-info.dark .count {
-  color: #fff;
+  color: var(--main-color);
 }
 
 @media (max-width: 767px) {
@@ -312,6 +322,7 @@ footer a h4 span {
 }
 
 .quiz-app .answers-area .answer label {
+  display: block;
   cursor: pointer;
   font-weight: bold;
   font-size: 18px;
