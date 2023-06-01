@@ -347,7 +347,7 @@ footer a h4 span {
 
 .right-ans {
   display: block;
-  background-color: #e50914;
+  background-color: #d42121;
   width: 300px;
   padding: 10px;
   border: none;
@@ -440,6 +440,6 @@ footer a h4 span {
   font-size: 20px;
   font-weight: normal;
   border-radius: 10px;
-  background-color: #e50914;
+  background-color: #d42121;
   text-transform: capitalize;
 }
