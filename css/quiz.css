@@ -250,7 +250,7 @@ footer a h4 span {
 }
 .quiz-app .quiz-info.dark .category,
 .quiz-app .quiz-info.dark .count {
-  color: #fff;
+  color: var(--main-color);
 }
 
 @media (max-width: 767px) {
