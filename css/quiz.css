@@ -274,7 +274,6 @@ footer a h4 span {
   margin: 0;
   line-height: 1.5;
   font-weight: 600;
-  text-transform: capitalize;
 }
 .quiz-app .answers-area {
   background-color: #fff;
@@ -442,4 +441,5 @@ footer a h4 span {
   font-weight: normal;
   border-radius: 10px;
   background-color: #e50914;
+  text-transform: capitalize;
 }
