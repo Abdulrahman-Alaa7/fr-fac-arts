@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.error {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  width: 800px;
+  margin: 20px auto;
+  max-width: 100%;
+  padding: 10px;
+}
+.error h1 {
+  font-size: 50px;
+  z-index: 3;
+}
+
+.error .main {
+  line-height: 1.5;
+  color: #444;
+  font-size: 26px;
+  z-index: 3;
+}
+
+.error .con {
+  font-size: 22px;
+  color: #666;
+  line-height: 1.2;
+  z-index: 3;
+}
+
+.error .er {
+  color: #666;
+  font-size: 25px;
+  z-index: 3;
+}
+
+.error .er span {
+  font-weight: bold;
+}
+
+img {
+  width: 250px;
+  height: 350px;
+  user-select: none;
+}
+
+@media (max-width: 767px) {
+  .error h1 {
+    font-size: 50px;
+  }
+
+  .error .main {
+    line-height: 1.5;
+    color: #444;
+    font-size: 18px;
+  }
+
+  .error .con {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+  }
+
+  .error .er {
+    color: #666;
+    font-size: 22px;
+  }
+
+  .error .er span {
+    font-weight: bold;
+  }
+}
+
+.overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0 0 0 / 0%);
+  z-index: 2;
+}
