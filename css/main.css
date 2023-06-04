@@ -680,3 +680,43 @@ p.ar.dark::before {
 .trad-new.drop a:not(:first-child) {
   border-top: 1px solid #343a46;
 }
+
+.pont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 600px;
+  margin: 10px auto 20px auto;
+  border-radius: 10px;
+}
+
+@media (max-width: 665px) {
+  .pont {
+    width: 100%;
+  }
+}
+
+.desc {
+  position: relative;
+  font-size: 18px;
+  background-color: var(--main-color);
+  padding: 10px;
+  border-radius: 10px;
+  color: #fff;
+  text-align: center;
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.desc::after {
+  content: "";
+  position: absolute;
+  border-width: 15px;
+  border-color: var(--main-color) transparent transparent transparent;
+  border-style: solid;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -25px;
+}
