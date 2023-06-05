@@ -175,7 +175,7 @@ function showResaults(count) {
 
     if (rightAnswers > count / 2 && rightAnswers < count) {
       theResault = `<div > <span class="good ">Good</span> <h6 class="num"> ${rightAnswers} From ${count} </h6> 
-                                  <img src ="/images/con.gif" alt="con" class="img-a"/>
+                                  <img src ="/images/good.gif" alt="con" class="img-a"/>
 
                    </div>`;
     } else if (rightAnswers === count) {
