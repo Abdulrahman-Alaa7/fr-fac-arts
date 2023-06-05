@@ -229,6 +229,34 @@ footer a h4 span {
   color: #fff;
 }
 
+.tabs a.al {
+  width: 49%;
+  height: 50px;
+  padding: 10px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.2s;
+  border-radius: 8px;
+}
+
+.tabs a.al:hover {
+  background-color: var(--main-color);
+}
+.tabs a.al h3 {
+  color: #fff;
+}
+
+@media (max-width: 757px) {
+  .tabs a.al {
+    width: 100%;
+  }
+}
+
 /* Start */
 .up {
   position: fixed;

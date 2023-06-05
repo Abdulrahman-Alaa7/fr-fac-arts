@@ -1,0 +1,135 @@
+[
+  {
+    "title": "En français, il est toujours besoin d'utiliser des coordonnants car la juxtaposition peut assurer la continuité sémantique. ",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "En  la langue arabe, il n'est pas toujours besoin de coordonner les propositions.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "La phrase (Ahmed a été malade, il est allé consulter un médecin) est Incorrect en français.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "On doit nécessairement ajouter la particule (ف) qui exprime, dans ce contexte, le rapport de conséquence).",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Les particules de reprise (y) en arabe, sont également nécessaires pour assurer au texte sa cohérence et sa cohésion.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "............., si importante en français, n'a pas le même statut en arabe.",
+    "answer_1": "La rédaction",
+    "answer_2": "La transposition",
+    "answer_3": "La ponctuation",
+    "right_answer": "La ponctuation"
+  },
+  {
+    "title": " Les textes arabes très anciens étaient ponctués.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": " L'utilisation des majuscules peut fonctionner comme moyens d'exprimer les jugements et la subjectivité de l'auteur.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Il est toujours aisé de traduire des effets de la majuscule en arabe.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "La majuscule marque le respect et la déférence.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Les majuscules peuvent aussi indiquer que ces noms doivent être compris dans des acceptions particulières.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Théoriquement, il y a trois(temps) principaux en langue arabe.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "L'accompli qui équivaut au présent et au futur",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "L'inaccompli  qui équivaut au passé.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": " L'inaccompli et (ليس - لا – ما)placé après les particules de négations ( لام الابتداء للتأكيد) après la particule de renforcement exprime le sens du présent.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "L'inaccompli a le sens du futur après les adverbes d'interrogation( أ - هل ), la particule négative (لن ), les particules ( س - سوف ) la particule de doute (قد ) et toute autre expression marquant le futur.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "L'inaccompli  a le sens du passé simple ou du passé composé après la particule négative (لم ), et a le sens de l'imparfait après le verbe défectif (كان ).",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": ".................... : traduction du sens se focaliser sur la forme.",
+    "answer_1": "La rédaction",
+    "answer_2": "La transposition",
+    "answer_3": "La ponctuation",
+    "right_answer": "La transposition"
+  },
+  {
+    "title": ".................... : reformulation des phrases pour améliorer le style.",
+    "answer_1": "La rédaction",
+    "answer_2": "La transposition",
+    "answer_3": "La ponctuation",
+    "right_answer": "La rédaction"
+  }
+]
