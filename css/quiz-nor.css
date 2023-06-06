@@ -233,6 +233,7 @@ footer a h4 span {
 .count-two {
   background-color: #ff000026;
   color: var(--main-color);
+  font-size: 15px;
   width: fit-content;
   padding: 10px 20px;
   border-radius: 10px;
@@ -242,10 +243,9 @@ footer a h4 span {
   direction: rtl;
   display: block;
   color: #e50914;
-  font-size: 15px;
 }
 
-.quiz-info.dark .count-two {
+.quiz-app.dark .count-two {
   color: #fff;
 }
 /* End */
@@ -292,7 +292,7 @@ footer a h4 span {
   margin: 0;
   line-height: 1.5;
   font-weight: 600;
-  direction: rtl;
+  direction: ltr;
 }
 .quiz-app .answers-area {
   background-color: #fff;
@@ -398,10 +398,11 @@ footer a h4 span {
 }
 
 .the-answer h3 {
-  background-color: #ff000026;
   display: none;
+  background-color: #ff000026;
   text-align: center;
   margin: 10px auto;
+  color: #fff;
   width: fit-content;
   padding: 10px;
   font-size: 20px;
@@ -409,6 +410,10 @@ footer a h4 span {
   border-radius: 10px;
   line-height: 2;
   color: #e50914;
+}
+
+.quiz-app.dark .the-answer h3 {
+  color: #fff;
 }
 
 .answer-input {
@@ -421,10 +426,10 @@ footer a h4 span {
   border: 1px solid #ccc;
   font-family: "Roboto", "Cairo";
   line-height: 1.5;
-  letter-spacing: 1px;
   border-radius: 20px;
   min-height: 250px;
   transition: 0.3s;
+  direction: rtl;
 }
 
 textarea:focus {
@@ -439,13 +444,9 @@ textarea:focus::placeholder {
   text-align: center;
   background-color: #f00;
   color: #fff;
-  border-radius: 8px;
+  border-radius: 10px;
   padding: 10px;
+  font-size: 14px;
   width: fit-content;
   margin: 10px auto;
-  font-size: 14px;
-}
-
-.quiz-app.dark .the-answer h3 {
-  color: #fff;
 }
