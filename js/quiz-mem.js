@@ -10,6 +10,7 @@ const btnRightAns = document.querySelector(".right-ans");
 const myInput = document.querySelector(".answer-input");
 const val = document.querySelector("textarea").value;
 const wrong = document.querySelector(".wrong-answer");
+const countTwo = document.querySelector(".count-two");
 
 //Set Options
 let currentIndex = 0;
@@ -123,6 +124,7 @@ function showResaults(count) {
     submitButton.remove();
     bullets.remove();
     myInput.remove();
+    countTwo.remove();
 
     if (rightAnswers > count / 2 && rightAnswers < count) {
       theResault = `<div > <span class="good ">Good</span> <h6 class="num"> ${rightAnswers} From ${count} </h6> 
