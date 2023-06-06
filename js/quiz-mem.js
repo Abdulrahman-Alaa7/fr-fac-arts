@@ -88,7 +88,6 @@ function getQuestions() {
           showResaults(questionCount);
           number = number++;
         } else {
-          myInput.value = "";
           wrong.style.display = "block";
         }
       };
