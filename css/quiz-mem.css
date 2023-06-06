@@ -297,7 +297,7 @@ footer a h4 span {
 .quiz-app .answers-area {
   background-color: #fff;
   padding: 0 20px 20px;
-  border-radius: 0px 0px 10px 10px;
+  border-radius: 0 0 0 0;
 }
 .quiz-app .answers-area.dark {
   background-color: #16181d;
@@ -417,16 +417,30 @@ footer a h4 span {
   padding: 20px;
   resize: none;
   border: none;
-  background-color: #f8f8f8;
+  background-color: #cccccc73;
   border: 1px solid #ccc;
   font-family: "Roboto", "Cairo";
   line-height: 1.5;
   letter-spacing: 1px;
-  border-radius: 20px;
+  border-radius: 0px 0px 20px 20px;
   min-height: 250px;
   transition: 0.3s;
+  color: #16181d;
 }
 
+.quiz-app.dark textarea {
+  color: #fff;
+  background-color: #23272f;
+  border: #000;
+}
+.quiz-app.dark textarea::placeholder {
+  color: #fff;
+}
+
+textarea::placeholder {
+  color: #16181ddd;
+  transition: opacity 0.3s;
+}
 textarea:focus {
   outline: none;
 }

@@ -419,6 +419,7 @@ footer a h4 span {
   padding: 20px;
   resize: none;
   border: none;
+  background-color: #cccccc73;
   border: 1px solid #ccc;
   font-family: "Roboto", "Cairo";
   line-height: 1.5;
@@ -426,8 +427,13 @@ footer a h4 span {
   border-radius: 20px;
   min-height: 250px;
   transition: 0.3s;
+  color: #16181d;
 }
 
+textarea::placeholder {
+  color: #16181ddd;
+  transition: opacity 0.3s;
+}
 textarea:focus {
   outline: none;
   background-color: #f8f8f8;
