@@ -51,13 +51,13 @@ function getQuestions() {
         let theRightAnswer = myObjectJs[currentIndex].right_answer;
         const ans = theRightAnswer;
         const ans1 = ans.replace(".", " ");
-        const ans2 = ans1.replace(" : ", " ");
+        const ans2 = ans1.toLowerCase();
         const ans3 = ans2.replace("  ", " ");
         const ans4 = ans3.replace("   ", " ");
         const ans5 = ans4.trim();
         const val = document.querySelector("textarea").value;
         const val2 = val.replace(".", " ");
-        const val3 = val2.replace(" : ", " ");
+        const val3 = val2.toLowerCase();
         const val4 = val3.replace("  ", " ");
         const val5 = val4.replace("   ", " ");
         const val6 = val5.trim();
