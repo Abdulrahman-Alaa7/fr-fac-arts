@@ -220,7 +220,7 @@ footer a h4 span {
     padding: 10px;
   }
   .tabs li {
-    width: 100%;
+    width: 48%;
   }
 }
 .tabs li.active,
@@ -253,7 +253,8 @@ footer a h4 span {
 
 @media (max-width: 757px) {
   .tabs a.al {
-    width: 100%;
+    width: 48%;
+    font-size: 12px;
   }
 }
 

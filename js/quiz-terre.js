@@ -1,5 +1,3 @@
-//Select Elements
-
 let countSpan = document.querySelector(".quiz-app .count span");
 let bullets = document.querySelector(".bullets");
 let spansBullets = document.querySelector(".bullets .spans");
@@ -9,6 +7,9 @@ let submitButton = document.querySelector(".submit-button");
 let finalyResault = document.querySelector(".results");
 let countDown = document.querySelector(".countdown");
 const btnRightAns = document.querySelector(".right-ans");
+const myInput = document.querySelector(".answer-input");
+const val = document.querySelector("textarea").value;
+const wrong = document.querySelector(".wrong-answer");
 
 //Set Options
 let currentIndex = 0;
@@ -25,7 +26,7 @@ function getQuestions() {
       let questionCount = myObjectJs.length;
 
       //Create Bullets + Set Question Count
-      createBullets(questionCount);
+      // createBullets(questionCount);
 
       //Add Question Data
       addQuestionData(myObjectJs[currentIndex], questionCount);
@@ -42,55 +43,62 @@ function getQuestions() {
         btnRightAns.disabled = true;
       };
 
+      // New
+
       //Click On Submit
       submitButton.onclick = () => {
-        //Get Right Answer
         let theRightAnswer = myObjectJs[currentIndex].right_answer;
-        //Increase Index
-        currentIndex++;
-        //Cheack The Answer
-        cheackAnswer(theRightAnswer, questionCount);
-        //Remove Privious Question
-        btnRightAns.disabled = false;
-        theAns.style.display = "none";
-        theAns.innerHTML = "";
-        quizArea.innerHTML = "";
-        answersArea.innerHTML = "";
+        const ans = theRightAnswer;
+        const ans1 = ans.replace(".", " ");
+        const ans2 = ans1.replace(" : ", " ");
+        const ans3 = ans2.replace("  ", " ");
+        const ans4 = ans3.replace("   ", " ");
+        const ans5 = ans4.trim();
+        const val = document.querySelector("textarea").value;
+        const val2 = val.replace(".", " ");
+        const val3 = val2.replace(" : ", " ");
+        const val4 = val3.replace("  ", " ");
+        const val5 = val4.replace("   ", " ");
+        const val6 = val5.trim();
 
-        //Add Question Data Again To Continue
-        addQuestionData(myObjectJs[currentIndex], questionCount);
-        // Handle Bullets Classes
-        // handleBullets();
-        //Start Count Down Again
-        clearInterval(countdownInterval);
-        // counDown(5, questionCount);
-        //Show Resaults
-        showResaults(questionCount);
-        number = number++;
+        if (ans5.toLowerCase() === val6.toLowerCase()) {
+          //Get Right Answer
+          //Increase Index
+          currentIndex++;
+          //Cheack The Answer
+          // cheackAnswer(theRightAnswer, questionCount);
+          //Remove Privious Question
+          btnRightAns.disabled = false;
+          theAns.style.display = "none";
+          wrong.style.display = "none";
+          theAns.innerHTML = "";
+          quizArea.innerHTML = "";
+          answersArea.innerHTML = "";
+          myInput.value = "";
+
+          //Add Question Data Again To Continue
+          addQuestionData(myObjectJs[currentIndex], questionCount);
+          rightAnswers++;
+          // Handle Bullets Classes
+          // handleBullets();
+          //Start Count Down Again
+          clearInterval(countdownInterval);
+          // counDown(5, questionCount);
+          //Show Resaults
+          showResaults(questionCount);
+          number = number++;
+        } else {
+          myInput.value = "";
+          wrong.style.display = "block";
+        }
       };
     }
   };
 
-  myRequest.open("Get", "/database/quiz-mcq.json", true);
+  myRequest.open("Get", "/database/quiz-terre.json", true);
   myRequest.send();
 }
 getQuestions();
-
-function createBullets(num) {
-  countSpan.innerHTML = num;
-
-  //Create Spans
-  for (let i = 0; i < num; i++) {
-    //Create Bullets
-    let theBullet = document.createElement("span");
-    //Cheack if First Span
-    if (i === 0) {
-      theBullet.className = "on";
-    }
-    //Append Bullets To Main Bullets Container
-    spansBullets.appendChild(theBullet);
-  }
-}
 
 function addQuestionData(obj, count) {
   if (currentIndex < count) {
@@ -105,65 +113,8 @@ function addQuestionData(obj, count) {
     //Append H2 To The Quiz Area
     quizArea.appendChild(questionTitle);
     //Create The Answers
-
-    for (let i = 1; i <= 3; i++) {
-      //Create Main Answers Div
-      let mainDiv = document.createElement("div");
-      //Add Class To Main Div
-      mainDiv.className = "answer";
-      //Creat Input Radio
-      let radioInput = document.createElement("input");
-      // Add Type + Name + Id + Data Attribute To My Input
-      radioInput.name = "question";
-      radioInput.type = "radio";
-      radioInput.id = `answer_${i}`;
-      radioInput.dataset.answer = obj[`answer_${i}`];
-      //Make First Option Selected / 'Cheacked'
-      if (i === 1) {
-        radioInput.checked = true;
-      }
-      //Create Label
-      let theLabel = document.createElement("label");
-      // Add For Attribute
-      theLabel.htmlFor = `answer_${i}`;
-      //Create Label Text
-      let labelText = document.createTextNode(obj[`answer_${i}`]);
-      //Add The Text To Label
-      theLabel.appendChild(labelText);
-      //Add Input To MainDiv
-      mainDiv.appendChild(radioInput);
-      //Add Label To MainDiv
-      mainDiv.appendChild(theLabel);
-      //Add MainDiv To Answers Area
-      answersArea.appendChild(mainDiv);
-    }
   }
 }
-
-function cheackAnswer(rAnswer, count) {
-  let answers = document.getElementsByName("question");
-  let theChossenAnswer;
-
-  for (let i = 0; i < answers.length; i++) {
-    if (answers[i].checked) {
-      theChossenAnswer = answers[i].dataset.answer;
-    }
-  }
-
-  if (rAnswer === theChossenAnswer) {
-    rightAnswers++;
-  }
-}
-
-// function handleBullets() {
-//   let bulletsSpans = document.querySelectorAll(".bullets .spans span ");
-//   let arrayOfSpan = Array.from(bulletsSpans);
-//   arrayOfSpan.forEach((span, index) => {
-//     if (currentIndex === index) {
-//       span.className = "on";
-//     }
-//   });
-// }
 
 function showResaults(count) {
   let theResault;
@@ -172,6 +123,7 @@ function showResaults(count) {
     answersArea.remove();
     submitButton.remove();
     bullets.remove();
+    myInput.remove();
 
     if (rightAnswers > count / 2 && rightAnswers < count) {
       theResault = `<div > <span class="good ">Good</span> <h6 class="num"> ${rightAnswers} From ${count} </h6> 
@@ -196,35 +148,6 @@ function showResaults(count) {
     finalyResault.style.marginTop = "10px";
   }
 }
-
-// function counDown(duration, count) {
-//   if (currentIndex < count) {
-//     let minutes, seconds;
-//     countdownInterval = setInterval(() => {
-//       minutes = parseInt(duration / 60);
-//       seconds = parseInt(duration % 60);
-
-//       //Optmise Minutes And Secons "01:02" When Less Than Ten'10'
-//       minutes = minutes < 10 ? `0${minutes}` : minutes;
-//       seconds = seconds < 10 ? `0${seconds}` : seconds;
-
-//       countDown.innerHTML = `${minutes}:${seconds}`;
-
-//       if (--duration < 0) {
-//         clearInterval(countdownInterval);
-//         submitButton.click();
-//       }
-//     }, 1000);
-//   }
-// }
-
-// //   {
-//     "title": "",
-//     "answer_1": "",
-//     "answer_2": "",
-//     "answer_3": "",
-//     "right_answer": ""
-//   },
 
 // Setting Dark Mode
 
