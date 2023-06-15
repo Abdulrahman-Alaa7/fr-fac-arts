@@ -1,0 +1,782 @@
+[
+  {
+    "title": " Œil pour œil, dent pour dent. Gradation ascendante?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": " Et moi, je suis semblable à la feuille flétrie.",
+    "answer_1": "Personnification",
+    "answer_2": "Métonymie",
+    "answer_3": "Comparaison",
+    "right_answer": "Comparaison"
+  },
+  {
+    "title": "......................est un cas particulier de l’antithèse, il réunit à l’intérieur de la même expression deux mots dont les significations sont apparemment incompatibles.",
+    "answer_1": "L’oxymore",
+    "answer_2": "L’hyperbole",
+    "answer_3": "L’antithèse ",
+    "right_answer": "L’oxymore"
+  },
+  {
+    "title": "La fonction de narrative dont le narrateur organise le récit en choisissant de raconter l’histoire dans l’ordre ou en brouillant la succession événementielle, retour en arrière, sauts en avant, ellipses.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "..................est une image qui met en parallèle deux termes possédant la même caractéristique.",
+    "answer_1": "La Personnification",
+    "answer_2": "La métonymie",
+    "answer_3": "La métaphore",
+    "right_answer": "La métaphore"
+  },
+  {
+    "title": "....................oppose deux mots de sens contraires à l’intérieur d’une phrase ou d’un paragraphe pour produire un effet de contraste.",
+    "answer_1": "L’oxymore",
+    "answer_2": "L’hyperbole",
+    "answer_3": "L’antithèse ",
+    "right_answer": "L’antithèse "
+  },
+  {
+    "title": "Dans Jacques le fataliste, le narrateur s’adresse directement à son lecteur.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Dans la chambre d’Emily, la plume dort d’un profond sommeil, en rêvant des mots qu’il lui reste à écrire.",
+    "answer_1": "Le chiasme",
+    "answer_2": "La personnification ",
+    "answer_3": "La parallélisme",
+    "right_answer": "La personnification "
+  },
+  {
+    "title": " J’aimerais mieux une laide bien sotte Qu’une femme fort belle avec beaucoup d’esprit. L’oxymore?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": " La balance est symbole de la justice, que la colombe symbolise la paix, l’oiseau la liberté, la couleur rouge la violence.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Le narrateur effacé dans Le Père Goriot de Balzac est Homodiégétique.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "Il succomba vivant, et mort, il m’assassine.",
+    "answer_1": "Le parallélisme",
+    "answer_2": "Le chiasme",
+    "answer_3": "L’antithèse",
+    "right_answer": "Le chiasme"
+  },
+  {
+    "title": "Dans le registre comique il s’agit souvent d’une situation et une atmosphère pesantes, d’un accomplissement d’un destin fatal comme celui d’OEdipe, de personnages impuissants et une atmosphère angoissante.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "L’allégorie évoque une réalité absente ou abstraite à l’aide d’une réalité présente ou concrète donnant une dimension symbolique reconnaissable par tous.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Vous voyez, lecteur, que je suis en bon chemin. La fonction de communication?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "......................reproduit la même structure syntaxique à l’échelle de la phrase, du vers, du paragraphe.",
+    "answer_1": "Le parallélisme",
+    "answer_2": "Le chiasme",
+    "answer_3": "L’antithèse",
+    "right_answer": "Le parallélisme"
+  },
+  {
+    "title": "Il existe différents types de comique: comique de gestes, comique de mots, comique de situation, comique de caractère.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Autodiégétique quand le narrateur est lui-même le héros de l’histoire, le personnage principal du récit.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Les figures d’analogie rapprochent deux éléments qui, ainsi mis en contact, rendent l’expression plus concrète, plus visuelle.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Plaute et Molière ridiculisent un vieil avare.",
+    "answer_1": "comique de mots",
+    "answer_2": "comique de caractère",
+    "answer_3": "comique de situation",
+    "right_answer": "comique de caractère"
+  },
+  {
+    "title": "« Chaque fleur est une âme à la Nature éclose », Il y a métaphore? ",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "........................... consiste à livrer des informations que le narrateur juge utile à la compréhension du récit.",
+    "answer_1": "La fonction idéologique",
+    "answer_2": "La fonction testimoniale",
+    "answer_3": "La fonction explicative",
+    "right_answer": "La fonction explicative"
+  },
+  {
+    "title": "Le narrateur du recit  L’étranger d’Albert Camus est hétérodiégétique.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "Il succomba vivant, et mort, il m’assassine, Verbe, adjectif, adjectif verbe. Même mort, le personnage continue à semer le trouble.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Le récit est un « tissu narratif », il s’agit d’un processus de transformation qui fait passer un ou plusieurs personnages d’un état initial à un état final tout en s’inscrivant dans une succession temporelle et un cadre spatial comme le montre ce schéma narratif en deux étapes.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "Le registre tragique définit un texte qui dépeint un spectacle ou une scène tragique.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+
+  {
+    "title": "La focalisation, appelée aussi point de vue de narration ou perspective, détermine la quantité de savoir perçu que le narrateur veut montrer ou cacher au lecteur afin de créer des effets de sens.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": ".........................l’événement perturbateur lance une quête qui va combler un désir, une attente et va changer le cours de l’histoire.",
+    "answer_1": "Comparaison",
+    "answer_2": "Résolution",
+    "answer_3": "Complication",
+    "right_answer": "Complication"
+  },
+  {
+    "title": "boire un verre. La métaphore?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+
+  {
+    "title": ".....................gestuelle ridicule ou répétitive, mimiques, jeux de scènes.",
+    "answer_1": "comique de mots",
+    "answer_2": "comique de gestes",
+    "answer_3": "comique de situation",
+    "right_answer": "comique de gestes"
+  },
+  {
+    "title": "Quand je vois les Césars, quand je vois leur fortune, Quand je vois le soleil, et quand je vois la lune, ici les empereurs ne deviennent des astres.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "....................... rencontres, événements inattendus, personnages cachés, masqués, mises en scène destinées à duper.",
+    "answer_1": "comique de mots",
+    "answer_2": "comique de caractère",
+    "answer_3": "comique de situation",
+    "right_answer": "comique de situation"
+  },
+  {
+    "title": "le lecteur de La Grand Maison de Mohammed Dib est très sensible à la misère et la faim d’Omar. La fonction testimoniale?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "La comparaison met en relation deux éléments : le comparé et le comparant.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "L’euphémisme fait suivre des termes de même nature qui, accumulés, insistent sur ce qui est exprimé de façon croissante ou décroissante et elle peut être hyperbolique.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "Le symbole ou l’allégorie est un cas de la métaphore.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "..................... est une discipline qui étudie les particularités d’écriture d’un texte.",
+    "answer_1": "Le linguistique",
+    "answer_2": "La rhétorique",
+    "answer_3": "La stylistique",
+    "right_answer": "La stylistique"
+  },
+  {
+    "title": "Schéhérazede dans Les Mille et Une Nuits raconte des histoires d’où elle a été témoin.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "...................est une formulation indirecte qui atténue une réalité douloureuse ou choquante.",
+    "answer_1": "L’antithèse",
+    "answer_2": "La gradation",
+    "answer_3": "L’euphémisme ",
+    "right_answer": "L’euphémisme "
+  },
+  {
+    "title": " Le temps saura faner vos roses, le mot rose est un comparant auquel les poètes recourent pour caractériser la femme connotant la jeunesse et la fraîcheur.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "........................, que l’on désigne communément par tonalité ou ton, est l’ensemble des caractéristiques d’un texte provoquant des effets particuliers sur le lecteur.",
+    "answer_1": "Les registres analytiques",
+    "answer_2": "Le registre littéraire",
+    "answer_3": "registres de langue",
+    "right_answer": "Le registre littéraire"
+  },
+  {
+    "title": "Homodiégétique quand il est présent dans l’univers.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Quiproquo de L’École des femmes, II, 5 de Molière.",
+    "answer_1": "comique de mots",
+    "answer_2": "comique de caractère",
+    "answer_3": "comique de situation",
+    "right_answer": "comique de mots"
+  },
+  {
+    "title": " .................., elle unit comparant et comparé sans outil grammatical.",
+    "answer_1": "La Personnification",
+    "answer_2": "La Comparaison",
+    "answer_3": "La métaphore",
+    "right_answer": "La métaphore"
+  },
+
+  {
+    "title": "Le choix par le narrateur de tel ou tel type de focalisation varie souvent selon les passages d’un même récit.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+
+  {
+    "title": " ..................... le début pose un cadre spatio-temporel avec un personnages souvent caractérisé ",
+    "answer_1": "Situation initiale",
+    "answer_2": "Situation finale",
+    "answer_3": "Situation infinie",
+    "right_answer": "Situation initiale"
+  },
+  {
+    "title": ".................. emploie des figures de style pour fasciner et toucher l’auditoire par plusieurs types de figures de style.",
+    "answer_1": "La rhétorique ",
+    "answer_2": "La comparaison",
+    "answer_3": "La stylistique",
+    "right_answer": "La rhétorique "
+  },
+  {
+    "title": "................... est un cas particulier de la métonymie, elle rapproche deux mots dans un rapport d’inclusion, la partie pour le tout, la matière pour l’objet.",
+    "answer_1": "La personnification",
+    "answer_2": "Le chiasme",
+    "answer_3": "La synecdoque",
+    "right_answer": "La synecdoque"
+  },
+  {
+    "title": "Tout récit est constitué de deux composantes fondamentales, l’histoire et la narration.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": ".................. héros entêtés ou faibles, valets plus fins que leurs maîtres, défauts d’un personnage accentués.",
+    "answer_1": "comique de mots",
+    "answer_2": "comique de caractère",
+    "answer_3": "comique de situation",
+    "right_answer": "comique de caractère"
+  },
+  {
+    "title": " C’est un conte à dormir debout. L’hyperbole?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "........................le narrateur est conscient de tout ",
+    "answer_1": "Focalisation interne",
+    "answer_2": "Focalisation zéro",
+    "answer_3": "Focalisation externe",
+    "right_answer": "Focalisation zéro"
+  },
+  {
+    "title": "Le discours politique de Hamid Serraj dans l’Incendie de Mohammed Dib. La fonction idéologique",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "....................attribue les comportements d’un être humain à un objet, une idée, un animal.",
+    "answer_1": "Le chiasme",
+    "answer_2": "La personnification ",
+    "answer_3": "La parallélisme",
+    "right_answer": "La personnification "
+  },
+  {
+    "title": "Homme égalant les rois, homme approchant des Dieux. Gradation descendante?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": " ....................., celle-ci développe l’analogie à l’échelle d’une strophe.",
+    "answer_1": "La métaphore filée",
+    "answer_2": "La métonymie filée ",
+    "answer_3": "Le comparé",
+    "right_answer": "La métaphore filée"
+  },
+  {
+    "title": "Le narrateur s’incarne dans un personnage de l’action.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Les figures d’insistance : jeux sur les répétitions.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": " La comparaison, elle unit comparant et comparé sans outil grammatical.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": " je me meurs, je suis mort, je suis enterré. Gradation descendante?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "Les figures d’opposition,Elles rapprochent de manière saisissante des termes opposés de façon à marquer le lecteur.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Se faire tuer par sa mère en rentrant. L’oxymore?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "......................., la rhétorique désigne l’art de bien parler.",
+    "answer_1": "A l'ère moderne",
+    "answer_2": "Dans l’Antiquité",
+    "answer_3": "Au moyen Âge",
+    "right_answer": "Dans l’Antiquité"
+  },
+
+  {
+    "title": "Le narrateur peut être, selon la terminologie de Gérard Genette, Hétérodiégétique quand il est présent dans l’univers.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "A l’origine, la stylistique renvoie à la notion de style, ce terme vient du latin stilus qui, en ancien français et à l’Antiquité, désignait le pinçon de fer ou d’os utilisé pour écrire sur de la cire.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": ".......................apparaît lorsque le narrateur émet des jugements généraux qui dépassent le cadre du récit.",
+    "answer_1": "La fonction idéologique",
+    "answer_2": "La fonction testimoniale",
+    "answer_3": "La fonction explicative",
+    "right_answer": "La fonction idéologique"
+  },
+  {
+    "title": "................... remplace un mot par un autre qui lui est lié logiquement.",
+    "answer_1": "La métaphore",
+    "answer_2": "Le chiasme",
+    "answer_3": "La métonymie",
+    "right_answer": "La métonymie"
+  },
+  {
+    "title": "(une belle horreur), (le soleil noir de la mélancolie) L’oxymore?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "...............le narrateur est un témoin ignorant, un simple observateur.",
+    "answer_1": "Focalisation externe",
+    "answer_2": "Focalisation zéro",
+    "answer_3": "Focalisation interne",
+    "right_answer": "Focalisation externe"
+  },
+  {
+    "title": "...................jeux avec le langage, calembours, répétitions.",
+    "answer_1": "comique de mots",
+    "answer_2": "comique de caractère",
+    "answer_3": "comique de situation",
+    "right_answer": "comique de mots"
+  },
+  {
+    "title": "Si le texte met en œuvre une culture commune, la manière d’écrire est propre à son auteur.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Dans La Grand Maison de Mohammed Dib, le lecteur est très sensible à la misère et la faim d’Omar.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "La discipline s’est développée plus particulièrement à partir du ........ siècle avec deux approches différentes.",
+    "answer_1": "XXIIe",
+    "answer_2": "XIXe",
+    "answer_3": "XXe",
+    "right_answer": "XIXe"
+  },
+  {
+    "title": "Va, je ne te hais point. L’euphémisme?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "C’est un conte à dormir debout. L’hyperbole?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+
+  {
+    "title": "..........................le narrateur se limite au point de vue d’un personnag.",
+    "answer_1": "Focalisation externe",
+    "answer_2": "Focalisation zéro",
+    "answer_3": "Focalisation interne",
+    "right_answer": "Focalisation interne"
+  },
+
+  {
+    "title": " La nature est un temple où de vivants piliers Laissent parfois sortir de confuses paroles.",
+    "answer_1": "La métaphore filée",
+    "answer_2": "La métonymie filée ",
+    "answer_3": "Le comparé",
+    "right_answer": "La métaphore filée"
+  },
+  {
+    "title": "...................... est le texte dont le but est de faire rire le lecteur.",
+    "answer_1": "Le registre tragique",
+    "answer_2": "Le registre littéraire",
+    "answer_3": "Le registre comique ",
+    "right_answer": "Le registre comique "
+  },
+  {
+    "title": "....................... se caractérise par des termes et des formulations propres à l’univers dépeint",
+    "answer_1": "Le registre littéraire",
+    "answer_2": "Le registre comique",
+    "answer_3": "Le registre tragique",
+    "right_answer": "Le registre tragique"
+  },
+
+  {
+    "title": "..........................renvoie aux sentiments que tel passage du texte provoque chez le lecteur ",
+    "answer_1": "La fonction testimoniale",
+    "answer_2": "La fonction de régie",
+    "answer_3": "La fonction de communication",
+    "right_answer": "La fonction testimoniale"
+  },
+
+  {
+    "title": " La stylistique littéraire s’intéresse à la langue, à l’état et aux faits du langage.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": "La narration, c’est la manière de raconter cette histoire, l’ensemble de procédées choisis par le narrateur comme : illusion réelle, voix narrative.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": " La narration représente l’intrigue, le temps, l’espace et les personnages.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": " L’histoire, c’est la manière de raconter cette histoire, l’ensemble de procédées choisis par le narrateur.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": ".................... est une structure symétrique du type (ABBA) qui permet d’unir ou alors d’opposer des éléments.",
+    "answer_1": "Le parallélisme",
+    "answer_2": "Le chiasme",
+    "answer_3": "L’antithèse",
+    "right_answer": "Le chiasme"
+  },
+  {
+    "title": "Toute étude d’un texte littéraire consiste à interroger son contenu à travers ses thèmes et son message seulment.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": ".................... emploie des mots qui créent un effet d’exagération.",
+    "answer_1": "L’oxymore",
+    "answer_2": "L’hyperbole",
+    "answer_3": "L’antithèse",
+    "right_answer": "L’hyperbole"
+  },
+  {
+    "title": "Issue de la rhétorique et de la linguistique, la stylistique a des origines lointaines et la rhétorique ancienne avait déjà instauré un dispositif d’analyse des spécificités du langage d’un écrivain.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "......................permet au narrateur d’établir un contact indirect ou direct avec le lecteur",
+    "answer_1": "La fonction testimoniale",
+    "answer_2": "La fonction de régie",
+    "answer_3": "La fonction de communication",
+    "right_answer": "La fonction de communication"
+  },
+
+  {
+    "title": "Le récit est un genre narratif du verbe latin recitare signifiant (dire à haute voix ), le mot récit est lié au genre de l’épopée.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": ".........................,elle permet au héros d’achever sa quête, quand elle est inattendue comme dans la nouvelle, on parle de chute.",
+    "answer_1": "Comparaison",
+    "answer_2": "Résolution",
+    "answer_3": "Complication ",
+    "right_answer": "Résolution"
+  },
+  {
+    "title": "Le narrateur du Tour du monde en 80 jours de Jules Verne nous informe des mœurs de l’aristocratie anglaise dans le personnage de Phileas Fogg. La fonction de communication? ",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+  {
+    "title": " Son vélo a crevé. Synecdoque généralisante?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+
+  {
+    "title": " Paul était angoissé. Il ne savait pas que Marie l’était autant. Focalisation interne?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Faux"
+  },
+
+  {
+    "title": "Après plusieurs mois de recherche, il a enfin trouvé un toit. synecdoque particularisante?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Bastonnade dans Les Fourberies de Scapin, III, 2 de Molière.",
+    "answer_1": "comique de mots",
+    "answer_2": "comique de gestes",
+    "answer_3": "comique de situation",
+    "right_answer": "comique de gestes"
+  },
+  {
+    "title": "Va, je ne te hais point, Cette figure est une révélation indirecte (par bienséance) de l’amour de Chimène pour le meurtrier de son père.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": " La stylistique littéraires, elle se penche plutôt sur les particularités du style d’un auteur.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+
+  {
+    "title": "Elle me confia son sac. Il pesait au moins une tonne! L’hyperbole? ",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+
+  {
+    "title": " L’homme marchait le long de la plage. Ses mains tremblaient légèrement. Une femme l’accompagnait. Focalisation externe?",
+    "answer_1": "Vrai",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Paul était angoissé. Et Marie que ressentait-elle ? Focalisation interne? ",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+
+  {
+    "title": " J’ai reconnu le fer, instrument de sa rage. Synecdoque généralisante?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Faux"
+  },
+
+  {
+    "title": "Le narrateur peut être, selon la terminologie de Gérard Genette, spatiotemporel, le narrateur représenté dans Du côté de chez Swann de Marcel Proust.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Le narrateur a d’abord la fonction de raconter l’histoire.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "........................retour à l’équilibre, à l’apaisement.",
+    "answer_1": "Situation initiale",
+    "answer_2": "Situation finale",
+    "answer_3": "Situation infinie",
+    "right_answer": "Situation finale"
+  },
+  {
+    "title": "Les figures d’amplification et d’atténuation recourent à un vocabulaire qui accentue ou amoindrit ce qui est décrit et évoqué.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+
+  {
+    "title": "(Je suis belle, ô mortels, comme un rêve de pierre) Comparaison?",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je ne sais pas",
+    "right_answer": "Vrai"
+  },
+
+  {
+    "title": "Péripéties ou intrigue constituant le cœur du récit et le héros fait ses preuves.",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  },
+  {
+    "title": "Hétérodiégétique quand il est absent de l’univers du roman",
+    "answer_1": "Vrai",
+    "answer_2": "Faux",
+    "answer_3": "Je Ne Sais Pas",
+    "right_answer": "Vrai"
+  }
+]
