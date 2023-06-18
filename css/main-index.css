@@ -522,6 +522,7 @@ header a h3:hover {
   z-index: 26;
   width: 65px;
   height: 65px;
+  animation: animName 3s linear infinite;
 }
 
 .trad-new.drop a {
@@ -529,4 +530,14 @@ header a h3:hover {
 }
 .trad-new.drop a:not(:first-child) {
   border-top: 1px solid #343a46;
+}
+
+@keyframes animName {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
 }
