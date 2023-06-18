@@ -421,7 +421,7 @@ header a h3:hover {
   position: absolute;
   font-family: "Cairo", sans-serif;
   left: 50%;
-  top: 30%;
+  top: 23%;
   transform: translate(-50%, -50%);
   z-index: 22;
 }
@@ -489,7 +489,7 @@ header a h3:hover {
   transition: 0.2s;
 }
 .dropdown-content span {
-  font-size: 12px;
+  font-size: 10px;
   color: var(--main-color);
   transition: 0.2s;
 }
@@ -518,24 +518,15 @@ header a h3:hover {
 }
 .trad-new.drop .spar {
   position: absolute;
-  top: 10px;
+  top: 3px;
   z-index: 26;
+  width: 65px;
+  height: 65px;
 }
 
 .trad-new.drop a {
-  font-size: 18px;
+  font-size: 16px;
 }
 .trad-new.drop a:not(:first-child) {
   border-top: 1px solid #343a46;
 }
-
-/* p.note {
-  text-align: center;
-  direction: rtl;
-  padding: 15px 0;
-  width: 250px;
-  margin: 10px auto 0;
-  color: #fff;
-  background-color: #000;
-  border-radius: 8px;
-} */
