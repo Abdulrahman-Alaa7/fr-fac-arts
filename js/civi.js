@@ -78,11 +78,11 @@ var x = setInterval(function () {
 
   // If the count down is finished, write some text
   if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("days").innerHTML = "0";
-    document.getElementById("hours").innerHTML = "0";
-    document.getElementById("min").innerHTML = "0";
-    document.getElementById("sec").innerHTML = "0";
+    // clearInterval(x);
+    // document.getElementById("days").innerHTML = "0";
+    // document.getElementById("hours").innerHTML = "0";
+    // document.getElementById("min").innerHTML = "0";
+    // document.getElementById("sec").innerHTML = "0";
   }
 }, 1000);
 
