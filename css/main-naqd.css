@@ -1,5 +1,5 @@
 :root {
-  --main-color: #04aa6d;
+  --main-color: #059377;
   --ar-color: #0075ff;
 }
 
@@ -112,7 +112,7 @@ header .info h1 a {
 
 .heading {
   text-align: center;
-  background-color: #04aa6de0;
+  background-color: #059377;
   color: #fff;
   margin-bottom: 20px;
   padding: 10px;
@@ -128,7 +128,7 @@ header .info h1 a {
 
 .heading-ch {
   text-align: center;
-  background-color: #04aa6de0;
+  background-color: #059377;
   color: #fff;
   margin-bottom: 20px;
   padding: 20px 0;
@@ -508,7 +508,7 @@ p.fr.dark::after {
   align-items: center;
   width: 90px;
   height: 90px;
-  background-color: #04aa6d;
+  background-color: #059377;
   color: #fff;
   border-radius: 50%;
 }

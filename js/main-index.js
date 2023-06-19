@@ -1,3 +1,5 @@
+const par = document.querySelector(".par");
+
 // CountDown
 // Set the date we're counting down to
 var countDownDate = new Date("jun 19, 2023 11:00:00").getTime();
@@ -22,14 +24,17 @@ var x = setInterval(function () {
   document.getElementById("min").innerHTML = minutes;
   document.getElementById("sec").innerHTML = seconds;
 
-  // If the count down is finished, write some text
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("days").innerHTML = "0";
-    document.getElementById("hours").innerHTML = "0";
-    document.getElementById("min").innerHTML = "0";
-    document.getElementById("sec").innerHTML = "0";
-  }
+  // // If the count down is finished, write some text
+  // if (distance < 0) {
+  //   // clearInterval(x);
+  //   // document.getElementById("days").innerHTML = "0";
+  //   // document.getElementById("hours").innerHTML = "0";
+  //   // document.getElementById("min").innerHTML = "0";
+  //   // document.getElementById("sec").innerHTML = "0";
+  //   par.innerHTML = `<div ><h2 class="green-con">Congratulations</h2>
+
+  //                  </div>`;
+  // }
 }, 1000);
 
 // Setting Dark Mode

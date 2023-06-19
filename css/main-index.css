@@ -1,5 +1,5 @@
 :root {
-  --main-color: #04aa6d;
+  --main-color: #059377;
   --ar-color: #0075ff;
 }
 
@@ -96,7 +96,7 @@ header .info h1 {
   color: #fff;
   font-size: 40px;
   text-align: center;
-  margin: 5px 0 0 0;
+  margin: 20px auto;
 }
 
 header .info h1 a {
@@ -113,7 +113,7 @@ header .info h1 a {
 
 .heading {
   text-align: center;
-  background-color: #04aa6de0;
+  background-color: #059377;
   color: #fff;
   margin-bottom: 20px;
   padding: 20px 0;
@@ -128,7 +128,7 @@ header .info h1 a {
 
 .heading-ch {
   text-align: center;
-  background-color: #04aa6de0;
+  background-color: #059377;
   color: #fff;
   margin-bottom: 20px;
   padding: 20px 0;
@@ -156,7 +156,7 @@ header .book {
   align-items: center;
   width: 90px;
   height: 90px;
-  background-color: #04aa6d;
+  background-color: #059377;
   color: #fff;
   border-radius: 50%;
   margin: 0 auto;
@@ -170,8 +170,8 @@ header h2 a {
   font-weight: bold;
   width: 280px;
   height: 40px;
-  border: 2px solid #04aa6d;
-  background-color: #04aa6d;
+  border: 2px solid #059377;
+  background-color: #059377;
   color: #fff;
   border-radius: 120px;
   letter-spacing: 1px;
@@ -360,10 +360,12 @@ header a h3:hover {
 .par .count-down {
   margin: 10px 0;
   font-size: 30px;
-  border: 2px solid var(--main-color);
+  border: 2px solid #059377;
   padding: 10px;
   border-radius: 8px;
-  font-size: 28px;
+  color: #059377;
+  letter-spacing: 2px;
+  font-size: 30px;
 }
 
 .time {
@@ -421,16 +423,16 @@ header a h3:hover {
   position: absolute;
   font-family: "Cairo", sans-serif;
   left: 50%;
-  top: 23%;
+  top: 12%;
   transform: translate(-50%, -50%);
   z-index: 22;
 }
 
 .dropbtn {
-  background-color: #04aa6d;
+  background-color: #059377;
   color: white;
   width: 260px;
-  padding: 16px;
+  padding: 10px;
   font-size: 16px;
   border: none;
   cursor: pointer;
@@ -462,7 +464,7 @@ header a h3:hover {
   min-width: 260px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 25;
-  top: 70px;
+  top: 59px;
   border-radius: 10px;
 }
 .dropdown-content::before {
@@ -483,7 +485,7 @@ header a h3:hover {
 /* Links inside the dropdown */
 .dropdown-content a {
   color: #fff;
-  padding: 12px 16px;
+  padding: 10px 16px;
   text-decoration: none;
   display: block;
   transition: 0.2s;
@@ -499,7 +501,7 @@ header a h3:hover {
 
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
-  background-color: #04aa6d;
+  background-color: #059377;
 }
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
@@ -540,4 +542,12 @@ header a h3:hover {
   100% {
     transform: rotate(360deg);
   }
+}
+
+.green-con {
+  margin-top: 20px;
+  font-size: 45px;
+  letter-spacing: 2px;
+  color: var(--main-color);
+  padding: 10px;
 }

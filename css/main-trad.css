@@ -1,5 +1,5 @@
 :root {
-  --main-color: #04aa6d;
+  --main-color: #059377;
   --ar-color: #0075ff;
 }
 
@@ -110,7 +110,7 @@ header .info h1 a {
 
 .heading {
   text-align: center;
-  background-color: #04aa6de0;
+  background-color: #059377;
   color: #fff;
   margin-bottom: 20px;
   padding: 20px;
@@ -129,7 +129,7 @@ header .info h1 a {
 
 .heading-ch {
   text-align: center;
-  background-color: #04aa6de0;
+  background-color: #059377;
   color: #fff;
   margin-bottom: 20px;
   padding: 20px 0;
@@ -541,7 +541,7 @@ p.fr.dark::after {
   align-items: center;
   width: 90px;
   height: 90px;
-  background-color: #04aa6d;
+  background-color: #059377;
   color: #fff;
   border-radius: 50%;
 }
@@ -558,8 +558,8 @@ p.fr.dark::after {
   margin-top: 20px;
   width: 260px;
   height: 60px;
-  border: 2px solid #04aa6d;
-  background-color: #04aa6d;
+  border: 2px solid #059377;
+  background-color: #059377;
   color: #fff;
   border-radius: 120px;
   letter-spacing: 1px;
@@ -612,7 +612,7 @@ p.fr.dark::after {
   align-items: center;
   width: 90px;
   height: 90px;
-  background-color: #04aa6d;
+  background-color: #059377;
   color: #fff;
   border-radius: 50%;
 }
