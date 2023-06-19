@@ -213,13 +213,20 @@ footer a h4 span {
   transition: 0.2s;
   border-radius: 8px;
 }
+.tabs .al.full {
+  margin: 0 10px;
+  width: 100%;
+}
 
 @media (max-width: 650px) {
   .tabs {
     padding: 10px;
   }
   .tabs li {
-    width: 100%;
+    width: 48%;
+  }
+  .tabs .al.full {
+    margin: 0 auto;
   }
 }
 .tabs li.active,
@@ -227,6 +234,7 @@ footer a h4 span {
   background-color: var(--main-color);
   color: #fff;
 }
+
 .tabs a.al {
   width: 49%;
   height: 50px;
@@ -250,11 +258,17 @@ footer a h4 span {
 }
 
 @media (max-width: 757px) {
+  .tabs li h3 {
+    font-size: 14px;
+  }
   .tabs a.al {
-    width: 100%;
+    width: 48%;
+    font-size: 12px;
   }
 }
-
+li.full {
+  width: 100%;
+}
 /* Start */
 .up {
   position: fixed;
