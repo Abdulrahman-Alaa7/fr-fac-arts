@@ -29,7 +29,7 @@ import TwentyThree from "../components/roman-mondial/TwentyThree";
 import TwentyFour from "../components/roman-mondial/TwentyFour";
 import TwentyFive from "../components/roman-mondial/TwentyFive";
 import TwentySex from "../components/roman-mondial/TwentySix";
-import TwentySeven from "../components/roman-mondial/twentySeven";
+import TwentySeven from "../components/roman-mondial/TwentySeven";
 import TwentyEight from "../components/roman-mondial/TwentyEight";
 import TwentyNine from "../components/roman-mondial/TwentyNine";
 import Thirty from "../components/roman-mondial/Thirty";
