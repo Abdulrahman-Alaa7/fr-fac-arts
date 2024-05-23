@@ -23,8 +23,8 @@ const Ten = (props: Props) => {
           mère est morte... Moi je ne sais qu’en faire. Je te la donne.
         </p>
         <p className="ar">
-          "هذه الطفلة هي ابنة أختك"، قال لها بابتسامة. "والدتها ماتت ... وأنا لا
-          أعرف ماذا أفعل بها. أنا أعطيك إياها."
+          &#34;هذه الطفلة هي ابنة أختك&#34;، قال لها بابتسامة. &#34;والدتها ماتت
+          ... وأنا لا أعرف ماذا أفعل بها. أنا أعطيك إياها.&#34;
         </p>
         <p className="fr">
           La mercière prit l’enfant, lui sourit, baisa ses joues roses. Degans

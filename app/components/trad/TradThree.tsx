@@ -32,7 +32,7 @@ const TradThree = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            Par normal il entendait d'abord: une vie inverse de celle de ses
+            Par normal il entendait d&#34;abord: une vie inverse de celle de ses
             ancêtres don’t les amours avaient toutes été tumultueuses, diverses
             et insupportablement douloureuses.
           </p>
@@ -67,9 +67,9 @@ const TradThree = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            Dans le même souci d'éviter les risques, il passait toujours au
+            Dans le même souci d&#34;éviter les risques, il passait toujours au
             large des lieux qui appellent au départ : librairies maritimes,
-            antiquaires spécialisés dans l'exotisme, agences de voyages,
+            antiquaires spécialisés dans l&#34;exotisme, agences de voyages,
             boutiques de lingerie.
           </p>
         </div>
@@ -79,7 +79,7 @@ const TradThree = (props: Props) => {
           والغریب ووكالات السفر ومتاجر الملابس الداخلیة .
         </p>
         <div className="box">
-          <p classNameN="fr">
+          <p className="fr">
             Chez lui, aucune carte de géographie ne divertissait les murs.
           </p>
         </div>
@@ -87,8 +87,8 @@ const TradThree = (props: Props) => {
         <div className="box">
           <p className="fr">
             Mais son allié principal, sa fabrique quotidienne de bonheur
-            paisible et sédentaire était le métier qu'il s'était choisi :
-            l'aménagement de jardins, la création de paysages.
+            paisible et sédentaire était le métier qu&#34;il s&#34;était choisi
+            : l&#34;aménagement de jardins, la création de paysages.
           </p>
         </div>
         <p className="ar">

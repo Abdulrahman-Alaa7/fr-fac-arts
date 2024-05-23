@@ -24,7 +24,7 @@ const One = (props: Props) => {
         </p>
         <p className="ar">
           في الأصل ، الرواية هي سرد أدبي ، بشكل عام مكتوب في شعر ، مكتوب في
-          "رواية" ، أي بلغة "مبتذلة".
+          &#34;رواية&#34; ، أي بلغة &#34;مبتذلة&#34;.
         </p>
         <p className="fr">
           C’est cette forme du’’ roman‘’ que les troubadours et trouvères
@@ -32,8 +32,8 @@ const One = (props: Props) => {
           chevaliers.
         </p>
         <p className="ar">
-          هذا هو الشكل من "الرواية" الذي استخدمه التروبادور والمترو عبر العصور
-          الوسطى لسرد مآثر الفرسان.
+          هذا هو الشكل من &#34;الرواية&#34; الذي استخدمه التروبادور والمترو عبر
+          العصور الوسطى لسرد مآثر الفرسان.
         </p>
         <p className="fr">
           Il ne faut pas oublier qu’à cette époque, le rècit écrit n’est qu’un

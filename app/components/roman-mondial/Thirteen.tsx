@@ -5,11 +5,11 @@ type Props = {};
 const Thirteen = (props: Props) => {
   return (
     <div>
-      <div className="twelve bg-[#f2f2f2] dark:bg-background p-2 rounded-md">
-        <div className="heading-ch">
+      <div className={`twelve bg-[#f2f2f2] dark:bg-background p-2 rounded-md`}>
+        <div className={`heading-ch`}>
           <h3>الفصل الثالث</h3>
         </div>
-        <p className="fr">
+        <p className={`fr`}>
           Huit jours après son mariage, Camille déclara nettement à sa mère
           qu’il entendait quitter Vernon et aller vivre à Paris. Madame Raquin
           se récria : elle avait arrangé son existence, elle ne voulait point y
@@ -20,15 +20,15 @@ const Thirteen = (props: Props) => {
           le moins, aujourd’hui, que j’aie une volonté, et que tu sois de mon
           avis... Nous partirons à la fin du mois.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           ثمانية أيام بعد زواجه، أعلن كاميل بوضوح لوالدته أنه ينوي مغادرة فيرنون
           والذهاب للعيش في باريس. اندهشت السيدة راكان: لقد نظمت حياتها، ولا تريد
           تغيير أي حدث واحد فيها. تعرض ابنها لأزمة عصبية، هددها بالمرض إذا لم
-          تستجب لرغبته. "لم أعارض أبدًا خططك"، قال لها. "لقد تزوجت ابنة عمي،
+          تستجب لرغبته. لم أعارض أبدًا خططك، قال لها. لقد تزوجت ابنة عمي،
           وتناولت جميع الأدوية التي أعطيتها لي. من العدل الآن أن أملك إرادة، وأن
-          تكوني معي في رأيي... سنغادر في نهاية الشهر."
+          تكوني معي في رأيي... سنغادر في نهاية الشهر.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Madame Raquin ne dormit pas de la nuit. La décision de Camille
           bouleversait sa vie, et elle cherchait désespérément à se refaire une
           existence. Peu à peu, le calme se fit en elle. Elle réfléchit que le
@@ -38,7 +38,7 @@ const Thirteen = (props: Props) => {
           Le lendemain, elle s’était habituée à l’idée de départ, elle avait
           bâti le plan d’une vie nouvelle.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           لم تنم السيدة راكان طوال الليل. قرار كاميل قلب حياتها، وكانت تحاول
           بشدة إعادة بناء حياتها. تدريجياً، استقرت فيها الأمور. فكرت أن الزوجين
           الشابين قد ينجبان أطفالاً، وأن ثروتها الصغيرة لن تكفي بعد ذلك. كان
@@ -46,24 +46,26 @@ const Thirteen = (props: Props) => {
           لتيريز. في اليوم التالي، تعودت على فكرة المغادرة، وبنت خطة لحياة
           جديدة.
         </p>
-        <p className="fr">Au déjeuner, elle était toute gaie.</p>
-        <p className="ar">في وجبة الغداء، كانت سعيدة تمامًا.</p>
-        <p className="fr">
+        <p className={`fr`}>Au déjeuner, elle était toute gaie.</p>
+        <p className={`ar`}>في وجبة الغداء، كانت سعيدة تمامًا.</p>
+        <p className={`fr`}>
           – Voici ce que nous allons faire, dit-elle à ses enfants. J’irai à
           Paris demain ; je chercherai un petit fonds de mercerie, et nous nous
           remettrons, Thérèse et moi, à vendre du fil et des aiguilles. Cela
           nous occupera. Toi, Camille, tu feras ce que tu voudras ; tu te
           promèneras au soleil ou tu trouveras un emploi.
         </p>
-        <p className="ar">
-          "هذا ما سنفعله"، قالت لأبنائها. "سأذهب إلى باريس غدًا؛ سأبحث عن قليل
-          من الأدوات الصغيرة للخياطة، وسنعاود العمل معًا، أنا وتيريز، في بيع
-          الخيط والإبر. هذا سيشغلنا. أما أنت، كاميل، فستفعل ما تريد؛ ستتنزه تحت
-          الشمس أو تجد وظيفة."
+        <p className={`ar`}>
+          هذا ما سنفعله، قالت لأبنائها. سأذهب إلى باريس غدًا؛ سأبحث عن قليل من
+          الأدوات الصغيرة للخياطة، وسنعاود العمل معًا، أنا وتيريز، في بيع الخيط
+          والإبر. هذا سيشغلنا. أما أنت، كاميل، فستفعل ما تريد؛ ستتنزه تحت الشمس
+          أو تجد وظيفة.
         </p>
-        <p className="fr">– Je trouverai un emploi, répondit le jeune homme.</p>
-        <p className="ar">"سأجد وظيفة"، أجاب الشاب.</p>
-        <p className="fr">
+        <p className={`fr`}>
+          – Je trouverai un emploi, répondit le jeune homme.
+        </p>
+        <p className={`ar`}>سأجد وظيفة، أجاب الشاب.</p>
+        <p className={`fr`}>
           La vérité était qu’une ambition bête avait seule poussé Camille au
           départ. Il voulait être employé dans une grande administration ; il
           rougissait de plaisir, lorsqu’il se voyait en rêve au milieu d’un
@@ -74,15 +76,15 @@ const Thirteen = (props: Props) => {
           ce qu’ils faisaient, sans une plainte, sans un reproche, sans même
           paraître savoir qu’elle changeait de place.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           كانت الحقيقة أن طموحًا غبيًا هو الذي دفع كاميل وحده إلى الرحيل. كان
           يريد أن يعمل في إدارة كبيرة؛ كان يحمر من السعادة عندما يتخيل نفسه في
-          وسط مكتب كبير، مع أكمام من "لوسترين" والقلم على الأذن. لم يُستشار
-          تيريز؛ لقد كانت دائمًا تظهر مثل هذا الانقياد السلبي بحيث لم يعد عمتها
-          وزوجها يهتمان بسؤال رأيها. كانت تذهب حيثما يذهبون، وتفعل ما يفعلونه،
-          دون شكوى، دون انتقاد، دون أن تبدو حتى تعرف أنها تغير مكانها.
+          وسط مكتب كبير، مع أكمام من لوسترين والقلم على الأذن. لم يُستشار تيريز؛
+          لقد كانت دائمًا تظهر مثل هذا الانقياد السلبي بحيث لم يعد عمتها وزوجها
+          يهتمان بسؤال رأيها. كانت تذهب حيثما يذهبون، وتفعل ما يفعلونه، دون
+          شكوى، دون انتقاد، دون أن تبدو حتى تعرف أنها تغير مكانها.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Madame Raquin vint à Paris et alla droit au passage du Pont-Neuf. Une
           vieille demoiselle de Vernon l’avait adressée à une de ses parentes
           qui tenait dans ce passage un fonds de mercerie dont elle désirait se
@@ -94,7 +96,7 @@ const Thirteen = (props: Props) => {
           ses chers enfants seraient heureux dans ce coin ignoré. Le prix
           modeste du fonds la décida ; on le lui vendait deux mille francs.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           جاءت السيدة راكان إلى باريس وذهبت مباشرةً إلى ممر بون نوف. وصلت إلى
           إحدى أقاربها التي كانت تدير في هذا الممر محلًا للخياطة والتي كانت تريد
           التخلص منه. وجدت القديمة المتاجر قليلاً صغيرة ومظلمة، لكنها فيما يتعلق
@@ -104,7 +106,7 @@ const Thirteen = (props: Props) => {
           أطفالها الأعزاء سيكونون سعداء في هذا الزاوية المجهولة. قرر السعر
           المعتدل للمحل، وتم بيعها بمبلغ 2000 فرنك.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Le loyer de la boutique et du premier étage n’était que de douze cents
           francs. Madame Raquin, qui avait près de quatre mille francs
           d’économie, calcula qu’elle pourrait payer le fonds et le loyer de la
@@ -114,7 +116,7 @@ const Thirteen = (props: Props) => {
           rentes et qu’elle laisserait grossir le capital pour doter ses
           petits-enfants.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           كان إيجار المتجر والطابق الأول فقط 1200 فرنك. قامت السيدة راكان، التي
           كانت تملك ما يقرب من 4000 فرنك من التوفير، بحساب أنها يمكن أن تدفع ثمن
           المحل وإيجار السنة الأولى دون اللجوء إلى ثروتها. كانت رواتب كاميل
@@ -122,7 +124,7 @@ const Thirteen = (props: Props) => {
           بحيث لن تلمس رواتبها، وستترك الرأسمال يتزايد ليتم استخدامه في تزويج
           أحفادها فيما بعد.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Elle revint rayonnante à Vernon, elle dit qu’elle avait trouvé une
           perle, un trou délicieux, en plein Paris. Peu à peu, au bout de
           quelques jours, dans ses causeries du soir, la boutique humide et
@@ -133,29 +135,29 @@ const Thirteen = (props: Props) => {
           en haut... Le passage est plein de monde... Nous ferons des étalages
           charmants... Va, nous ne nous ennuierons pas.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           عادت إلى فيرنون بشغف، وقالت إنها وجدت لؤلؤة، وهي حفرة رائعة في وسط
           باريس. تدريجياً، بعد بضعة أيام، في حديثها المسائي، تحول محل الخياطة
           الرطب والمظلم في الممر إلى قصر؛ حيث كانت تتذكره، في أعماق ذكرياتها،
-          واسعاً ومريحاً وهادئاً، ومجهزاً بالعديد من المزايا اللا تقدر بثمن.
-          "أه، يا تيريز الجيدة"، تقول، "سترى كم سنكون سعداء في هذه الزاوية! هناك
-          ثلاث غرف جميلة في الطابق العلوي... الممر مزدحم بالناس... سنجعل عروضنا
-          رائعة... اذهب، لن نشعر بالملل".
+          واسعاً ومريحاً وهادئاً، ومجهزاً بالعديد من المزايا اللا تقدر بثمن. أه،
+          يا تيريز الجيدة، تقول، سترى كم سنكون سعداء في هذه الزاوية! هناك ثلاث
+          غرف جميلة في الطابق العلوي... الممر مزدحم بالناس... سنجعل عروضنا
+          رائعة... اذهب، لن نشعر بالملل.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Et elle ne tarissait point. Tous ses instincts d’ancienne marchande se
           réveillaient ; elle donnait à l’avance des conseils à Thérèse sur la
           vente, sur les achats, sur les roueries du petit commerce. Enfin la
           famille quitta la maison du bord de la Seine ; le soir du même jour,
           elle s’installait au passage du Pont-Neuf.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           ولم تنتهي حديثها. استيقظت جميع غرائزها كتاجرة سابقة؛ حيث قدمت نصائح
           مسبقة لتيريز حول البيع والشراء وحول الحيل الصغيرة في التجارة. وأخيرًا،
           غادر الأسرة المنزل على ضفاف السين وفي نفس المساء، استقروا في ممر بون
           نوف.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Quand Thérèse entra dans la boutique où elle allait vivre désormais,
           il lui sembla qu’elle descendait dans la terre grasse d’une fosse. Une
           sorte d’écoeurement la prit à la gorge, elle eut des frissons de peur.
@@ -167,7 +169,7 @@ const Thirteen = (props: Props) => {
           une malle, les mains roides, la gorge pleine de sanglots, ne pouvant
           pleurer.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           عندما دخلت تيريز إلى المحل الذي ستعيش فيه اعتباراً من الآن فصاعداً،
           شعرت وكأنها تنزل إلى تربة سوداء في حفرة. شعرت بنوع من الغثيان في
           حلقها، وشعرت بالرعشة من الخوف. نظرت إلى الممر القذر والرطب، وزارت
@@ -176,19 +178,19 @@ const Thirteen = (props: Props) => {
           بكلمة واحدة. كانت كأنها متجمدة. بعد أن نزل عمتها وزوجها، جلست تيريز
           على صندوق، يديها متصلدتان، حنجرتها ممتلئة بالبكاء، لا تستطيع البكاء.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Madame Raquin, en face de la réalité, resta embarrassée, honteuse de
           ses rêves. Elle chercha à défendre son acquisition. Elle trouvait un
           remède à chaque nouvel inconvénient qui se présentait, expliquait
           l’obscurité en disant que le temps était couvert, et concluait en
           affirmant qu’un coup de balai suffirait.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           وجدت السيدة راكان، عندما واجهت الواقع، نفسها محرجة وخجولة من أحلامها.
           حاولت الدفاع عن اقتنائها. وجدت حلاً لكل مشكلة جديدة تظهر، وشرحت الظلام
           بقولها إن الجو كان غائمًا، وخلصت إلى أن كوباً من الكنسة سيكون كافياً.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           – Bah ! répondait Camille, tout cela est très convenable...
           D’ailleurs, nous ne monterons ici que le soir. Moi, je ne rentrerai
           pas avant cinq ou six heures... Vous deux, vous serez ensemble, vous
@@ -197,14 +199,14 @@ const Thirteen = (props: Props) => {
           de son bureau. Il se disait qu’il aurait chaud tout le jour à son
           administration, et que, le soir, il se coucherait de bonne heure.
         </p>
-        <p className="ar">
-          "باه!"، يجيب كاميل، "كل هذا على ما يرام... علاوة على ذلك، لن نصعد إلى
-          هنا إلا في المساء. أنا لن أعود قبل الخامسة أو السادسة... أنتما،
-          ستكونان معا، لن تشعران بالملل. لم يكن الشاب الصغير سيوافق على العيش في
-          مثل هذا الحجرة القذرة، لو لم يكن يعتمد على دفء مكتبه. كان يدرك أنه
-          سيكون دافئًا طوال اليوم في إدارته، وأنه سينام مبكرًا في المساء".
+        <p className={`ar`}>
+          باه!، يجيب كاميل، كل هذا على ما يرام... علاوة على ذلك، لن نصعد إلى هنا
+          إلا في المساء. أنا لن أعود قبل الخامسة أو السادسة... أنتما، ستكونان
+          معا، لن تشعران بالملل. لم يكن الشاب الصغير سيوافق على العيش في مثل هذا
+          الحجرة القذرة، لو لم يكن يعتمد على دفء مكتبه. كان يدرك أنه سيكون
+          دافئًا طوال اليوم في إدارته، وأنه سينام مبكرًا في المساء.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Pendant une grande semaine, la boutique et le logement restèrent en
           désordre. Dès le premier jour, Thérèse s’était assise derrière le
           comptoir, et elle ne bougeait plus de cette place. Madame Raquin
@@ -212,22 +214,22 @@ const Thirteen = (props: Props) => {
           femme allait chercher à embellir sa demeure, mettre des fleurs sur les
           fenêtres, demander des papiers neufs, des rideaux, des tapis.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           ظلت المحل والشقة في حالة فوضى لمدة أسبوع كامل. منذ اليوم الأول، جلست
           تيريز وراء العداد ولم تتحرك من مكانها. فوجئت السيدة راكان بهذا التصرف
           المنهار، حيث كانت تعتقد أن الشابة ستسعى لتجميل منزلها، ووضع الزهور على
           النوافذ، وطلب ورق جديد، وستائر، وسجاد.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Lorsqu’elle proposait une réparation, un embellissement quelconque : –
           À quoi bon ? répondait tranquillement sa nièce. Nous sommes très bien,
           nous n’avons pas besoin de luxe.
         </p>
-        <p className="ar">
-          عندما تقترح عليها ترميمًا أو تحسينًا أيًا كان: "لماذا؟"، تجيب ابنة
-          عمتها بشكل هادئ، "نحن بخير جدًا، ولا نحتاج إلى الترفيه".
+        <p className={`ar`}>
+          عندما تقترح عليها ترميمًا أو تحسينًا أيًا كان: لماذا؟، تجيب ابنة عمتها
+          بشكل هادئ، نحن بخير جدًا، ولا نحتاج إلى الترفيه.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Ce fut madame Raquin qui dut arranger les chambres et mettre un peu
           d’ordre dans la boutique. Thérèse finit par s’impatienter à la voir
           sans cesse tourner devant ses yeux ; elle prit une femme de ménage,
@@ -242,7 +244,7 @@ const Thirteen = (props: Props) => {
           l’Institut au Jardin des Plantes. Cette longue course, qu’il faisait
           deux fois par jour, ne l’ennuyait jamais.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           كانت السيدة راكان هي التي اضطرت لترتيب الغرف وتنظيم المحل بعض الشيء.
           وفي النهاية، تملّكت الصبر تيريز من مشاهدة عمتها وهي تتحرك باستمرار
           أمام عينيها، فاستأجرت خادمة وأجبرت عمتها على الجلوس بجانبها. بقي كاميل
@@ -254,7 +256,7 @@ const Thirteen = (props: Props) => {
           السين من المعهد إلى حديقة النباتات. هذا السير الطويل الذي يقطعه مرتين
           في اليوم، لم يمل منه أبدًا.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Il regardait couler l’eau, il s’arrêtait pour voir passer les trains
           de bois qui descendaient la rivière. Il ne pensait à rien. Souvent il
           se plantait devant Notre-Dame, et contemplait les échafaudages dont
@@ -269,7 +271,7 @@ const Thirteen = (props: Props) => {
           rentrer, traînant les pieds, s’occupant des passants, des voitures,
           des magasins.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           كان ينظر إلى تدفق المياه، ويتوقف لمشاهدة قطارات الخشب التي كانت تنزل
           النهر. لم يفكر في أي شيء. كثيرًا ما يقف أمام كاتدرائية نوتردام ويتأمل
           الأجواد التي تحيط بها الكنيسة، التي كانت في حالة إصلاح حينها؛ وكانت
@@ -281,7 +283,7 @@ const Thirteen = (props: Props) => {
           وأخيراً يقرر العودة إلى المنزل، يسحب قدميه، ويهتم بالمارة، والسيارات،
           والمتاجر.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Dès son arrivée, il mangeait, puis se mettait à lire. Il avait acheté
           les oeuvres de Buffon, et, chaque soir, il se donnait une tâche de
           vingt, de trente pages, malgré l’ennui qu’une pareille lecture lui
@@ -294,7 +296,7 @@ const Thirteen = (props: Props) => {
           pendant toute une soirée, sans être tentée de prendre un livre. Au
           fond, il s’avouait que sa femme était une pauvre intelligence.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           فور وصوله إلى المنزل، كان يتناول الطعام، ثم يبدأ في القراءة. كان قد
           اشترى أعمال بوفون، وكل مساء كان يحدد لنفسه مهمة تتألف من عشرين إلى
           ثلاثين صفحة، على الرغم من الملل الذي يسببه له مثل هذا القراءة. وكان
@@ -305,7 +307,7 @@ const Thirteen = (props: Props) => {
           أن تظل تفكر وتصمت طوال الليلة، دون أن تشتهي أن تأخذ كتابًا. في
           النهاية، كان يعترف لنفسه أن زوجته كانت ذكاءًا فقيرًا.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Thérèse repoussait les livres avec impatience. Elle préférait demeurer
           oisive, les yeux fixes, la pensée flottante et perdue. Elle gardait
           d’ailleurs une humeur égale et facile ; toute sa volonté tendait à
@@ -317,7 +319,7 @@ const Thirteen = (props: Props) => {
           servait les clientes avec des paroles toujours semblables, avec un
           sourire qui montait mécaniquement à ses lèvres.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           تيريز كانت ترفض الكتب بلهفة. كانت تفضل البقاء طوال الوقت بدون فعل شيء،
           بعينيها ثابتة وفكرها طافح وضائع. كانت عادة تحافظ على مزاج مستقر وسهل.
           كل إرادتها كانت تهدف إلى جعل كيانها آلة سلبية، متساهلة ومتنازلة بشكل
@@ -326,7 +328,7 @@ const Thirteen = (props: Props) => {
           صغيرة، تشتري بضعة سنتات من البضائع. كانت تيريز تخدم الزبائن بكلمات
           متشابهة دائمًا، وابتسامة ترتفع بشكل آلي على شفتيها.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Madame Raquin se montrait plus souple, plus bavarde, et, à vrai dire,
           c’était elle qui attirait et retenait la clientèle. Pendant trois ans,
           les jours se suivirent et se ressemblèrent. Camille ne s’absenta pas
@@ -336,7 +338,7 @@ const Thirteen = (props: Props) => {
           amenant chaque soir la même couche froide et chaque matin la même
           journée vide.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           كانت السيدة راكان أكثر مرونة وأكثر حديثًا، وبالحقيقة، كانت هي التي
           تجذب وتحتفظ بالزبائن. خلال ثلاث سنوات، تبعت الأيام بعضها البعض
           وتشابهت. لم يغب كاميل عن مكتبه مطلقًا؛ ولم يخرجت والدته وزوجته من

@@ -36,14 +36,15 @@ const TradOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          La phrase" Ahmed a été malade, il est allé consulter un médecin" est
-          correcte en français, mais on ne peut pas dire en arabe :
+          La phrase&#34; Ahmed a été malade, il est allé consulter un
+          médecin&#34; est correcte en français, mais on ne peut pas dire en
+          arabe :
         </p>
         <p className="ar">
-          الجملة "أحمد كان مريضاً ، ذهب لرؤية الطبيب" صحيحة بالفرنسية ، لكن لا
-          يمكنك أن تقول بالعربية :
+          الجملة &#34;أحمد كان مريضاً ، ذهب لرؤية الطبيب&#34; صحيحة بالفرنسية ،
+          لكن لا يمكنك أن تقول بالعربية :
           <br />
-          "أحمد مريض، ذهب أحمد لزيارة الطبيب"
+          &#34;أحمد مريض، ذهب أحمد لزيارة الطبيب&#34;
         </p>
 
         <p className="fr">
@@ -51,7 +52,8 @@ const TradOne = (props: Props) => {
           contexte, le rapport de conséquence).
         </p>
         <p className="ar">
-          يجب بالضرورة إضافة حرف "ف" الذي يعبر في هذا السياق عن العلاقة الناتجة.
+          يجب بالضرورة إضافة حرف &#34;ف&#34; الذي يعبر في هذا السياق عن العلاقة
+          الناتجة.
         </p>
 
         <p className="fr">
@@ -92,10 +94,10 @@ const TradOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          -Les professeurs disent: "les élèves sont intelligents"
+          -Les professeurs disent: &#34;les élèves sont intelligents&#34;
         </p>
         <p className="ar">
-          - يقول المعلمون: "الطلاب أذكياء". <br />
+          - يقول المعلمون:&#34; الطلاب أذكياء&#34;. <br />
           يقول الأساتذة أن التلاميذ أذكياء
         </p>
 
@@ -122,9 +124,9 @@ const TradOne = (props: Props) => {
           réalités supérieures.
         </p>
         <p className="ar">
-          على سبيل المثال، في التعبيرات التالية: "الجمال الثابت" و "أرى العقل
-          يتجلى"، يتم تقديم الجمال والعقل بطريقة استعارية كأشخاص أو كواقعيات
-          متفوقة.
+          على سبيل المثال، في التعبيرات التالية: &#34;الجمال الثابت&#34; و
+          &#34;أرى العقل يتجلى&#34;، يتم تقديم الجمال والعقل بطريقة استعارية
+          كأشخاص أو كواقعيات متفوقة.
         </p>
 
         <p className="fr">
@@ -165,7 +167,7 @@ const TradOne = (props: Props) => {
         </div>
 
         <p className="fr">
-          Théoriquement, il y a deux "temps" principaux en langue arabe:
+          Théoriquement, il y a deux &#34;temps&#34; principaux en langue arabe:
           l&#34;inaccompli (المضارع ), qui équivaut au présent et au futur; et
           l&#34;accompli (الماضي ), qui équivaut au passé.
         </p>

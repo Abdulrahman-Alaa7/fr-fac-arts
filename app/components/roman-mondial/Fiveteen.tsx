@@ -5,11 +5,13 @@ type Props = {};
 const Fiveteen = (props: Props) => {
   return (
     <div>
-      <div className="fourteen bg-[#f2f2f2] dark:bg-background p-2 rounded-md">
-        <div className="heading-ch">
+      <div
+        className={`fourteen bg-[#f2f2f2] dark:bg-background p-2 rounded-md`}
+      >
+        <div className={`heading-ch`}>
           <h3>الفصل الخامس</h3>
         </div>
-        <p className="fr">
+        <p className={`fr`}>
           Un jeudi, en revenant de son bureau, Camille amena avec lui un grand
           gaillard, carré des épaules, qu’il poussa dans la boutique d’un geste
           familier. – Mère, demanda-t-il à madame Raquin en le lui montrant,
@@ -22,17 +24,17 @@ const Fiveteen = (props: Props) => {
           le matin, en sortant de chez son oncle qui était notre voisin, et tu
           lui donnais des tartines de confiture.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           في يوم الخميس، عندما عاد كاميل من مكتبه، جلب معه رجلاً كبير الجسم،
-          واسع الكتفين، دفعه بلطف داخل المتجر. "أمي"، سألها وهو يشير إلى الرجل،
-          "هل تعرفين هذا السيد؟" نظرت العجوز التاجرة إلى الرجل الكبير، بحثت في
-          ذكرياتها ولم تجد شيئًا. تابعت تيريز هذه المشهد بملامح هادئة. "كيف!"،
-          استمر كاميل، "ألا تتعرفين على لوران، الصغير لوران، ابن الأب لوران الذي
-          لديه حقول قمح جميلة عند جيفوس؟ ... ألا تتذكرين؟ ... كنت أذهب إلى
-          المدرسة معه ؛ كان يأتي ليأخذني في الصباح عندما يخرج من عمه الذي كان
-          جارنا، وكنت تعطيه شطائر مربى".
+          واسع الكتفين، دفعه بلطف داخل المتجر. &#34;أمي&#34;، سألها وهو يشير إلى
+          الرجل، &#34;هل تعرفين هذا السيد؟&#34; نظرت العجوز التاجرة إلى الرجل
+          الكبير، بحثت في ذكرياتها ولم تجد شيئًا. تابعت تيريز هذه المشهد بملامح
+          هادئة. &#34;كيف!&#34;، استمر كاميل، &#34;ألا تتعرفين على لوران، الصغير
+          لوران، ابن الأب لوران الذي لديه حقول قمح جميلة عند جيفوس؟ ... ألا
+          تتذكرين؟ ... كنت أذهب إلى المدرسة معه ؛ كان يأتي ليأخذني في الصباح
+          عندما يخرج من عمه الذي كان جارنا، وكنت تعطيه شطائر مربى&#34;.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Madame Raquin se souvint brusquement du petit Laurent, qu’elle trouva
           singulièrement grandi. Il y avait bien vingt ans qu’elle ne l’avait
           vu. Elle voulut lui faire oublier son accueil étonné par un flot de
@@ -40,13 +42,13 @@ const Fiveteen = (props: Props) => {
           assis, il souriait paisiblement, il répondait d’une voix claire, il
           promenait autour de lui des regards calmes et aisés.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           تذكرت السيدة راكان بشكل مفاجئ الصغير لوران الذي وجده كبيرًا بشكل
           ملحوظ. لقد مرت عليها حوالي عشرين عامًا منذ أن رأته. أرادت جعله ينسى
           استقبالها المدهش بفيض من الذكريات والتلاطف الأمومي. جلس لوران، وكان
           يبتسم بصورة هادئة، وكان يجيب بصوت واضح، ينظر حوله بعيون هادئة وسهلة.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           – Figurez-vous, dit Camille, que ce farceur-là est employé à la gare
           du chemin de fer d’Orléans depuis dix-huit mois, et que nous ne nous
           sommes rencontrés et reconnus que ce soir. C’est si vaste, si
@@ -54,24 +56,24 @@ const Fiveteen = (props: Props) => {
           en agrandissant les yeux, en pinçant les lèvres, tout fier d’être
           l’humble rouage d’une grosse machine.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           تخيلوا، قال كاميل، هذا الممازح هنا عامل في محطة قطار أورليان لمدة 18
           شهرا، وأننا لم نلتقِ ونتعرف عليه إلا هذا المساء. إنها إدارة كبيرة
           وهائلة جدًا! أدلى الشاب بهذه الملاحظة مع توسيع عينيه، وتقريب شفتيه،
           فخورًا جدًا بأن يكون جزءًا من آلة ضخمة ومتواضعة.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Il continua en secouant la tête : – Oh ! mais, lui, il se porte bien,
           il a étudié, il gagne déjà quinze cents francs... Son père l’a mis au
           collège ; il a fait son droit et a appris la peinture. N’est-ce pas,
           Laurent ?... Tu vas dîner avec nous.
         </p>
-        <p className="ar">
-          هو استمر في يهز رأسه، وقال: "أوه! ولكنه بخير، درس، ويكسب بالفعل 1500
-          فرنكًا... وضعه والده في المدرسة، ودرس الحقوق وتعلم الرسم. أليس كذلك،
-          لوران؟... ستتناول العشاء معنا."
+        <p className={`ar`}>
+          هو استمر في يهز رأسه، وقال: &#34;أوه! ولكنه بخير، درس، ويكسب بالفعل
+          1500 فرنكًا... وضعه والده في المدرسة، ودرس الحقوق وتعلم الرسم. أليس
+          كذلك، لوران؟... ستتناول العشاء معنا.&#34;
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           – Je veux bien, répondit carrément Laurent. Il se débarrassa de son
           chapeau et s’installa dans la boutique. Madame Raquin courut à ses
           casseroles. Thérèse, qui n’avait pas encore prononcé une parole,
@@ -87,19 +89,19 @@ const Fiveteen = (props: Props) => {
           un peu lourde, le dos bombé, les mouvements lents et précis, l’air
           tranquille et entêté.
         </p>
-        <p className="ar">
-          "أنا موافق"، أجاب لوران بجرأة. تخلص من قبعته وجلس في المحل. ركضت
-          السيدة راكان إلى مقاليها. كانت تيريز، التي لم تنطق بكلمة حتى الآن،
-          تنظر إلى الضيف الجديد. لم ترى أبدًا رجلاً. أدهشها لوران الطويل والقوي
-          والذي يتمتع بوجه نضر. تأملت جبينه المنخفض، المغمور بشعر أسود خشن،
-          وخديه الأمتلئة، وشفتيه الحمراء، ووجهه الجميل الذي يتميز بجمال الدم.
-          توقفت لحظة عند عنقه؛ إذ كان هذا العنق عريضًا وقصيرًا ودهنيًا وقويًا.
-          ثم نسيت نفسها تنظر إلى الأيدي الكبيرة التي كان يفردها على ركبتيه؛ إذ
-          كانت الأصابع مربعة، ويمكن أن يكون القبضة المغلقة ضخمة وقادرة على إسقاط
-          الثور. كان لوران ابنًا حقيقيًا لفلاح، بمظهر ثقيل قليلاً، وظهر منتفخ،
-          وحركات بطيئة ودقيقة، وهو يتمتع بمظهر هادئ وعنيد.
+        <p className={`ar`}>
+          &#34;أنا موافق&#34;، أجاب لوران بجرأة. تخلص من قبعته وجلس في المحل.
+          ركضت السيدة راكان إلى مقاليها. كانت تيريز، التي لم تنطق بكلمة حتى
+          الآن، تنظر إلى الضيف الجديد. لم ترى أبدًا رجلاً. أدهشها لوران الطويل
+          والقوي والذي يتمتع بوجه نضر. تأملت جبينه المنخفض، المغمور بشعر أسود
+          خشن، وخديه الأمتلئة، وشفتيه الحمراء، ووجهه الجميل الذي يتميز بجمال
+          الدم. توقفت لحظة عند عنقه؛ إذ كان هذا العنق عريضًا وقصيرًا ودهنيًا
+          وقويًا. ثم نسيت نفسها تنظر إلى الأيدي الكبيرة التي كان يفردها على
+          ركبتيه؛ إذ كانت الأصابع مربعة، ويمكن أن يكون القبضة المغلقة ضخمة
+          وقادرة على إسقاط الثور. كان لوران ابنًا حقيقيًا لفلاح، بمظهر ثقيل
+          قليلاً، وظهر منتفخ، وحركات بطيئة ودقيقة، وهو يتمتع بمظهر هادئ وعنيد.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           On sentait sous ses vêtements des muscles ronds et développés, tout un
           corps d’une chair épaisse et ferme. Et Thérèse l’examinait avec
           curiosité, allant de ses poings à sa face, éprouvant de petits
@@ -110,15 +112,16 @@ const Fiveteen = (props: Props) => {
           dit-il à Laurent, tu dois connaître ma femme ? Tu ne te rappelles pas
           cette petite cousine qui jouait avec nous, à Vernon ?
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           كانت تيريز تشعر تحت ملابسه بعضلات دائرية ومتطورة، جسدًا كاملاً من لحم
           سميك ومتين. وكانت تيريز تفحصه بفضول، تتحرك من قبضتيه إلى وجهه، وتشعر
           بقشعريرة صغيرة عندما تلتقي عيناها بعنقه المثلث. فرض كاميل كتب بوفون
           وصيحات أسعار عشرة سنتات ليظهر لصديقه أنه يعمل هو الآخر. ثم، كمستجيب
-          لسؤال يتساءل عنه منذ بضع لحظات: "لكن"، قال لوران، "يجب أن تعرف زوجتي؟
-          ألا تتذكر هذه الابنة الصغيرة التي كانت تلعب معنا في فيرنون؟"
+          لسؤال يتساءل عنه منذ بضع لحظات: &#34;لكن&#34;، قال لوران، &#34;يجب أن
+          تعرف زوجتي؟ ألا تتذكر هذه الابنة الصغيرة التي كانت تلعب معنا في
+          فيرنون؟&#34;
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           – J’ai parfaitement reconnu madame, répondit Laurent en regardant
           Thérèse en face. Sous ce regard droit, qui semblait pénétrer en elle,
           la jeune femme éprouva une sorte de malaise. Elle eut un sourire
@@ -126,14 +129,14 @@ const Fiveteen = (props: Props) => {
           se hâta d’aller rejoindre sa tante. Elle souffrait. On se mit à table.
           Dès le potage, Camille crut devoir s’occuper de son ami.
         </p>
-        <p className="ar">
-          "لقد عرفتك جيداً مدام ،", أجاب لوران وهو ينظر إلى تيريز بوجه مباشر.
-          تحت هذه النظرة المستقيمة التي بدت وكأنها تخترقها، شعرت الشابة بنوع من
-          الاحراج. ابتسمت بشكل مُضطر وتبادلت بعض الكلمات مع لوران وزوجها، ثم
-          سارعت إلى الذهاب للانضمام إلى عمتها. كانت تعاني. تم وضع المائدة. منذ
-          الحساء، اعتقد كاميل أنه يجب أن يهتم بصديقه.
+        <p className={`ar`}>
+          &#34;لقد عرفتك جيداً مدام ،&#34;, أجاب لوران وهو ينظر إلى تيريز بوجه
+          مباشر. تحت هذه النظرة المستقيمة التي بدت وكأنها تخترقها، شعرت الشابة
+          بنوع من الاحراج. ابتسمت بشكل مُضطر وتبادلت بعض الكلمات مع لوران
+          وزوجها، ثم سارعت إلى الذهاب للانضمام إلى عمتها. كانت تعاني. تم وضع
+          المائدة. منذ الحساء، اعتقد كاميل أنه يجب أن يهتم بصديقه.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           – Comment va ton père ? lui demanda-t-il. – Mais je ne sais pas,
           répondit Laurent. Nous 57 sommes brouillés ; il y a cinq ans que nous
           ne nous écrivons plus. – Bah ! s’écria l’employé, étonné d’une
@@ -144,16 +147,17 @@ const Fiveteen = (props: Props) => {
           ambitions utiles ; il veut tirer parti même de ses folies. – Et tu
           n’as pas voulu être avocat ? dit Camille, de plus en plus étonné.
         </p>
-        <p className="ar">
-          "كيف حال والدك؟" سأله كاميل. "لست أدري"، أجاب لوران. "نحن في خلاف، ولم
-          نتبادل الرسائل منذ خمس سنوات". "أها!" صاح الأمين، مذهولًا من هذا
-          الوحشية. "نعم، الرجل العزيز لديه أفكاره الخاصة... حيث أنه يخوض دائماً
-          نزاعات مع جيرانه، وضعني في المدرسة، ويحلم بأن يجد فيني محامياً يفوز
-          بجميع قضاياه في المستقبل... أوه! الأب لوران لديه طموحات فائدة، ويريد
-          الاستفادة من حماقاته حتى". "وأنت لم ترغب في أن تصبح محاميًا؟" سأل
+        <p className={`ar`}>
+          &#34;كيف حال والدك؟&#34; سأله كاميل. &#34;لست أدري&#34;، أجاب لوران.
+          &#34;نحن في خلاف، ولم نتبادل الرسائل منذ خمس سنوات&#34;.
+          &#34;أها!&#34; صاح الأمين، مذهولًا من هذا الوحشية. &#34;نعم، الرجل
+          العزيز لديه أفكاره الخاصة... حيث أنه يخوض دائماً نزاعات مع جيرانه،
+          وضعني في المدرسة، ويحلم بأن يجد فيني محامياً يفوز بجميع قضاياه في
+          المستقبل... أوه! الأب لوران لديه طموحات فائدة، ويريد الاستفادة من
+          حماقاته حتى&#34;. &#34;وأنت لم ترغب في أن تصبح محاميًا؟&#34; سأل
           كاميل، متزايدًا في التعجب.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           – Ma foi non, reprit son ami en riant... Pendant deux ans, j’ai fait
           semblant de suivre les cours, afin de toucher la pension de douze
           cents francs que mon père me servait. Je vivais avec un de mes
@@ -161,16 +165,16 @@ const Fiveteen = (props: Props) => {
           de la peinture. Cela m’amusait ; le métier est drôle, pas fatigant.
           Nous fumions, nous blaguions tout le jour...
         </p>
-        <p className="ar">
-          "حسنًا، لا"، أجاب صديقه وهو يضحك. "لمدة عامين، قمت بالتظاهر بحضور
-          الدروس لأخذ المنحة البالغة 1200 فرنك التي كان يدفعها لي والدي. عشت مع
-          أحد أصدقائي في المدرسة، وهو رسام، وبدأت أنا أيضًا في الرسم، ما كان
-          يمتعني. هذه المهنة ممتعة ولا تتطلب الكثير من الجهد. كنا ندخن ونمزح
-          طوال اليوم".
+        <p className={`ar`}>
+          &#34;حسنًا، لا&#34;، أجاب صديقه وهو يضحك. &#34;لمدة عامين، قمت
+          بالتظاهر بحضور الدروس لأخذ المنحة البالغة 1200 فرنك التي كان يدفعها لي
+          والدي. عشت مع أحد أصدقائي في المدرسة، وهو رسام، وبدأت أنا أيضًا في
+          الرسم، ما كان يمتعني. هذه المهنة ممتعة ولا تتطلب الكثير من الجهد. كنا
+          ندخن ونمزح طوال اليوم&#34;.
         </p>
-        <p className="fr">La famille Raquin ouvrait des yeux énormes.</p>
-        <p className="ar">عائلة راكان افتتحت عيونها الكبيرة بدهشة.</p>
-        <p className="fr">
+        <p className={`fr`}>La famille Raquin ouvrait des yeux énormes.</p>
+        <p className={`ar`}>عائلة راكان افتتحت عيونها الكبيرة بدهشة.</p>
+        <p className={`fr`}>
           – Par malheur, continua Laurent, cela ne pouvait durer. Le père a su
           que je lui contais des mensonges, il m’a retranché net mes cent francs
           par mois, en m’invitant à venir piocher la terre avec lui. J’ai essayé
@@ -179,15 +183,15 @@ const Fiveteen = (props: Props) => {
           tous les diables et j’ai cherché un emploi... Le père mourra bien un
           de ces jours ; j’attends ça pour vivre sans rien faire.
         </p>
-        <p className="ar">
-          "للأسف، لم يمكن أن يستمر هذا"، واصل لوران، "لقد علم والدي أنني أخبره
-          بالأكاذيب، وقام بإيقاع عقوبة علي بأن قطع منحتي الشهرية المكونة من مائة
-          فرنك صرفها لي، ودعاني للعمل في الحقل معه. حاولت بعدها رسم لوحات دينية؛
-          ولكن كانت تجارة سيئة... عندما رأيت أنني سأموت جوعًا، قمت بإرسال الفن
-          إلى الجحيم وبدأت البحث عن وظيفة... الأب سيموت يومًا ما، وأنا أنتظر ذلك
-          لأعيش من دون فعل أي شيء."
+        <p className={`ar`}>
+          &#34;للأسف، لم يمكن أن يستمر هذا&#34;، واصل لوران، &#34;لقد علم والدي
+          أنني أخبره بالأكاذيب، وقام بإيقاع عقوبة علي بأن قطع منحتي الشهرية
+          المكونة من مائة فرنك صرفها لي، ودعاني للعمل في الحقل معه. حاولت بعدها
+          رسم لوحات دينية؛ ولكن كانت تجارة سيئة... عندما رأيت أنني سأموت جوعًا،
+          قمت بإرسال الفن إلى الجحيم وبدأت البحث عن وظيفة... الأب سيموت يومًا
+          ما، وأنا أنتظر ذلك لأعيش من دون فعل أي شيء.&#34;
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Laurent parlait d’une voix tranquille. Il venait, en quelques mots, de
           conter une histoire caractéristique qui le peignait en entier. Au
           fond, c’était un paresseux, ayant des appétits sanguins, des désirs
@@ -198,7 +202,7 @@ const Fiveteen = (props: Props) => {
           remuer de place, sans courir la mauvaise chance d’une fatigue
           quelconque.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           كان لوران يتحدث بصوت هادئ. قدم، في بضع كلمات، قصة مميزة تصفه تمامًا.
           في الأساس، كان كسولًا، لديه شهوات دموية، ورغبات محددة جدًا في
           الاستمتاع بلحظات سهلة ودائمة. هذا الجسد الكبير والقوي لا يرغب سوى في
@@ -206,7 +210,7 @@ const Fiveteen = (props: Props) => {
           يريد الأكل الجيد والنوم الجيد وإشباع شهواته بشكل وافر، دون أن يتحرك من
           مكانه، أو يواجه سوء الحظ الناجم عن أي تعب.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           La profession d’avocat l’avait épouvanté, et il frissonnait à l’idée
           de piocher la terre. Il s’était jeté dans l’art, espérant y trouver un
           métier de paresseux ; le pinceau lui semblait un instrument léger à
@@ -220,7 +224,7 @@ const Fiveteen = (props: Props) => {
           disait, il envoya la peinture au diable, le jour où il s’aperçut
           qu’elle ne contenterait jamais ses larges appétits.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           كانت مهنة المحاماة تخيفه، وكان يرتجف عند التفكير في العمل في الحقل.
           لذلك قرّر الانخراط في الفن، على أمل أن يجد وظيفة تناسب كسله؛ حيث كان
           يرى أن الفرشاة هي أداة سهلة الاستخدام، وكان يعتقد أن النجاح سهل
@@ -231,7 +235,7 @@ const Fiveteen = (props: Props) => {
           وكما قال، قدم الفن إلى الشيطان، في اليوم الذي أدرك فيه أنه لن يستطيع
           إشباع شهواته الكبيرة من خلاله.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Ses premiers essais étaient restés audessous de la médiocrité ; son
           oeil de paysan voyait gauchement et salement la nature ; ses toiles,
           boueuses, mal bâties, grimaçantes, défiaient toute critique.
@@ -249,7 +253,7 @@ const Fiveteen = (props: Props) => {
           restaurants à dix-huit sous n’apaisait pas les appétits gloutons de
           son estomac.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           كانت بداياته في الرسم أسفل المتوسط، حيث كان نظره الريفي يرى الطبيعة
           بشكل غير متقن ومتسخ. كانت لوحاته غير متساوية، وغير جيدة البنية، وتصدى
           لها أي انتقاد بتحديٍ. علاوة على ذلك، لم يبد أي كبرياء كفنان، ولم ييأس
@@ -263,20 +267,20 @@ const Fiveteen = (props: Props) => {
           يزعجانه فقط: كان يعاني من نقص النساء، وكانت طعام المطاعم التي تبلغ
           قيمتها 18 سنتًا لا ترضي شهوات بطنه الجشعة.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Camille l’écoutait, le regardait avec un étonnement de niais. Ce
           garçon débile, dont le corps mou et affaissé n’avait jamais eu une
           secousse de désir, rêvait puérilement à cette vie d’atelier dont son
           ami lui parlait. Il songeait à ces femmes qui étalent leur peau nue.
           Il questionna Laurent.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           كاميل كان يستمع إليه وينظر إليه بدهشة مثل الأحمق. هذا الشاب الضعيف
           الذي لم تهتز جسمه اللين والمترهل يومًا باندفاع الشهوة، كان يحلم بطفولة
           بحياة الاستوديو التي يتحدث له عنها صديقه. كان يفكر في تلك النساء
           اللواتي يعرضن جلدهن العاري. فسأل لوران.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           – Alors, lui dit-il, il y a eu, comme ça, des femmes qui ont retiré
           leur chemise devant toi ? – Mais oui, répondit Laurent en souriant et
           en regardant Thérèse qui était devenue très pâle. – Ça doit vous faire
@@ -290,19 +294,20 @@ const Fiveteen = (props: Props) => {
           modèle une rousse qui était adorable : des chairs fermes, éclatantes,
           une poitrine superbe, des hanches d’une largeur...
         </p>
-        <p className="ar">
-          فقال له: "في هذه الحالة، هل كان هناك نساء يخلعن قمصانهن أمامك؟" فأجاب
-          لوران وهو يبتسم وينظر إلى تيريز التي أصبحت شاحبة جدًا: "نعم، كان
-          هناك". واصل كاميل بضحكة الطفل: "يجب أن يكون لديك شعور غريب... أنا لكن
-          سأشعر بالإحراج... في المرة الأولى، أعتقد أنك كنت غبياً... الفن هو شيء
-          ممتع، ولكنه لا يجلب أي دخل... كانت لدي موديل جميلة ذات شعر أحمر: جسم
-          رشيق، وثدي رائع، وورك عريض...". لقد وسع لوران إحدى يديه ونظر إلى راحته
-          بانتباه، وقد شعرت أصابعه بانتفاضات خفيفة، ثم ظهرت شررات حمراء على
-          وجنتيه. "في المرة الأولى"، تابع كما لو أنه يتحدث إلى نفسه، "أعتقد أنني
-          وجدت ذلك شيئًا طبيعيًا... إنه ممتع حقًا، هذا الفن اللعين، لكنه لا يجلب
-          أي دخل...".
+        <p className={`ar`}>
+          فقال له: &#34;في هذه الحالة، هل كان هناك نساء يخلعن قمصانهن
+          أمامك؟&#34; فأجاب لوران وهو يبتسم وينظر إلى تيريز التي أصبحت شاحبة
+          جدًا: &#34;نعم، كان هناك&#34;. واصل كاميل بضحكة الطفل: &#34;يجب أن
+          يكون لديك شعور غريب... أنا لكن سأشعر بالإحراج... في المرة الأولى،
+          أعتقد أنك كنت غبياً... الفن هو شيء ممتع، ولكنه لا يجلب أي دخل... كانت
+          لدي موديل جميلة ذات شعر أحمر: جسم رشيق، وثدي رائع، وورك عريض...&#34;.
+          لقد وسع لوران إحدى يديه ونظر إلى راحته بانتباه، وقد شعرت أصابعه
+          بانتفاضات خفيفة، ثم ظهرت شررات حمراء على وجنتيه. &#34;في المرة
+          الأولى&#34;، تابع كما لو أنه يتحدث إلى نفسه، &#34;أعتقد أنني وجدت ذلك
+          شيئًا طبيعيًا... إنه ممتع حقًا، هذا الفن اللعين، لكنه لا يجلب أي
+          دخل...&#34;.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Laurent leva la tête et vit Thérèse devant lui, muette, immobile. La
           jeune femme le regardait avec une fixité ardente. Ses yeux, d’un noir
           mat, semblaient deux trous sans fond, et, par ses lèvres entrouvertes,
@@ -313,7 +318,7 @@ const Fiveteen = (props: Props) => {
           que la jeune femme suivit du regard. On était au dessert, et madame
           Raquin venait de descendre pour servir une cliente.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           لوران رفع رأسه ورأى تيريز أمامه، صامتة وثابتة. كانت الشابة تنظر إليه
           بعينين حارقتين. كانت عيناها سوداوين وداكنتين، تشبهان حفرتين بلا قاع،
           وكانت شفتاها المفتوحتان تظهران وهجًا ورديًا في فمها. كانت مرتجفة
@@ -322,7 +327,7 @@ const Fiveteen = (props: Props) => {
           بعينيها. كانوا في نهاية العشاء، وكانت السيدة راكان قد نزلت لخدمة
           زبونة.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Quand la nappe fut retirée, Laurent, songeur depuis quelques minutes,
           s’adressa brusquement à Camille. – Tu sais, lui dit-il, il faut que je
           fasse ton portrait. Cette idée enchanta madame Raquin et son fils.
@@ -334,17 +339,17 @@ const Fiveteen = (props: Props) => {
           heures sonnaient. Grivet et Michaud firent leur entrée. Olivier et
           Suzanne arrivèrent derrière eux.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           عندما تم إزالة المفرش، تحول لوران إلى التفكير لبضع دقائق، ثم تحدث
-          بصراحة إلى كاميل. "تعرف،" قال له، "يجب أن أرسم صورتك." هذه الفكرة أسرت
-          السيدة راكان وابنها. بقيت تيريز صامتة. "نحن في الصيف،" واصل لوران،
-          "وبما أننا نخرج من المكتب في الرابعة، يمكنني أن أأتي هنا وألتقط لك
-          صورة لمدة ساعتين في المساء. سيستغرق الأمر ثمانية أيام." "هذا صحيح،"
-          أجاب كاميل، وهو يحمر من الفرح، "ستتعشى معنا... سأجعل شعري يتجعد وأرتدي
-          سترة سوداء." كان الساعة الثامنة، ودخل غريفيت وميشو وراءهما جاء
-          أوليفييه وسوزان.
+          بصراحة إلى كاميل. &#34;تعرف،&#34; قال له، &#34;يجب أن أرسم صورتك.&#34;
+          هذه الفكرة أسرت السيدة راكان وابنها. بقيت تيريز صامتة. &#34;نحن في
+          الصيف،&#34; واصل لوران، &#34;وبما أننا نخرج من المكتب في الرابعة،
+          يمكنني أن أأتي هنا وألتقط لك صورة لمدة ساعتين في المساء. سيستغرق الأمر
+          ثمانية أيام.&#34; &#34;هذا صحيح،&#34; أجاب كاميل، وهو يحمر من الفرح،
+          &#34;ستتعشى معنا... سأجعل شعري يتجعد وأرتدي سترة سوداء.&#34; كان
+          الساعة الثامنة، ودخل غريفيت وميشو وراءهما جاء أوليفييه وسوزان.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Camille présenta son ami à la société. Grivet pinça les lèvres. Il
           détestait Laurent, dont les appointements avaient monté trop vite,
           selon lui. D’ailleurs c’était toute une affaire que l’introduction
@@ -354,7 +359,7 @@ const Fiveteen = (props: Props) => {
           Il raconta des histoires, égaya la soirée par son gros rire, et gagna
           l’amitié de Grivet luimême.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           قدم كاميل صديقه إلى الحضور. قام غريفيت بتقويض شفتيه. كان يكره لوران
           الذي كانت أجرته قد ارتفعت بسرعة كبيرة برأيه. علاوة على ذلك، كانت مسألة
           إدخال ضيف جديد كلها قضية: لا يمكن لضيوف راكان استقبال شخص غريب دون بعض
@@ -362,7 +367,7 @@ const Fiveteen = (props: Props) => {
           بصداقة غريفيت نفسه. روى قصصًا، وأضفى على الأمسية مرحًا بضحكته الكبيرة،
           ونال صداقة غريفيت بنفسه.
         </p>
-        <p className="fr">
+        <p className={`fr`}>
           Thérèse, ce soir-là, ne chercha pas à descendre à la boutique. Elle
           resta jusqu’à onze heures sur sa chaise, jouant et causant, évitant de
           rencontrer les regards de Laurent, qui d’ailleurs ne s’occupait pas
@@ -371,7 +376,7 @@ const Fiveteen = (props: Props) => {
           personne, troublaient la jeune femme et la jetaient dans une sorte
           d’angoisse nerveuse.
         </p>
-        <p className="ar">
+        <p className={`ar`}>
           هذا المساء، لم تحاول تيريز النزول إلى المحل. بقيت على كرسيها حتى
           الحادية عشر مساءً، تلعب وتتحدث، وتتجنب لقاء نظرات لوران، الذي لم يهتم
           بها على أي حال. كان الطبيعة المتفجرة لهذا الشاب، وصوته الكامل، وضحكاته

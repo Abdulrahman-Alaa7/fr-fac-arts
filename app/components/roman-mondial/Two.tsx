@@ -166,8 +166,9 @@ const Two = (props: Props) => {
         </p>
 
         <p className="ar">
-          الرواية الرائعة التي تعمل على اضطراب الواقع ، مثل La Vénus d'Ille لـ
-          Prosper Mérimé و Thérèse Raquin لـ Zola التي تمثل الرواية التجريبية.
+          الرواية الرائعة التي تعمل على اضطراب الواقع ، مثل La Vénus d&#34;Ille
+          لـ Prosper Mérimé و Thérèse Raquin لـ Zola التي تمثل الرواية
+          التجريبية.
         </p>
 
         <p className="fr">
@@ -219,8 +220,8 @@ const Two = (props: Props) => {
         </p>
 
         <p className="ar">
-          بدأ كتابة الروايات تحت اسم مستعار "جون لو كاريه" من بين رواياته:
-          الجاسوس الذي جاء من البرد.
+          بدأ كتابة الروايات تحت اسم مستعار &#34;جون لو كاريه&#34; من بين
+          رواياته: الجاسوس الذي جاء من البرد.
         </p>
 
         <div className="heading">
@@ -236,8 +237,8 @@ const Two = (props: Props) => {
         </p>
 
         <p className="ar">
-          يمكننا القول أن الرواية هي الشكل الأدبي المفضل لهذه "الرؤية للعالم"
-          بفضل الشخصيات التي ستتطور في هذا العالم وتدرك الواقع.
+          يمكننا القول أن الرواية هي الشكل الأدبي المفضل لهذه &#34;الرؤية
+          للعالم&#34; بفضل الشخصيات التي ستتطور في هذا العالم وتدرك الواقع.
         </p>
         <div className="heading">
           <h2>Les constituants du roman</h2>
@@ -347,7 +348,9 @@ const Two = (props: Props) => {
           principal’’.
         </p>
 
-        <p className="ar">بطل الرواية "شخص يلعب دور الشخصية الرئيسية".</p>
+        <p className="ar">
+          بطل الرواية &#34;شخص يلعب دور الشخصية الرئيسية&#34;.
+        </p>
 
         <p className="fr">
           Il désigne d’abord un acteur jouant le personnage principal, puis, par
@@ -503,7 +506,8 @@ const Two = (props: Props) => {
         <p className="ar">
           في كثير من الأحيان ، لا يُقصد من استخدام الشكل هذا إحداث تأثير معين ،
           فهو قبل كل شيء مسألة حفظ التكرار ، غالبًا عن طريق التعداد: على سبيل
-          المثال : "بيير يأكل الكرز ، بول يأكل الفراولة": حذف المترافق " يأكل
+          المثال : &#34;بيير يأكل الكرز ، بول يأكل الفراولة&#34;: حذف المترافق
+          &#34; يأكل
         </p>
 
         <p className="fr">
@@ -534,9 +538,9 @@ const Two = (props: Props) => {
         </p>
 
         <p className="ar">
-          "مر يومان ، لم تتحرك ، لمسها بإيماءته الميكانيكية ، مطمئنًا ليشعرها
-          بالهدوء الشديد. شعر إتيان بصدمة. دقاتت الأصوات ، وتدحرجت الصخور على
-          قدميه. عندما رأى المصباح بكى ... ''.
+          &#34; مر يومان ، لم تتحرك ، لمسها بإيماءته الميكانيكية ، مطمئنًا
+          ليشعرها بالهدوء الشديد. شعر إتيان بصدمة. دقاتت الأصوات ، وتدحرجت
+          الصخور على قدميه. عندما رأى المصباح بكى ... &#34;&#34;.
         </p>
 
         <p className="fr">
@@ -1334,8 +1338,8 @@ const Two = (props: Props) => {
         </p>
         <p className="ar">
           يتم التعامل مع هذا الموضوع المأساوي بأدوات الرواية الواقعية ، والتي
-          يقارنها تولستوي بـ "تجربة معملية" ، تتمثل في إعادة الحياة إلى شخصيات
-          خيالية في مشاهد ملموسة من الحياة اليومية لعصرهم.
+          يقارنها تولستوي بـ &#34;تجربة معملية&#34; ، تتمثل في إعادة الحياة إلى
+          شخصيات خيالية في مشاهد ملموسة من الحياة اليومية لعصرهم.
         </p>
 
         <p className="fr">
@@ -1963,10 +1967,10 @@ const Two = (props: Props) => {
         <p className="ar">مثلنا زولا شخصيات ذات شخصيات مختلفة مثل :</p>
 
         <p className="fr">Laurent’ ’tempérament sanguin’’</p>
-        <p className="ar">لوران "المزاج الدموي"</p>
+        <p className="ar">لوران &#34;المزاج الدموي&#34;</p>
 
         <p className="fr">Thérèse ‘’nerveuse’’ et ‘’hystérique’’</p>
-        <p className="ar">تيريز "عصبية" و "هستيرية"</p>
+        <p className="ar">تيريز &#34;عصبية&#34; و &#34;هستيرية&#34;</p>
 
         <p className="fr">Camille ‘’nerveux + représente ‘’un mort-vivant’’</p>
         <p className="ar">كميل عصبي + يمثل ميتا حيا</p>
@@ -1985,7 +1989,7 @@ const Two = (props: Props) => {
           tempéraments et non des caractères.
         </p>
         <p className="ar">
-          مشروع زولا في تيريز راكوين: "أردت دراسة المزاجات وليس الشخصيات.
+          مشروع زولا في تيريز راكوين: &#34;أردت دراسة المزاجات وليس الشخصيات.
         </p>
 
         <p className="fr">
@@ -1996,9 +2000,9 @@ const Two = (props: Props) => {
           pensées :
         </p>
         <p className="ar">
-          '' اخترت شخصيات سيادية تهيمن عليها أعصابهم ودمائهم ، خالية من الإرادة
-          الحرة ، مدفوعة إلى كل عمل من حياتهم بقتلى أجسادهم. في جميع أنحاء
-          الرواية ، فإن الإطار الذي تتطور فيه الشخصيات هو انعكاس لأفكارهم:
+          &#34;&#34; اخترت شخصيات سيادية تهيمن عليها أعصابهم ودمائهم ، خالية من
+          الإرادة الحرة ، مدفوعة إلى كل عمل من حياتهم بقتلى أجسادهم. في جميع
+          أنحاء الرواية ، فإن الإطار الذي تتطور فيه الشخصيات هو انعكاس لأفكارهم:
         </p>
 
         <p className="fr">
@@ -2026,7 +2030,7 @@ const Two = (props: Props) => {
         </p>
         <p className="ar">
           يتم تقديم الأخيرة على أنها شابة تبلغ من العمر 18 عامًا تتمتع بجسم رشيق
-          وقوي. على الوجه ذي الصبغات الباهتة والصفراء قليلاً. "(انظر الفصل
+          وقوي. على الوجه ذي الصبغات الباهتة والصفراء قليلاً. &#34;(انظر الفصل
           الثاني)
         </p>
 
@@ -2056,7 +2060,7 @@ const Two = (props: Props) => {
         </div>
 
         <p className="fr">
-          Zola a été considéré comme le chef de l'école naturaliste, dans le
+          Zola a été considéré comme le chef de l&#34;école naturaliste, dans le
           roman.
         </p>
         <p className="ar">كان زولا يعتبر رئيس مدرسة الطبيعة في الرواية.</p>
@@ -2070,13 +2074,13 @@ const Two = (props: Props) => {
           بشكل خاص:
         </p>
 
-        <p className="fr">l'Assommoir, Germinal, la Débâcle.</p>
+        <p className="fr">l&#34;Assommoir, Germinal, la Débâcle.</p>
         <p className="ar">أسوموار ، جرمينال ، الكارثة.</p>
 
         <p className="fr">
-          Ce naturaliste a l'imagination puissante d'un romantique, et ses
-          descriptions sont à la fois précises et colorées; mais on doit faire
-          d'expresses réserves sur la moralité de ses ouvrages.
+          Ce naturaliste a l&#34;imagination puissante d&#34;un romantique, et
+          ses descriptions sont à la fois précises et colorées; mais on doit
+          faire d&#34;expresses réserves sur la moralité de ses ouvrages.
         </p>
         <p className="ar">
           هذا عالم الطبيعة لديه خيال قوي للرومانسية ، ووصفه دقيق وملون ؛ لكن يجب
@@ -2101,60 +2105,61 @@ const Two = (props: Props) => {
         </p>
 
         <p className="fr">
-          En 1864, il écrivit les "contes à Ninon", sa première œuvre littéraire
-          publiée.
+          En 1864, il écrivit les &#34;contes à Ninon&#34;, sa première œuvre
+          littéraire publiée.
         </p>
         <p className="ar">
-          في عام 1864 ، كتب "حكايات نينون" ، أول عمل أدبي منشور له.
+          في عام 1864 ، كتب &#34;حكايات نينون&#34; ، أول عمل أدبي منشور له.
         </p>
 
         <p className="fr">
-          C'est trois ans plus tard, en 1867, qu'il écrivit "Thérèse Raquin",
-          considéré comme son premier chef-d’œuvre.
+          C&#34;est trois ans plus tard, en 1867, qu&#34;il écrivit &#34;Thérèse
+          Raquin&#34;, considéré comme son premier chef-d’œuvre.
         </p>
         <p className="ar">
-          وبعد ثلاث سنوات ، في عام 1867 ، كتب "تيريز راكوين" ، التي تعتبر أول
-          تحفة فنية له.
+          وبعد ثلاث سنوات ، في عام 1867 ، كتب &#34;تيريز راكوين&#34; ، التي
+          تعتبر أول تحفة فنية له.
         </p>
 
         <p className="fr">
-          Cependant, il est principalement connu pour "les Rougon-Macquart",
-          presque romanesque en vingt volumes
+          Cependant, il est principalement connu pour &#34;les
+          Rougon-Macquart&#34;, presque romanesque en vingt volumes
         </p>
         <p className="ar">
-          ومع ذلك ، فهو معروف بشكل أساسي بـ "les Rougon-Macquart" ، الذي يكاد
-          يكون رومانسيًا في عشرين مجلدًا
+          ومع ذلك ، فهو معروف بشكل أساسي بـ &#34;les Rougon-Macquart&#34; ، الذي
+          يكاد يكون رومانسيًا في عشرين مجلدًا
         </p>
 
-        <p className="fr">(notamment L'Assommoir.</p>
-        <p className="ar">لا سيما L'Assommoir .</p>
+        <p className="fr">(notamment L&#34;Assommoir.</p>
+        <p className="ar">لا سيما L&#34;Assommoir .</p>
 
-        <p className="fr">1878: "Nana" 1880.</p>
-        <p className="ar">1878: "نانا" 1880.</p>
+        <p className="fr">1878: &#34;Nana&#34; 1880.</p>
+        <p className="ar">1878: &#34;نانا&#34; 1880.</p>
 
-        <p className="fr">" Au bonheur des Dames", 1883,</p>
-        <p className="ar">"إلى سعادة السيدات" ، 1883 ،</p>
+        <p className="fr">&#34; Au bonheur des Dames&#34;, 1883,</p>
+        <p className="ar">&#34;إلى سعادة السيدات&#34; ، 1883 ،</p>
 
-        <p className="fr">"Germinal' 1885 ;</p>
-        <p className="ar">"Germinale" 1885 ؛</p>
+        <p className="fr">&#34;Germinal&#34; 1885 ;</p>
+        <p className="ar">&#34;Germinale&#34; 1885 ؛</p>
 
-        <p className="fr">"L'œuvre", 1886 ;</p>
-        <p className="ar">"العمل" ، 1886 ؛</p>
+        <p className="fr">&#34;L&#34;œuvre&#34;, 1886 ;</p>
+        <p className="ar">&#34;العمل&#34; ، 1886 ؛</p>
 
-        <p className="fr">"La terre", 1887 ,</p>
-        <p className="ar">"الأرض" ، 1887 ،</p>
+        <p className="fr">&#34;La terre&#34;, 1887 ,</p>
+        <p className="ar">&#34;الأرض&#34; ، 1887 ،</p>
 
-        <p className="fr">"La Bête humaine", 1890;</p>
-        <p className="ar">"الوحش البشري" ، 1890 ؛</p>
+        <p className="fr">&#34;La Bête humaine&#34;, 1890;</p>
+        <p className="ar">&#34;الوحش البشري&#34; ، 1890 ؛</p>
 
-        <p className="fr">"L'Argent", 1891)</p>
-        <p className="ar">"المال" ، 1891)</p>
+        <p className="fr">&#34;L&#34;Argent&#34;, 1891)</p>
+        <p className="ar">&#34;المال&#34; ، 1891)</p>
 
         <p className="fr">
           dépeignant la société française sous le second Empire et qui met en
           scène la trajectoire de la famille des Rougon- Macquart, à travers ses
-          différentes générations et dont chacun des représentants d'une époque
-          et d'une génération particulière fait l'objet d'un roman.
+          différentes générations et dont chacun des représentants d&#34;une
+          époque et d&#34;une génération particulière fait l&#34;objet d&#34;un
+          roman.
         </p>
         <p className="ar">
           يصور المجتمع الفرنسي في ظل الإمبراطورية الثانية والذي يصور مسار عائلة
@@ -2164,9 +2169,9 @@ const Two = (props: Props) => {
 
         <p className="fr">
           Indigné par la dégradation du capitaine Dreyfus, le 5 janvier 1895, à
-          l'école militaire, il dénonce à la fin de l'année dans trois articles
-          publiés par Le Figaro les campagnes de presse contre la république et
-          les juifs.
+          l&#34;école militaire, il dénonce à la fin de l&#34;année dans trois
+          articles publiés par Le Figaro les campagnes de presse contre la
+          république et les juifs.
         </p>
         <p className="ar">
           استياء من إهانة الكابتن دريفوس ، في 5 يناير 1895 ، في المدرسة العسكرية
@@ -2175,20 +2180,20 @@ const Two = (props: Props) => {
         </p>
 
         <p className="fr">
-          Convaincu que le véritable coupable de l'affaire Dreyfus est le
-          commandant Esterhazy, qui est acquitté à l'unanimité le 11 janvier
-          1898, Zola publie dans l'Aurore deux jours plus tard l'article
-          "j'accuse" .
+          Convaincu que le véritable coupable de l&#34;affaire Dreyfus est le
+          commandant Esterhazy, qui est acquitté à l&#34;unanimité le 11 janvier
+          1898, Zola publie dans l&#34;Aurore deux jours plus tard l&#34;article
+          &#34;j&#34;accuse&#34; .
         </p>
         <p className="ar">
           مقتنعًا بأن الجاني الحقيقي في قضية دريفوس هو الرائد إسترهازي ، الذي
-          تمت تبرئته بالإجماع في 11 يناير 1898 ، نشر زولا مقالة "أنا أتهم" في
-          Aurore بعد يومين.
+          تمت تبرئته بالإجماع في 11 يناير 1898 ، نشر زولا مقالة &#34;أنا
+          أتهم&#34; في Aurore بعد يومين.
         </p>
 
         <p className="fr">
-          Condamné à un an d'emprisonnement et à 3000 francs d'amende, il doit
-          quitter la France le 18 juillet 1898.
+          Condamné à un an d&#34;emprisonnement et à 3000 francs d&#34;amende,
+          il doit quitter la France le 18 juillet 1898.
         </p>
         <p className="ar">
           حكم عليه بالسجن لمدة عام وغرامة قدرها 3000 فرنك ، واضطر لمغادرة فرنسا
@@ -2196,28 +2201,30 @@ const Two = (props: Props) => {
         </p>
 
         <p className="fr">
-          Après son cycle des "Trois Villes", il entame la création d'un nouveau
-          cycle, "Les Quatre Evangiles" dont le premier volume, "Fécondité" est
-          publié en 1899 . "Travail" suit en 1901. "Vérité" paraît à titre
-          posthume .
+          Après son cycle des &#34;Trois Villes&#34;, il entame la création
+          d&#34;un nouveau cycle, &#34;Les Quatre Evangiles&#34; dont le premier
+          volume, &#34;Fécondité&#34; est publié en 1899 . &#34;Travail&#34;
+          suit en 1901. &#34;Vérité&#34; paraît à titre posthume .
         </p>
         <p className="ar">
-          بعد دورته في "المدن الثلاث" ، بدأ في إنشاء دورة جديدة ، "الأناجيل
-          الأربعة" التي نُشر مجلدها الأول ، "الخصوبة" في عام 1899. تبع "العمل"
-          في عام 1901. ظهرت كلمة "الحقيقة" بعد وفاته.
+          بعد دورته في &#34;المدن الثلاث&#34; ، بدأ في إنشاء دورة جديدة ،
+          &#34;الأناجيل الأربعة&#34; التي نُشر مجلدها الأول ، &#34;الخصوبة&#34;
+          في عام 1899. تبع &#34;العمل&#34; في عام 1901. ظهرت كلمة
+          &#34;الحقيقة&#34; بعد وفاته.
         </p>
 
         <p className="fr">
-          Et "Justice" ne paraîtra jamais , l'ouvrage étant resté à l'état
-          d'ébauche au moment de la mort de l'écrivain .
+          Et &#34;Justice&#34; ne paraîtra jamais , l&#34;ouvrage étant resté à
+          l&#34;état d&#34;ébauche au moment de la mort de l&#34;écrivain .
         </p>
         <p className="ar">
-          ولن تظهر "العدالة" أبدًا ، فقد ظل العمل في شكل مسودة وقت وفاة الكاتب.
+          ولن تظهر&#34;العدالة&#34; أبدًا ، فقد ظل العمل في شكل مسودة وقت وفاة
+          الكاتب.
         </p>
 
         <p className="fr">
           De retour de Médan, il serait mort asphyxié dans la nuit, par la
-          combustion lente résiduelle d'un feu couvert , produite par la
+          combustion lente résiduelle d&#34;un feu couvert , produite par la
           cheminée de leur chambre dans leur appartement.
         </p>
         <p className="ar">
@@ -2245,7 +2252,8 @@ const Two = (props: Props) => {
         </p>
 
         <p className="fr">
-          Zola est l'un des romanciers français les pius populaires au monde.
+          Zola est l&#34;un des romanciers français les pius populaires au
+          monde.
         </p>
         <p className="ar">زولا هو أحد أشهر الروائيين الفرنسيين في العالم.</p>
 
@@ -2258,7 +2266,8 @@ const Two = (props: Props) => {
         </p>
 
         <p className="fr">
-          Sa vie et son oeuvre on fait l'obiet de nombreuses études historiques.
+          Sa vie et son oeuvre on fait l&#34;obiet de nombreuses études
+          historiques.
         </p>
         <p className="ar">
           كانت حياته وعمله موضوع العديد من الدراسات التاريخية.
@@ -2271,8 +2280,8 @@ const Two = (props: Props) => {
         </div>
 
         <p className="fr">
-          A vingt-sept ans, en 1867, Emile Zola ne s'est pas encore attaqué aux
-          Rougon-Macquart, son oeuvre géante .
+          A vingt-sept ans, en 1867, Emile Zola ne s&#34;est pas encore attaqué
+          aux Rougon-Macquart, son oeuvre géante .
         </p>
         <p className="ar">
           في السابعة والعشرين ، في عام 1867 ، لم يكن إميل زولا قد تعامل مع روجون
@@ -2280,11 +2289,11 @@ const Two = (props: Props) => {
         </p>
 
         <p className="fr">
-          comment s'imposer "quand on a le malheur d'être né au confluent de
-          Hugo et de Balzac".?
+          comment s&#34;imposer &#34;quand on a le malheur d&#34;être né au
+          confluent de Hugo et de Balzac&#34;.?
         </p>
         <p className="ar">
-          كيف تربح "عندما يكون لديك سوء حظ ولدت في ملتقى هيوغو وبلزاك"؟
+          كيف تربح &#34;عندما يكون لديك سوء حظ ولدت في ملتقى هيوغو وبلزاك&#34;؟
         </p>
 
         <p className="fr">
@@ -2309,8 +2318,8 @@ const Two = (props: Props) => {
         </p>
 
         <p className="fr">
-          Thérèse a été élevée par sa tante dans le but d'épouser son fils , un
-          homme au tempérament maladif.
+          Thérèse a été élevée par sa tante dans le but d&#34;épouser son fils ,
+          un homme au tempérament maladif.
         </p>
         <p className="ar">
           قامت خالتها بتربية تيريز بهدف الزواج من ابنها ، وهو رجل مزاجه سيء.
@@ -2326,8 +2335,8 @@ const Two = (props: Props) => {
         </p>
 
         <p className="fr">
-          Toute sa sensualité refoulée s'éveille lorsqu'elle rencontre Laurent,
-          un peintre raté dont elle devient la maîtresse.
+          Toute sa sensualité refoulée s&#34;éveille lorsqu&#34;elle rencontre
+          Laurent, un peintre raté dont elle devient la maîtresse.
         </p>
         <p className="ar">
           تستيقظ كل شهوانيتها المكبوتة عندما تقابل لوران ، الرسامة الفاشلة التي
@@ -2337,7 +2346,7 @@ const Two = (props: Props) => {
         <p className="fr">Les amants décident de noyer le mari.</p>
         <p className="ar">قرر العشاق إغراق الزوج.</p>
 
-        <p className="fr">L'âpreté, la sexualité, le crime .</p>
+        <p className="fr">L&#34;âpreté, la sexualité, le crime .</p>
         <p className="ar">الخشونة والجنس والجريمة.</p>
 
         <p className="fr">

@@ -21,10 +21,11 @@ const TradFour = (props: Props) => {
 
         <div className="box">
           <p className="fr">
-            L’hésitation d'avril, l'odeur du pain à l'aube, les opinions d'une
-            femme sur les hommes, les écrits d'Eschyle, le commencement de
-            l'amour, l'herbe sur une pierre, des mères debout sur un filet de
-            flûte et la peur qu'inspire le souvenir aux conquérants.
+            L’hésitation d&#34;avril, l&#34;odeur du pain à l&#34;aube, les
+            opinions d&#34;une femme sur les hommes, les écrits d&#34;Eschyle,
+            le commencement de l&#34;amour, l&#34;herbe sur une pierre, des
+            mères debout sur un filet de flûte et la peur qu&#34;inspire le
+            souvenir aux conquérants.
           </p>
         </div>
         <p className="ar">
@@ -35,10 +36,11 @@ const TradFour = (props: Props) => {
         <div className="box">
           <p className="fr">
             Sur cette terre, il y a ce qui mérite vie la fin de septembre, une
-            femme qui sort de la quarantaine, mûre de tous ses abricots, l'heure
-            de soleil en prison, des nuages qui imitent une volée de créatures,
-            les acclamations d'un peuple pour ceux qui montent, souriants, vers
-            leur mort et la peur qu'inspirent les chansons aux tyrans.
+            femme qui sort de la quarantaine, mûre de tous ses abricots,
+            l&#34;heure de soleil en prison, des nuages qui imitent une volée de
+            créatures, les acclamations d&#34;un peuple pour ceux qui montent,
+            souriants, vers leur mort et la peur qu&#34;inspirent les chansons
+            aux tyrans.
           </p>
         </div>
         <p className="ar">
@@ -59,7 +61,7 @@ const TradFour = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            Elle s'appelait Palestine. Puis on l'appela Palestine.
+            Elle s&#34;appelait Palestine. Puis on l&#34;appela Palestine.
           </p>
         </div>
         <p className="ar">كانت تسمي فلسطین. صارت تسمي فلسطین.</p>

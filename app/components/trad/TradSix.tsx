@@ -14,38 +14,40 @@ const TradSix = (props: Props) => {
           <h3>ذاكرة الجسد</h3>
         </div>
         <p className="fr">
-          Je me souviens encore des paroles que tu m'as dites un jour :
+          Je me souviens encore des paroles que tu m&#34;as dites un jour :
         </p>
         <p className="ar">ما زلت أذكر قولك ذات یوم :</p>
         <p className="fr">
-          "L'amour, c'est ce qui s'est passé entre nous: la littérature, c'est
-          tout le reste, qui n'a pas eu lieu ."
+          &#34;L&#34;amour, c&#34;est ce qui s&#34;est passé entre nous: la
+          littérature, c&#34;est tout le reste, qui n&#34;a pas eu lieu .&#34;
         </p>
         <p className="ar">الحب ھو ما حدث بیننا، والأدب ھو كل ما لم یحدث .</p>
-        <p className="fr">Aujourd'hui que tout est fini, je peux dire ceci :</p>
+        <p className="fr">
+          Aujourd&#34;hui que tout est fini, je peux dire ceci :
+        </p>
         <p className="ar">یمكننى الیوم، بعدما انتھى كل شيء، أن أقول :</p>
         <p className="fr">
           Hommage donc à la littérature pour notre tragédie. Car immense est
-          l'étendue de ce qui n'a pas eu lieu ! Plusieurs livres n'y suffiraient
-          pas.
+          l&#34;étendue de ce qui n&#34;a pas eu lieu ! Plusieurs livres n&#34;y
+          suffiraient pas.
         </p>
         <p className="ar">
           ھنیئا للأدب على فجیعتنا إذن فما أكبر مساحة ما لم یحدث. إنھا تصلح الیوم
           لأكثر من كتاب .
         </p>
-        <p className="fr">Hommage à l'amour aussi ....!</p>
+        <p className="fr">Hommage à l&#34;amour aussi ....!</p>
         <p className="ar">وھنیئا للحب أیضا ....</p>
         <p className="fr">
-          Quelle beauté ! ce qui s'est passé entre nous.... ce qui n'a pas eu
-          lieu.... ce qu'il n'y aura pas !
+          Quelle beauté ! ce qui s&#34;est passé entre nous.... ce qui n&#34;a
+          pas eu lieu.... ce qu&#34;il n&#34;y aura pas !
         </p>
         <p className="ar">
           فما أجمل الذي حدث بیننا... ما أجمل الذي لم یحدث... ما أجمل الذي لن
           یحدث.
         </p>
         <p className="fr">
-          Auparavant, je pensais qu'on ne pouvait écrire sur sa vie qu'une fois
-          qu'on en était guéri,
+          Auparavant, je pensais qu&#34;on ne pouvait écrire sur sa vie
+          qu&#34;une fois qu&#34;on en était guéri,
         </p>
         <p className="ar">
           قبل الیوم، كنت اعتقد أننا لا یمكن أن نكتب عن حیاتنا إلا عندما نشفي
@@ -71,7 +73,7 @@ const TradSix = (props: Props) => {
         <p className="ar">نحن لا نشفى ابدا من ذاكرتنا.</p>
         <p className="fr">
           Voilà pourquoi on écrit: voilà pourquoi on peint, et voilà pourquoi
-          certains d'entre nous meurent aussi.
+          certains d&#34;entre nous meurent aussi.
         </p>
         <p className="ar">
           ولھذا نحن نكتب، ولھذا نحن ترسم، ولھذا یموت بعضنا أیضا .
