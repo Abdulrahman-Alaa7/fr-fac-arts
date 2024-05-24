@@ -90,6 +90,34 @@
   background-size: cover;
   border-radius: 0px 0px 1px 10px !important;
 }
+.header-critique {
+  position: relative;
+  height: 450px;
+  background-image: url("../public/assets/cri.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0px 0px 1px 10px !important;
+}
+.header-roman-con {
+  position: relative;
+  height: 450px;
+  background-image: url("../public/assets/roman-con.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0px 0px 1px 10px !important;
+}
+
+.header-poe {
+  position: relative;
+  height: 450px;
+  background-image: url("../public/assets/poet.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0px 0px 1px 10px !important;
+}
 
 .overlay {
   position: absolute;
@@ -156,6 +184,14 @@ p.ar {
   padding: 10px 0;
   border-radius: 40px;
   font-size: 30px;
+}
+
+.heading span {
+  display: block;
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #fff;
 }
 @media (max-width: 650px) {
   .heading-ch {
@@ -401,4 +437,19 @@ p.ar {
 .tabs button {
   width: 40px;
   height: 40px;
+}
+
+.fadeIn {
+  animation: fadeInDown 0.7s;
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -32px, 0);
+  }
+  to {
+    opacity: initial;
+    transform: initial;
+  }
 }

@@ -9,25 +9,28 @@ import TradThree from "../components/trad/TradThree";
 import TradFour from "../components/trad/TradFour";
 import TradSix from "../components/trad/TradSix";
 import ProgressBar from "../components/ProgressBar";
-
+import ScrollBtn from "../components/ScrollBtn";
 type Props = {};
 
 const Page = (props: Props) => {
   const [current, setCurrent] = useState(0);
+
   useEffect(() => {
     window.scrollTo({
       top: 0,
       behavior: "smooth",
     });
   }, [current]);
+
   return (
-    <div className="w-[100%] mx-auto ">
+    <div className="w-[100%] mx-auto relative">
       <Heading
         title="Traduction"
         description="Platform to help students in the French department at Benha University, powered by Abdulrahman Alaa."
         keywords="French, University"
       />
       <ProgressBar />
+      <ScrollBtn />
       <div className="">
         <div className="header-trad">
           <div className="overlay"></div>

@@ -40,6 +40,7 @@ import ThirtyFour from "../components/roman-mondial/ThirtyFour";
 import ThirtyFive from "../components/roman-mondial/ThirtyFive";
 import ThirtySix from "../components/roman-mondial/ThirtySix";
 import ProgressBar from "../components/ProgressBar";
+import ScrollBtn from "../components/ScrollBtn";
 
 type Props = {};
 
@@ -61,6 +62,7 @@ const Page = (props: Props) => {
         keywords="French, University"
       />
       <ProgressBar />
+      <ScrollBtn />
       <div className="">
         <div className="header-roman-mondial">
           <div className="overlay"></div>
