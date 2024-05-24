@@ -1,4 +1,9 @@
 import React from "react";
+import Link from "next/link";
+import Image from "next/image";
+import { Instagram, Activity } from "lucide-react";
+import { Button } from "../../components/ui/button";
+import { PiLinkSimple } from "react-icons/pi";
 
 type Props = {};
 
@@ -8,9 +13,27 @@ const Footer = (props: Props) => {
       className={`text-center p-4 relative overflow-hidden bg-background mt-6`}
     >
       <div
-        className={`py-4 px-6 rounded-full bg-[#fff] text-[16px] dark:bg-background w-fit mx-auto border border-[#ccc] dark:border-[#9e9e9e29] 500px:text-[16px]`}
+        className={`py-4 px-6 rounded-3xl bg-[#fff] text-[16px] dark:bg-background w-fit mx-auto border border-[#ccc] dark:border-[#9e9e9e29] 500px:text-[16px]`}
       >
-        Powered by Abdulrahman Alaa &copy; {new Date().getFullYear()}
+        <div className="flex justify-center items-center gap-1 mb-2">
+          <div className="flex">
+            <PiLinkSimple size={25} className="" />
+            <Activity size={25} className="" />
+          </div>
+          <Link
+            href={`https://www.instagram.com/its.3abdulrahman/`}
+            className=" "
+            target="_blank"
+          >
+            <Button variant={`secondary`}>
+              <Instagram size={25} className="" />
+            </Button>{" "}
+          </Link>
+        </div>
+        <h3 className="font-semibold">
+          {" "}
+          Powered by Abdulrahman Alaa &copy; {new Date().getFullYear()}
+        </h3>
       </div>
     </div>
   );
