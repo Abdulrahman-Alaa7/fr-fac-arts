@@ -107,7 +107,7 @@ const CriTwo: FC<Props> = () => {
                 <div>
                   <div>
                     <div>
-                      <div className="quiz-info dark:bg-[#16181d] !p-2 w-fit mx-auto rounded-lg">
+                      <div className="quiz-info !p-2 w-fit mx-auto rounded-lg">
                         <div className="category !my-3">
                           Category : <span>Quiz</span>
                         </div>

@@ -33,8 +33,8 @@ const PoeThree = (props: Props) => {
           « chauffer [son] coeur [...] glacé ».
         </p>
         <p className="ar">
-          إنه يتوسل أن أمل أو شعاع من &#34;شمس الفصح&#34; يمكن أن &#34;يسخن قلبه
-          البارد&#34;.
+          إنه يتوسل أن أمل أو شعاع من &#39;شمس الفصح&#39; يمكن أن &#39;يسخن قلبه
+          البارد&#39;.
         </p>
         <p className="fr">
           Le passé pèse sur sa vie, c’est pourquoi le protagoniste évoque la
@@ -49,23 +49,23 @@ const PoeThree = (props: Props) => {
           conduits vers « une onde mauvaise à boire ».
         </p>
         <p className="ar">
-          ويعتقد أنها &#34;سفينته الجميلة&#34; وأن الاثنين قادا إلى &#34;موجة
-          سيئة للشرب&#34;.
+          ويعتقد أنها &#39;سفينته الجميلة&#39; وأن الاثنين قادا إلى &#39;موجة
+          سيئة للشرب&#39;.
         </p>
         <p className="fr">
           Ses souvenirs plongent la mémoire dans une descente du fleuve des
           regrets : « Regrets sur quoi l’enfer se fonde ».
         </p>
         <p className="ar">
-          ذكرياته تغرق الذاكرة في منحدر نهر الندم: &#34;الندم الذي يقوم عليه
-          الجحيم&#34;.
+          ذكرياته تغرق الذاكرة في منحدر نهر الندم: &#39;الندم الذي يقوم عليه
+          الجحيم&#39;.
         </p>
         <p className="fr">
           Ce navire où le poète « a hiverné » montre à la fois l’angoisse de ne
           plus être aimé et la certitude que la femme est partie pour toujours.
         </p>
         <p className="ar">
-          تظهر هذه السفينة التي كان الشاعر &#34;يقضي فيها الشتاء&#34; كلاً من
+          تظهر هذه السفينة التي كان الشاعر &#39;يقضي فيها الشتاء&#39; كلاً من
           معاناة لم يعد محبوبًا واليقين بأن المرأة قد رحلت إلى الأبد.
         </p>
         <p className="fr">
@@ -81,8 +81,8 @@ const PoeThree = (props: Props) => {
           la femme.
         </p>
         <p className="ar">
-          كانت سفينته الجميلة &#34;تجولت بما فيه الكفاية&#34; ، فيعمل على نبذ
-          &#34;الحب الزائف&#34; ، لأنه يدرك اغتراب المرأة.
+          كانت سفينته الجميلة &#39;تجولت بما فيه الكفاية&#39; ، فيعمل على نبذ
+          &#39;الحب الزائف&#39; ، لأنه يدرك اغتراب المرأة.
         </p>
         <p className="fr">
           Il sait qu’il l’a perdue et qu’il ne la reverra plus :
@@ -96,11 +96,11 @@ const PoeThree = (props: Props) => {
           Et que je ne reverrai plus » <br />
         </p>
         <p className="ar">
-          &#34;الوداع الحب المزيف المرتبك <br />
+          &#39;الوداع الحب المزيف المرتبك <br />
           مع المرأة التي تبتعد <br />
           مع الشخص الذي فقدته <br />
           العام الماضي في ألمانيا <br />
-          وهذا لن أراه مرة أخرى &#34; <br />
+          وهذا لن أراه مرة أخرى &#39; <br />
         </p>
         <p className="fr">
           Ainsi la mémoire et l’oubli sont deux forces opposantes qui cependant
@@ -143,8 +143,8 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="ar">
           في الوقت الحالي ، ينسى بطل الرواية صراعه ويبحث عن عالم آخر ، طريق آخر
-          إلى الأرض الفلكية ، &#34;درب التبانة&#34; ، أرض شنان الموعودة حيث
-          تتدفق &#34;الجداول البيضاء&#34;.
+          إلى الأرض الفلكية ، &#39;درب التبانة&#39; ، أرض شنان الموعودة حيث
+          تتدفق &#39;الجداول البيضاء&#39;.
         </p>
         <p className="fr">
           Ce lieu fantastique devient un moyen de s’évader du réel et de fuir la
@@ -158,13 +158,13 @@ const PoeThree = (props: Props) => {
           épuisant.
         </p>
         <p className="ar">
-          لكن الجهد المبذول لاتباع المسار نحو &#34;السدم الأخرى&#34; مرهق.
+          لكن الجهد المبذول لاتباع المسار نحو &#39;السدم الأخرى&#39; مرهق.
         </p>
         <p className="fr">
           Il faut abandonner le navire et nager avec les « nageurs morts ».
         </p>
         <p className="ar">
-          عليك أن تترك السفينة وتسبح مع &#34;السباحين المتوفين&#34;.
+          عليك أن تترك السفينة وتسبح مع &#39;السباحين المتوفين&#39;.
         </p>
         <p className="fr">
           On perçoit une répétition de personnages où le masculin et le féminin
@@ -194,7 +194,7 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="ar">
           لكن تكرار هذه الصورة يخل بالتوازن ، ويعود إلى ذكرياته ويتذكر الحب الذي
-          غناه &#34;سنة أخرى&#34; بـ &#34;الفرح الحبيب&#34;.
+          غناه &#39;سنة أخرى&#39; بـ &#39;الفرح الحبيب&#39;.
         </p>
         <p className="fr">
           Pour conclure, dans le premier fragment le protagoniste entreprend une
@@ -210,7 +210,7 @@ const PoeThree = (props: Props) => {
           de la disparition de la femme qu’il ne reverra plus.
         </p>
         <p className="ar">
-          لكنه في النهاية أدرك &#34;زيف الحب&#34; واختفاء المرأة التي لن يراها
+          لكنه في النهاية أدرك &#39;زيف الحب&#39; واختفاء المرأة التي لن يراها
           مرة أخرى.
         </p>
         <p className="fr">
@@ -220,7 +220,7 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="ar">
           لكن هذا الإدراك بنهاية الحب مؤلم لدرجة أنه يفضل أحلام اليقظة (الذهاب
-          إلى درب التبانة) على الواقع (&#34;زيف الحب&#34;).
+          إلى درب التبانة) على الواقع (&#39;زيف الحب&#39;).
         </p>
 
         <div className="heading">
@@ -254,7 +254,7 @@ const PoeThree = (props: Props) => {
           Mal-Aimé ».
         </p>
         <p className="ar">
-          تحتل الذكريات مكانة مركزية في &#34;La Chanson du Mal-Aimé&#34;.
+          تحتل الذكريات مكانة مركزية في &#39;La Chanson du Mal-Aimé&#39;.
         </p>
         <p className="fr">
           Ils émergent de la mémoire après la rencontre accidentelle entre le
@@ -268,7 +268,7 @@ const PoeThree = (props: Props) => {
           de l’imagination, à tel point qu’il rapproche trois temps :
         </p>
         <p className="ar">
-          الذاكرة ، &#34;السفينة الجميلة&#34; ، تتقاطع مع حدود الواقع والخيال ،
+          الذاكرة ، &#39;السفينة الجميلة&#39; ، تتقاطع مع حدود الواقع والخيال ،
           لدرجة أنها تجمع ثلاث مرات:
         </p>
         <p className="fr">
@@ -310,7 +310,7 @@ const PoeThree = (props: Props) => {
         <p className="ar">ينقسم تكوين القصيدة إلى جزأين.</p>
         <p className="fr">
           D’un côté, quatre fragments en italique reposent sur la chronique du
-          Mal-Aimé qui assure le fil conducteur du récit, c&#34;est-à- dire la
+          Mal-Aimé qui assure le fil conducteur du récit, c&#39;est-à- dire la
           linéarité narrative.
         </p>
         <p className="ar">
@@ -333,7 +333,7 @@ const PoeThree = (props: Props) => {
           que la folie « veut raisonner » (5e fragment).
         </p>
         <p className="ar">
-          يواصل تأكيد إخلاصه لدرجة أنه يدرك أن الجنون &#34;يريد العقل&#34;
+          يواصل تأكيد إخلاصه لدرجة أنه يدرك أن الجنون &#39;يريد العقل&#39;
           (الجزء الخامس).
         </p>
         <p className="fr">
@@ -343,7 +343,7 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="ar">
           أخيرًا ، في الجزء السابع ، يخلص إلى أن الحب ضاع واستبدله بالمدينة
-          والشعر ، ممجدًا &#34;باريس الجميلة&#34;.
+          والشعر ، ممجدًا &#39;باريس الجميلة&#39;.
         </p>
         <p className="fr">
           C’est la croyance au pouvoir de la poésie qui lui permet de survivre à
@@ -370,7 +370,7 @@ const PoeThree = (props: Props) => {
         <p className="ar">
           إنهم يفضحون لحظات من المشاعر القوية مثل الذكرى السعيدة لأوباد (الجزء
           الثاني) ، ومفارقة رد القوزاق على سلطان القسطنطينية (الجزء الرابع) وألم
-          الحبيب المقدم في &#34;السيوف السبعة&#34; (الجزء السادس).
+          الحبيب المقدم في &#39;السيوف السبعة&#39; (الجزء السادس).
         </p>
         <p></p>
         <p className="fr">
@@ -378,7 +378,7 @@ const PoeThree = (props: Props) => {
           romance du mal-aimé » soit brisée.
         </p>
         <p className="ar">
-          يمكن حذف هذه النصوص دون كسر قصة &#34;قصة حب غير المحبوب&#34;.
+          يمكن حذف هذه النصوص دون كسر قصة &#39;قصة حب غير المحبوب&#39;.
         </p>
 
         <div className="heading">
@@ -395,7 +395,7 @@ const PoeThree = (props: Props) => {
           auteur.
         </p>
         <p className="ar">
-          في بداية تحليل &#34;La Chanson du Mal-Aimé&#34; ، علقنا على بعض جوانب
+          في بداية تحليل &#39;La Chanson du Mal-Aimé&#39; ، علقنا على بعض جوانب
           النقوش. الآن ، بعد قراءة القصيدة ، عليك العودة إليها وتطوير النقاش حول
           مؤلفها.
         </p>
@@ -417,8 +417,8 @@ const PoeThree = (props: Props) => {
         <p className="ar">
           بعبارة أخرى ، على عكس القصيدة التي لا تحتوي على علامات ترقيم ، فإن
           نقطة النهاية هذه في الكتابة تعزز الفصل بين الاقتباس والقصيدة ، على
-          الرغم من أن الكتابة المنقوشة تعطي انطباعًا بأنها مقطوعة من &#34;أغنية
-          الشر&#34;. - مثل &#34; .
+          الرغم من أن الكتابة المنقوشة تعطي انطباعًا بأنها مقطوعة من &#39;أغنية
+          الشر&#39;. - مثل &#39; .
         </p>
         <p className="fr">
           Cela soulève une hypothèse intéressante. Le poète pouvait avoir
@@ -461,7 +461,7 @@ const PoeThree = (props: Props) => {
           quand il fait allusion à la date de 1903.
         </p>
         <p className="ar">
-          لكن أبولينير نفسه قد يكون بطل رواية &#34;La Chanson du Mal-Aimé&#34; ،
+          لكن أبولينير نفسه قد يكون بطل رواية &#39;La Chanson du Mal-Aimé&#39; ،
           وقد يكون أيضًا مؤلف هذا النقش عندما يلمح إلى تاريخ 1903.
         </p>
         <p className="fr">
@@ -536,8 +536,8 @@ const PoeThree = (props: Props) => {
           correspondent aux années 1906-1907.
         </p>
         <p className="ar">
-          هذه هي: &#34;Palais&#34; و &#34;Lul de Faltenin&#34; و
-          &#34;Rosmonde&#34; التي تتوافق مع الأعوام 1906-1907.
+          هذه هي: &#39;Palais&#39; و &#39;Lul de Faltenin&#39; و
+          &#39;Rosmonde&#39; التي تتوافق مع الأعوام 1906-1907.
         </p>
         <p className="fr">
           Apollinaire se trouve dans une phase intermédiaire, entre la détresse
@@ -561,13 +561,13 @@ const PoeThree = (props: Props) => {
           lié à la thématique de la femme et de l’amour.
         </p>
         <p className="ar">
-          اخترنا تحليل &#34;Rosmonde&#34; الذي يتميز بكونه مرتبطًا بموضوع المرأة
+          اخترنا تحليل &#39;Rosmonde&#39; الذي يتميز بكونه مرتبطًا بموضوع المرأة
           والحب.
         </p>
 
         <div className="heading">
           <h3>
-            « ROSEMONDE »<span> &#34;روزموند&#34;</span>
+            « ROSEMONDE »<span> &#39;روزموند&#39;</span>
           </h3>
         </div>
 
@@ -576,7 +576,7 @@ const PoeThree = (props: Props) => {
         <p className="fr">
           Longtemps au pied du perron de <br />
           La maison où entra la dame <br />
-          Que j&#34;avais suivie pendant deux <br />
+          Que j&#39;avais suivie pendant deux <br />
           Bonnes heures à Amsterdam <br />
         </p>
         <p className="ar">
@@ -590,7 +590,7 @@ const PoeThree = (props: Props) => {
           Mais le canal était désert <br />
           Le quai aussi et nul ne vit <br />
           Comment mes baisers retrouvèrent <br />
-          Celle à qui j&#34;ai donné ma vie <br />
+          Celle à qui j&#39;ai donné ma vie <br />
           Un jour pendant plus de deux heures <br />
         </p>
         <p className="ar">
@@ -604,7 +604,7 @@ const PoeThree = (props: Props) => {
           Je la surnommai Rosemonde <br />
           Voulant pouvoir me rappeler <br />
           Sa bouche fleurie en Hollande <br />
-          Puis lentement je m&#34;en allai <br />
+          Puis lentement je m&#39;en allai <br />
           Pour quêter la Rose du Monde <br />
         </p>
         <p className="ar">
@@ -650,8 +650,8 @@ const PoeThree = (props: Props) => {
           longue et intense.
         </p>
         <p className="ar">
-          أولاً ، بطل الرواية يتبع المرأة في &#34;ساعتان / جيدتان في
-          أمستردام&#34; ؛ هذا &#34;الخير&#34; النوعي يدل على أن المدة كانت طويلة
+          أولاً ، بطل الرواية يتبع المرأة في &#39;ساعتان / جيدتان في
+          أمستردام&#39; ؛ هذا &#39;الخير&#39; النوعي يدل على أن المدة كانت طويلة
           ومكثفة.
         </p>
         <p className="fr">
@@ -660,8 +660,8 @@ const PoeThree = (props: Props) => {
           (voir l’adverbe « longtemps »).
         </p>
         <p className="ar">
-          ثانيًا ، يبقى &#34;عند سفح درجات / المنزل الذي دخلت إليه السيدة&#34;
-          لفترة غير محددة ، ولكن أيضًا لفترة طويلة (انظر الظرف &#34;طويل&#34;).
+          ثانيًا ، يبقى &#39;عند سفح درجات / المنزل الذي دخلت إليه السيدة&#39;
+          لفترة غير محددة ، ولكن أيضًا لفترة طويلة (انظر الظرف &#39;طويل&#39;).
         </p>
         <p className="fr">Le poème commence alors par la dernière action :</p>
         <p className="ar">ثم تبدأ القصيدة بالعمل الأخير:</p>
@@ -673,26 +673,26 @@ const PoeThree = (props: Props) => {
           Mes doigts jetèrent des baisers » <br />
         </p>
         <p className="ar">
-          &#34;طويلاً وأنا واقف عند سلم المدخل <br />
+          &#39;طويلاً وأنا واقف عند سلم المدخل <br />
           للمنزل الذي دخلت السيدة إليه <br />
           والتي اتبعتها لمدة ساعتين جيدتين في أمستردام، <br />
-          ألقيت بأصابعي القبلات.&#34; <br />
+          ألقيت بأصابعي القبلات.&#39; <br />
         </p>
         <p className="fr">
           Mais, dans la deuxième strophe, le protagoniste raconte ce qu’il s’est
           passé pendant les « deux bonnes heures » antérieures :
         </p>
         <p className="ar">
-          لكن ، في المقطع الثاني ، يروي بطل الرواية ما حدث خلال &#34;الساعتين
-          السابقتين&#34;:
+          لكن ، في المقطع الثاني ، يروي بطل الرواية ما حدث خلال &#39;الساعتين
+          السابقتين&#39;:
         </p>
         <p className="fr">
           « Celle à qui j’ai donné ma vie <br />
           Un jour pendant plus de deux heures »
         </p>
         <p className="ar">
-          &#34;الشخص الذي وهبت له حياتي <br />
-          يوم واحد لأكثر من ساعتين &#34;
+          &#39;الشخص الذي وهبت له حياتي <br />
+          يوم واحد لأكثر من ساعتين &#39;
         </p>
         <p className="fr">
           Il est intéressant de noter un enjambement un peu insolite dans la
@@ -706,14 +706,14 @@ const PoeThree = (props: Props) => {
           lie les vers 1 et 2 :
         </p>
         <p className="ar">
-          السطر الأول ، على سبيل المثال ، ينتهي بحرف الجر &#34;de&#34; الذي يربط
+          السطر الأول ، على سبيل المثال ، ينتهي بحرف الجر &#39;de&#39; الذي يربط
           السطور 1 و 2:
         </p>
         <p className="fr">
           « Longtemps au pied du perron de / La maison où entra la dame ».
         </p>
         <p className="ar">
-          &#34;وقت طويل عند سفح درجات / المنزل الذي دخلت منه السيدة&#34;.
+          &#39;وقت طويل عند سفح درجات / المنزل الذي دخلت منه السيدة&#39;.
         </p>
         <p className="fr">
           Il semble que la préposition donne la notion de l’espace où le
@@ -730,7 +730,7 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="ar">
           واحد ، في الخارج ، حيث يوجد بطل الرواية ؛ والآخر هو الحيز الداخلي
-          المحظور عليها (&#34;حيث دخلت&#34;).
+          المحظور عليها (&#39;حيث دخلت&#39;).
         </p>
         <p className="fr">
           On peut percevoir donc un éloignement, l’éloignement entre l’homme et
@@ -748,7 +748,7 @@ const PoeThree = (props: Props) => {
           تختفي المرأة:
         </p>
         <p className="fr">« Mes doigts jetèrent des baisers ».</p>
-        <p className="ar">&#34;القبلات أصابعي&#34;.</p>
+        <p className="ar">&#39;القبلات أصابعي&#39;.</p>
         <p className="fr">
           Ce vers dialogue avec la deuxième strophe qui décrit la sensation de
           solitude du protagoniste, car tout est devenu « désert » autour de
@@ -756,7 +756,7 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="ar">
           تحاور هذه الآية مع الآية الثانية التي تصف شعور البطل بالوحدة ، لأن كل
-          شيء أصبح &#34;مهجوراً&#34; من حوله.
+          شيء أصبح &#39;مهجوراً&#39; من حوله.
         </p>
         <p className="fr">
           Dans la deuxième strophe, le protagoniste s’interroge, se demandant «
@@ -764,15 +764,15 @@ const PoeThree = (props: Props) => {
           [s]a vie ».
         </p>
         <p className="ar">
-          في المقطع الثاني ، يسأل بطل الرواية نفسه ، متسائلاً &#34;كيف ستتمكن
-          قبلاته&#34; من العثور على &#34;الشخص الذي [هو] [حياته]&#34;.
+          في المقطع الثاني ، يسأل بطل الرواية نفسه ، متسائلاً &#39;كيف ستتمكن
+          قبلاته&#39; من العثور على &#39;الشخص الذي [هو] [حياته]&#39;.
         </p>
         <p className="fr">
           Autrement dit, pendant « plus de deux heures », il a vécu seulement ce
           moment-là de la poursuite.
         </p>
         <p className="ar">
-          بمعنى آخر ، &#34;لأكثر من ساعتين&#34; ، عاش فقط تلك اللحظة من
+          بمعنى آخر ، &#39;لأكثر من ساعتين&#39; ، عاش فقط تلك اللحظة من
           المطاردة.
         </p>
         <p className="fr">
@@ -789,15 +789,15 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="ar">
           مهووس بالمجهول ، يكرر بطل الرواية نفس عمل Mal-Aimé ، عندما تبع هذا
-          الأخير ، في شوارع لندن ، صبيًا &#34;يشبه / [له] حبه [...]&#34;
-          (&#34;أغنية من غير المحبوب &#34;.
+          الأخير ، في شوارع لندن ، صبيًا &#39;يشبه / [له] حبه [...]&#39;
+          (&#39;أغنية من غير المحبوب &#39;.
         </p>
         <p className="fr">
           Le protagoniste de « Rosemonde » suit une femme qui a attiré son
           attention sans qu’elle le sache.
         </p>
         <p className="ar">
-          بطل رواية &#34;Rosmonde&#34; يتبع امرأة لفتت انتباهها دون أن تعرف ذلك.
+          بطل رواية &#39;Rosmonde&#39; يتبع امرأة لفتت انتباهها دون أن تعرف ذلك.
         </p>
         <p className="fr">
           Il veut cependant transformer cette femme en un tendre souvenir.
@@ -807,7 +807,7 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="fr">
           Qui est Rosemonde ? Elle est un personnage historique,
-          c&#34;est-à-dire la maîtresse du roi Henri II d’Angleterre.
+          c&#39;est-à-dire la maîtresse du roi Henri II d’Angleterre.
         </p>
         <p className="ar">
           من هي روزموند؟ إنها شخصية تاريخية ، أي سيدة الملك هنري الثاني ملك
@@ -839,7 +839,7 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="ar">
           وفقًا لألكسندر ، فإن الاسم الأول الذي يحتوي على نطق ألماني يصبح
-          Rosa-Mund وترجمته تعني &#34;فم منمق&#34; .3 ويلمح بطل الرواية إلى هذه
+          Rosa-Mund وترجمته تعني &#39;فم منمق&#39; .3 ويلمح بطل الرواية إلى هذه
           اللعبة:
         </p>
         <p className="fr">
@@ -859,15 +859,15 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="ar">
           وترتبط لعبة الكلمات الأخرى بهذا اللقب ، لأن الآية الأخيرة تنتهي بعبارة
-          &#34;وردة العالم&#34; ، حيث تأخذ قافية الآية الأولى من الخُمامة.
+          &#39;وردة العالم&#39; ، حيث تأخذ قافية الآية الأولى من الخُمامة.
         </p>
         <p className="fr">
           Le protagoniste s’en va d’Amsterdam « lentement » pour trouver un
           autre but qui est « quêter » un autre Rose.
         </p>
         <p className="ar">
-          بطل الرواية يترك أمستردام &#34;ببطء&#34; لإيجاد هدف آخر ، وهو
-          &#34;البحث&#34; عن وردة أخرى.
+          بطل الرواية يترك أمستردام &#39;ببطء&#39; لإيجاد هدف آخر ، وهو
+          &#39;البحث&#39; عن وردة أخرى.
         </p>
         <p className="fr">
           Ainsi, il laisse derrière lui cet amour irréel et platonique pour
@@ -891,15 +891,15 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="ar">
           تنتمي إلى هذه الدورة القصائد المكتوبة بين عامي 1907 و 1912 والتي تشير
-          إلى ماري لورنسين ؛ هم &#34;توايلايت&#34; ، &#34;ماري&#34; ، &#34;أبواق
-          الصيد&#34; ، &#34;لو بونت ميرابو&#34; و &#34;المنطقة&#34;.
+          إلى ماري لورنسين ؛ هم &#39;توايلايت&#39; ، &#39;ماري&#39; ، &#39;أبواق
+          الصيد&#39; ، &#39;لو بونت ميرابو&#39; و &#39;المنطقة&#39;.
         </p>
         <p className="fr">
           Plusieurs commentateurs les considèrent comme des poèmes de « fin
           d’amour », pour reprendre une expression de l’auteur lui-même :
         </p>
         <p className="ar">
-          يعتبرها العديد من المعلقين قصائد &#34;نهاية الحب&#34; ، لاستخدام تعبير
+          يعتبرها العديد من المعلقين قصائد &#39;نهاية الحب&#39; ، لاستخدام تعبير
           المؤلف نفسه:
         </p>
         <p className="fr">
@@ -908,7 +908,7 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="ar">
           في مجموعة Tendre comme le souvenir ، يعلن Apollinaire أن
-          &#34;المنطقة&#34; هي قصيدة &#34;نهاية الحب&#34;.
+          &#39;المنطقة&#39; هي قصيدة &#39;نهاية الحب&#39;.
         </p>
         <p className="fr">
           Sur le plan de la création et de la réflexion, ce cycle présente un
@@ -923,8 +923,8 @@ const PoeThree = (props: Props) => {
           et humaniste à la fois » et une prosodie originale.
         </p>
         <p className="ar">
-          يقدم الشاعر أفكارًا أساسية لخلق &#34;غنائية جديدة وإنسانية في نفس
-          الوقت&#34; وعرض أصيل.
+          يقدم الشاعر أفكارًا أساسية لخلق &#39;غنائية جديدة وإنسانية في نفس
+          الوقت&#39; وعرض أصيل.
         </p>
         <p className="fr">
           Quatre événements influent sur la création poétique d’Alcools pendant
@@ -977,13 +977,13 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="fr">
           Dans l’analyse du cycle de Marie, on se propose de faire la lecture de
-          trois des poèmes les plus célèbres d’Alcools, c&#34;est-à-dire « Le
+          trois des poèmes les plus célèbres d’Alcools, c&#39;est-à-dire « Le
           Pont Mirabeau », « Cors de chasse » et « Zone ».
         </p>
         <p className="ar">
           في تحليل دورة ماري ، نقترح قراءة ثلاث من أشهر قصائد Alcools ، أي
-          &#34;Le Pont Mirabeau&#34; و &#34;Cors de Chasse&#34; و
-          &#34;Zone&#34;.
+          &#39;Le Pont Mirabeau&#39; و &#39;Cors de Chasse&#39; و
+          &#39;Zone&#39;.
         </p>
 
         <div className="heading">
@@ -995,7 +995,7 @@ const PoeThree = (props: Props) => {
         <p className="fr">
           Sous le pont Mirabeau coule la Seine <br />
           Et nos amours <br />
-          Faut-il qu&#34;il m&#34;en souvienne <br />
+          Faut-il qu&#39;il m&#39;en souvienne <br />
           La joie venait toujours après la peine <br />
         </p>
         <p className="ar">
@@ -1004,8 +1004,8 @@ const PoeThree = (props: Props) => {
           الفرح كان يأتي دائما بعد الألم <br />
         </p>
         <p className="fr">
-          Vienne la nuit sonne l&#34;heure <br />
-          Les jours s&#34;en vont je demeure
+          Vienne la nuit sonne l&#39;heure <br />
+          Les jours s&#39;en vont je demeure
           <br />
         </p>
         <p className="ar">
@@ -1017,7 +1017,7 @@ const PoeThree = (props: Props) => {
           Les mains dans les mains restons face à face <br />
           Tandis que sous <br />
           Le pont de nos bras passe <br />
-          Des éternels regards l&#34;onde si lasse
+          Des éternels regards l&#39;onde si lasse
           <br />
         </p>
         <p className="ar">
@@ -1026,18 +1026,18 @@ const PoeThree = (props: Props) => {
           تلك الأنظار الخالدة التعبانة في الماء <br />
         </p>
         <p className="fr">
-          Vienne la nuit sonne l&#34;heure <br />
-          Les jours s&#34;en vont je demeure <br />
+          Vienne la nuit sonne l&#39;heure <br />
+          Les jours s&#39;en vont je demeure <br />
         </p>
         <p className="ar">
           ليأتي الليل ويدق الساعة <br />
           ويمضي الأيام وأنا ما زلت هنا <br />
         </p>
         <p className="fr">
-          L&#34;amour s&#34;en va comme cette eau courante L&#34;amour s&#34;en
+          L&#39;amour s&#39;en va comme cette eau courante L&#39;amour s&#39;en
           va <br />
           Comme la vie est lente <br />
-          Et comme l&#34;Espérance est violente <br />
+          Et comme l&#39;Espérance est violente <br />
         </p>
         <p className="ar">
           الحب يذهب مثل هذا الماء الجاري <br />
@@ -1045,8 +1045,8 @@ const PoeThree = (props: Props) => {
           والأمل عنيف <br />
         </p>
         <p className="fr">
-          Vienne la nuit sonne l&#34;heure <br />
-          Les jours s&#34;en vont je demeure <br />
+          Vienne la nuit sonne l&#39;heure <br />
+          Les jours s&#39;en vont je demeure <br />
         </p>
         <p className="ar">
           ليأتي الليل ويدق الساعة <br />
@@ -1057,8 +1057,8 @@ const PoeThree = (props: Props) => {
           Ni temps passé <br />
           Ni les amours reviennent <br />
           Sous le pont Mirabeau coule la Seine <br />
-          Vienne la nuit sonne l&#34;heure <br />
-          Les jours s&#34;en vont je demeure <br />
+          Vienne la nuit sonne l&#39;heure <br />
+          Les jours s&#39;en vont je demeure <br />
         </p>
         <p className="ar">
           تمر الأيام وتمر الأسابيع <br />
@@ -1126,7 +1126,7 @@ const PoeThree = (props: Props) => {
           semblables.
         </p>
         <p className="ar">
-          يقارن ماريو روك أيضًا أغنية &#34;Le Pont Mirabeau&#34; بأغنية قماشية
+          يقارن ماريو روك أيضًا أغنية &#39;Le Pont Mirabeau&#39; بأغنية قماشية
           تعود إلى بداية القرن الثالث عشر ، تُدعى Gaieté et Oriour ، والتي
           يتشابه تصميمها الإيقاعي وموقع القوافي بالإضافة إلى العزف.
         </p>
@@ -1168,13 +1168,13 @@ const PoeThree = (props: Props) => {
         <p className="fr">
           L’un est extérieur ; le protagoniste est sur le pont où il observe
           couler les eaux de la Seine ; l’autre espace est mental,
-          c&#34;est-à-dire que ses pensées le font se souvenir d’un amour (« nos
+          c&#39;est-à-dire que ses pensées le font se souvenir d’un amour (« nos
           amours ») et d’un espoir (« La joie venait toujours après la peine ».
         </p>
         <p className="ar">
           واحد خارجي. بطل الرواية على الجسر حيث يراقب تدفق مياه نهر السين ؛ أما
           المساحة الأخرى فهي ذهنية ، أي أن أفكاره تجعله يتذكر حبًا
-          (&#34;حبنا&#34;) وأملًا (&#34;تأتي الفرح دائمًا بعد الألم&#34;.
+          (&#39;حبنا&#39;) وأملًا (&#39;تأتي الفرح دائمًا بعد الألم&#39;.
         </p>
         <p className="fr">
           La deuxième strophe évoque la fusion entre l’image du couple et celle
@@ -1203,10 +1203,10 @@ const PoeThree = (props: Props) => {
           si lasse »).
         </p>
         <p className="ar">
-          يتسبب الإرهاق الناجم عن مرور الوقت (&#34;الموجة المتعبة جدًا&#34;) في
-          تآكل الحب (&#34;جسر أذرعنا&#34;) أو ، إذا كنت تفضل ذلك ، يضع الحب على
-          المحك ويكشف عنه أنه سريع الزوال ومرهق شخصية (&#34;تحت / جسر أذرعنا يمر
-          / [...] الموجة متعبة جدًا&#34;).
+          يتسبب الإرهاق الناجم عن مرور الوقت (&#39;الموجة المتعبة جدًا&#39;) في
+          تآكل الحب (&#39;جسر أذرعنا&#39;) أو ، إذا كنت تفضل ذلك ، يضع الحب على
+          المحك ويكشف عنه أنه سريع الزوال ومرهق شخصية (&#39;تحت / جسر أذرعنا يمر
+          / [...] الموجة متعبة جدًا&#39;).
         </p>
         <p className="fr">
           Les eaux du fleuve suivent un cours unique et qui ne s’inverse jamais.
@@ -1221,14 +1221,14 @@ const PoeThree = (props: Props) => {
           إلى مغادرة الحياة والأحب:
         </p>
         <p className="fr">« L’amour s’en va comme cette eau courante ».</p>
-        <p className="ar">&#34;الحب يزول مثل هذه المياه الجارية&#34;.</p>
+        <p className="ar">&#39;الحب يزول مثل هذه المياه الجارية&#39;.</p>
         <p className="fr">
           On peut noter que le protagoniste rapproche, par une parenté sonore,
           la « vie [qui] est lente » et « l’Espérance [...] violente ».
         </p>
         <p className="ar">
           يمكننا أن نلاحظ أن بطل الرواية يجمع ، من خلال علاقة رنانة ،
-          &#34;الحياة [التي] بطيئة&#34; و &#34;الأمل [...] العنيفة&#34;.
+          &#39;الحياة [التي] بطيئة&#39; و &#39;الأمل [...] العنيفة&#39;.
         </p>
         <p className="fr">
           Ce sont deux aspects que le protagoniste compare avec la fuite de
@@ -1256,8 +1256,8 @@ const PoeThree = (props: Props) => {
           semaines », « les amours » s’enfuient et ils ne reviennent jamais.
         </p>
         <p className="ar">
-          ويحب الوقت ويمر سريعا؛ &#34;الأيام&#34; ، &#34;الأسابيع&#34; ،
-          &#34;الأحباء&#34; يهربون ولا يعودون أبدًا.
+          ويحب الوقت ويمر سريعا؛ &#39;الأيام&#39; ، &#39;الأسابيع&#39; ،
+          &#39;الأحباء&#39; يهربون ولا يعودون أبدًا.
         </p>
         <p className="fr">
           Les souvenirs s’effacent au moment où le protagoniste perçoit
@@ -1267,11 +1267,11 @@ const PoeThree = (props: Props) => {
         </p>
         <p className="ar">
           تتلاشى الذكريات عندما يدرك بطل الرواية استحالة الاحتفاظ بصورة الحب
-          التي تختفي تدريجياً (لهذا قال ، في المقطع الأول ، &#34; هل عليه أن
-          يتذكرني &#34;).
+          التي تختفي تدريجياً (لهذا قال ، في المقطع الأول ، &#39; هل عليه أن
+          يتذكرني &#39;).
         </p>
         <p className="fr">
-          L’espace intérieur, c&#34;est-à-dire la pensée du protagoniste (je
+          L’espace intérieur, c&#39;est-à-dire la pensée du protagoniste (je
           l’ai signalé ci-dessus), se vide à cause de l’oubli, de l’effacement
           du temps et de l’amour.
         </p>

@@ -8,26 +8,26 @@ const CriOne = (props: Props) => {
       <div className="one bg-[#f2f2f2] dark:bg-background p-2 rounded-md">
         <div className="heading">
           <h3>
-            Qu&#34;est-ce que la critique Littéraire? <br />
+            Qu&#39;est-ce que la critique Littéraire? <br />
             <span>ما ھو النقد الأدبي؟</span>
           </h3>
         </div>
         <div className="box">
           <p className="fr">
-            Si nous remontons à l&#34;étymon du mot nous trouverons que
-            &#34;critique&#34; remonte du latin&#34; cernere&#34;; au grec &#34;
-            Krinein&#34; qui signifie principalement &#34; séparer&#34;
-            distinguer&#34;.
+            Si nous remontons à l&#39;étymon du mot nous trouverons que
+            &#39;critique&#39; remonte du latin&#39; cernere&#39;; au grec &#39;
+            Krinein&#39; qui signifie principalement &#39; séparer&#39;
+            distinguer&#39;.
           </p>
         </div>
         <p className="ar">
-          إذا قمنا بالعودة إلى أصل كلمة &#34;critique&#34;، فسنجد أنها تعود إلى
-          اللغة اللاتينية &#34;cernere&#34;، واليونانية &#34;Κρίνειν&#34; والتي
-          تعنيان بشكل رئيسي &#34;فصل&#34; و &#34;تمييز&#34;.
+          إذا قمنا بالعودة إلى أصل كلمة &#39;critique&#39;، فسنجد أنها تعود إلى
+          اللغة اللاتينية &#39;cernere&#39;، واليونانية &#39;Κρίνειν&#39; والتي
+          تعنيان بشكل رئيسي &#39;فصل&#39; و &#39;تمييز&#39;.
         </p>
         <div className="box">
           <p className="fr">
-            Séparer ? Distinguer ? c.a.d. dégager l&#34;œuvre authentique de la
+            Séparer ? Distinguer ? c.a.d. dégager l&#39;œuvre authentique de la
             masse des autres œuvres selon le bon gout.
           </p>
         </div>
@@ -37,10 +37,10 @@ const CriOne = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            Cela se passait au XVI et au XVII siècle ; où l&#34;éprit français
-            s&#34;occupait à traduire les œuvres grecs et latins ; de voir les
+            Cela se passait au XVI et au XVII siècle ; où l&#39;éprit français
+            s&#39;occupait à traduire les œuvres grecs et latins ; de voir les
             éditions correctes de faire le commentaire des chefs-d’œuvre de
-            l&#34;Antiquité.
+            l&#39;Antiquité.
           </p>
         </div>
         <p className="ar">
@@ -50,9 +50,9 @@ const CriOne = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            Cela posait un danger de toute critique car il ne s&#34;agit pas
-            d&#34;un travail de recensement ; de discernement qui réduit
-            l&#34;activité critique; et qui ne consiste qu&#34;à juger les
+            Cela posait un danger de toute critique car il ne s&#39;agit pas
+            d&#39;un travail de recensement ; de discernement qui réduit
+            l&#39;activité critique; et qui ne consiste qu&#39;à juger les
             ouvrages des auteurs pour distinguer les élus des maudits.
           </p>
         </div>
@@ -63,7 +63,7 @@ const CriOne = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            Pour qu&#34;on puisse donner une définition globalisante de la
+            Pour qu&#39;on puisse donner une définition globalisante de la
             critique nous pourrions la définir selon Emile Littré.
           </p>
         </div>
@@ -73,30 +73,30 @@ const CriOne = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            &#34; La critique littéraire est l&#34;art de juger les productions
-            littéraires&#34;
+            &#39; La critique littéraire est l&#39;art de juger les productions
+            littéraires&#39;
           </p>
         </div>
         <p className="ar">
-          &#34;النقد الأدبي هو فن الحكم على الإنتاجات الأدبية.&#34;
+          &#39;النقد الأدبي هو فن الحكم على الإنتاجات الأدبية.&#39;
         </p>
         <div className="box">
           <p className="fr">
-            Le critique est &#34; celui qui juge les ouvrages d&#34;esprit&#34;
-            et une critique est &#34; un jugement porté par un critique&#34;.
+            Le critique est &#39; celui qui juge les ouvrages d&#39;esprit&#39;
+            et une critique est &#39; un jugement porté par un critique&#39;.
           </p>
         </div>
         <p className="ar">
-          الناقد هو &#34;الشخص الذي يحكم على الأعمال الفكرية&#34; والنقد هو
-          &#34;حكم يصدره الناقد&#34;.
+          الناقد هو &#39;الشخص الذي يحكم على الأعمال الفكرية&#39; والنقد هو
+          &#39;حكم يصدره الناقد&#39;.
         </p>
         <div className="box">
           <p className="fr">
             La critique littéraire traditionnellement avait pour objet de juger
-            les livres selon le bon goût mais nous pourrions ajouter qu&#34;elle
+            les livres selon le bon goût mais nous pourrions ajouter qu&#39;elle
             est aussi, une histoire littéraire qui tente de recenser les écrits
             du passé avec Sainte-Beuve au 17 e la critique devient une manière
-            d&#34;histoire naturelle littéraire qui tend à la manière des
+            d&#39;histoire naturelle littéraire qui tend à la manière des
             scientistes de classNameer les espèces;
           </p>
         </div>
@@ -108,19 +108,19 @@ const CriOne = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            d&#34;entrevoir les genres et d&#34;établir une classNameification
+            d&#39;entrevoir les genres et d&#39;établir une classNameification
             des esprits: genre romanesque, poétique, dramatique, didactique etc.
           </p>
         </div>
         <p className="ar">
-          &#34;من بين رؤية الأنواع وإقامة تصنيف للعقول: النوع الروائي، الشعري،
-          المسرحي، التعليمي، إلخ.&#34;
+          &#39;من بين رؤية الأنواع وإقامة تصنيف للعقول: النوع الروائي، الشعري،
+          المسرحي، التعليمي، إلخ.&#39;
         </p>
         <div className="box">
           <p className="fr">
             Au XX siècle la critique devient impressionniste c.a.d. ce que
-            l&#34;écrivain critique disait du genre littéraire : utilisations
-            possibles d&#34;impressions plus précieuses.
+            l&#39;écrivain critique disait du genre littéraire : utilisations
+            possibles d&#39;impressions plus précieuses.
           </p>
         </div>
         <p className="ar">
@@ -133,7 +133,7 @@ const CriOne = (props: Props) => {
             On a par exemple : <br />
             La critique proustienne. <br />
             Celle de Jules Lemaitre. <br />
-            Celle d&#34;Anatole France.
+            Celle d&#39;Anatole France.
           </p>
         </div>
         <p className="ar">
@@ -155,8 +155,8 @@ const CriOne = (props: Props) => {
         <div className="box">
           <p className="fr">
             Tel est le dilemme de la critique qui, au début du XX siècle se
-            trouve enfermée : car elle est prise entre l&#34;universalité
-            abstraite de la critique normative, le scientisme de l&#34;histoire
+            trouve enfermée : car elle est prise entre l&#39;universalité
+            abstraite de la critique normative, le scientisme de l&#39;histoire
             littéraire et entre les caprices de la subjectivité.
           </p>
         </div>
@@ -167,8 +167,8 @@ const CriOne = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            Au cours des dernières décennies elle n&#34;a échappé ni à l&#34;une
-            ni à l&#34;autre de ces tentations.
+            Au cours des dernières décennies elle n&#39;a échappé ni à l&#39;une
+            ni à l&#39;autre de ces tentations.
           </p>
         </div>
         <p className="ar">
@@ -177,7 +177,7 @@ const CriOne = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            Tantôt elle s&#34;est mise à étudier les sciences humaines ou
+            Tantôt elle s&#39;est mise à étudier les sciences humaines ou
             exactes.
           </p>
         </div>
@@ -188,9 +188,9 @@ const CriOne = (props: Props) => {
         <div className="box">
           <p className="fr">
             Avec Lucien Goldman elle va dans le sens de la sociologie dans
-            l&#34;univers imaginaire exprime dans l&#34;œuvre, on devait selon
-            Lucien Goldman voir les structures de la vision du monde d&#34;un
-            groupe social auquel l&#34;écrivain est lie d&#34;une certaine façon
+            l&#39;univers imaginaire exprime dans l&#39;œuvre, on devait selon
+            Lucien Goldman voir les structures de la vision du monde d&#39;un
+            groupe social auquel l&#39;écrivain est lie d&#39;une certaine façon
             et a qui il les a empruntées.
           </p>
         </div>
@@ -203,36 +203,36 @@ const CriOne = (props: Props) => {
         <div className="box">
           <p className="fr">
             Tantôt elle a voulu être elle-même science de la littérature non pas
-            une science des&#34; contenus&#34; mais une science des conditions
-            du contenu c.a.d. des &#34;formes&#34; : une linguistique du
-            discours &#34; conforme à la nature verbale de son objet&#34;.
+            une science des&#39; contenus&#39; mais une science des conditions
+            du contenu c.a.d. des &#39;formes&#39; : une linguistique du
+            discours &#39; conforme à la nature verbale de son objet&#39;.
           </p>
         </div>
         <p className="ar">
           في بعض الأحيان، حاول النقد الأدبي أن يصبح علمًا للأدب بذاته، وليس
           علمًا للمحتويات، بل علمًا للظروف التي تؤدّي إلى تشكّل هذه المحتويات،
-          أي للأشكال. ويتعلّق هذا بلغة الخطاب، والتي يجب أن تكون &#34;متناسبة مع
-          الطبيعة اللفظية لموضوعها&#34;.
+          أي للأشكال. ويتعلّق هذا بلغة الخطاب، والتي يجب أن تكون &#39;متناسبة مع
+          الطبيعة اللفظية لموضوعها&#39;.
         </p>
         <div className="box">
           <p className="fr">
-            Tantôt au contraire, elle est allée dans le sens d&#34;une critique
+            Tantôt au contraire, elle est allée dans le sens d&#39;une critique
             partiale passionnée, politique comme le voulait Baudelaire au XIX
-            siècle et comme l&#34;a voulu après Jean Paulhan et Sartre qui
-            affirme que le critique &#34; engage l&#34;homme entier&#34;.
+            siècle et comme l&#39;a voulu après Jean Paulhan et Sartre qui
+            affirme que le critique &#39; engage l&#39;homme entier&#39;.
           </p>
         </div>
         <p className="ar">
           في بعض الأحيان، ذهب النقد الأدبي في الاتجاه المعاكس، وذلك باتباع نهج
           النقد الموضوعي الشخصي والمتحمس، والسياسي كما أراد بودلير في القرن
           التاسع عشر، وكما أراده جان بولهان وسارتر في وقت لاحق، والذي يؤكد أن
-          الناقد &#34;يُلزم الإنسان بالكامل&#34;.
+          الناقد &#39;يُلزم الإنسان بالكامل&#39;.
         </p>
         <div className="box">
           <p className="fr">
             Les débats sont ouverts mais une chose est certaine : la critique
             littéraire majeure réside dans le fait de dégager les fonctions de
-            la critique tout, en suggérant le sens d&#34;une évolution dans le
+            la critique tout, en suggérant le sens d&#39;une évolution dans le
             temps.
           </p>
         </div>
@@ -244,10 +244,10 @@ const CriOne = (props: Props) => {
         <div className="box">
           <p className="fr">
             Les caractères particuliers de la critique littéraire tiennent aux
-            caractères particuliers de l&#34;objet sur lequel elle porte:
-            l&#34;œuvre littéraire, c.a.d un objet purement intellectuel,
-            n&#34;existant que par la rencontre d&#34;une double activité de
-            l&#34;esprit: celle de l&#34;écrivain et celle du lecteur.
+            caractères particuliers de l&#39;objet sur lequel elle porte:
+            l&#39;œuvre littéraire, c.a.d un objet purement intellectuel,
+            n&#39;existant que par la rencontre d&#39;une double activité de
+            l&#39;esprit: celle de l&#39;écrivain et celle du lecteur.
           </p>
         </div>
         <p className="ar">
@@ -258,7 +258,7 @@ const CriOne = (props: Props) => {
         <div className="box">
           <p className="fr">
             A cet égard la critique littéraire diffère des diverses formes de
-            critique d&#34;art ( peinture, musique).
+            critique d&#39;art ( peinture, musique).
           </p>
         </div>
         <p className="ar">
@@ -267,13 +267,13 @@ const CriOne = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            L&#34;œuvre littéraire n&#34;existe qu&#34;au point de rencontre de
+            L&#39;œuvre littéraire n&#39;existe qu&#39;au point de rencontre de
             deux appels:
             <br />
-            1- L&#34;appel qui l&#34;a fait naitre, qui a poussé l&#34;artiste à
+            1- L&#39;appel qui l&#39;a fait naitre, qui a poussé l&#39;artiste à
             la créer.
             <br />
-            2- L&#34;appel qui nous concerne, nous ses lecteurs, et qui nous
+            2- L&#39;appel qui nous concerne, nous ses lecteurs, et qui nous
             provoque à donner une réponse.
           </p>
         </div>
@@ -284,8 +284,8 @@ const CriOne = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            La critique apparait-elle déjà dans la mesure ou l&#34;oeuvre
-            achevée n&#34;existe que pour et par le lecteur qui la lit et la
+            La critique apparait-elle déjà dans la mesure ou l&#39;oeuvre
+            achevée n&#39;existe que pour et par le lecteur qui la lit et la
             réinvente mot à mot pour son propre usage.
           </p>
         </div>
@@ -327,7 +327,7 @@ const CriOne = (props: Props) => {
             B- La critique du commentaire qui réinterprète le texte; qui le
             corrige le rend facile à lire; qui explique les références
             politiques et philosophiques et surtout qui corrige les fautes des
-            copistes ( avant l&#34;apparition de l&#34;imprimerie).
+            copistes ( avant l&#39;apparition de l&#39;imprimerie).
           </p>
         </div>
         <p className="ar">
@@ -337,8 +337,8 @@ const CriOne = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            Mais des le XIX siècle, depuis l&#34;époque romantique la critique
-            littéraire a change d&#34;objectif et de perspective.
+            Mais des le XIX siècle, depuis l&#39;époque romantique la critique
+            littéraire a change d&#39;objectif et de perspective.
           </p>
         </div>
         <p className="ar">
@@ -360,7 +360,7 @@ const CriOne = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            Ensuite apparait la critique positiviste qui essaye d&#34;analyser
+            Ensuite apparait la critique positiviste qui essaye d&#39;analyser
             le texte - qui cherche a classNameer, a définir, à limiter.
           </p>
         </div>
@@ -372,7 +372,7 @@ const CriOne = (props: Props) => {
           <p className="fr">
             Cette critique tourne a être scientifique, (Taine-Renan - Brunetière
             ) psychologique et sociologique car elle cherche à élaborer le
-            texte; à chercher les causes sociales qui reflètent l&#34;œuvre et
+            texte; à chercher les causes sociales qui reflètent l&#39;œuvre et
             qui se reflètent dans le texte selon les conditions sociales et
             selon les personnages.
           </p>
@@ -406,9 +406,9 @@ const CriOne = (props: Props) => {
           <p className="fr">
             Des années (1920-1930) qui ne cherche pas à analyser un texte en
             particulier, individuel mais qui tend à dégager des règles selon les
-            normes de l&#34;écriture indépendamment du temps et du lieu c.a.d.
+            normes de l&#39;écriture indépendamment du temps et du lieu c.a.d.
             une critique qui cherche des constantes ( ce qui ne change pas
-            d&#34;une époque à une autre).
+            d&#39;une époque à une autre).
           </p>
         </div>
         <p className="ar">
@@ -420,8 +420,8 @@ const CriOne = (props: Props) => {
         <div className="box">
           <p className="fr">
             Comme ex: Elle cherche les invariantes et les constantes dans les
-            épopées de toutes les littératures afin, d&#34;y trouver des
-            critères qui permettent d&#34;expliquer le genre; de définir un
+            épopées de toutes les littératures afin, d&#39;y trouver des
+            critères qui permettent d&#39;expliquer le genre; de définir un
             poème; un roman; un conte ou des récits ... etc.
           </p>
         </div>
@@ -445,10 +445,10 @@ const CriOne = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            Cette critique se donne comme but d&#34;analyser comment l&#34;œuvre
-            s&#34;est faite? Comment elle-est produite? Comment l&#34;auteur
+            Cette critique se donne comme but d&#39;analyser comment l&#39;œuvre
+            s&#39;est faite? Comment elle-est produite? Comment l&#39;auteur
             procède-t-il dans son texte, comment se développe l’Ideal de
-            l&#34;œuvre; quelles sont les interprétations historiques?
+            l&#39;œuvre; quelles sont les interprétations historiques?
           </p>
         </div>
         <p className="ar">
@@ -477,20 +477,20 @@ const CriOne = (props: Props) => {
         </div>
         <div className="box">
           <p className="fr">
-            Ne sont pas les grands moments d&#34;une histoire de la critique.
+            Ne sont pas les grands moments d&#39;une histoire de la critique.
           </p>
         </div>
-        <p className="ar">&#34;لا تُعد اللحظات العظيمة في تاريخ النقد.&#34;</p>
+        <p className="ar">&#39;لا تُعد اللحظات العظيمة في تاريخ النقد.&#39;</p>
         <div className="box">
           <p className="fr">
             Ce ne sont pas des constantes définitives car au fil des siècles
-            l&#34;accent se déplace de l&#34;une sur l&#34;autre pour entrer en
-            jeu dans le grand mécanisme de !&#34;esprit humain.
+            l&#39;accent se déplace de l&#39;une sur l&#39;autre pour entrer en
+            jeu dans le grand mécanisme de !&#39;esprit humain.
           </p>
         </div>
         <p className="ar">
-          &#34;لا تعد ثوابت نهائية، لأنه ينتقل التركيز من واحدة إلى أخرى عبر
-          القرون ويتدخل في الآلية الكبرى لعقل الإنسان.&#34;
+          &#39;لا تعد ثوابت نهائية، لأنه ينتقل التركيز من واحدة إلى أخرى عبر
+          القرون ويتدخل في الآلية الكبرى لعقل الإنسان.&#39;
         </p>
 
         <div className="heading">
@@ -501,61 +501,61 @@ const CriOne = (props: Props) => {
         </div>
         <div className="box">
           <p className="fr">
-            Il est vrai que la littérature semble à l&#34;origine naitre
-            d&#34;un consentement et qu&#34;elle exprime ce consentement.
+            Il est vrai que la littérature semble à l&#39;origine naitre
+            d&#39;un consentement et qu&#39;elle exprime ce consentement.
           </p>
         </div>
         <p className="ar">
-          &#34;صحيح أن الأدب يبدو في الأصل أنه ينشأ من موافقة ويعبر عن هذه
-          الموافقة.&#34;
+          &#39;صحيح أن الأدب يبدو في الأصل أنه ينشأ من موافقة ويعبر عن هذه
+          الموافقة.&#39;
         </p>
         <div className="box">
           <p className="fr">
-            On pourrait définir ce moment comme celui ou &#34; le logos: ( les
-            discours logique) se dissocie du &#34; mythos&#34; (la parole
+            On pourrait définir ce moment comme celui ou &#39; le logos: ( les
+            discours logique) se dissocie du &#39; mythos&#39; (la parole
             sacrée).
           </p>
         </div>
         <p className="ar">
-          &#34;يمكن تعريف هذه الفترة على أنها تلك التي تنفصل فيها
-          &#34;اللوغوس&#34; (الخطاب المنطقي) عن &#34;الميثوس&#34; (الكلمة
-          المقدسة).&#34;
+          &#39;يمكن تعريف هذه الفترة على أنها تلك التي تنفصل فيها
+          &#39;اللوغوس&#39; (الخطاب المنطقي) عن &#39;الميثوس&#39; (الكلمة
+          المقدسة).&#39;
         </p>
         <div className="box">
           <p className="fr">
             La critique permet alors de fixer un texte critique de ce qui était
-            jusqu&#34;ici non écrit.
+            jusqu&#39;ici non écrit.
           </p>
         </div>
         <p className="ar">
-          &#34;تتيح النقد بالتالي تحديد نص نقدي لما كان حتى الآن غير مكتوب.&#34;
+          &#39;تتيح النقد بالتالي تحديد نص نقدي لما كان حتى الآن غير مكتوب.&#39;
         </p>
         <div className="box">
           <p className="fr">
             Suivant le cours normal des choses et des écrits la critique
             littéraire telle que la conçoit et la pratique Aristote vient au
-            terme d&#34;une abondante production.
+            terme d&#39;une abondante production.
           </p>
         </div>
         <p className="ar">
-          &#34;وفقًا للسير الطبيعي للأمور والكتابات، تأتي النقد الأدبي على غرار
-          ما يتصوره ويمارسه أرسطو إلى نهاية إنتاج وفير.&#34;
+          &#39;وفقًا للسير الطبيعي للأمور والكتابات، تأتي النقد الأدبي على غرار
+          ما يتصوره ويمارسه أرسطو إلى نهاية إنتاج وفير.&#39;
         </p>
         <div className="box">
           <p className="fr">
-            Aristote distinguait dans l&#34;éloquence trois genres fondamentaux
-            qu&#34;ils définit dans la Rhétorique : <br />
+            Aristote distinguait dans l&#39;éloquence trois genres fondamentaux
+            qu&#39;ils définit dans la Rhétorique : <br />
             1-Genre Judiciaire. <br />
             2- Genre Délibératif. <br />
             3- Genre Epidictique.
           </p>
         </div>
         <p className="ar">
-          &#34;كان أرسطو يميز في البلاغة ثلاثة أنواع أساسية يعرفها في كتابه
-          &#34;المنطقة&#34;: <br />
+          &#39;كان أرسطو يميز في البلاغة ثلاثة أنواع أساسية يعرفها في كتابه
+          &#39;المنطقة&#39;: <br />
           1- النوع القضائي. <br />
           2- النوع الاستشاري. <br />
-          3- النوع الإشادي.&#34;
+          3- النوع الإشادي.&#39;
         </p>
         <div className="heading">
           <h3>
@@ -563,17 +563,17 @@ const CriOne = (props: Props) => {
             <span> يصف في عمله الشعرية الأنواع الشعرية </span>
           </h3>
         </div>
-        <p className="fr">L&#34;Epopée d&#34;après Homère.</p>
+        <p className="fr">L&#39;Epopée d&#39;après Homère.</p>
         <p className="ar">الملحمة حسب هوميروس.</p>
-        <p className="fr">La tragédie d&#34;après Euripide.</p>
+        <p className="fr">La tragédie d&#39;après Euripide.</p>
         <p className="ar">مأساة وفقا ل Euripides.</p>
 
-        <p className="fr">La comédie d&#34;après Gratès ou Aristophane.</p>
+        <p className="fr">La comédie d&#39;après Gratès ou Aristophane.</p>
 
         <p className="ar">كوميديا حسب Grates أو Aristophanes.</p>
 
         <p className="fr">
-          S&#34;il choisit les histoires de ces écrivains. C&#34;est qu&#34;il
+          S&#39;il choisit les histoires de ces écrivains. C&#39;est qu&#39;il
           veut découvrir le principe de chaque genre.
         </p>
 
@@ -582,8 +582,8 @@ const CriOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          Aristote est le premier qui avait fondé la logique, donc d&#34;avoir
-          fait du discours (logos) l&#34;usage le plus cohérent et le plus
+          Aristote est le premier qui avait fondé la logique, donc d&#39;avoir
+          fait du discours (logos) l&#39;usage le plus cohérent et le plus
           efficace.
         </p>
 
@@ -603,51 +603,51 @@ const CriOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          De même la Poétique veut découvrir &#34; l&#34;effet propre&#34; à
-          chacun des genres poétiques et, pour cela, en examiner les &#34;
-          ressorts&#34;. Bien plus, elle fixe le principe de toute poésie:
-          l&#34;imitation ou ( mimesis).
+          De même la Poétique veut découvrir &#39; l&#39;effet propre&#39; à
+          chacun des genres poétiques et, pour cela, en examiner les &#39;
+          ressorts&#39;. Bien plus, elle fixe le principe de toute poésie:
+          l&#39;imitation ou ( mimesis).
         </p>
         <p className="ar">
-          وبالمثل ، تريد الشاعرية اكتشاف &#34;التأثير المناسب&#34; لكل نوع من
-          الأنواع الشعرية ، ومن أجل ذلك ، دراسة &#34;ينابيعها&#34;. أكثر من ذلك
+          وبالمثل ، تريد الشاعرية اكتشاف &#39;التأثير المناسب&#39; لكل نوع من
+          الأنواع الشعرية ، ومن أجل ذلك ، دراسة &#39;ينابيعها&#39;. أكثر من ذلك
           ، فهي تحدد مبدأ كل شعر: التقليد أو (التمثيليات).
         </p>
         <p className="fr">
-          Tout commence par une définition de l&#34;homme comme être imitant;
-          mais Aristote ne traite pas de n&#34;importe quelle imitation: il
-          passe par l&#34;imitation artistique à l&#34;imitation par la voix,
-          puis à l&#34;imitation du langage ce que nous appellerions &#34;
-          littérature&#34; terme qu&#34;ignorait Aristote.
+          Tout commence par une définition de l&#39;homme comme être imitant;
+          mais Aristote ne traite pas de n&#39;importe quelle imitation: il
+          passe par l&#39;imitation artistique à l&#39;imitation par la voix,
+          puis à l&#39;imitation du langage ce que nous appellerions &#39;
+          littérature&#39; terme qu&#39;ignorait Aristote.
         </p>
         <p className="ar">
           يبدأ كل شيء بتعريف الإنسان ككائن مقلد ؛ لكن أرسطو لا يتعامل مع أي
           تقليد فقط: فهو يذهب من خلال التقليد الفني إلى التقليد الصوتي ، ثم إلى
-          تقليد اللغة ، ما نسميه &#34;الأدب&#34; ، وهو مصطلح لم يكن أرسطو على
+          تقليد اللغة ، ما نسميه &#39;الأدب&#39; ، وهو مصطلح لم يكن أرسطو على
           علم به.
         </p>
         <p className="fr">
-          L&#34;épopée, la tragédie, la comédie imitent la vie, donc un
-          mouvement qui conduit vers une fin. De toute façon il ne s&#34;agit
-          pas d&#34;une simple copie mais d&#34;une stylisation.
+          L&#39;épopée, la tragédie, la comédie imitent la vie, donc un
+          mouvement qui conduit vers une fin. De toute façon il ne s&#39;agit
+          pas d&#39;une simple copie mais d&#39;une stylisation.
         </p>
         <p className="ar">
           الملحمة ، المأساة ، الكوميديا تقلد الحياة ، وبالتالي حركة تؤدي إلى
           النهاية. على أي حال ، فهي ليست نسخة بسيطة ولكنها أسلوب.
         </p>
         <p className="fr">
-          L&#34;effet de l&#34;imitation est le plaisir, mais aussi la
+          L&#39;effet de l&#39;imitation est le plaisir, mais aussi la
           purification ( catharsis). La catharsis peut naitre des faits imites,
-          elle peut naitre aussi de l&#34;agencement des faits.
+          elle peut naitre aussi de l&#39;agencement des faits.
         </p>
         <p className="ar">
           تأثير التقليد هو اللذة ، ولكنه أيضًا التطهير (التنفيس). يمكن أن تنشأ
           التنفيس عن تقليد الحقائق ، ويمكن أن تنشأ أيضًا من ترتيب الحقائق.
         </p>
         <p className="fr">
-          Pour la décrire, Aristote insiste sur l&#34;étendue: la limite de
-          l&#34;œuvre littéraire est conforme à la nature et on peut faire le
-          tour de son anatomie comme celle d&#34;un bel animal. Il s&#34;emploie
+          Pour la décrire, Aristote insiste sur l&#39;étendue: la limite de
+          l&#39;œuvre littéraire est conforme à la nature et on peut faire le
+          tour de son anatomie comme celle d&#39;un bel animal. Il s&#39;emploie
           à retrouver un ordre.
         </p>
         <p className="ar">
@@ -656,7 +656,7 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Par exemple: dans la tragédie le nœud, les péripéties, le dénouement,
-          ou l&#34;alternance des parties lyriques et des parties dramatiques.
+          ou l&#39;alternance des parties lyriques et des parties dramatiques.
         </p>
         <p className="ar">
           على سبيل المثال: في المأساة ، العقدة ، والمغامرات ، والخاتمة ، أو
@@ -671,9 +671,9 @@ const CriOne = (props: Props) => {
           الحالة ؛ الأسماء تؤلف الاستعارة (في الشعر).
         </p>
         <p className="fr">
-          Comme Descartes se propose non pas d&#34;enseigner la méthode que
+          Comme Descartes se propose non pas d&#39;enseigner la méthode que
           chacun doit suivre pour bien conduire sa raison, mais seulement de
-          faire voir en quelle sorte il a tache de conduire la sienne&#34;.
+          faire voir en quelle sorte il a tache de conduire la sienne&#39;.
         </p>
         <p className="ar">
           نظرًا لأن ديكارت لا يقترح تعليم الطريقة التي يجب على الجميع اتباعها
@@ -681,8 +681,8 @@ const CriOne = (props: Props) => {
           إدارة منطقته الخاصة.
         </p>
         <p className="fr">
-          Il s&#34;agit de mieux connaitre , mieux comprendre l&#34;œuvre et
-          d&#34;essayer de dégager de l&#34;ensemble quelques développements
+          Il s&#39;agit de mieux connaitre , mieux comprendre l&#39;œuvre et
+          d&#39;essayer de dégager de l&#39;ensemble quelques développements
           normatifs.
         </p>
         <p className="ar">
@@ -690,7 +690,7 @@ const CriOne = (props: Props) => {
           المعيارية من الكل.
         </p>
         <p className="fr">
-          Au XVI et au XVII siècle la Poétique d&#34;Aristote a servi de point
+          Au XVI et au XVII siècle la Poétique d&#39;Aristote a servi de point
           de départ à des considérations critiques sur la littérature qui sont
           trop nombreuses et trop divergentes pour constituer une théorie
           stable.
@@ -701,14 +701,14 @@ const CriOne = (props: Props) => {
           بحيث لا تشكل نظرية مستقرة.
         </p>
         <p className="fr">
-          On considérait que la Poétique ou l&#34;art Poétique d&#34;Aristote
+          On considérait que la Poétique ou l&#39;art Poétique d&#39;Aristote
           est le sommaire de la doctrine classNameique.
         </p>
         <p className="ar">
           اعتبرت شاعرية أرسطو أو الفن الشعري ملخصًا للعقيدة الكلاسيكية.
         </p>
         <p className="fr">
-          Au cours du XVI et du XVII siècle La Poétique d&#34;Aristote a servi
+          Au cours du XVI et du XVII siècle La Poétique d&#39;Aristote a servi
           de point de départ à des considérations critiques.
         </p>
         <p className="ar">
@@ -716,8 +716,8 @@ const CriOne = (props: Props) => {
           انطلاق للاعتبارات النقدية.
         </p>
         <p className="fr">
-          Aristote fût traduit par Scaliger et Castellero mais c&#34;est à un
-          Allemand Lessing (1729-1781) qu&#34;on su traduire Aristote en le
+          Aristote fût traduit par Scaliger et Castellero mais c&#39;est à un
+          Allemand Lessing (1729-1781) qu&#39;on su traduire Aristote en le
           dégageant de la tradition française.
         </p>
         <p className="ar">
@@ -741,25 +741,25 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Ex: sa critique sur Victor Hugo créateur par la forme, sa critique sur
-          Flaubert &#34; la tentation de Saint Antoine&#34;.
+          Flaubert &#39; la tentation de Saint Antoine&#39;.
         </p>
         <p className="ar">
-          مثال: نقده لفيكتور هوغو ، الخالق بالشكل ، نقده لفلوبير &#34;إغراء
-          القديس أنطوان&#34;.
+          مثال: نقده لفيكتور هوغو ، الخالق بالشكل ، نقده لفلوبير &#39;إغراء
+          القديس أنطوان&#39;.
         </p>
         <p className="fr">Paul Valery donne un sens nouveau pour Poétique.</p>
         <p className="ar">يعطي بول فاليري معنى جديدًا للشاعرية.</p>
         <p className="fr">
-          Selon lui; la critique c&#34;est &#34; la notion toute simple de
-          faire&#34; c.a.d. l&#34;œuvre entrain de se faire.
+          Selon lui; la critique c&#39;est &#39; la notion toute simple de
+          faire&#39; c.a.d. l&#39;œuvre entrain de se faire.
         </p>
         <p className="ar">
-          بحسبه؛ النقد هو &#34;المفهوم البسيط للفعل&#34; ، أي العمل في طور
+          بحسبه؛ النقد هو &#39;المفهوم البسيط للفعل&#39; ، أي العمل في طور
           الإنجاز.
         </p>
         <p className="fr">
-          C&#34;est tout ce qui a trait a la création et à la composition
-          d&#34;ouvrages dont le langage est à la fois la substance et le moyen
+          C&#39;est tout ce qui a trait a la création et à la composition
+          d&#39;ouvrages dont le langage est à la fois la substance et le moyen
           et non pas le sens restreint de règles ou de préceptes esthétiques
           concernant la poésie.
         </p>
@@ -768,34 +768,34 @@ const CriOne = (props: Props) => {
           وليس المعنى المقيد للقواعد أو المبادئ الجمالية المتعلقة بالشعر.
         </p>
         <p className="fr">
-          La poétique aujourd&#34;hui a pris la controverse de Valéry avec
-          Tzvetan Todorov &#34; Poétique&#34; &#34;Poétique de la prose&#34;
+          La poétique aujourd&#39;hui a pris la controverse de Valéry avec
+          Tzvetan Todorov &#39; Poétique&#39; &#39;Poétique de la prose&#39;
           (1971) qui refuse la première conception valéryenne de la poétique.
         </p>
         <p className="ar">
-          أثار الشاعريون اليوم جدل فاليري مع تسفيتان تودوروف &#34;Poetics&#34;
-          &#34;Poetics of Prose&#34; (1971) الذي يرفض أول تصور فاليريان
+          أثار الشاعريون اليوم جدل فاليري مع تسفيتان تودوروف &#39;Poetics&#39;
+          &#39;Poetics of Prose&#39; (1971) الذي يرفض أول تصور فاليريان
           للشاعرية.
         </p>
         <p className="fr">
-          Pour lui , ce que la poétique interroge &#34; ce sont les propriétés
-          de ce discours particulier qu&#34;est le discours littéraire&#34; La
-          poétique n&#34;est pas seulement un acte de l&#34;esprit, un art du
+          Pour lui , ce que la poétique interroge &#39; ce sont les propriétés
+          de ce discours particulier qu&#39;est le discours littéraire&#39; La
+          poétique n&#39;est pas seulement un acte de l&#39;esprit, un art du
           langage mais une analyse de fonction du langage.
         </p>
         <p className="ar">
-          بالنسبة له ، ما هي الأسئلة الشعرية &#34;هي خصائص هذا الخطاب المعين
-          الذي هو الخطاب الأدبي&#34; الشعر ليس فقط فعلًا للعقل ، وفنًا للغة ، بل
+          بالنسبة له ، ما هي الأسئلة الشعرية &#39;هي خصائص هذا الخطاب المعين
+          الذي هو الخطاب الأدبي&#39; الشعر ليس فقط فعلًا للعقل ، وفنًا للغة ، بل
           هو تحليل لوظيفة اللغة.
         </p>
         <p className="fr">
           Comme prédécesseur aux formalistes russes qui fondèrent le cercle
-          linguistique de Moscou, Todorov essaye de décrire l&#34;œuvre, sa
-          fabrication en termes techniques Refusant l&#34;approche
+          linguistique de Moscou, Todorov essaye de décrire l&#39;œuvre, sa
+          fabrication en termes techniques Refusant l&#39;approche
           psychologique, philosophique ou sociologique qui régissait alors la
-          critique littéraire en Russie, les formalistes mettaient l&#34;œuvre
+          critique littéraire en Russie, les formalistes mettaient l&#39;œuvre
           au centre de leurs préoccupations et essayaient de décrire de
-          l&#34;expliquer comme procédé:
+          l&#39;expliquer comme procédé:
         </p>
         <p className="ar">
           كسابق للشكليين الروس الذين أسسوا الدائرة اللغوية لموسكو ، يحاول
@@ -806,8 +806,8 @@ const CriOne = (props: Props) => {
         <p className="fr">ceci a été bien interpréter par ( Chklovski);</p>
         <p className="ar">وقد فسره (تشكلوفسكي) جيدًا ؛</p>
         <p className="fr">
-          Ex: De l&#34;étude du problème du son dans le vers, l&#34;enquête
-          s&#34;est étendu à celle du vers (Tomachevski) aussi pour le conte (
+          Ex: De l&#39;étude du problème du son dans le vers, l&#39;enquête
+          s&#39;est étendu à celle du vers (Tomachevski) aussi pour le conte (
           Propp.) et du roman ( Chklovski).
         </p>
         <p className="ar">
@@ -816,8 +816,8 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Selon beaucoup de formalistes russes : le rôle de la critique
-          n&#34;est plus le travail d&#34;une censure étrangère; ni une
-          observation impassible mais c&#34;est l&#34;écrivain lui-même.
+          n&#39;est plus le travail d&#39;une censure étrangère; ni une
+          observation impassible mais c&#39;est l&#39;écrivain lui-même.
         </p>
         <p className="ar">
           يرى العديد من الرسميين الروس أن دور النقد لم يعد من عمل الرقابة
@@ -828,7 +828,7 @@ const CriOne = (props: Props) => {
             1ère Partie
             <br />
             Aperçu historique sur la critique littéraire depuis le XVIème siècle
-            jusqu&#34;au XIXème siècle
+            jusqu&#39;au XIXème siècle
             <br />
             <span>
               الجزء 1 <br />
@@ -857,7 +857,7 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Ce siècle qui ignorait le critique professionnel. Un écrivain comme
-          Montaigne est d&#34;abord un lecteur de qualité avant d&#34;être
+          Montaigne est d&#39;abord un lecteur de qualité avant d&#39;être
           critique sans le savoir.
         </p>
         <p className="ar">
@@ -865,21 +865,21 @@ const CriOne = (props: Props) => {
           شيء قارئ جيد قبل أن يكون ناقدًا دون أن يعرف ذلك.
         </p>
         <p className="fr">
-          Notre littérature médiévale n&#34;a donc pas été accompagnée d&#34;une
+          Notre littérature médiévale n&#39;a donc pas été accompagnée d&#39;une
           critique qui la codifie et la classNamee. Pour quelles raisons?
         </p>
         <p className="ar">
           ولذلك ، فإن أدبنا في العصور الوسطى لم يصاحبه نقد يقننه ويصنفه. لماذا؟
         </p>
         <p className="fr">
-          La première : tient sans doute à l&#34;absence d&#34;un véritable
+          La première : tient sans doute à l&#39;absence d&#39;un véritable
           public de lecteurs.
         </p>
         <p className="ar">الأول: ربما بسبب غياب جمهور حقيقي من القراء.</p>
         <p className="fr">
-          On pouvait parler de l&#34;existence d&#34;une littérature dans les
-          pays d&#34;Europe occidentale (l&#34;Italie exceptée) avant
-          l&#34;invention de l&#34;imprimerie.
+          On pouvait parler de l&#39;existence d&#39;une littérature dans les
+          pays d&#39;Europe occidentale (l&#39;Italie exceptée) avant
+          l&#39;invention de l&#39;imprimerie.
         </p>
         <p className="ar">
           يمكن للمرء أن يتحدث عن وجود أدب في بلدان أوروبا الغربية (باستثناء
@@ -895,19 +895,19 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Ce qui prive cette littérature de son accompagnement critique,
-          c&#34;est qu&#34;a vrai dire elle n&#34;est pas encore une
-          &#34;littérature&#34; au sens moderne du mot mais un simple élément de
+          c&#39;est qu&#39;a vrai dire elle n&#39;est pas encore une
+          &#39;littérature&#39; au sens moderne du mot mais un simple élément de
           la vie collective lie aux cérémonies du culte et aux réjouissances des
           seigneurs ou des bourgeois des villes.
         </p>
         <p className="ar">
           ما يحرم هذا الأدب من مرافقته النقدية هو أنه ، في الحقيقة ، ليس بعد
-          &#34;أدبًا&#34; بالمعنى الحديث للكلمة ، ولكنه عنصر بسيط من عناصر
+          &#39;أدبًا&#39; بالمعنى الحديث للكلمة ، ولكنه عنصر بسيط من عناصر
           الحياة الجماعية المرتبطة بطقوس العبادة وإبتهاج اللوردات أو برجوازية
           المدن.
         </p>
         <p className="fr">
-          Cependant un aspect de l&#34;érudition médiévale pourrait apparaitre
+          Cependant un aspect de l&#39;érudition médiévale pourrait apparaitre
           comme une première forme de critique: on accordait une place aux
           biographies.
         </p>
@@ -916,10 +916,10 @@ const CriOne = (props: Props) => {
           كشكل أول من أشكال النقد: تم تخصيص مكان للسير الذاتية.
         </p>
         <p className="fr">
-          Les humanistes du Moyen Age s&#34;interdisaient les recherches
+          Les humanistes du Moyen Age s&#39;interdisaient les recherches
           esthétiques sur les œuvres des littératures antique et chrétiennes
-          mais se montraient volontiers curieux d&#34;érudition et de traduction
-          a l&#34;exemple de Plutarque; ils aimaient connaitre et raconter la
+          mais se montraient volontiers curieux d&#39;érudition et de traduction
+          a l&#39;exemple de Plutarque; ils aimaient connaitre et raconter la
           vie des hommes illustres et, entre autres, celle des écrivains.
         </p>
         <p className="ar">
@@ -929,30 +929,30 @@ const CriOne = (props: Props) => {
           الرجال اللامعين ، وحياة الكتاب من بين أمور أخرى.
         </p>
         <p className="fr">
-          A la fin du XV et au début du XVI siècle d&#34;importantes
+          A la fin du XV et au début du XVI siècle d&#39;importantes
           transformations matérielles modifient profondément les conditions de
           vie intellectuelle en France et favorisent le développement de ce qui
-          sera désigné beaucoup plus tard du nom &#34;littérature&#34; et de
-          &#34;critique&#34;.
+          sera désigné beaucoup plus tard du nom &#39;littérature&#39; et de
+          &#39;critique&#39;.
         </p>
         <p className="ar">
           في نهاية القرن الخامس عشر وبداية القرن السادس عشر ، أدت التحولات
           المادية الكبرى إلى تغيير جذري في ظروف الحياة الفكرية في فرنسا وفضلت
-          تطوير ما سيشار إليه لاحقًا باسم &#34;الأدب&#34; و &#34;النقد&#34;.
+          تطوير ما سيشار إليه لاحقًا باسم &#39;الأدب&#39; و &#39;النقد&#39;.
         </p>
         <p className="fr">II s’agit :</p>
         <p className="ar">إنها:</p>
         <p className="fr">
-          1- De l&#34;invention de l&#34;imprimerie qui permet une plus grande
+          1- De l&#39;invention de l&#39;imprimerie qui permet une plus grande
           diffusion et une meilleure connaissance des textes.
         </p>
         <p className="ar">
           1- اختراع المطبعة التي تتيح انتشاراً أكبر ومعرفة أفضل بالنصوص.
         </p>
         <p className="fr">
-          2- De la formation de grandes communautés nationales a l&#34;intérieur
-          desquelles s&#34;impose une langue dominante pratique par un corps
-          d&#34;écrivains soucieux de présenter leur partie.
+          2- De la formation de grandes communautés nationales a l&#39;intérieur
+          desquelles s&#39;impose une langue dominante pratique par un corps
+          d&#39;écrivains soucieux de présenter leur partie.
         </p>
         <p className="ar">
           2- تكوين مجتمعات وطنية كبيرة تُفرض فيها لغة مهيمنة ، ويمارسها مجموعة
@@ -960,16 +960,16 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           3- Du développement dans les centres urbains et autours des seigneurs,
-          d&#34;une société cultivée qui prend conscience de sa force et de son
-          originalité et s&#34;exerce à l&#34;analyse et au libre examen.
+          d&#39;une société cultivée qui prend conscience de sa force et de son
+          originalité et s&#39;exerce à l&#39;analyse et au libre examen.
         </p>
         <p className="ar">
           3- التطور في المراكز العمرانية وما حولها من مجتمع مثقف يدرك قوته
           وأصالته وممارساته وتحليله وفحصه بحرية.
         </p>
         <p className="fr">
-          La littérature, devenue désormais consciente d&#34;elle-même, se
-          manifeste d&#34;abord, dans les cinquante années qui séparent Villon
+          La littérature, devenue désormais consciente d&#39;elle-même, se
+          manifeste d&#39;abord, dans les cinquante années qui séparent Villon
           de Marot, par le travail de remise en ordre entrepris par les grands
           Rhétoriqueurs.
         </p>
@@ -989,19 +989,19 @@ const CriOne = (props: Props) => {
         <p className="fr">
           A cette génération succède une génération plus exigeante qui va se
           proposer un idéal poétique supérieur en critiquant avec une férocité
-          souvent injuste l&#34;œuvre de ses prédécesseurs.
+          souvent injuste l&#39;œuvre de ses prédécesseurs.
         </p>
         <p className="ar">
           سيخلف هذا الجيل جيل أكثر تطلبًا سيقترح نموذجًا شعريًا متفوقًا من خلال
           انتقاد أعمال أسلافه بشراسة في كثير من الأحيان.
         </p>
         <p className="fr">
-          L&#34;opposition des deux attitudes peut se résumer dans
-          l&#34;opposition de deux œuvres:
+          L&#39;opposition des deux attitudes peut se résumer dans
+          l&#39;opposition de deux œuvres:
         </p>
         <p className="ar">يمكن تلخيص معارضة الموقفين في معارضة عملين:</p>
         <p className="fr">
-          1-L&#34;art poétique français de Thomas Sébillet (1548).
+          1-L&#39;art poétique français de Thomas Sébillet (1548).
         </p>
         <p className="ar">1- الفن الشعري الفرنسي لتوماس سيبيليه (1548).</p>
         <p className="fr">
@@ -1010,19 +1010,19 @@ const CriOne = (props: Props) => {
           polémique.
         </p>
         <p className="ar">
-          &#34;La Défense et Illustration de la langue française&#34; هي كتاب
+          &#39;La Défense et Illustration de la langue française&#39; هي كتاب
           كتبه دو بيليه عام 1549، والذي يُعتبر أول بيان حديث بلغته وذلك بسبب
           نبرته العقائدية والجدلية في الوقت نفسه.
         </p>
 
         <p className="fr">
           En un mot comme le remarque Sainte Beuve dans un article de 1840
-          consacre a Du Bellay: &#34;une critique qui échauffe et qui
-          souligne&#34;.
+          consacre a Du Bellay: &#39;une critique qui échauffe et qui
+          souligne&#39;.
         </p>
         <p className="ar">
           باختصار ، كما تشير سانت بوف في مقال في عام 1840 مكرس لدو بيلاي:
-          &#34;نقد يشتد ويؤكد&#34;.
+          &#39;نقد يشتد ويؤكد&#39;.
         </p>
         <p className="fr">
           c.a.d. une critique capable de susciter des beautés nouvelles et qui
@@ -1057,12 +1057,12 @@ const CriOne = (props: Props) => {
           2- نقد المقاومة ونقد الحركة والشجار بين القدماء والمحدثين.
         </p>
         <p className="fr">
-          3- Critique de l&#34;honnête homme qui se cherche lui-même a travers
+          3- Critique de l&#39;honnête homme qui se cherche lui-même a travers
           ses livres.
         </p>
         <p className="ar">3- نقد الرجل الأمين الساعي لنفسه من خلال كتبه.</p>
         <p className="fr">
-          4- Critique de l&#34;historien et de l&#34;érudit qui se montrent
+          4- Critique de l&#39;historien et de l&#39;érudit qui se montrent
           soucieux de comprendre dans quelles conditions chaque œuvre a pris
           naissance.
         </p>
@@ -1070,7 +1070,7 @@ const CriOne = (props: Props) => {
           4- انتقاد المؤرخ والباحث المهتمين بفهم ظروف ولادة كل عمل.
         </p>
         <p className="fr">
-          Tout cela se dessine déjà au sien de l&#34;activité intellectuelle
+          Tout cela se dessine déjà au sien de l&#39;activité intellectuelle
           multiforme et féconde du siècle des humanistes.
         </p>
         <p className="ar">
@@ -1098,7 +1098,7 @@ const CriOne = (props: Props) => {
         <p className="fr">
           Malherbe est le plus parfait représentant de cette tendance nouvelle.
           Sa dénonciation critique visait les notions mêmes sur lesquelles la
-          littérature du siècle précèdent s&#34;était fondée.
+          littérature du siècle précèdent s&#39;était fondée.
         </p>
         <p className="ar">
           Malherbe هو أفضل ممثل لهذا الاتجاه الجديد. استهدفت إدانته النقدية
@@ -1113,18 +1113,18 @@ const CriOne = (props: Props) => {
           تخلص من الجدل.
         </p>
         <p className="fr">
-          &#34; Je sais- dit-il que juger est un métier que tout le monde ne
+          &#39; Je sais- dit-il que juger est un métier que tout le monde ne
           sait pas faire: il y faut de la science et de la conscience, qui sont
-          choses qui ne se rencontrent pas souvent en une même personne&#34;.
+          choses qui ne se rencontrent pas souvent en une même personne&#39;.
         </p>
         <p className="ar">
-          &#34;أعلم - قال - أن الحكم مهنة لا يعرف الجميع كيفية القيام بها: فهي
-          تتطلب العلم والضمير ، وهي أشياء لا توجد غالبًا في نفس الشخص&#34;.
+          &#39;أعلم - قال - أن الحكم مهنة لا يعرف الجميع كيفية القيام بها: فهي
+          تتطلب العلم والضمير ، وهي أشياء لا توجد غالبًا في نفس الشخص&#39;.
         </p>
         <p className="fr">
           Apres le rapide prestige de Malherbe, des critiques comme Chapelin,
           Guez de Balzac se réunissent dans des cercles mondains, en particulier
-          à l&#34;Hôtel de Rambouillet et contribuent à donner a la critique un
+          à l&#39;Hôtel de Rambouillet et contribuent à donner a la critique un
           caractère nouveau.
         </p>
         <p className="ar">
@@ -1141,20 +1141,20 @@ const CriOne = (props: Props) => {
           المجتمع.
         </p>
         <p className="fr">
-          la Critique orale: les familiers du salon font assaut d&#34;esprit
-          pour célébrer ou pour condamner l&#34;œuvre nouvelle dont on parle.
+          la Critique orale: les familiers du salon font assaut d&#39;esprit
+          pour célébrer ou pour condamner l&#39;œuvre nouvelle dont on parle.
         </p>
         <p className="ar">
           النقد الشفوي: يقوم أهل غرفة المعيشة بهجوم الروح للاحتفال أو إدانة
           العمل الجديد الذي يتحدث عنه المرء.
         </p>
         <p className="fr">
-          Sainte-Beuve lui rendra hommage lorsqu&#34;il dira que &#34;la vraie
-          critique de Paris se fait en causant&#34;.
+          Sainte-Beuve lui rendra hommage lorsqu&#39;il dira que &#39;la vraie
+          critique de Paris se fait en causant&#39;.
         </p>
         <p className="ar">
-          سيحييه القديس بوف عندما يقول إن &#34;النقد الحقيقي لباريس يتم
-          بالحديث&#34;.
+          سيحييه القديس بوف عندما يقول إن &#39;النقد الحقيقي لباريس يتم
+          بالحديث&#39;.
         </p>
         <p className="fr">
           Guez de Balzac sera le représentant de cette critique, il proposera
@@ -1168,7 +1168,7 @@ const CriOne = (props: Props) => {
           lieux communs, plaire et instruire tout à la fois, savoir distinguer
           entre le bien apparant et le véritable bien; entre le bien et le
           mieux, juger de tous les degrés et de toutes les différences du bien,
-          peser jusqu&#34;au moindre grain du mérite et de la valeur des choses.
+          peser jusqu&#39;au moindre grain du mérite et de la valeur des choses.
         </p>
         <p className="ar">
           حقيقة اكتشاف الأفكار الدقيقة والسرية من خلال التعامل حتى مع الابتذال ،
@@ -1178,20 +1178,20 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Aux yeux de ce public Guez de Balzac recherchera pardessus tout la
-          première qualité de l&#34;œuvre littéraire: la clarté et le fait
-          d&#34;exprimer “ de grandes pensées avec de grands mots&#34;.
+          première qualité de l&#39;œuvre littéraire: la clarté et le fait
+          d&#39;exprimer “ de grandes pensées avec de grands mots&#39;.
         </p>
         <p className="ar">
           في نظر هذا الجمهور ، سيسعى Guez de Balzac قبل كل شيء إلى الجودة الأولى
-          للعمل الأدبي: الوضوح وحقيقة التعبير عن &#34;الأفكار العظيمة بكلمات
-          رائعة&#34;.
+          للعمل الأدبي: الوضوح وحقيقة التعبير عن &#39;الأفكار العظيمة بكلمات
+          رائعة&#39;.
         </p>
         <p className="fr">
           Ainsi se développe une critique bourgeoise et mondaine.
         </p>
         <p className="ar">وهكذا يطور النقد البرجوازي والدنيوي.</p>
         <p className="fr">
-          Apres 1660 apparait le critique le plus prestigieux de l&#34;age
+          Apres 1660 apparait le critique le plus prestigieux de l&#39;age
           classNameique : Boileau.
         </p>
         <p className="ar">
@@ -1204,27 +1204,27 @@ const CriOne = (props: Props) => {
           postérité.
         </p>
         <p className="ar">
-          كان Boileau ناقدًا وقاضيًا من معاصريه. في &#34;فنه الشعري&#34; كان
+          كان Boileau ناقدًا وقاضيًا من معاصريه. في &#39;فنه الشعري&#39; كان
           قادرًا على صياغة أحكام على كتّاب عصره ، راسين ، موليير ، لافونتين ،
           التي صدق عليها الأجيال القادمة.
         </p>
         <p className="fr">
-          Dans la préface de son édition de 1701 il écrit: &#34;Je ne saurais
-          attribuer un si heureux succès qu&#34;au soin que j&#34;ai pris de me
-          conformer toujours aux sentiments du public, et d&#34;attraper, autant
-          qu&#34;ils m&#34;a été possible, son gout en toutes choses&#34;.
+          Dans la préface de son édition de 1701 il écrit: &#39;Je ne saurais
+          attribuer un si heureux succès qu&#39;au soin que j&#39;ai pris de me
+          conformer toujours aux sentiments du public, et d&#39;attraper, autant
+          qu&#39;ils m&#39;a été possible, son gout en toutes choses&#39;.
         </p>
         <p className="ar">
-          كتب في مقدمة طبعته عام 1701: &#34;لا يسعني إلا أن أنسب هذا النجاح
+          كتب في مقدمة طبعته عام 1701: &#39;لا يسعني إلا أن أنسب هذا النجاح
           السعيد إلى العناية التي أولتها للتوافق دائمًا مع مشاعر الجمهور ،
-          وللاستحواذ ، قدر الإمكان ، على ذوقه في كل شيء. &#34;.
+          وللاستحواذ ، قدر الإمكان ، على ذوقه في كل شيء. &#39;.
         </p>
         <p className="fr">
           Ce long combat critique est mené au nom de la raison (“aimez donc la
-          raison &#34;).
+          raison &#39;).
         </p>
         <p className="ar">
-          تتم هذه المعركة الحاسمة الطويلة باسم العقل (&#34;سبب الحب إذن&#34;).
+          تتم هذه المعركة الحاسمة الطويلة باسم العقل (&#39;سبب الحب إذن&#39;).
         </p>
         <p className="fr">
           Boileau dans son livre critique revient inlassablement sur des
@@ -1238,7 +1238,7 @@ const CriOne = (props: Props) => {
           واللياقة.
         </p>
         <p className="fr">
-          C&#34;est ainsi que Boileau a su concilier la souveraineté de la
+          C&#39;est ainsi que Boileau a su concilier la souveraineté de la
           raison et les exigences du cœur.
         </p>
         <p className="ar">
@@ -1246,7 +1246,7 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Selon lui les écrivains de son temps les plus connu sont ceux qui ont
-          su peindre l&#34;homme dans ses traits essentiels ou les hommes de
+          su peindre l&#39;homme dans ses traits essentiels ou les hommes de
           tous les temps se reconnaissent.
         </p>
         <p className="ar">
@@ -1256,7 +1256,7 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Tel est, dans ses grandes lignes le code de la critique classNameique
-          qui juge d&#34;après les règles propres à chaque genre littéraire,
+          qui juge d&#39;après les règles propres à chaque genre littéraire,
           poésie, roman, théâtre.
         </p>
         <p className="ar">
@@ -1264,7 +1264,7 @@ const CriOne = (props: Props) => {
           الخاصة بكل نوع أدبي ، وشعر ، ورواية ، ومسرح.
         </p>
         <p className="fr">
-          Le respect des règles selon cette critique permet d&#34;atteindre la
+          Le respect des règles selon cette critique permet d&#39;atteindre la
           perfection.
         </p>
         <p className="ar">
@@ -1290,8 +1290,8 @@ const CriOne = (props: Props) => {
           معينة.
         </p>
         <p className="fr">
-          Elle est soumise aux impératifs de l&#34;honnêteté, prend une forme
-          assez indifférenciée s&#34;exprimant par la XIII voie de la lettre, de
+          Elle est soumise aux impératifs de l&#39;honnêteté, prend une forme
+          assez indifférenciée s&#39;exprimant par la XIII voie de la lettre, de
           la satire, du roman, du traité théorique.
         </p>
         <p className="ar">
@@ -1315,12 +1315,12 @@ const CriOne = (props: Props) => {
           مدوية.
         </p>
         <p className="fr">
-          Chacun des deux camps s&#34;est plu à exagérer ses positions.
+          Chacun des deux camps s&#39;est plu à exagérer ses positions.
         </p>
         <p className="ar">كان كل من المعسكرين مسرورًا بالمبالغة في مواقفه.</p>
         <p className="fr">
           Une querelle qui dure des années prendra fin avec la Bruyère dans son
-          livre Les Caractères: Des ouvrages de l&#34;esprit qui semble faire
+          livre Les Caractères: Des ouvrages de l&#39;esprit qui semble faire
           clôture a cette querelle.
         </p>
         <p className="ar">
@@ -1328,34 +1328,34 @@ const CriOne = (props: Props) => {
           of the Mind الذي يبدو أنه يضع حداً لهذا الشجار.
         </p>
         <p className="fr">
-          &#34;Si les Modernes méritent d&#34;être loues c&#34;est justement
-          parce qu&#34;ils ont retrouve le gout des anciens &#34;or&#34; il y a
-          un bon et un mauvais gout, et l&#34;on discute des gouts avec
-          fondement&#34;.
+          &#39;Si les Modernes méritent d&#39;être loues c&#39;est justement
+          parce qu&#39;ils ont retrouve le gout des anciens &#39;or&#39; il y a
+          un bon et un mauvais gout, et l&#39;on discute des gouts avec
+          fondement&#39;.
         </p>
         <p className="ar">
-          &#34;إذا كان الحديثون يستحقون الثناء ، فذلك على وجه التحديد لأنهم
-          أعادوا اكتشاف مذاق&#34; الذهب &#34;القديم ، هناك مذاق جيد وسيء ، ونحن
-          نناقش الأذواق مع الأساس&#34;.
+          &#39;إذا كان الحديثون يستحقون الثناء ، فذلك على وجه التحديد لأنهم
+          أعادوا اكتشاف مذاق&#39; الذهب &#39;القديم ، هناك مذاق جيد وسيء ، ونحن
+          نناقش الأذواق مع الأساس&#39;.
         </p>
         <p className="fr">
-          Le bon écrivain doit avoir un &#34;gout sur&#34; de la &#34; justice
-          d&#34;esprit&#34; &#34; Tout est dit et l&#34;on vient trop-tard
-          depuis plus de sept mille ans qu&#34;il y a des hommes et qui pensent.
+          Le bon écrivain doit avoir un &#39;gout sur&#39; de la &#39; justice
+          d&#39;esprit&#39; &#39; Tout est dit et l&#39;on vient trop-tard
+          depuis plus de sept mille ans qu&#39;il y a des hommes et qui pensent.
         </p>
         <p className="ar">
-          يجب أن يكون للكاتب الجيد &#34;ذوق&#34; &#34;لعدالة الروح&#34; &#34;كل
+          يجب أن يكون للكاتب الجيد &#39;ذوق&#39; &#39;لعدالة الروح&#39; &#39;كل
           ما يقال وقد تأخرنا كثيرًا منذ أكثر من سبعة آلاف عام عن وجود رجال ومن
           يفكرون.
         </p>
         <p className="fr">
           En ce qui concerne les mœurs, le plus beau et le meilleur est enlevé ;
-          l&#34;on ne fait que glaner après les anciens et les habiles
-          d&#34;entre les Modernes&#34;.
+          l&#39;on ne fait que glaner après les anciens et les habiles
+          d&#39;entre les Modernes&#39;.
         </p>
         <p className="ar">
           فيما يتعلق بالآداب ، يزول أجمل وأفضل ؛ لا يلتقط المرء إلا بعد القدماء
-          والمهرة بين الحديثين &#34;.
+          والمهرة بين الحديثين &#39;.
         </p>
         <p className="fr">
           Ensuite apparait une critique historique avec Bayle dans son
@@ -1373,7 +1373,7 @@ const CriOne = (props: Props) => {
           وتجدر الإشارة إلى الدور الذي لعبته في تطوير الصحافة والنقد الأدبي.
         </p>
         <p className="fr">
-          L&#34;influence de cette critique se trouve abondante et variée.
+          L&#39;influence de cette critique se trouve abondante et variée.
           Chaque publication est immédiatement analysée, examinée, jugée.
         </p>
         <p className="ar">
@@ -1392,15 +1392,15 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Ainsi la presse littéraire cesse-t-elle peu à peu de se limiter à une
-          simple besogne d&#34;analyse et d&#34;information.
+          simple besogne d&#39;analyse et d&#39;information.
         </p>
         <p className="ar">
           وهكذا تتوقف الصحافة الأدبية تدريجياً عن حصر نفسها في مهمة بسيطة من
           التحليل والمعلومات.
         </p>
         <p className="fr">
-          Elle retentit des échos de la lutte entre les tenants de l&#34;ordre
-          ancien et les propagandistes de l&#34;esprit nouveau entre les
+          Elle retentit des échos de la lutte entre les tenants de l&#39;ordre
+          ancien et les propagandistes de l&#39;esprit nouveau entre les
           défenseurs du XVII siècle et les philosophes.
         </p>
         <p className="ar">
@@ -1429,7 +1429,7 @@ const CriOne = (props: Props) => {
           والسياسي والفلسفي والديني الرابع عشر.
         </p>
         <p className="fr">
-          Face a l&#34;idéologie autoritaire, héritière du siècle précèdent; les
+          Face a l&#39;idéologie autoritaire, héritière du siècle précèdent; les
           encyclopédistes élaborent une idéologie libératrice et encyclopédique
           les beaux-arts et la littérature ne viennent pas au premier rang de
           leurs préoccupations.
@@ -1447,19 +1447,19 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Auteurs et critiques bourgeois du XVIII siècle, veulent faire servir
-          l&#34;art a l&#34;enseignement d&#34;une morale et d&#34;une
-          philosophie nouvelles, à la diffusion des &#34;lumières&#34;.
+          l&#39;art a l&#39;enseignement d&#39;une morale et d&#39;une
+          philosophie nouvelles, à la diffusion des &#39;lumières&#39;.
         </p>
         <p className="ar">
           يريد المؤلفون والنقاد البرجوازيون في القرن الثامن عشر أن يجعلوا الفن
-          يخدم تدريس أخلاق وفلسفة جديدة ، لنشر &#34;التنوير&#34;.
+          يخدم تدريس أخلاق وفلسفة جديدة ، لنشر &#39;التنوير&#39;.
         </p>
         <p className="fr">
-          D&#34;autre part, ils cherchent à s&#34;approprier sur des sujets
-          nouveaux, les conventions, les règles et les raffinements d&#34;un art
-          dont le public aristocratique traditionnel a cessé d&#34;avoir le
+          D&#39;autre part, ils cherchent à s&#39;approprier sur des sujets
+          nouveaux, les conventions, les règles et les raffinements d&#39;un art
+          dont le public aristocratique traditionnel a cessé d&#39;avoir le
           monopole; et ils veulent montrer par là qu’un public nouveau est
-          capable d&#34;apprécier et de concevoir lui aussi la Beauté.
+          capable d&#39;apprécier et de concevoir lui aussi la Beauté.
         </p>
         <p className="ar">
           ومن ناحية أخرى ، فإنهم يسعون إلى التوفيق بين الموضوعات الجديدة ،
@@ -1478,14 +1478,14 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Comme Voltaire, Diderot pense que le critique idéal est des plus
-          rares; qu&#34;il faut savoir allier le gout et l&#34;expérience.
+          rares; qu&#39;il faut savoir allier le gout et l&#39;expérience.
         </p>
         <p className="ar">
           يعتقد ديدرو ، مثل فولتير ، أن الناقد المثالي هو من أندر الناقد. أنه
           عليك أن تعرف كيف تجمع بين الذوق والخبرة.
         </p>
         <p className="fr">
-          Diderot n&#34;a pas manqué de s&#34;intéresser avec un enthousiasme et
+          Diderot n&#39;a pas manqué de s&#39;intéresser avec un enthousiasme et
           une spontanéité aux problèmes de la création artistique et aux
           diverses formes de la critique.
         </p>
@@ -1494,8 +1494,8 @@ const CriOne = (props: Props) => {
           أشكال النقد.
         </p>
         <p className="fr">
-          Ses salons ont donné à la critique d&#34;art un éclat tout nouveau.
-          Pour lui l&#34;œuvre d&#34;art s&#34;adresse donc d&#34;abord aux sens
+          Ses salons ont donné à la critique d&#39;art un éclat tout nouveau.
+          Pour lui l&#39;œuvre d&#39;art s&#39;adresse donc d&#39;abord aux sens
           et à la sensibilité.
         </p>
         <p className="ar">
@@ -1519,17 +1519,17 @@ const CriOne = (props: Props) => {
           مهتم بالوظيفة الاجتماعية للفنانين.
         </p>
         <p className="fr">
-          Le grand artiste serait donc celui qui dit vrai parce qu&#34;il sent
-          ce qu&#34;il dit.
+          Le grand artiste serait donc celui qui dit vrai parce qu&#39;il sent
+          ce qu&#39;il dit.
         </p>
         <p className="ar">
           لذلك فإن الفنان العظيم هو الذي يقول الحقيقة لأنه يشعر بما يقوله.
         </p>
         <p className="fr">
           En ce sens, Rousseau serait volontiers préoccupe comme Pascal, des
-          règles d&#34;un art de persuader, dont il a d&#34;ailleurs esquisse
+          règles d&#39;un art de persuader, dont il a d&#39;ailleurs esquisse
           quelques traits dans les notes intitulées: Idée de la méthode dans la
-          composition d&#34;un livre.
+          composition d&#39;un livre.
         </p>
         <p className="ar">
           بهذا المعنى ، سيكون روسو مهتمًا بكل سرور ، مثل باسكال ، بقواعد فن
@@ -1553,8 +1553,8 @@ const CriOne = (props: Props) => {
           لذلك سيكون من الضروري إعادة اكتشاف الأسلوب القديم والجمال.
         </p>
         <p className="fr">
-          Il ne s&#34;agit pas par là de peindre les mœurs antiques mais de
-          susciter une imitation inventrice des œuvres nouvelles dignes d&#34;un
+          Il ne s&#39;agit pas par là de peindre les mœurs antiques mais de
+          susciter une imitation inventrice des œuvres nouvelles dignes d&#39;un
           antique idéal.
         </p>
         <p className="ar">
@@ -1563,11 +1563,11 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Avant la Révolution, la critique du XVIII siècle était imprégnée de “
-          philosophe&#34; et mêlée au combat des philosophes contre les
+          philosophe&#39; et mêlée au combat des philosophes contre les
           traditionalistes.
         </p>
         <p className="ar">
-          قبل الثورة ، كان نقد القرن الثامن عشر غارقًا في &#34;الفلسفة&#34;
+          قبل الثورة ، كان نقد القرن الثامن عشر غارقًا في &#39;الفلسفة&#39;
           وشارك في صراع الفلاسفة ضد التقليديين.
         </p>
         <p className="fr">
@@ -1580,8 +1580,8 @@ const CriOne = (props: Props) => {
           والحركة ، وابتداءً من القرن التاسع عشر دخل النقد عصرًا حديثًا.
         </p>
         <p className="fr">
-          D&#34;une part ce sont les vies qui sont bouleversées: les évènements
-          dont les écrivains sont les témoins, conduisent certains d&#34;entre
+          D&#39;une part ce sont les vies qui sont bouleversées: les évènements
+          dont les écrivains sont les témoins, conduisent certains d&#39;entre
           eux a modifier leurs vues ou a changer de convictions, la vie
           littéraire devient inséparable de la vie sociale.
         </p>
@@ -1592,8 +1592,8 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           D’autre part, la société française est désormais profondément divisée:
-          l&#34;un et l&#34;autre camp veulent une littérature qui soit
-          l&#34;expression de ses aspirations.
+          l&#39;un et l&#39;autre camp veulent une littérature qui soit
+          l&#39;expression de ses aspirations.
         </p>
         <p className="ar">
           من ناحية أخرى ، فإن المجتمع الفرنسي منقسم الآن بعمق: يريد كلا الجانبين
@@ -1601,8 +1601,8 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Au XIX siècle apparait un programme littéraire fonde par des
-          idéologues qui souhaitent en effet l&#34;avènement d&#34;une
-          littérature qui soit avant tout soucieuse d&#34;instruire le peuple de
+          idéologues qui souhaitent en effet l&#39;avènement d&#39;une
+          littérature qui soit avant tout soucieuse d&#39;instruire le peuple de
           ses devoirs et de ses droits;
         </p>
         <p className="ar">
@@ -1615,7 +1615,7 @@ const CriOne = (props: Props) => {
         </p>
         <p className="ar">من يختار رعاياه في الأحداث الكبرى للحياة الوطنية ؛</p>
         <p className="fr">
-          ui s&#34;adresse a tous les citoyens et ne soit plus le passe-temps
+          ui s&#39;adresse a tous les citoyens et ne soit plus le passe-temps
           des oisifs, mais une des manifestations de la démocratie nouvelle:
         </p>
         <p className="ar">
@@ -1627,7 +1627,7 @@ const CriOne = (props: Props) => {
           chants, les orateurs célèbreront les vertus des héros, les auteurs
           dramatiques composeront des pièces faites pour apprendre le
           patriotisme et le civisme une place particulière sera faite aux genres
-          les plus didactiques, par exemple&#34; a la poésie dramatique et aux
+          les plus didactiques, par exemple&#39; a la poésie dramatique et aux
           contes révolutionnaires.
         </p>
         <p className="ar">
@@ -1637,7 +1637,7 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Fidèles à la philosophie encyclopédistes, les idéologues croient à la
-          perfectibilité du genre humain et s&#34;indignent de voir es
+          perfectibilité du genre humain et s&#39;indignent de voir es
           philosophes du XVIII siècle rendus responsables des excès criminels de
           la Révolution.
         </p>
@@ -1656,7 +1656,7 @@ const CriOne = (props: Props) => {
           ، والتي باسمها يناضلون ضد العقيدة في كل مكان.
         </p>
         <p className="fr">
-          Il n&#34;est plus question pour eux de juger les œuvres littéraires
+          Il n&#39;est plus question pour eux de juger les œuvres littéraires
           selon leurs caractères extérieurs et de les classNameer selon leur
           conformité aux règles.
         </p>
@@ -1665,8 +1665,8 @@ const CriOne = (props: Props) => {
           وتصنيفها وفقًا لمطابقتها للقواعد.
         </p>
         <p className="fr">
-          Seul compte l&#34;effet psychologique: l&#34;œuvre qui est jugée belle
-          est celle qui, touche a la raison, ou l&#34;imagination, où la
+          Seul compte l&#39;effet psychologique: l&#39;œuvre qui est jugée belle
+          est celle qui, touche a la raison, ou l&#39;imagination, où la
           sensibilité y réussit.
         </p>
         <p className="ar">
@@ -1674,8 +1674,8 @@ const CriOne = (props: Props) => {
           يمس العقل أو الخيال ، حيث تنجح الحساسية.
         </p>
         <p className="fr">
-          Peu importent les règles et la distinction des genres: L&#34;essentiel
-          est de parvenir a impressionner l&#34;esprit de l&#34;auditeur du
+          Peu importent les règles et la distinction des genres: L&#39;essentiel
+          est de parvenir a impressionner l&#39;esprit de l&#39;auditeur du
           spectateur ou du lecteur de façon a provoquer son adhésion.
         </p>
         <p className="ar">
@@ -1684,16 +1684,16 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Pourtant quelques écrivains critiques ont tenté au XIX siècle de
-          s&#34;initier a l&#34;esprit de la littérature du pays où ils vivent.
+          s&#39;initier a l&#39;esprit de la littérature du pays où ils vivent.
         </p>
         <p className="ar">
           ومع ذلك ، حاول بعض الكتاب الناقدين في القرن التاسع عشر التعرف على روح
           الأدب في البلد الذي يعيشون فيه.
         </p>
         <p className="fr">
-          Ainsi apparait l&#34;œuvre critique de Madame de Staël et de
-          Chateaubriand. Mme. De Staël, fut d&#34;abord considérée comme une
-          complice des idéologues puis, elle apparut comme l&#34;admiratrice
+          Ainsi apparait l&#39;œuvre critique de Madame de Staël et de
+          Chateaubriand. Mme. De Staël, fut d&#39;abord considérée comme une
+          complice des idéologues puis, elle apparut comme l&#39;admiratrice
           passionnée de la littérature allemande.
         </p>
         <p className="ar">
@@ -1710,7 +1710,7 @@ const CriOne = (props: Props) => {
           الكمال.
         </p>
         <p className="fr">
-          Son intention était d&#34;examiner l&#34;influence de la religion, des
+          Son intention était d&#39;examiner l&#39;influence de la religion, des
           mœurs et des lois sur la littérature et réciproquement de la
           littérature sur les mœurs.
         </p>
@@ -1739,11 +1739,11 @@ const CriOne = (props: Props) => {
         <p className="fr">
           Mme de Staël célèbre alors les beautés des ouvrages écrits par les
           grands génies des pays du Nord, tout en reconnaissant que ces ouvrages
-          sont pleins de fautes contre “ le bon gout&#34;.
+          sont pleins de fautes contre “ le bon gout&#39;.
         </p>
         <p className="ar">
           ثم تحتفل السيدة دي ستايل بجمال الأعمال التي كتبها عباقرة بلدان الشمال
-          ، مع الاعتراف بأن هذه الأعمال مليئة بالعيوب ضد &#34;الذوق السليم&#34;.
+          ، مع الاعتراف بأن هذه الأعمال مليئة بالعيوب ضد &#39;الذوق السليم&#39;.
         </p>
         <p className="fr">
           Elle luttait contre la vulgarité. Son livre de l’Allemagne en 1814
@@ -1757,8 +1757,8 @@ const CriOne = (props: Props) => {
         <p className="fr">
           Choisissant le romantisme, elle adopte la conception idéaliste, XVII
           subjective, individualiste que les allemands se font de la beauté, et
-          oppose à l’Ideal classNameique d&#34;imitation rationnelle de la
-          nature, un idéal romantique de création libre et d&#34;art personnel.
+          oppose à l’Ideal classNameique d&#39;imitation rationnelle de la
+          nature, un idéal romantique de création libre et d&#39;art personnel.
         </p>
         <p className="ar">
           باختيارها الرومانسية ، تتبنى المفهوم المثالي والذاتي والفرداني الذي
@@ -1776,16 +1776,16 @@ const CriOne = (props: Props) => {
         <p className="fr">
           Autour de Mme de Staël, se réunissent le groupe de Coppet: écrivains,
           historiens professeurs et, critiques qui représentent les mêmes thèmes
-          et multiplient l&#34;offensive contre la tradition classNameique.
+          et multiplient l&#39;offensive contre la tradition classNameique.
         </p>
         <p className="ar">
           حول Madame de Staël ، اجتمعت مجموعة Coppet: الكتاب والمؤرخين والأساتذة
           والنقاد الذين مثلوا نفس الموضوعات وضاعفوا الهجوم ضد التقليد الكلاسيكي.
         </p>
         <p className="fr">
-          Chateaubriand avait d&#34;autres ambitions et son activité critique
-          fut constamment subordonnée à d&#34;autres objectifs. Chateaubriand ne
-          conçoit l&#34;érudition qu&#34;aidée par l&#34;imagination.
+          Chateaubriand avait d&#39;autres ambitions et son activité critique
+          fut constamment subordonnée à d&#39;autres objectifs. Chateaubriand ne
+          conçoit l&#39;érudition qu&#39;aidée par l&#39;imagination.
         </p>
         <p className="ar">
           كان لدى شاتوبريان طموحات أخرى وكان نشاطه النقدي يخضع باستمرار لأهداف
@@ -1801,7 +1801,7 @@ const CriOne = (props: Props) => {
           الوثنيون والمسيحيون مع نفس الشخصيات. (الزوج ، الأب ، الأم ، إلخ).
         </p>
         <p className="fr">
-          En d&#34;autres occasions il n&#34;est pas tenu par le souci de
+          En d&#39;autres occasions il n&#39;est pas tenu par le souci de
           démontrer que la poésie et critique se rencontrent sous sa plume en de
           véritables méditations lyriques.
         </p>
@@ -1810,16 +1810,16 @@ const CriOne = (props: Props) => {
           يلتقيان تحت قلمه في تأملات غنائية حقيقية.
         </p>
         <p className="fr">
-          Dans Mémoires d&#34;Outre - Tombe, quatrième partie livre VII il
+          Dans Mémoires d&#39;Outre - Tombe, quatrième partie livre VII il
           évoque pêlemêle Byron, Rousseau, Shakespeare, Goethe, Montesquieu.
         </p>
         <p className="ar">
-          في Mémoires d&#34;Outre-Tombe ، الجزء الرابع من الكتاب السابع ، يستحضر
+          في Mémoires d&#39;Outre-Tombe ، الجزء الرابع من الكتاب السابع ، يستحضر
           بيلميل بايرون ، روسو ، شكسبير ، غوته ، مونتسكيو.
         </p>
 
         <p className="fr">
-          Apres l&#34;Empire et sous la restauration la critique littéraire est
+          Apres l&#39;Empire et sous la restauration la critique littéraire est
           de plus en plus lie au journalisme politique: tous les journaux font
           une place à la chronique des livres et le grand débat entre
           classNameiques et romantiques se complique de la lutte que se livrent
@@ -1833,9 +1833,9 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           En 1824, Le Globe (journal) a joué un rôle important dans
-          l&#34;histoire et le renouvellement de la critique littéraire,
+          l&#39;histoire et le renouvellement de la critique littéraire,
           l’ambition de ce journal était de retirer la critique du commerce et
-          des ambitions politiques, ramener la justice avec l&#34;indépendance,
+          des ambitions politiques, ramener la justice avec l&#39;indépendance,
           réfuter les traditions sclérosées du néo-classNameicisme et des
           innovations importées du romantisme anglo-allemand.
         </p>
@@ -1855,7 +1855,7 @@ const CriOne = (props: Props) => {
           والرومانسيين.
         </p>
         <p className="fr">
-          Apres 1830, la critique traverse une crise qui s&#34;explique par un
+          Apres 1830, la critique traverse une crise qui s&#39;explique par un
           bouleversement apporte dans les conditions de la production
           littéraire.
         </p>
@@ -1875,8 +1875,8 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Ainsi la presse quotidienne triomphe du livre et devient la rivale.
-          Cela n&#34;empêche que beaucoup d&#34;artistes et de critiques de ce
-          temps refusaient d&#34;admettre cette transformation de la société.
+          Cela n&#39;empêche que beaucoup d&#39;artistes et de critiques de ce
+          temps refusaient d&#39;admettre cette transformation de la société.
         </p>
         <p className="ar">
           وهكذا تنتصر الصحافة اليومية على الكتاب وتصبح المنافس. هذا لا يمنع
@@ -1892,9 +1892,9 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           En 1840 dans la Revue parisienne, Balzac proclame la nécessite
-          d&#34;une critique saine pour mettre de l&#34;ordre dans la
+          d&#39;une critique saine pour mettre de l&#39;ordre dans la
           littérature contemporaine comme Balzac, Baudelaire fera appel à une
-          critique sérieuse qui soit capable de redonner à l&#34;art sa force et
+          critique sérieuse qui soit capable de redonner à l&#39;art sa force et
           sa dignité perdues.
         </p>
         <p className="ar">
@@ -1910,15 +1910,15 @@ const CriOne = (props: Props) => {
           أمام نقد تجمد في أسف الماضي ، يعارض نقدًا لا يزال قادرًا على العاطفة:
         </p>
         <p className="fr">
-          &#34;Pour être juste, c.a.d. pour avoir sa raison d&#34;être, la
+          &#39;Pour être juste, c.a.d. pour avoir sa raison d&#39;être, la
           critique doit être partiale, passionnée, politique, c.a.d. faite à un
           point de vue exclusif, mais au point de vue qui ouvre le plus
-          d&#34;horizons&#34; (Salon de 1846 Ch. I. A quoi bon la critique ?)
+          d&#39;horizons&#39; (Salon de 1846 Ch. I. A quoi bon la critique ?)
         </p>
         <p className="ar">
-          &#34;لكي نكون منصفين ، أي أن يكون له سبب وجوده ، يجب أن يكون النقد
+          &#39;لكي نكون منصفين ، أي أن يكون له سبب وجوده ، يجب أن يكون النقد
           متحيزًا وعاطفيًا وسياسيًا ، أي يتم من وجهة نظر حصرية ، ولكن من وجهة
-          نظر تفتح معظم الآفاق&#34; (Salon of 1846 Ch. 1. ما فائدة النقد؟)
+          نظر تفتح معظم الآفاق&#39; (Salon of 1846 Ch. 1. ما فائدة النقد؟)
         </p>
         <p className="fr">
           Selon lui, seuls les poètes peuvent concevoir une telle critique:
@@ -1928,12 +1928,12 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           *Je considère le poète comme le meilleur de tous les critiques
-          (...)&#34;. Car selon lui, les poètes peuvent montrer que l&#34;art
-          n&#34;a rien à voir avec la morale, mais qu’il signifie maitrise de
+          (...)&#39;. Car selon lui, les poètes peuvent montrer que l&#39;art
+          n&#39;a rien à voir avec la morale, mais qu’il signifie maitrise de
           soi, travail, soumission de la nature aux exigences de la Beauté.
         </p>
         <p className="ar">
-          * أنا أعتبر الشاعر أفضل النقاد (...) &#34;. فوفقًا له ، يمكن للشعراء
+          * أنا أعتبر الشاعر أفضل النقاد (...) &#39;. فوفقًا له ، يمكن للشعراء
           أن يُظهروا أن الفن ليس له علاقة بالأخلاق ، بل يعني ضبط النفس والعمل
           وخضوع الطبيعة للأخلاق. مطالب الجمال.
         </p>
@@ -1949,7 +1949,7 @@ const CriOne = (props: Props) => {
           Taine, grand admirateur de Hegel apporte à la littérature un renouveau
           de la critique comme philosophe, théoricien, il chèche à vérifier
           autour de lui des idées: les faits servent a prouver, et les œuvres
-          littéraires sont des faits parmi d&#34;autres.
+          littéraires sont des faits parmi d&#39;autres.
         </p>
         <p className="ar">
           تاين ، وهو معجب كبير بهيجل ، يجلب للأدب إحياءًا للنقد باعتباره
@@ -1957,8 +1957,8 @@ const CriOne = (props: Props) => {
           إثبات ، والأعمال الأدبية هي حقائق من بين أمور أخرى.
         </p>
         <p className="fr">
-          Ainsi selon Taine: un roman par exemple n&#34;est qu&#34;un amas
-          d&#34;expériences qui peuvent servir à sa démonstration.
+          Ainsi selon Taine: un roman par exemple n&#39;est qu&#39;un amas
+          d&#39;expériences qui peuvent servir à sa démonstration.
         </p>
         <p className="ar">
           وهكذا ، وفقًا لتاين: الرواية ، على سبيل المثال ، ليست سوى مجموعة من
@@ -1966,26 +1966,26 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           En somme Taine conçoit la critique littéraire comme le moyen de fonder
-          sérieusement &#34; l&#34;histoire naturelle des esprits&#34;” au lieu
+          sérieusement &#39; l&#39;histoire naturelle des esprits&#39;” au lieu
           de s’appliquer à la description minutieuse des variétés individuelles,
           il se préoccupe surtout de classNameer des espèces.
         </p>
         <p className="ar">
-          باختصار ، يتصور تاين النقد الأدبي كوسيلة لتأسيس &#34;التاريخ الطبيعي
-          للعقول&#34; بجدية بدلاً من تطبيق نفسه على الوصف الدقيق للأصناف الفردية
+          باختصار ، يتصور تاين النقد الأدبي كوسيلة لتأسيس &#39;التاريخ الطبيعي
+          للعقول&#39; بجدية بدلاً من تطبيق نفسه على الوصف الدقيق للأصناف الفردية
           ، فهو قبل كل شيء مهتم بتصنيف الأنواع.
         </p>
         <p className="fr">
-          &#34;J&#34;entreprends d&#34;écrire l&#34;histoire d&#34;une
-          littérature et d&#34;y chercher la psychologie d’un peuple&#34;.
+          &#39;J&#39;entreprends d&#39;écrire l&#39;histoire d&#39;une
+          littérature et d&#39;y chercher la psychologie d’un peuple&#39;.
         </p>
         <p className="ar">
-          &#34;أتعهد بكتابة تاريخ الأدب والبحث هناك عن نفسية الشعب&#34;.
+          &#39;أتعهد بكتابة تاريخ الأدب والبحث هناك عن نفسية الشعب&#39;.
         </p>
 
         <p className="fr">
           Dans ses études littéraires Taine est toujours pressé de découvrir les
-          caractères de psychologie d&#34;un écrivain ou d&#34;une nation.
+          caractères de psychologie d&#39;un écrivain ou d&#39;une nation.
         </p>
         <p className="ar">
           في دراساته الأدبية ، دائمًا ما يكون تاين في عجلة من أمره لاكتشاف
@@ -1993,7 +1993,7 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Selon Taine le critique dans son enquête doit rester absolument
-          indiffèrent a la beauté des œuvres qui n&#34;est qu&#34;une qualité
+          indiffèrent a la beauté des œuvres qui n&#39;est qu&#39;une qualité
           accessoire.
         </p>
         <p className="ar">
@@ -2010,17 +2010,17 @@ const CriOne = (props: Props) => {
           لكل منها والتي يمكن للمرء أن يفهم منها كل شيء:
         </p>
         <p className="fr">
-          les conditions de race, du milieu, de moment &#34; une fois qu’on a
-          saisi cette faculté maîtresse” on voit l&#34;artiste entier se
-          développer comme une fleur&#34; dit-il.
+          les conditions de race, du milieu, de moment &#39; une fois qu’on a
+          saisi cette faculté maîtresse” on voit l&#39;artiste entier se
+          développer comme une fleur&#39; dit-il.
         </p>
         <p className="ar">
-          ظروف العرق والبيئة والوقت &#34;بمجرد أن ندرك هذه الكلية الرئيسية&#34;
-          نرى الفنان بأكمله يتطور مثل الزهرة &#34;كما يقول.
+          ظروف العرق والبيئة والوقت &#39;بمجرد أن ندرك هذه الكلية الرئيسية&#39;
+          نرى الفنان بأكمله يتطور مثل الزهرة &#39;كما يقول.
         </p>
         <p className="fr">
-          Cette faculté maitresse est en effet une espèce d&#34;intuition, une
-          phrase significative de l&#34;œuvre de l&#34;auteur qu&#34;on critique
+          Cette faculté maitresse est en effet une espèce d&#39;intuition, une
+          phrase significative de l&#39;œuvre de l&#39;auteur qu&#39;on critique
           qui résume un certain état psychologique, dominateur et persistant.
         </p>
         <p className="ar">
@@ -2039,8 +2039,8 @@ const CriOne = (props: Props) => {
         </p>
         <p className="ar">بالنسبة له ، النقد هو بحث دقيق عن الحقيقة.</p>
         <p className="fr">
-          Le rôle du critique ne doit donc pas juger les œuvres au nom d&#34;un
-          idéal ou d&#34;une beauté abstraite qui n&#34;existent pas.
+          Le rôle du critique ne doit donc pas juger les œuvres au nom d&#39;un
+          idéal ou d&#39;une beauté abstraite qui n&#39;existent pas.
         </p>
         <p className="ar">
           لذلك لا ينبغي أن يكون دور الناقد هو الحكم على الأعمال باسم جمال مثالي
@@ -2048,7 +2048,7 @@ const CriOne = (props: Props) => {
         </p>
         <p className="fr">
           Il lui faut tout accepter et tout comprendre en considérant les œuvres
-          comme autant d&#34;expressions diverses d&#34;une société ou d&#34;une
+          comme autant d&#39;expressions diverses d&#39;une société ou d&#39;une
           époque.
         </p>
         <p className="ar">
@@ -2065,7 +2065,7 @@ const CriOne = (props: Props) => {
           ولكن على عكس Taine و Renan ؛ يعارضون النقد العلمي.
         </p>
         <p className="fr">
-          la critique psychologique objective capable d&#34;expliquer, de
+          la critique psychologique objective capable d&#39;expliquer, de
           classNameer et de juger les œuvres des écrivains de son temps
           (Baudelaire, Flaubert, Stendhal, Tourgueniev, Le conte de Lisle...)
         </p>
@@ -2077,7 +2077,7 @@ const CriOne = (props: Props) => {
         <p className="fr">
           afin de mettre en lumière leur héritage psychologique qui servent aux
           générations nouvelles. Pour cela ils cherchèrent à découvrir quelle
-          est la forme de sensibilité caractéristique de chacun d&#34;eux.
+          est la forme de sensibilité caractéristique de chacun d&#39;eux.
         </p>
         <p className="ar">
           لتسليط الضوء على تراثهم النفسي الذي يخدم الأجيال الجديدة. لهذا سعوا
@@ -2086,8 +2086,8 @@ const CriOne = (props: Props) => {
         <p className="fr">
           En somme; au XIX siècle la situation de la critique se complique, et
           se partage entre un courant qui refuse pénétrer les mystères de
-          l&#34;art et entre un courant positiviste qui cherche de nouvelles
-          méthodes pour avancer dans la compréhension de l&#34;œuvre.
+          l&#39;art et entre un courant positiviste qui cherche de nouvelles
+          méthodes pour avancer dans la compréhension de l&#39;œuvre.
         </p>
         <p className="ar">
           باختصار؛ في القرن التاسع عشر ، أصبح وضع النقد أكثر تعقيدًا ، وانقسم

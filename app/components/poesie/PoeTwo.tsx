@@ -9,14 +9,14 @@ const PoeTwo = (props: Props) => {
         <div className="heading">
           <h3>
             « MAI »
-            <span> قصيدة &#34;ماي&#34; للشاعر الفرنسي غي دي موباسان</span>
+            <span> قصيدة &#39;ماي&#39; للشاعر الفرنسي غي دي موباسان</span>
           </h3>
         </div>
 
         <p className="fr">
           Le mai le joli mai en barque sur le Rhin <br />
           Des dames regardaient du haut de la montagne <br />
-          Vous êtes si jolies mais la barque s&#34;éloigne <br />
+          Vous êtes si jolies mais la barque s&#39;éloigne <br />
           Qui donc a fait pleurer les saules riverains <br />
         </p>
         <p className="ar">
@@ -29,7 +29,7 @@ const PoeTwo = (props: Props) => {
         <p className="fr">
           Or des vergers fleuris se figeaient en arrière <br />
           Les pétales tombés des cerisiers de mai <br />
-          Sont les ongles de celle que j&#34;ai tant aimée <br />
+          Sont les ongles de celle que j&#39;ai tant aimée <br />
           Les pétales flétris sont comme ses paupières <br />
         </p>
         <p className="ar">
@@ -42,7 +42,7 @@ const PoeTwo = (props: Props) => {
           Sur le chemin du bord du fleuve lentement <br />
           Un ours un singe un chien menés par des tziganes <br />
           Suivaient une roulotte traînée par un âne <br />
-          Tandis que s&#34;éloignait dans les vignes rhénanes <br />
+          Tandis que s&#39;éloignait dans les vignes rhénanes <br />
           Sur un fifre lointain un air de régiment <br />
         </p>
         <p className="ar">
@@ -72,8 +72,8 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="ar">
           نُشرت هذه القصيدة بتاريخ مايو 1902 في مجلة Vers et Prose لعام 1905.
-          وتتألف من أربعة مقاطع شعرية من الإسكندرية ، وتصف نزهة &#34;في قارب على
-          نهر الراين&#34; تتيح الوصول إلى ذكريات بطل الرواية.
+          وتتألف من أربعة مقاطع شعرية من الإسكندرية ، وتصف نزهة &#39;في قارب على
+          نهر الراين&#39; تتيح الوصول إلى ذكريات بطل الرواية.
         </p>
         <p className="fr">
           Les quatre strophes montrent quatre moments de la promenade.
@@ -86,7 +86,7 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="ar">
           من المثير للاهتمام أن نلاحظ أن الطبيعة والذكريات تتشابك إلى حد أن
-          &#34;البتلات الساقطة&#34; تتذكر أجزاء من جسد المرأة الحبيبة.
+          &#39;البتلات الساقطة&#39; تتذكر أجزاء من جسد المرأة الحبيبة.
         </p>
         <p className="fr">
           Dans le premier moment (la première strophe), le protagoniste regarde
@@ -101,8 +101,8 @@ const PoeTwo = (props: Props) => {
           mai le joli mai en barque sur le Rhin »).
         </p>
         <p className="ar">
-          تحدد البيت الأولى وقت سيره: في الربيع (&#34;Le mai le jolie mai en
-          barque sur le Rhin&#34;).
+          تحدد البيت الأولى وقت سيره: في الربيع (&#39;Le mai le jolie mai en
+          barque sur le Rhin&#39;).
         </p>
         <p className="fr">
           Dans les trois vers restants, le regard du protagoniste voit le
@@ -113,19 +113,19 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="fr">
           D’une part, le protagoniste voit « Des dames [qui] regardaient du haut
-          de la montagne », c&#34;est-à-dire qu’il y a une distance naturelle
+          de la montagne », c&#39;est-à-dire qu’il y a une distance naturelle
           qui les sépare.
         </p>
         <p className="ar">
-          من ناحية ، يرى بطل الرواية &#34;السيدات [اللواتي] يشاهدن من أعلى
-          الجبل&#34; ، مما يعني أن هناك مسافة طبيعية بينهما.
+          من ناحية ، يرى بطل الرواية &#39;السيدات [اللواتي] يشاهدن من أعلى
+          الجبل&#39; ، مما يعني أن هناك مسافة طبيعية بينهما.
         </p>
         <p className="fr">
           Autrement dit, les femmes regardent « du haut de la montagne », tandis
           que le protagoniste est dans sa barque, au-dessous.
         </p>
         <p className="ar">
-          وبعبارة أخرى ، فإن النساء يشاهدن &#34;من أعلى الجبل&#34; ، والبطل في
+          وبعبارة أخرى ، فإن النساء يشاهدن &#39;من أعلى الجبل&#39; ، والبطل في
           قاربه في الأسفل.
         </p>
         <p className="fr">
@@ -141,8 +141,8 @@ const PoeTwo = (props: Props) => {
           fleuris [qui] se figeaient en arrière ».
         </p>
         <p className="ar">
-          في لحظة ثانية (المقطع الثاني) ، رأى &#34;البساتين المزهرة [التي] تجمدت
-          مرة أخرى&#34;.
+          في لحظة ثانية (المقطع الثاني) ، رأى &#39;البساتين المزهرة [التي] تجمدت
+          مرة أخرى&#39;.
         </p>
         <p className="fr">
           Cela annonce peut-être son désir de figer le moment vécu.
@@ -153,7 +153,7 @@ const PoeTwo = (props: Props) => {
           a « tant aimée ».
         </p>
         <p className="ar">
-          لكن نظرته إلى الوراء تجعله يتذكر المرأة التي &#34;أحبها كثيرًا&#34;.
+          لكن نظرته إلى الوراء تجعله يتذكر المرأة التي &#39;أحبها كثيرًا&#39;.
         </p>
         <p className="fr">
           Où est-elle ? Peut-être est-elle demeurée dans le passé ?
@@ -166,8 +166,8 @@ const PoeTwo = (props: Props) => {
           correspondent à ses « ongles » et à ses « paupières ».
         </p>
         <p className="ar">
-          وهكذا فإن &#34;بتلات أشجار الكرز الساقطة&#34; و &#34;البتلات
-          الذابلة&#34; تتوافق مع &#34;أظافرها&#34; و &#34;جفونها&#34;.
+          وهكذا فإن &#39;بتلات أشجار الكرز الساقطة&#39; و &#39;البتلات
+          الذابلة&#39; تتوافق مع &#39;أظافرها&#39; و &#39;جفونها&#39;.
         </p>
         <p className="fr">
           On peut établir une comparaison entre les caractéristiques de la
@@ -202,14 +202,14 @@ const PoeTwo = (props: Props) => {
           « Un ours un singe un chien », « une roulotte trainée par un âne ».
         </p>
         <p className="ar">
-          &#34;دب ، قرد ، كلب&#34; ، &#34;مقطورة يجرها حمار&#34;.
+          &#39;دب ، قرد ، كلب&#39; ، &#39;مقطورة يجرها حمار&#39;.
         </p>
         <p className="fr">
           Tandis qu’ils s’éloignent du Rhin, le protagoniste entend « un fifre
           lointain ».
         </p>
         <p className="ar">
-          بينما يبتعدون عن نهر الراين ، يسمع بطل الرواية &#34;خفاقة بعيدة&#34;.
+          بينما يبتعدون عن نهر الراين ، يسمع بطل الرواية &#39;خفاقة بعيدة&#39;.
         </p>
         <p className="fr">
           Leur errance exprime que la nature et la vie changent toujours.
@@ -230,14 +230,14 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="ar">
           يتأمل في تلك اللحظة التي كان فيها على متن القارب ، عندما كانت ماي
-          &#34;تزين الأنقاض / باللبلاب وزاحف فرجينيا وشجيرات الورد&#34;.
+          &#39;تزين الأنقاض / باللبلاب وزاحف فرجينيا وشجيرات الورد&#39;.
         </p>
         <p className="fr">
-          Autrement dit, tandis qu&#34;il veut fixer les nuances du « joli mai »
+          Autrement dit, tandis qu&#39;il veut fixer les nuances du « joli mai »
           sur le Rhin, la nature se montre de plus en plus changeante.
         </p>
         <p className="ar">
-          بعبارة أخرى ، بينما يريد إصلاح ظلال &#34;ماي الجميلة&#34; على نهر
+          بعبارة أخرى ، بينما يريد إصلاح ظلال &#39;ماي الجميلة&#39; على نهر
           الراين ، تظهر الطبيعة نفسها على أنها أكثر وأكثر قابلية للتغيير.
         </p>
         <p className="fr">
@@ -246,8 +246,8 @@ const PoeTwo = (props: Props) => {
           vignes ».
         </p>
         <p className="ar">
-          &#34;رياح نهر الراين&#34; تهب وتغير المشهد ، لأنها &#34;تهز الصفصاف
-          على الحافة / وقصب الشمع والزهور العارية للكروم&#34;.
+          &#39;رياح نهر الراين&#39; تهب وتغير المشهد ، لأنها &#39;تهز الصفصاف
+          على الحافة / وقصب الشمع والزهور العارية للكروم&#39;.
         </p>
         <p className="fr">
           Il semble intéressant de comparer la première strophe et cette
@@ -256,8 +256,8 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="ar">
           يبدو من المثير للاهتمام مقارنة المقطع الأول مع المقطع الأخير ، من أجل
-          مراقبة حوارهما ، حيث أنهما يقدمان تكرارًا للهيكل &#34;Le mai le jolie
-          mai&#34;.
+          مراقبة حوارهما ، حيث أنهما يقدمان تكرارًا للهيكل &#39;Le mai le jolie
+          mai&#39;.
         </p>
         <p className="fr">
           La première présente une nature belle et pleine, teintée d’une joie
@@ -276,12 +276,12 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="ar">
           وهذا مرتبط بوحدة المناظر الطبيعية ومحو المشهد المتجمد ، لأن الرياح تهز
-          &#34;الخوص / وقصب الشمع والزهور العارية للكروم&#34;.
+          &#39;الخوص / وقصب الشمع والزهور العارية للكروم&#39;.
         </p>
 
         <div className="heading">
           <h3>
-            LE CYCLE D&#34;ANNIE
+            LE CYCLE D&#39;ANNIE
             <span> دورة آني</span>
           </h3>
         </div>
@@ -326,25 +326,25 @@ const PoeTwo = (props: Props) => {
           Mal-Aimé », « L’Émigrant de Landor Road », « Annie » et « Un soir ».
         </p>
         <p className="ar">
-          القصائد الرئيسية التي تلمح لآني هي &#34;أغنية غير المحبوب&#34; و
-          &#34;المهاجر من طريق لاندور&#34; و &#34;آني&#34; و &#34;أمسية
-          واحدة&#34;.
+          القصائد الرئيسية التي تلمح لآني هي &#39;أغنية غير المحبوب&#39; و
+          &#39;المهاجر من طريق لاندور&#39; و &#39;آني&#39; و &#39;أمسية
+          واحدة&#39;.
         </p>
         <p className="fr">
           Ils mettent en question à la fois l’amour malheureux et l’éloignement
           du Mal-Aimé qui accepte d’être le perdant dans le jeu de l’amour.
         </p>
         <p className="ar">
-          القصائد الرئيسية التي تلمح لآني هي &#34;أغنية غير المحبوب&#34; و
-          &#34;المهاجر من طريق لاندور&#34; و &#34;آني&#34; و &#34;أمسية
-          واحدة&#34;.
+          القصائد الرئيسية التي تلمح لآني هي &#39;أغنية غير المحبوب&#39; و
+          &#39;المهاجر من طريق لاندور&#39; و &#39;آني&#39; و &#39;أمسية
+          واحدة&#39;.
         </p>
 
         <div className="heading">
           <h3>
             « LA CHANSON DU MAL-AIMÉ » : MÉMOIRE ET ERRANCE <br />
             L’ORGANISATION DU POÈME
-            <span>&#34;أغنية المحبوب&#34;: الذاكرة والتجول </span>
+            <span>&#39;أغنية المحبوب&#39;: الذاكرة والتجول </span>
             <span> تنظيم القصيدة </span>
           </h3>
         </div>
@@ -354,7 +354,7 @@ const PoeTwo = (props: Props) => {
           quintile de vers octosyllabes à rimes croisées.
         </p>
         <p className="ar">
-          &#34;La Chanson du Mal-Aimé&#34; هي ثالث وأطول قصيدة في Alcools ،
+          &#39;La Chanson du Mal-Aimé&#39; هي ثالث وأطول قصيدة في Alcools ،
           وتحتوي على تسعة وخمسين مقطعًا ، كل منها عبارة عن خُمس من سطور ذات
           قافية متقاطعة.
         </p>
@@ -387,13 +387,13 @@ const PoeTwo = (props: Props) => {
         <p className="ar">
           من الممكن والسهل ملاحظة استخدام الأنواع المختلفة من الشخصيات التي
           تتعايش في القصيدة ، من خلال قراءة جدول محتويات Alcools ، الذي نشرته
-          إصدارات Gallimard في مجموعة &#34;Bibliothèque de la Pléiade&#34;.
+          إصدارات Gallimard في مجموعة &#39;Bibliothèque de la Pléiade&#39;.
         </p>
 
         <div className="heading">
           <h3>
             La Chanson du Mal-Aimé <br />A Paul Léautaud
-            <span> اغنية &#34;La Chanson du Mal-Aimé&#34; </span>
+            <span> اغنية &#39;La Chanson du Mal-Aimé&#39; </span>
             <span> إلى Paul Leautaud </span>
           </h3>
         </div>
@@ -402,7 +402,7 @@ const PoeTwo = (props: Props) => {
           Et je chantais cette romance <br />
           En 1903 sans savoir <br />
           Que mon amour à la semblance <br />
-          Du beau Phénix s&#34;il meurt un soir <br />
+          Du beau Phénix s&#39;il meurt un soir <br />
           Le matin voit sa renaissance. <br />
         </p>
         <p className="ar">
@@ -416,7 +416,7 @@ const PoeTwo = (props: Props) => {
           Un soir de demi-brume à Londres <br />
           Un voyou qui ressemblait à <br />
           Mon amour vint à ma rencontre <br />
-          Et le regard qu&#34;il me jeta <br />
+          Et le regard qu&#39;il me jeta <br />
           Me fit baisser les yeux de honte <br />
         </p>
 
@@ -444,9 +444,9 @@ const PoeTwo = (props: Props) => {
         <p className="fr">
           Que tombent ces vagues de briques <br />
           Si tu ne fus pas bien aimée <br />
-          Je suis le souverain d&#34;Égypte <br />
+          Je suis le souverain d&#39;Égypte <br />
           Sa soeur-épouse son armée <br />
-          Si tu n&#34;es pas l&#34;amour unique <br />
+          Si tu n&#39;es pas l&#39;amour unique <br />
         </p>
         <p className="ar">
           يا أمواج هذه الطوب <br />
@@ -457,7 +457,7 @@ const PoeTwo = (props: Props) => {
         </p>
 
         <p className="fr">
-          Au tournant d&#34;une rue brûlant <br />
+          Au tournant d&#39;une rue brûlant <br />
           De tous les feux de ses façades <br />
           Plaies du brouillard sanguinolent <br />
           Où se lamentaient les façades <br />
@@ -471,11 +471,11 @@ const PoeTwo = (props: Props) => {
           رأيت امرأة تشبهه. <br />
         </p>
         <p className="fr">
-          C&#34;était son regard d&#34;inhumaine <br />
+          C&#39;était son regard d&#39;inhumaine <br />
           La cicatrice à son cou nu <br />
-          Sortit saoule d&#34;une taverne <br />
+          Sortit saoule d&#39;une taverne <br />
           Au moment où je reconnus <br />
-          La fausseté de l&#34;amour même <br />
+          La fausseté de l&#39;amour même <br />
         </p>
         <p className="ar">
           كان نظرتها غير إنسانية <br />
@@ -485,11 +485,11 @@ const PoeTwo = (props: Props) => {
           على خيانة الحب نفسه. <br />
         </p>
         <p className="fr">
-          Lorsqu&#34;il fut de retour enfin <br />
+          Lorsqu&#39;il fut de retour enfin <br />
           Dans sa patrie le sage Ulysse <br />
           Son vieux chien de lui se souvint <br />
-          Près d&#34;un tapis de haute lisse <br />
-          Sa femme attendait qu&#34;il revînt <br />
+          Près d&#39;un tapis de haute lisse <br />
+          Sa femme attendait qu&#39;il revînt <br />
         </p>
         <p className="ar">
           عندما عاد أخيرًا <br />
@@ -499,10 +499,10 @@ const PoeTwo = (props: Props) => {
           زوجته تنتظر عودته. <br />
         </p>
         <p className="fr">
-          L&#34;époux royal de Sacontale <br />
+          L&#39;époux royal de Sacontale <br />
           Las de vaincre se réjouit <br />
           Quand il la retrouva plus pâle <br />
-          D&#34;attente et d&#34;amour yeux pâlis <br />
+          D&#39;attente et d&#39;amour yeux pâlis <br />
           Caressant sa gazelle mâle <br />
         </p>
         <p className="ar">
@@ -513,7 +513,7 @@ const PoeTwo = (props: Props) => {
           وهو يداعب غزاله الذكر. <br />
         </p>
         <p className="fr">
-          J&#34;ai pensé à ces rois heureux <br />
+          J&#39;ai pensé à ces rois heureux <br />
           Lorsque le faux amour et celle <br />
           Dont je suis encore amoureux <br />
           Heurtant leurs ombres infidèles <br />
@@ -527,8 +527,8 @@ const PoeTwo = (props: Props) => {
           جعلوني سعيدًا جدًا. <br />
         </p>
         <p className="fr">
-          Regrets sur quoi l&#34;enfer se fonde <br />
-          Qu&#34;un ciel d&#34;oubli s&#34;ouvre à mes voeux <br />
+          Regrets sur quoi l&#39;enfer se fonde <br />
+          Qu&#39;un ciel d&#39;oubli s&#39;ouvre à mes voeux <br />
           Pour son baiser les rois du monde <br />
           Seraient morts les pauvres fameux <br />
           Pour elle eussent vendu leur ombre <br />
@@ -541,7 +541,7 @@ const PoeTwo = (props: Props) => {
           لقد باعوا ظلالهم من أجلها. <br />
         </p>
         <p className="fr">
-          J&#34;ai hiverné dans mon passé Revienne le soleil de Pâques Pour
+          J&#39;ai hiverné dans mon passé Revienne le soleil de Pâques Pour
           chauffer un coeur plus glacé Que les quarante de Sébaste Moins que ma
           vie martyrisés
         </p>
@@ -559,8 +559,8 @@ const PoeTwo = (props: Props) => {
           تتجولنا بما يكفي؟ من الفجر الجميل إلى المساء الحزين.
         </p>
         <p className="fr">
-          Adieu faux amour confondu Avec la femme qui s&#34;éloigne Avec celle
-          que j&#34;ai perdue L&#34;année dernière en Allemagne Et que je ne
+          Adieu faux amour confondu Avec la femme qui s&#39;éloigne Avec celle
+          que j&#39;ai perdue L&#39;année dernière en Allemagne Et que je ne
           reverrai plus
         </p>
         <p className="ar">
@@ -569,17 +569,17 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="fr">
           Voie lactée ô soeur lumineuse Des blancs ruisseaux de Chanaan Et des
-          corps blancs des amoureuses Nageurs morts suivrons-nous d&#34;ahan Ton
-          cours vers d&#34;autres nébuleuses
+          corps blancs des amoureuses Nageurs morts suivrons-nous d&#39;ahan Ton
+          cours vers d&#39;autres nébuleuses
         </p>
         <p className="ar">
           طريق الحليب، يا أخت الضوء للأنهار البيضاء في كنعان وأجساد العاشقات
           البيضاء السباحون الميتون يتابعوننا بأنين دربك نحو سحب أخرى.
         </p>
         <p className="fr">
-          Je me souviens d&#34;une autre année C&#34;était l&#34;aube d&#34;un
-          jour d&#34;avril J&#34;ai chanté ma joie bien-aimée Chanté l&#34;amour
-          à voix virile Au moment d&#34;amour de l&#34;année
+          Je me souviens d&#39;une autre année C&#39;était l&#39;aube d&#39;un
+          jour d&#39;avril J&#39;ai chanté ma joie bien-aimée Chanté l&#39;amour
+          à voix virile Au moment d&#39;amour de l&#39;année
         </p>
         <p className="ar">
           أتذكر عامًا آخر كان فجر يوم أبريل غنيت فرحي المحبوب غنيت الحب بصوت
@@ -594,7 +594,7 @@ const PoeTwo = (props: Props) => {
           يلفتان الانتباه:
         </p>
         <p className="fr">la « Chanson » et le « Mal-Aimé ».</p>
-        <p className="ar">&#34;الأغنية&#34; و &#34;غير المجبوب&#34;.</p>
+        <p className="ar">&#39;الأغنية&#39; و &#39;غير المجبوب&#39;.</p>
         <p className="fr">
           Comment peut-on insérer le premier élément dans la désignation du
           genre de la chanson ?
@@ -612,7 +612,7 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="fr">
           Entre les deux courants poétiques qui se développent aux XIIe et XIIIe
-          siècles, c&#34;est-à-dire les oeuvres savantes et les oeuvres
+          siècles, c&#39;est-à-dire les oeuvres savantes et les oeuvres
           populaires, la chanson renvoie à ces dernières, en étant généralement
           anonyme.
         </p>
@@ -626,14 +626,14 @@ const PoeTwo = (props: Props) => {
           présence de refrains ».
         </p>
         <p className="ar">
-          الأغنية الشعبية لها بنية بسيطة تقوم على &#34;حضور الامتناع&#34;.
+          الأغنية الشعبية لها بنية بسيطة تقوم على &#39;حضور الامتناع&#39;.
         </p>
         <p className="fr">
           Dans le cas de « La Chanson du Mal-Aimé », elle ressemble à cette
           pièce populaire dont le sujet est souvent sentimental.
         </p>
         <p className="ar">
-          في حالة &#34;La Chanson du Mal-Aimé&#34; ، تشبه هذه المسرحية الشعبية
+          في حالة &#39;La Chanson du Mal-Aimé&#39; ، تشبه هذه المسرحية الشعبية
           التي غالبًا ما يكون موضوعها عاطفيًا.
         </p>
         <p className="fr">
@@ -641,7 +641,7 @@ const PoeTwo = (props: Props) => {
           l’époque médiévale ou de la Renaissance.
         </p>
         <p className="ar">
-          &#34;La Chanson du Mal-Aimé&#34; قريب من نوع الأغنية من العصور الوسطى
+          &#39;La Chanson du Mal-Aimé&#39; قريب من نوع الأغنية من العصور الوسطى
           أو عصر النهضة.
         </p>
         <p className="fr">
@@ -651,8 +651,8 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="ar">
           بالإضافة إلى ذلك ، تقدم القصيدة معجمًا متنوعًا للأنواع الشعرية
-          المتعلقة بالأغنية مثل &#34;لوباد&#34; و &#34;ليه لايس&#34; و &#34;لا
-          لامين&#34; و &#34;ترانيم&#34;.
+          المتعلقة بالأغنية مثل &#39;لوباد&#39; و &#39;ليه لايس&#39; و &#39;لا
+          لامين&#39; و &#39;ترانيم&#39;.
         </p>
         <p className="fr">
           Les tons différents permettent de percevoir que « La Chanson du
@@ -660,7 +660,7 @@ const PoeTwo = (props: Props) => {
           satirique, de l’humour à la mélancolie.
         </p>
         <p className="ar">
-          نغمات مختلفة تجعل من الممكن إدراك أن &#34;La Chanson du Mal-Aimé&#34;
+          نغمات مختلفة تجعل من الممكن إدراك أن &#39;La Chanson du Mal-Aimé&#39;
           ينتقل من النعومة إلى الجادة ، من فرحة aubade إلى الأغنية الساخرة ، من
           الدعابة إلى الكآبة.
         </p>
@@ -681,18 +681,18 @@ const PoeTwo = (props: Props) => {
           التقريبية.
         </p>
         <p className="fr">Maintenant considérons l’élément « Mal-Aimé ».</p>
-        <p className="ar">الآن دعنا نفكر في العنصر &#34;غير المحبوب&#34;.</p>
+        <p className="ar">الآن دعنا نفكر في العنصر &#39;غير المحبوب&#39;.</p>
         <p className="fr">
           Celui-ci se réfère, premièrement, au sujet du poème. Le protagoniste –
           le « Mal-Aimé »
         </p>
         <p className="ar">
-          يشير هذا أولاً إلى موضوع القصيدة. بطل الرواية - &#34;غير المحبوب&#34;
+          يشير هذا أولاً إلى موضوع القصيدة. بطل الرواية - &#39;غير المحبوب&#39;
         </p>
         <p className="fr">
           - rencontre par hasard « un voyou » dans les rues de Londres.
         </p>
-        <p className="ar">- يلتقي بالصدفة &#34;المشاغب&#34; في شوارع لندن.</p>
+        <p className="ar">- يلتقي بالصدفة &#39;المشاغب&#39; في شوارع لندن.</p>
         <p className="fr">Celui-ci ressemble à son amour.</p>
         <p className="ar">هذا الشخص يشبه حبه.</p>
         <p className="fr">
@@ -720,9 +720,9 @@ const PoeTwo = (props: Props) => {
           inspirée.
         </p>
         <p className="ar">
-          ثانيًا ، وفقًا للعديد من المعلقين ، تشير تسمية &#34;Mal-Aimé&#34; إلى
-          حياة الشاعر ، حيث ترتبط هذه القصيدة بتجربة حب استوحيت منها &#34;La
-          Chanson du Mal-Aimé&#34;.
+          ثانيًا ، وفقًا للعديد من المعلقين ، تشير تسمية &#39;Mal-Aimé&#39; إلى
+          حياة الشاعر ، حيث ترتبط هذه القصيدة بتجربة حب استوحيت منها &#39;La
+          Chanson du Mal-Aimé&#39;.
         </p>
         <p className="fr">
           Mais ces informations biographiques que certains commentateurs
@@ -731,8 +731,8 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="ar">
           لكن هذه المعلومات عن السيرة الذاتية التي يستخدمها بعض المعلقين لبناء
-          تحليلاتهم لا تفرض نفسها كحاجة لتفسير قصيدة &#34;La Chanson du
-          Mal-Aimé&#34;.
+          تحليلاتهم لا تفرض نفسها كحاجة لتفسير قصيدة &#39;La Chanson du
+          Mal-Aimé&#39;.
         </p>
         <p className="fr">
           De cette façon, cette analyse essaiera d’abord de saisir le texte
@@ -755,7 +755,7 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="ar">
           بعد قولي هذا ، قبل النظر في موضوع القصيدة ، نود أن نشرح النقش الذي
-          يفتح &#34;La Chanson du Mal-Aimé&#34;.
+          يفتح &#39;La Chanson du Mal-Aimé&#39;.
         </p>
         <p className="fr">Ensuite on va examiner le premier fragment.</p>
         <p className="ar">ثم سنفحص الجزء الأول.</p>
@@ -799,7 +799,7 @@ const PoeTwo = (props: Props) => {
           dédicace, ni épigraphe.
         </p>
         <p className="ar">
-          في هذا الإصدار الأول ، &#34;La Chanson du Mal-Aimé&#34; ليس له تفاني
+          في هذا الإصدار الأول ، &#39;La Chanson du Mal-Aimé&#39; ليس له تفاني
           أو نقش.
         </p>
         <p className="fr">
@@ -850,10 +850,10 @@ const PoeTwo = (props: Props) => {
           son auteur.
         </p>
         <p className="ar">
-          من الواضح أن نقوش &#34;La Chanson du Mal-Aimé&#34; لا تشير إلى مؤلفها.
+          من الواضح أن نقوش &#39;La Chanson du Mal-Aimé&#39; لا تشير إلى مؤلفها.
         </p>
         <p className="fr">On peut y saisir l’emploi d’un pronom, le « je ».</p>
-        <p className="ar">يمكننا استيعاب استخدام الضمير &#34;أنا&#34;.</p>
+        <p className="ar">يمكننا استيعاب استخدام الضمير &#39;أنا&#39;.</p>
         <p className="fr">À qui renvoie-t-il ? Qui chante cette romance ?</p>
         <p className="ar">إلى من تشير؟ من يغني هذه الرومانسية؟</p>
         <p className="fr">
@@ -876,7 +876,7 @@ const PoeTwo = (props: Props) => {
         <div className="heading">
           <h3>
             FRAGMENT 1 : « UN SOIR DE DEMI-BRUME À LONDRES »
-            <span> نبذه 1: &#34;نصف ضباب مساء في لندن&#34;</span>
+            <span> نبذه 1: &#39;نصف ضباب مساء في لندن&#39;</span>
           </h3>
         </div>
 
@@ -893,7 +893,7 @@ const PoeTwo = (props: Props) => {
           protagoniste et « un voyou ».
         </p>
         <p className="ar">
-          تتكشف الأحداث من مواجهة عرضية بين بطل الرواية و &#34;سفاح&#34;.
+          تتكشف الأحداث من مواجهة عرضية بين بطل الرواية و &#39;سفاح&#39;.
         </p>
         <p className="fr">
           Le récit débute dans le « soir de demi-brume », quand cette rencontre
@@ -982,8 +982,8 @@ const PoeTwo = (props: Props) => {
           son « amour ».
         </p>
         <p className="ar">
-          في المقطع الأول ، يخلط بطل الرواية بين &#34;المشاغب&#34; و
-          &#34;حبه&#34;.
+          في المقطع الأول ، يخلط بطل الرواية بين &#39;المشاغب&#39; و
+          &#39;حبه&#39;.
         </p>
         <p className="fr">
           L’apparence du « mauvais garçon » ressemble en même temps au sentiment
@@ -992,24 +992,24 @@ const PoeTwo = (props: Props) => {
           bien-aimée ».
         </p>
         <p className="ar">
-          ظهور &#34;الولد الشرير&#34; يشبه في نفس الوقت الشعور (الحب) والمرأة
+          ظهور &#39;الولد الشرير&#39; يشبه في نفس الوقت الشعور (الحب) والمرأة
           الحبيبة ، التي يشير إليها بطل الرواية في السطر الثاني من المقطع الثالث
-          (&#34;إذا لم تكن محبوبًا&#34;.
+          (&#39;إذا لم تكن محبوبًا&#39;.
         </p>
         <p className="fr">
           Le « voyou » vient à sa rencontre et lui jette un regard.
         </p>
-        <p className="ar">يأتيه &#34;السفاح&#34; وينظر إليه.</p>
+        <p className="ar">يأتيه &#39;السفاح&#39; وينظر إليه.</p>
         <p className="fr">
           Troublé, le protagoniste « baiss[e] les yeux de honte ».
         </p>
-        <p className="ar">مضطرب ، بطل الرواية &#34;يخفض عينيه في الخجل&#34;.</p>
+        <p className="ar">مضطرب ، بطل الرواية &#39;يخفض عينيه في الخجل&#39;.</p>
         <p className="fr">
           Malgré sa confusion, il va suivre le « voyou » à travers les rues de
           Londres.
         </p>
         <p className="ar">
-          على الرغم من ارتباكه ، فإنه سيتبع &#34;السفاح&#34; في شوارع لندن.
+          على الرغم من ارتباكه ، فإنه سيتبع &#39;السفاح&#39; في شوارع لندن.
         </p>
         <p className="fr">
           Dans la deuxième strophe, la poursuite est comparée à la fuite des
@@ -1030,7 +1030,7 @@ const PoeTwo = (props: Props) => {
           tandis que le voyou représente ce peuple-là qui fuit.
         </p>
         <p className="ar">
-          يلعب دور &#34;فرعون&#34; ، غير قادر على كبح جماح العبرانيين ، بينما
+          يلعب دور &#39;فرعون&#39; ، غير قادر على كبح جماح العبرانيين ، بينما
           القاتل يمثل هؤلاء الفارين.
         </p>
         <p className="fr">
@@ -1040,7 +1040,7 @@ const PoeTwo = (props: Props) => {
           peu à peu dans la troisième strophe.
         </p>
         <p className="ar">
-          يرمز &#34;البحر الأحمر&#34; إلى فكرة الانفصال ، حيث أن المقارنة بين
+          يرمز &#39;البحر الأحمر&#39; إلى فكرة الانفصال ، حيث أن المقارنة بين
           مطاردة البطل والحلقة التوراتية تفسر الذكريات المؤسفة لفشل عاطفي يظهر
           تدريجياً في المقطع الثالث.
         </p>
@@ -1052,14 +1052,14 @@ const PoeTwo = (props: Props) => {
           « Que tombent ces vagues de briques / Si tu ne fus pas bien-aimée ».
         </p>
         <p className="ar">
-          &#34;دع هذه الموجات من الطوب تسقط / إذا لم تكن محبوبًا&#34;.
+          &#39;دع هذه الموجات من الطوب تسقط / إذا لم تكن محبوبًا&#39;.
         </p>
         <p className="fr">
           Il semble que le protagoniste tente de convaincre la bien-aimée
           qu’elle a été « l’amour unique ».
         </p>
         <p className="ar">
-          يبدو أن البطل يحاول إقناع الحبيب بأنها &#34;الحب الوحيد&#34;.
+          يبدو أن البطل يحاول إقناع الحبيب بأنها &#39;الحب الوحيد&#39;.
         </p>
         <p className="fr">
           C’est pourquoi il évoque une condition (que les briques tombent sur
@@ -1087,8 +1087,8 @@ const PoeTwo = (props: Props) => {
           transforme le brouillard en « sanguinolent ».
         </p>
         <p className="ar">
-          إنه &#34;الشارع المحترق / بكل نيران واجهاته&#34; والذي يحول الضباب إلى
-          &#34;دموي&#34;.
+          إنه &#39;الشارع المحترق / بكل نيران واجهاته&#39; والذي يحول الضباب إلى
+          &#39;دموي&#39;.
         </p>
         <p className="fr">
           Cette couleur rougeâtre peut traduire le sentiment de honte dû à la
@@ -1106,7 +1106,7 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="ar">
           في المقطع الخامس ، يتكثف اللون الأحمر ويتحول إلى ندبة. يصف بطل الرواية
-          شخصية لديها &#34;ندبة على رقبته العارية&#34;.
+          شخصية لديها &#39;ندبة على رقبته العارية&#39;.
         </p>
         <p className="fr">
           La vision du narrateur semble hallucinée, parce qu’il voit une femme
@@ -1119,20 +1119,20 @@ const PoeTwo = (props: Props) => {
           Elle possède un regard cruel et inhumain : « un regard d’inhumaine ».
         </p>
         <p className="ar">
-          لديها نظرة قاسية وغير إنسانية: &#34;نظرة غير إنسانية&#34;.
+          لديها نظرة قاسية وغير إنسانية: &#39;نظرة غير إنسانية&#39;.
         </p>
         <p className="fr">
           Dans ce moment de confrontation entre eux, il découvre la « fausseté
           de l’amour ».
         </p>
-        <p className="ar">في لحظة المواجهة بينهما يكتشف &#34;زيف الحب&#34;.</p>
+        <p className="ar">في لحظة المواجهة بينهما يكتشف &#39;زيف الحب&#39;.</p>
         <p className="fr">
           Le protagoniste a inséré deux personnages de conduite douteuse pour
           saisir la notion du « faux amour ».
         </p>
         <p className="ar">
-          أدخل بطل الرواية شخصيتين من السلوك المشكوك فيه لالتقاط فكرة &#34;الحب
-          المزيف&#34;.
+          أدخل بطل الرواية شخصيتين من السلوك المشكوك فيه لالتقاط فكرة &#39;الحب
+          المزيف&#39;.
         </p>
         <p className="fr">
           Le premier personnage, c’est le voyou. Celui-ci appartient au groupe
@@ -1184,7 +1184,7 @@ const PoeTwo = (props: Props) => {
         <p className="fr">
           La « fausseté de l’amour », à qui ressemble-t-elle ?
         </p>
-        <p className="ar">&#34;زيف الحب&#34; كيف يبدو؟</p>
+        <p className="ar">&#39;زيف الحب&#39; كيف يبدو؟</p>
         <p className="fr">
           Elle ressemble à la tromperie d’un voyou, à la cruauté et à la
           mauvaise conduite de la femme saoule. Par contre, le protagoniste a la
@@ -1192,7 +1192,7 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="ar">
           إنه يشبه خداع السفاح وقسوة وسوء سلوك المرأة السكرية. من ناحية أخرى ،
-          يؤمن بطل الرواية بالحب الحقيقي و &#34;الفريد&#34;.
+          يؤمن بطل الرواية بالحب الحقيقي و &#39;الفريد&#39;.
         </p>
         <p className="fr">
           Ainsi il remplace le faux amour par l’idéalisation de la femme.
@@ -1233,7 +1233,7 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="ar">
           بهذه الطريقة ، في المقطع السادس ، يمجد إخلاص بينيلوب ، الزوجة الصبور
-          التي انتظرت أوديسيوس بالقرب من &#34;سجادة عالية النعومة&#34;.
+          التي انتظرت أوديسيوس بالقرب من &#39;سجادة عالية النعومة&#39;.
         </p>
         <p className="fr">
           Dans la septième strophe, le deuxième exemple renvoie à Sacontale,
@@ -1286,9 +1286,9 @@ const PoeTwo = (props: Props) => {
           est encore amoureux », mais « malheureux ».
         </p>
         <p className="ar">
-          في المقطع الثامن ، يؤسس بطل الرواية معارضة بين &#34;الملوك
-          السعداء&#34; - ذكر أزواج النساء - وبين نفسه الذي &#34;لا يزال في حالة
-          حب&#34; ولكنه &#34;غير سعيد&#34;.
+          في المقطع الثامن ، يؤسس بطل الرواية معارضة بين &#39;الملوك
+          السعداء&#39; - ذكر أزواج النساء - وبين نفسه الذي &#39;لا يزال في حالة
+          حب&#39; ولكنه &#39;غير سعيد&#39;.
         </p>
         <p className="fr">
           Ce contraste révèle la division entre la fiction (ou légende) et la
@@ -1325,22 +1325,22 @@ const PoeTwo = (props: Props) => {
           D’une part, les rois « heureux » qui ont eu un amour dévoué.
         </p>
         <p className="ar">
-          من ناحية أخرى ، الملوك &#34;السعداء&#34; الذين كرّسوا الحب.
+          من ناحية أخرى ، الملوك &#39;السعداء&#39; الذين كرّسوا الحب.
         </p>
         <p className="fr">
           D’autre part, le protagoniste « malheureux » qui est pourtant « encore
           amoureux », car il est devenu un amant déçu.
         </p>
         <p className="ar">
-          من ناحية أخرى ، بطل الرواية &#34;غير السعيد&#34; الذي مع ذلك &#34;لا
-          يزال في حالة حب&#34; ، لأنه أصبح عاشقًا محبطًا.
+          من ناحية أخرى ، بطل الرواية &#39;غير السعيد&#39; الذي مع ذلك &#39;لا
+          يزال في حالة حب&#39; ، لأنه أصبح عاشقًا محبطًا.
         </p>
         <p className="fr">
           Le faux amour et la femme sont « les ombres infidèles » qui ont
           empêché la concrétisation du rêve du protagoniste.
         </p>
         <p className="ar">
-          الحب الزائف والمرأة هما &#34;الظلال الخائنة&#34; التي حالت دون تحقيق
+          الحب الزائف والمرأة هما &#39;الظلال الخائنة&#39; التي حالت دون تحقيق
           حلم بطل الرواية.
         </p>
         <p className="fr">
@@ -1359,8 +1359,8 @@ const PoeTwo = (props: Props) => {
           eussent vendu leur ombre ».
         </p>
         <p className="ar">
-          ويقترح أنهم لو عرفوها ، لكان حتى أولئك الملوك السعداء &#34;باعوا
-          ظلهم&#34;.
+          ويقترح أنهم لو عرفوها ، لكان حتى أولئك الملوك السعداء &#39;باعوا
+          ظلهم&#39;.
         </p>
         <p className="fr">
           Pour résumer, on dira qu’une force perturbatrice trouble la marche
@@ -1376,7 +1376,7 @@ const PoeTwo = (props: Props) => {
         </p>
         <p className="ar">
           إن شخصية السفاح هي التي تقوده إلى اكتشاف فشل الحب ومن ثم المرأة
-          السكرية التي تجعله يدرك &#34;زيف الحب&#34;.
+          السكرية التي تجعله يدرك &#39;زيف الحب&#39;.
         </p>
         <p className="fr">Ainsi, il tente de comprendre ce qu’il veut :</p>
         <p className="ar">وهكذا يحاول أن يفهم ما يريد:</p>

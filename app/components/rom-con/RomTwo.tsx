@@ -16,7 +16,7 @@ const RomTwo = (props: Props) => {
         </div>
 
         <p className="fr">
-          Certainement, il n&#34;y a pas de récit sans événements. Ceux-ci sont
+          Certainement, il n&#39;y a pas de récit sans événements. Ceux-ci sont
           racontés par un narrateur.
         </p>
         <p className="ar">
@@ -25,7 +25,7 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           Celui-ci remplit la fonction de la représentation, la fonction des
-          modalités narratives, la fonction d&#34;évaluation et de commentaire,
+          modalités narratives, la fonction d&#39;évaluation et de commentaire,
           la fonction métanarrative, la fonction communicative.
         </p>
         <p className="ar">
@@ -49,7 +49,7 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           Il photographie seulement les actes et les gestes des acteurs -
-          impliqués sans qu&#34;il intervienne dans le cours des faits racontés.
+          impliqués sans qu&#39;il intervienne dans le cours des faits racontés.
         </p>
         <p className="ar">
           يتم تصوير الأحداث والأفعال التي يقوم بها الشخصيات في هذا النوع من
@@ -60,23 +60,23 @@ const RomTwo = (props: Props) => {
           extérieur.
         </p>
         <p className="ar">
-          الجملة الأولى من رواية &#34;الطاعون&#34; تشير إلى وجود وجهة نظر روائية
+          الجملة الأولى من رواية &#39;الطاعون&#39; تشير إلى وجود وجهة نظر روائية
           خارجية.
         </p>
         <p className="fr">
-          &#34; Comment faire imaginer, par exemple, une ville sans pigeons,
-          sans arbres et sans jardins, où l&#34;on ne rencontre ni battements
-          d&#34;ailes ni froissements de feuilles, un lieu neutre pour tout
-          dire?&#34;
+          &#39; Comment faire imaginer, par exemple, une ville sans pigeons,
+          sans arbres et sans jardins, où l&#39;on ne rencontre ni battements
+          d&#39;ailes ni froissements de feuilles, un lieu neutre pour tout
+          dire?&#39;
         </p>
         <p className="ar">
-          &#34;كيف يمكن تخيل، على سبيل المثال، مدينة بدون حمامات، وبدون أشجار
+          &#39;كيف يمكن تخيل، على سبيل المثال، مدينة بدون حمامات، وبدون أشجار
           وحدائق، وبدون سماع أي جناح يتراقص أو أوراق تتحرك، مكانًا محايدًا بكل
-          معنى الكلمة؟&#34;
+          معنى الكلمة؟&#39;
         </p>
         <p className="fr">
-          Cette description du lieu nous donne l&#34;impression que
-          quelqu&#34;un porte une caméra et photographie la première rencontre
+          Cette description du lieu nous donne l&#39;impression que
+          quelqu&#39;un porte une caméra et photographie la première rencontre
           du couple amoureux.
         </p>
         <p className="ar">
@@ -84,7 +84,7 @@ const RomTwo = (props: Props) => {
           لقاء للزوجين المحبوبين.
         </p>
         <p className="fr">
-          On le compare au metteur en scène qui tourne un film et il n&#34;est
+          On le compare au metteur en scène qui tourne un film et il n&#39;est
           pas un des acteurs.
         </p>
         <p className="ar">
@@ -109,17 +109,17 @@ const RomTwo = (props: Props) => {
           نتعرف على بداية الدراما:
         </p>
         <p className="fr">
-          &#34; Le docteur regardait toujours par la fenêtre. D&#34;un côté de
-          la vitre, le ciel frais du printemps, et de l&#34;autre côté le mot
-          qui résonnait encore dans la pièce : la peste.&#34;
+          &#39; Le docteur regardait toujours par la fenêtre. D&#39;un côté de
+          la vitre, le ciel frais du printemps, et de l&#39;autre côté le mot
+          qui résonnait encore dans la pièce : la peste.&#39;
         </p>
         <p className="ar">
-          &#34;كان الطبيب ينظر دائمًا من خلال النافذة. من جهة الزجاج، السماء
+          &#39;كان الطبيب ينظر دائمًا من خلال النافذة. من جهة الزجاج، السماء
           الربيعية العليلة، ومن الجهة الأخرى الكلمة التي ما زالت ترنّ في الغرفة:
-          الطاعون.&#34;
+          الطاعون.&#39;
         </p>
         <p className="fr">
-          Ici, le narrateur extradiégétique nous photographie une scène d&#34;un
+          Ici, le narrateur extradiégétique nous photographie une scène d&#39;un
           homme debout derrière la vitre.
         </p>
         <p className="ar">
@@ -127,7 +127,7 @@ const RomTwo = (props: Props) => {
           بالصورة.
         </p>
         <p className="fr">
-          C&#34;est un homme inquiétant, distrait. Il pense à un problème grave,
+          C&#39;est un homme inquiétant, distrait. Il pense à un problème grave,
           concernant une maladie inconnue, cet ennemi qui tue sans grâce.
         </p>
         <p className="ar">
@@ -144,7 +144,7 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           En effet, des rats de plus en plus nombreux agonisent dans la rue
-          d&#34;Oran.
+          d&#39;Oran.
         </p>
         <p className="ar">
           في الواقع، يتألم العديد من الجرذان في شوارع وهران، وتتزايد أعدادها
@@ -188,15 +188,15 @@ const RomTwo = (props: Props) => {
 
         <p className="fr">
           On le trouve dans le récit à la première personne du singulier
-          &#34;je&#34;, ou dans les séquences racontées au &#34;je&#34;.
+          &#39;je&#39;, ou dans les séquences racontées au &#39;je&#39;.
         </p>
         <p className="ar">
-          يمكن العثور عليه في السرد بالشخص الأول المفرد &#34;أنا&#34;، أو في
-          المقاطع المحكية بـ &#34;أنا&#34;.
+          يمكن العثور عليه في السرد بالشخص الأول المفرد &#39;أنا&#39;، أو في
+          المقاطع المحكية بـ &#39;أنا&#39;.
         </p>
         <p className="fr">
-          Dans ce type narratif, l&#34;action est présentée par la perspective
-          centrale du récit, puisqu&#34;il semble raconter sa propre histoire.
+          Dans ce type narratif, l&#39;action est présentée par la perspective
+          centrale du récit, puisqu&#39;il semble raconter sa propre histoire.
         </p>
         <p className="ar">
           في هذا النوع السردي، يتم تقديم الحدث من خلال منظور الراوي المركزي
@@ -206,81 +206,81 @@ const RomTwo = (props: Props) => {
           Dans la peste, le narrateur homodiégétique est tout à fait absent.
         </p>
         <p className="ar">
-          في رواية &#34;الطاعون&#34;، يكون الراوي المحوري غائب تمامًا.
+          في رواية &#39;الطاعون&#39;، يكون الراوي المحوري غائب تمامًا.
         </p>
         <p className="fr">
-          Le &#34;je&#34; du texte s&#34;identifie au je d&#34;un des
-          protagonistes du récit, c&#34;est ce qu&#34;on appelle un narrateur
+          Le &#39;je&#39; du texte s&#39;identifie au je d&#39;un des
+          protagonistes du récit, c&#39;est ce qu&#39;on appelle un narrateur
           intradiégétique.
         </p>
         <p className="ar">
-          الـ &#34;أنا&#34; في النص يتطابق مع شخصية أحد أبطال القصة، وهذا ما
+          الـ &#39;أنا&#39; في النص يتطابق مع شخصية أحد أبطال القصة، وهذا ما
           يسمى الراوي الداخلي للحكاية.
         </p>
         <p className="fr">
           Dans le type narratif intradiégétique, les événements sont vus et
           racontés par un des personnages du récit qui participent au
-          déroulement de l&#34;action.
+          déroulement de l&#39;action.
         </p>
         <p className="ar">
           في النوع السردي الداخلي للحكاية، يتم رؤية الأحداث وسردها من قبل أحد
           شخصيات الحكاية الذي يشارك في سير الأحداث.
         </p>
         <p className="fr">
-          La présence du narrateur intradiégétique se reflète à l&#34;intérieur
-          du texte par l&#34;emploi des adjectifs possessifs.
+          La présence du narrateur intradiégétique se reflète à l&#39;intérieur
+          du texte par l&#39;emploi des adjectifs possessifs.
         </p>
         <p className="ar">
           تتجلى وجود الراوي الداخلي للحكاية داخل النص من خلال استخدام الصفات
           الملكية داخل النص.
         </p>
         <p className="fr">
-          Dès la page deux, le récit a pour objet de décrire la vie de &#34;nos
-          concitoyens&#34;.
+          Dès la page deux, le récit a pour objet de décrire la vie de &#39;nos
+          concitoyens&#39;.
         </p>
         <p className="ar">
-          من الصفحة الثانية، يكون هدف الحكاية هو وصف حياة &#34;زملائنا
-          المواطنين&#34;.
+          من الصفحة الثانية، يكون هدف الحكاية هو وصف حياة &#39;زملائنا
+          المواطنين&#39;.
         </p>
         <p className="fr">
-          Le narrateur est l&#34;un de ces &#34;concitoyens&#34; et ces fameux
+          Le narrateur est l&#39;un de ces &#39;concitoyens&#39; et ces fameux
           concitoyens sont ainsi présentés.
         </p>
         <p className="ar">
-          الراوي هو أحد هؤلاء &#34;المواطنين&#34;، ويتم تقديم هؤلاء المواطنين
+          الراوي هو أحد هؤلاء &#39;المواطنين&#39;، ويتم تقديم هؤلاء المواطنين
           الشهيرين بهذه الطريقة.
         </p>
         <p className="fr">Le narrateur est ici le docteur Rieux :</p>
         <p className="ar">الراوي في هذه الحالة هو الدكتور ريو:</p>
         <p className="fr">
-          &#34; Nos concitoyens travaillent beaucoup, mais toujours pour
-          s&#34;enrichir. Ils s&#34;intéressent surtout au commerce et ils
-          s&#34;occupent d&#34;abord, selon leur expression, de faire des
+          &#39; Nos concitoyens travaillent beaucoup, mais toujours pour
+          s&#39;enrichir. Ils s&#39;intéressent surtout au commerce et ils
+          s&#39;occupent d&#39;abord, selon leur expression, de faire des
           affaires.
         </p>
         <p className="ar">
-          &#34;زملائنا المواطنين&#34; يعملون بجد، لكن دائمًا من أجل الثراء.
+          &#39;زملائنا المواطنين&#39; يعملون بجد، لكن دائمًا من أجل الثراء.
           يهتمون بشكل خاص بالتجارة ويعملون في المقام الأول، وفقًا لتعبيرهم، على
           إجراء الصفقات.
         </p>
         <p className="fr">
-          &#34; L&#34;expression &#34; nos concitoyens&#34; n&#34;inclut pas les
+          &#39; L&#39;expression &#39; nos concitoyens&#39; n&#39;inclut pas les
           femmes qui sont apparemment des passe-temps et non des êtres humains
           pensants.
         </p>
         <p className="ar">
-          تعبير &#34;زملائنا المواطنين&#34; لا يشمل النساء، اللواتي يبدون أنهن
+          تعبير &#39;زملائنا المواطنين&#39; لا يشمل النساء، اللواتي يبدون أنهن
           هوايات وليسوا كائنات بشرية ذات تفكير.
         </p>
         <p className="fr">
-          Le narrateur justifie son intervention et fait comprendre qu&#34;il
+          Le narrateur justifie son intervention et fait comprendre qu&#39;il
           soit un témoin objectif.
         </p>
         <p className="ar">
           الراوي يبرر تدخله ويجعل فهمه واضحًا بأنه شاهد موضوعي.
         </p>
         <p className="fr">
-          Pendant toute la durée de la peste, son métier l&#34;a mis à même de
+          Pendant toute la durée de la peste, son métier l&#39;a mis à même de
           voir la plupart de ses concitoyens, et de recueillir leur sentiment.
         </p>
         <p className="ar">
@@ -288,14 +288,14 @@ const RomTwo = (props: Props) => {
           وجمع مشاعرهم.
         </p>
         <p className="fr">
-          Il était donc bien placé pour rapporter ce qu&#34;il avait vu et
+          Il était donc bien placé pour rapporter ce qu&#39;il avait vu et
           entendu.
         </p>
         <p className="ar">
           كان موضعًا جيدًا للغاية للإبلاغ عما رأى واستمع إليه.
         </p>
         <p className="fr">
-          tant appelé à témoigner, à l&#34;occasion d&#34;une sorte de crime, il
+          tant appelé à témoigner, à l&#39;occasion d&#39;une sorte de crime, il
           a gardé une certaine réserve, comme il convient à un témoin de bonne
           volonté ».
         </p>
@@ -305,21 +305,21 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           En toute «objectivité», si une ville est touchée par la peste, le seul
-          avis qui mérite d&#34;être mentionné, c&#34;est celui des hommes.
+          avis qui mérite d&#39;être mentionné, c&#39;est celui des hommes.
         </p>
         <p className="ar">
-          بكل &#34;موضوعية&#34;، إذا كانت المدينة مصابة بالطاعون، فإن الرأي
+          بكل &#39;موضوعية&#39;، إذا كانت المدينة مصابة بالطاعون، فإن الرأي
           الوحيد الذي يستحق الذكر هو رأي الرجال.
         </p>
         <p className="fr">
-          Le narrateur intradiégétique remplit à l&#34;intérieur du texte la
+          Le narrateur intradiégétique remplit à l&#39;intérieur du texte la
           fonction de la représentation.
         </p>
         <p className="ar">
           الراوي الداخلي للحكاية يؤدي وظيفة التمثيل داخل النص.
         </p>
         <p className="fr">
-          Celle - ci est la fonction principale de n&#34;importe quel narrateur
+          Celle - ci est la fonction principale de n&#39;importe quel narrateur
           :
         </p>
         <p className="ar">
@@ -327,7 +327,7 @@ const RomTwo = (props: Props) => {
           إلى القارئ.
         </p>
         <p className="fr">
-          il passe en revue l&#34;action racontée, en donnant des détails sur le
+          il passe en revue l&#39;action racontée, en donnant des détails sur le
           composant du texte : lieux, personnages, thème et temporalité.
         </p>
         <p className="ar">
@@ -335,10 +335,10 @@ const RomTwo = (props: Props) => {
           والشخصيات والموضوع والزمنية.
         </p>
         <p className="fr">
-          Dès les premières pages du récit, on a le sentiment qu&#34;il y a un
+          Dès les premières pages du récit, on a le sentiment qu&#39;il y a un
           personnage ou un habitant de la ville nous raconte tout ce qui se
           passe. Au début, il nous donne des détails sur le lieu où se déroule
-          l&#34;action :
+          l&#39;action :
         </p>
         <p className="ar">
           منذ الصفحات الأولى من الحكاية، يتبادر إلينا الشعور بأن شخصًا ما من
@@ -346,20 +346,20 @@ const RomTwo = (props: Props) => {
           المكان الذي يجري فيه الحدث :
         </p>
         <p className="fr">
-          &#34; On dira sans doute que cela n&#34;est pas particulier à notre
-          ville et qu&#34;en somme tous nos contemporains sont ainsi. Sans
-          doute, rien n&#34;est plus naturel, aujourd&#34;hui, que de voir des
+          &#39; On dira sans doute que cela n&#39;est pas particulier à notre
+          ville et qu&#39;en somme tous nos contemporains sont ainsi. Sans
+          doute, rien n&#39;est plus naturel, aujourd&#39;hui, que de voir des
           gens travailler du matin au soir et choisir ensuite de perdre aux
-          cartes (...) &#34;.
+          cartes (...) &#39;.
         </p>
         <p className="ar">
-          &#34;من المحتمل أن يقال إن هذا ليس خاصًا بمدينتنا وأن جميع معاصرينا
+          &#39;من المحتمل أن يقال إن هذا ليس خاصًا بمدينتنا وأن جميع معاصرينا
           كذلك. لا شك أنه ليس هناك شيء أكثر طبيعية اليوم من رؤية الناس يعملون من
-          الصباح حتى المساء ويختارون بعد ذلك الخسارة في الورق (...)&#34;.
+          الصباح حتى المساء ويختارون بعد ذلك الخسارة في الورق (...)&#39;.
         </p>
         <p className="fr">
           Ainsi, le narrateur représente la vie quotidienne des habitants ; ils
-          mènent une existence routinière ; le soir ; lorsqu&#34;ils quittent
+          mènent une existence routinière ; le soir ; lorsqu&#39;ils quittent
           les bureaux, ils se réunissent à heure fixe dans les cafés, ils se
           promènent sur le même boulevard ou bien ils se mettent à leur balcon.
         </p>
@@ -377,7 +377,7 @@ const RomTwo = (props: Props) => {
           الشخصيات الثانوية.
         </p>
         <p className="fr">
-          Le personnage de Tarrou s&#34;était fixé à Oran quelques semaines
+          Le personnage de Tarrou s&#39;était fixé à Oran quelques semaines
           plutôt et habitait, depuis ce temps, un grand hôtel du centre. Il
           semble assez aisé pour vivre de ses revenus.
         </p>
@@ -396,24 +396,24 @@ const RomTwo = (props: Props) => {
         <p className="fr">
           Jean Tarrou donne son opinion au sujet de Mme Rieux, la mère du
           docteur chez qui il a provisoirement élu domicile : « Tarrou insistait
-          surtout sur l&#34;effacement de Mme Rieux ;
+          surtout sur l&#39;effacement de Mme Rieux ;
         </p>
         <p className="ar">
           يعبر جان تارو عن رأيه فيما يتعلق بالسيدة ريو، والدة الدكتور الذي اختار
-          الإقامة المؤقتة في منزلها، حيث يقول &#34;انتبه تارو بشكل خاص إلى
+          الإقامة المؤقتة في منزلها، حيث يقول &#39;انتبه تارو بشكل خاص إلى
           انحسار السيدة ريو؛
         </p>
         <p className="fr">
-          sur la façon qu&#34;elle avait de tout exprimer en phrases simples ;
+          sur la façon qu&#39;elle avait de tout exprimer en phrases simples ;
         </p>
         <p className="ar">كيف تعبر عن كل شيء بعبارات بسيطة:</p>
         <p className="fr">
-          sur le goût particulier qu&#34;elle montrait pour une certaine
+          sur le goût particulier qu&#39;elle montrait pour une certaine
           fenêtre, donnant sur la rue calme, et derrière laquelle elle
-          s&#34;asseyait le soir, un peu droite, les mains tranquilles et le
-          regard attentif jusqu&#34;à ce que le crépuscule eût envahi la pièce,
-          faisant d&#34;elle une ombre noire dans la lumière grise qui fonçait
-          peu à peu et dissolvait alors la silhouette immobile (...)&#34;.
+          s&#39;asseyait le soir, un peu droite, les mains tranquilles et le
+          regard attentif jusqu&#39;à ce que le crépuscule eût envahi la pièce,
+          faisant d&#39;elle une ombre noire dans la lumière grise qui fonçait
+          peu à peu et dissolvait alors la silhouette immobile (...)&#39;.
         </p>
         <p className="ar">
           وعن الذوق الخاص الذي تظهره في نافذة معينة تطل على الشارع الهادئ، والتي
@@ -423,20 +423,20 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           Même, Jean Tarrou parle de sa propre mère : «Ma mère était ainsi,
-          j&#34;aimais en elle le même effacement et c&#34;est elle que j&#34;ai
+          j&#39;aimais en elle le même effacement et c&#39;est elle que j&#39;ai
           toujours voulu rejoindre. Il y a huit ans, je ne peux pas dire
-          qu&#34;elle soit morte. Elle s&#34;est seulement effacée un peu plus
-          que d&#34;habitude et, quand je me suis retourné, elle n&#34;était
+          qu&#39;elle soit morte. Elle s&#39;est seulement effacée un peu plus
+          que d&#39;habitude et, quand je me suis retourné, elle n&#39;était
           plus là. »
         </p>
         <p className="ar">
-          ويتحدث جان تارو حتى عن والدته الخاصة به قائلاً &#34;كانت والدتي بنفس
+          ويتحدث جان تارو حتى عن والدته الخاصة به قائلاً &#39;كانت والدتي بنفس
           الطريقة، أحببت فيها نفس الانحسار، وهي التي دائمًا أردت الانضمام إليها.
           قبل ثماني سنوات، لا يمكنني أن أقول أنها ماتت. اختفت فقط بشكل أكبر من
-          المعتاد، وعندما التفت، لم تعد هناك&#34;.
+          المعتاد، وعندما التفت، لم تعد هناك&#39;.
         </p>
         <p className="fr">
-          Dans la peste, le narrateur remplit la fonction d&#34;évaluation ou de
+          Dans la peste, le narrateur remplit la fonction d&#39;évaluation ou de
           commentaire.
         </p>
         <p className="ar">
@@ -454,8 +454,8 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           Dès les premières pages du récit, le narrateur remplit cette fonction
-          d&#34;évaluation lorsqu&#34;il emploie des termes péjoratifs pour
-          qualifier la ville d&#34;Oran où se déroulent les événements.
+          d&#39;évaluation lorsqu&#39;il emploie des termes péjoratifs pour
+          qualifier la ville d&#39;Oran où se déroulent les événements.
         </p>
         <p className="ar">
           من الصفحات الأولى للحكاية، يقوم الراوي بوظيفة التقييم عندما يستخدم
@@ -470,26 +470,26 @@ const RomTwo = (props: Props) => {
           بمفارقة مريرة.
         </p>
         <p className="fr">
-          Cette ironie porte un jugement sur la nature de la ville d&#34;Oran :
-          &#34; Oran (...) rien de plus qu&#34;une préfecture française&#34;.
+          Cette ironie porte un jugement sur la nature de la ville d&#39;Oran :
+          &#39; Oran (...) rien de plus qu&#39;une préfecture française&#39;.
         </p>
         <p className="ar">
-          هذه المفارقة هي حكم على طبيعة مدينة وهران: &#34;وهران (...) ليست أكثر
-          من محافظة فرنسية&#34;.
+          هذه المفارقة هي حكم على طبيعة مدينة وهران: &#39;وهران (...) ليست أكثر
+          من محافظة فرنسية&#39;.
         </p>
         <p className="fr">
-          Il porte un jugement aussi sur la vie des oranais : &#34; Nos
+          Il porte un jugement aussi sur la vie des oranais : &#39; Nos
           concitoyens travaillent beaucoup, mais toujours pour
-          s&#34;enrichir.&#34;
+          s&#39;enrichir.&#39;
         </p>
         <p className="ar">
-          كما يصدر حكمًا على حياة أهل وهران: &#34;مواطنونا يعملون كثيرًا ، لكنهم
-          دائمًا ما يصبحون أثرياء&#34;.
+          كما يصدر حكمًا على حياة أهل وهران: &#39;مواطنونا يعملون كثيرًا ، لكنهم
+          دائمًا ما يصبحون أثرياء&#39;.
         </p>
         <p className="fr">
-          L&#34;ironie du narrateur affleure également dans le texte avec
-          l&#34;emploi de certains adverbes qui portent en eux-mêmes une sorte
-          de critique ou d&#34;évaluation (naturellement - très
+          L&#39;ironie du narrateur affleure également dans le texte avec
+          l&#39;emploi de certains adverbes qui portent en eux-mêmes une sorte
+          de critique ou d&#39;évaluation (naturellement - très
           raisonnablement).
         </p>
         <p className="ar">
@@ -497,7 +497,7 @@ const RomTwo = (props: Props) => {
           نوعًا من النقد أو التقييم (بطبيعة الحال - بشكل معقول جدًا).
         </p>
         <p className="fr">
-          Le narrateur emploie par antiphrase ces adverbes (L&#34;antiphrase est
+          Le narrateur emploie par antiphrase ces adverbes (L&#39;antiphrase est
           un procédé stylistique consiste à énoncer un propos de telle manière
           que ce soit le contraire qui soit compris par le lecteur).
         </p>
@@ -507,7 +507,7 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           Ici, le narrateur semble être, lui, bien plus attiré par les femmes,
-          le cinéma, les bains de mer que par l&#34;argent. Le ton ironique du
+          le cinéma, les bains de mer que par l&#39;argent. Le ton ironique du
           narrateur intradiégétique découvre sa subjectivité.
         </p>
         <p className="ar">
@@ -516,88 +516,88 @@ const RomTwo = (props: Props) => {
           شخصيته.
         </p>
         <p className="fr">
-          Ce jeu de la feinte approbation montre que le peintre d&#34;Oran et
-          des oranais n&#34;est objective qu&#34;en apparence.
+          Ce jeu de la feinte approbation montre que le peintre d&#39;Oran et
+          des oranais n&#39;est objective qu&#39;en apparence.
         </p>
         <p className="ar">
           تظهر لعبة الموافقة المزيفة هذه أن رسام وهران وشعب وهران موضوعي ظاهريًا
           فقط.
         </p>
         <p className="fr">
-          Les deux adjectifs qualificatifs &#34;frénétiques et absent&#34;
+          Les deux adjectifs qualificatifs &#39;frénétiques et absent&#39;
           rappellent de manière péjorative la double caractéristiques de la vie
           des oranais, une routine mécanique et un ennui pesant :
         </p>
         <p className="ar">
-          الصفتان المؤهلتان &#34;محموم وغائب&#34; تذكران بازدراء بالخصائص
+          الصفتان المؤهلتان &#39;محموم وغائب&#39; تذكران بازدراء بالخصائص
           المزدوجة للحياة في وهران ، الروتين الميكانيكي والملل الشديد:
         </p>
         <p className="fr">
-          &#34; Dans notre ville, est-ce l&#34;effet du climat, tout cela fait
-          ensemble, du même air frénétique et absent.&#34;
+          &#39; Dans notre ville, est-ce l&#39;effet du climat, tout cela fait
+          ensemble, du même air frénétique et absent.&#39;
         </p>
         <p className="ar">
-          &#34;في مدينتنا ، هل هو تأثير المناخ ، كل هذا يتم معًا ، في نفس الهواء
-          المحموم والغائب&#34;.
+          &#39;في مدينتنا ، هل هو تأثير المناخ ، كل هذا يتم معًا ، في نفس الهواء
+          المحموم والغائب&#39;.
         </p>
         <p className="fr">
-          Ainsi, l&#34;ironie du narrateur a-t-elle pour objectif de porter la
+          Ainsi, l&#39;ironie du narrateur a-t-elle pour objectif de porter la
           dérision sur les oranais.
         </p>
         <p className="ar">
           وهكذا ، فإن سخرية الراوي تهدف إلى استهزاء أهل وهران.
         </p>
         <p className="fr">
-          En effet, si le texte s&#34;ouvre sur une neutralité indéfinie
-          &#34;on&#34;, rapidement le voisinage de possessifs comme (nous,
-          notre, nos) oriente &#34;on&#34; vers &#34;vous&#34; de connivence.
+          En effet, si le texte s&#39;ouvre sur une neutralité indéfinie
+          &#39;on&#39;, rapidement le voisinage de possessifs comme (nous,
+          notre, nos) oriente &#39;on&#39; vers &#39;vous&#39; de connivence.
         </p>
         <p className="ar">
-          في الواقع ، إذا افتتح النص بحياد غير محدد &#34;نحن&#34; ، فسرعان ما
-          يوجه القرب من أصحاب الملكية مثل (نحن ، لدينا ، لدينا) &#34;نحن&#34;
-          تجاه &#34;أنت&#34; بالتواطؤ.
+          في الواقع ، إذا افتتح النص بحياد غير محدد &#39;نحن&#39; ، فسرعان ما
+          يوجه القرب من أصحاب الملكية مثل (نحن ، لدينا ، لدينا) &#39;نحن&#39;
+          تجاه &#39;أنت&#39; بالتواطؤ.
         </p>
         <p className="fr">
-          &#34;Nous&#34; renvoie alors au narrateur et à ses concitoyens mais
+          &#39;Nous&#39; renvoie alors au narrateur et à ses concitoyens mais
           aussi, sensiblement au lecteur.
         </p>
         <p className="ar">
-          ثم تشير كلمة &#34;نحن&#34; إلى الراوي ومواطنيه ، ولكن أيضًا ، بشكل
+          ثم تشير كلمة &#39;نحن&#39; إلى الراوي ومواطنيه ، ولكن أيضًا ، بشكل
           ملحوظ ، تشير إلى القارئ.
         </p>
         <p className="fr">
-          Le père Paneloux, en tant qu&#34;un des personnages du récit remplit
-          cette fonction d&#34;évaluation.
+          Le père Paneloux, en tant qu&#39;un des personnages du récit remplit
+          cette fonction d&#39;évaluation.
         </p>
         <p className="ar">
           يؤدي الأب بانيلو ، بصفته أحد الشخصيات في القصة ، وظيفة التقييم هذه.
         </p>
         <p className="fr">
-          Le père lance l&#34;anathème : les oranais sont responsables de
-          l&#34;épidémie &#34;Vous l&#34;avez mérité&#34;.
+          Le père lance l&#39;anathème : les oranais sont responsables de
+          l&#39;épidémie &#39;Vous l&#39;avez mérité&#39;.
         </p>
         <p className="ar">
-          الأب يطلق لعنة: أهل وهران هم المسؤولون عن الوباء &#34;أنت تستحقه&#34;.
+          الأب يطلق لعنة: أهل وهران هم المسؤولون عن الوباء &#39;أنت تستحقه&#39;.
         </p>
         <p className="fr">
           Le père revendique un retour aux sources du catholicisme purifié par
-          l&#34;examen de conscience individuel :
+          l&#39;examen de conscience individuel :
         </p>
         <p className="ar">
           يدعي الأب العودة إلى مصادر الكاثوليكية التي تم تنقيتها بفحص الضمير
           الفردي:
         </p>
         <p className="fr">
-          &#34; Depuis le début de toute l&#34;histoire, le fléau de Dieu met à
+          &#39; Depuis le début de toute l&#39;histoire, le fléau de Dieu met à
           ses pieds les orgueilleux et les aveugles. Méditez cela et tombez à
-          genoux.&#34;
+          genoux.&#39;
         </p>
         <p className="ar">
-          &#34;منذ بداية التاريخ كله ، بلاء الله يضع المتكبرين والعميان عند
-          قدميه. تأملوا في هذا وسقطوا على ركبكم&#34;.
+          &#39;منذ بداية التاريخ كله ، بلاء الله يضع المتكبرين والعميان عند
+          قدميه. تأملوا في هذا وسقطوا على ركبكم&#39;.
         </p>
         <p className="fr">
-          Selon le père Paneloux, le chrétien doit s&#34;abandonner à Dieu et à
+          Selon le père Paneloux, le chrétien doit s&#39;abandonner à Dieu et à
           la foi.
         </p>
         <p className="ar">
@@ -612,7 +612,7 @@ const RomTwo = (props: Props) => {
           تجاه الله.
         </p>
         <p className="fr">
-          D&#34;après lui, la peste est une punition collective envoyée par
+          D&#39;après lui, la peste est une punition collective envoyée par
           Dieu.
         </p>
         <p className="ar">ووفقا له ، فإن الطاعون هو عقاب جماعي أرسله الله.</p>
@@ -631,13 +631,13 @@ const RomTwo = (props: Props) => {
         <p className="ar">في نوع السرد الداخلي ، يقوم الراوي بوظيفة التواصل.</p>
         <p className="fr">
           Cette fonction montre la communication narrative entre celui qui
-          raconte et celui qui reçoit l&#34;acte narratif.
+          raconte et celui qui reçoit l&#39;acte narratif.
         </p>
         <p className="ar">
           تُظهر هذه الوظيفة التواصل السردي بين من يروي ومن يستقبل الفعل السردي.
         </p>
         <p className="fr">
-          C&#34;est la fonction d&#34;échange entre l&#34;acteur et son lecteur,
+          C&#39;est la fonction d&#39;échange entre l&#39;acteur et son lecteur,
           entre le narrateur et le narrataire. (Je-tu, nous-vous).
         </p>
         <p className="ar">
@@ -645,28 +645,28 @@ const RomTwo = (props: Props) => {
           (أنا-أنت ، نحن-أنت).
         </p>
         <p className="fr">
-          Cette relation directe entre l&#34;auteur et son lecteur ou entre le
+          Cette relation directe entre l&#39;auteur et son lecteur ou entre le
           narrateur et le narrataire est accentuée par des phénomènes
-          linguistiques ;c&#34;est l&#34;emploi du couple énonciatif
-          &#34;je-tu-vous&#34;.
+          linguistiques ;c&#39;est l&#39;emploi du couple énonciatif
+          &#39;je-tu-vous&#39;.
         </p>
         <p className="ar">
           تتجلى هذه العلاقة المباشرة بين المؤلف وقارئه أو بين الراوي والمروي
-          عليه من خلال الظواهر اللغوية ؛ وهي استخدام الزوج المنطقي &#34;أنا أنت
-          أنت&#34;.
+          عليه من خلال الظواهر اللغوية ؛ وهي استخدام الزوج المنطقي &#39;أنا أنت
+          أنت&#39;.
         </p>
         <p className="fr">
           Dans la peste, on trouve que le narrateur intradiégétique remplit bien
           cette fonction communicative, notamment dans les scènes qui unissent
           le père Paneloux avec les habitants de la ville le dimanche ou le jour
-          des messes: &#34;Mes frères, vous êtes dans le malheur, mes frères
-          vous l’avez mérité&#34;.
+          des messes: &#39;Mes frères, vous êtes dans le malheur, mes frères
+          vous l’avez mérité&#39;.
         </p>
         <p className="ar">
           في حالة الطاعون ، نجد أن الراوي الداخلي يقوم بهذه الوظيفة التواصلية
           بشكل جيد ، خاصة في المشاهد التي توحد الأب بانلو مع سكان المدينة أيام
-          الأحد أو في يوم الجماهير: &#34;إخوتي ، أنتم في مصيبة يا إخواني لقد
-          استحقت ذلك &#34;.
+          الأحد أو في يوم الجماهير: &#39;إخوتي ، أنتم في مصيبة يا إخواني لقد
+          استحقت ذلك &#39;.
         </p>
         <p className="fr">
           Cette fonction communicative montre le point de vue religieux à ces
@@ -683,11 +683,11 @@ const RomTwo = (props: Props) => {
           تتجسد وجهة النظر هذه في شخصية الأب بانيلو. يعيد المؤمنين إلى الكنيسة.
         </p>
         <p className="fr">
-          Le Père Paneloux,&#34;un jésuite érudit et militant&#34; lance un
+          Le Père Paneloux,&#39;un jésuite érudit et militant&#39; lance un
           sermon du haut de sa chaire.
         </p>
         <p className="ar">
-          الأب بانلو ، &#34;اليسوعي المثقف والمتشدد&#34; يلقي خطبة من منبره.
+          الأب بانلو ، &#39;اليسوعي المثقف والمتشدد&#39; يلقي خطبة من منبره.
         </p>
         <p className="fr">Il rend responsable les fidèles de leur malheur.</p>
         <p className="ar">يجعل المؤمنين مسؤولين عن سوء حظهم.</p>
@@ -696,22 +696,22 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="ar">يُظهر الأصل الإلهي للطاعون وطابعه العقابي.</p>
         <p className="fr">
-          Le pronom sujet (je) se dissimule derrière l&#34;adjectif possessif
+          Le pronom sujet (je) se dissimule derrière l&#39;adjectif possessif
           (mes).
         </p>
         <p className="ar">ضمير الفاعل (انا) يختبئ خلف صفة الملكية (ملكي).</p>
         <p className="fr">
-          L&#34;absence du &#34;je&#34; du père Paneloux découvre son rôle
-          modeste dans le déroulement de l&#34;action ; il présente un révolté
-          modéré, par charité, par l&#34;amour du prochain, il soulage les
+          L&#39;absence du &#39;je&#39; du père Paneloux découvre son rôle
+          modeste dans le déroulement de l&#39;action ; il présente un révolté
+          modéré, par charité, par l&#39;amour du prochain, il soulage les
           agonisants.
         </p>
         <p className="ar">
-          يكشف غياب &#34;أنا&#34; للأب بانلو عن دوره المتواضع في الكشف عن الحدث.
+          يكشف غياب &#39;أنا&#39; للأب بانلو عن دوره المتواضع في الكشف عن الحدث.
           يقدم متمردًا معتدلًا ، بدافع الصدقة ، وحب الجار ، ويعزي المحتضر.
         </p>
         <p className="fr">
-          Il aspire à l&#34;amour du prochain mais aussi la vengeance, vit un
+          Il aspire à l&#39;amour du prochain mais aussi la vengeance, vit un
           dilemme et préfère mourir que faire face à sa foi contradictoire en
           Dieu, la mort paraît sauver son âme et lui apporter le salut.
         </p>
@@ -730,11 +730,11 @@ const RomTwo = (props: Props) => {
 
         <p className="fr">
           Le narrateur hétérodiégétique se trouve dans le roman à la troisième
-          personne &#34;il-elle-ils-elles&#34;, ou dans les séquences racontées
+          personne &#39;il-elle-ils-elles&#39;, ou dans les séquences racontées
           à la troisième personne.
         </p>
         <p className="ar">
-          يوجد الراوي المغاير في الرواية في ضمير المخاطب &#34;هو-هي-هم-هم&#34; ،
+          يوجد الراوي المغاير في الرواية في ضمير المخاطب &#39;هو-هي-هم-هم&#39; ،
           أو في المتواليات التي تُروى بصيغة الغائب.
         </p>
         <p className="fr">
@@ -746,14 +746,14 @@ const RomTwo = (props: Props) => {
           الرومانسي.
         </p>
         <p className="fr">
-          Il connaît tout seul l&#34;arrière-plan des événements, le passé des
+          Il connaît tout seul l&#39;arrière-plan des événements, le passé des
           personnages, leur présent et leur futur.
         </p>
         <p className="ar">
           هو وحده يعرف خلفية الأحداث وماضي الشخصيات وحاضرها ومستقبلها.
         </p>
         <p className="fr">
-          La peste de Camus se caractérise par l&#34;alternance du narrateur
+          La peste de Camus se caractérise par l&#39;alternance du narrateur
           intradiégétique et le narrateur hétérodiégétique.
         </p>
         <p className="ar">
@@ -765,15 +765,15 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="ar">يأتي ليعلن شيئًا عن الأحداث والشخصيات.</p>
         <p className="fr">
-          Ce narrateur hétérodiégétique s&#34;identifie au personnage de
-          l&#34;auteur qui connaît tout dans son monde romanesque.
+          Ce narrateur hétérodiégétique s&#39;identifie au personnage de
+          l&#39;auteur qui connaît tout dans son monde romanesque.
         </p>
         <p className="ar">
           يتطابق هذا الراوي المغاير النمط مع شخصية المؤلف الذي يعرف كل شيء في
           عالمه الرومانسي.
         </p>
         <p className="fr">
-          On trouve son image dans les séquences racontées à l&#34;imparfait et
+          On trouve son image dans les séquences racontées à l&#39;imparfait et
           au passé simple.
         </p>
         <p className="ar">
@@ -781,7 +781,7 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           Le narrateur hétérodiégétique remplit la fonction de la
-          représentation, mais d&#34;une vision plus étendue et plus vaste que
+          représentation, mais d&#39;une vision plus étendue et plus vaste que
           celle du narrateur intradiégétique.
         </p>
         <p className="ar">
@@ -795,7 +795,7 @@ const RomTwo = (props: Props) => {
         <p className="fr">
           Pendant les années 1941 et 1942, une grande épidémie de typhus fait
           des ravages en Algérie et, par un hasard étrange, fournit à
-          l&#34;auteur un modèle bien réel.
+          l&#39;auteur un modèle bien réel.
         </p>
         <p className="ar">
           خلال عامي 1941 و 1942 ، تسبب وباء التيفوس في إحداث فوضى في الجزائر ،
@@ -816,7 +816,7 @@ const RomTwo = (props: Props) => {
           révolte».
         </p>
         <p className="ar">
-          بهذه الرواية يبدأ كامو مرحلة جديدة ، &#34;دورة التمرد&#34;.
+          بهذه الرواية يبدأ كامو مرحلة جديدة ، &#39;دورة التمرد&#39;.
         </p>
         <p className="fr">
           Le narrateur hétérodiégétique donne des détails et des informations
@@ -828,27 +828,27 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           Au moment de passer en revue ces personnages, une évidence saute aux
-          yeux ; les femmes sont absentes de La Peste : &#34;Peste : c&#34;est
-          un monde sans femmes et donc irrespirable.&#34;
+          yeux ; les femmes sont absentes de La Peste : &#39;Peste : c&#39;est
+          un monde sans femmes et donc irrespirable.&#39;
         </p>
         <p className="ar">
           في وقت مراجعة هذه الشخصيات ، يقفز الوضوح إلى العيون ؛ النساء غائبات عن
-          لا بيستي: &#34;بيستي: إنه عالم بلا نساء وبالتالي غير قابل للتنفس&#34;.
+          لا بيستي: &#39;بيستي: إنه عالم بلا نساء وبالتالي غير قابل للتنفس&#39;.
         </p>
         <p className="fr">
-          Il n&#34;oublie jamais que le thème principal du roman est la
+          Il n&#39;oublie jamais que le thème principal du roman est la
           séparation.
         </p>
         <p className="ar">
           لا ينسى أبدًا أن الموضوع الرئيسي للرواية هو الانفصال.
         </p>
         <p className="fr">
-          Les femmes n&#34;ont pas leur place dans une ville qui ressemble à une
+          Les femmes n&#39;ont pas leur place dans une ville qui ressemble à une
           forteresse assiégée.
         </p>
         <p className="ar">ليس للمرأة مكان في مدينة تبدو وكأنها قلعة محاصرة.</p>
         <p className="fr">
-          Il présente le personnage du docteur Rieux, en tant qu&#34;un
+          Il présente le personnage du docteur Rieux, en tant qu&#39;un
           narrateur intradiégétique et un personnage du récit.
         </p>
         <p className="ar">
@@ -859,7 +859,7 @@ const RomTwo = (props: Props) => {
           qui, à elles seules, justifient son existence.
         </p>
         <p className="ar">
-          يحاول الدكتور &#34;ريو&#34; إلحاق الهزيمة بها بمهاراته الطبية التي
+          يحاول الدكتور &#39;ريو&#39; إلحاق الهزيمة بها بمهاراته الطبية التي
           تبرر وجوده وحده.
         </p>
         <p className="fr">
@@ -885,21 +885,21 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           Il est un homme direct, sans détour, attaché à la vérité, qui refuse
-          l&#34;injustice et de faire des concessions (voir le premier dialogue
-          avec Rambert) : &#34;Je dois refouler mes sentiments pour bien faire
+          l&#39;injustice et de faire des concessions (voir le premier dialogue
+          avec Rambert) : &#39;Je dois refouler mes sentiments pour bien faire
           mon métier. Je suis réaliste et pragmatique.
         </p>
         <p className="ar">
           إنه رجل مباشر ، بدون انعطاف ، مرتبط بالحقيقة ، يرفض الظلم ويقدم
-          تنازلات (انظر الحوار الأول مع رامبرت): &#34;عليّ أن أكتم مشاعري لأقوم
+          تنازلات (انظر الحوار الأول مع رامبرت): &#39;عليّ أن أكتم مشاعري لأقوم
           بعملي بشكل جيد. أنا واقعي وعملي.
         </p>
         <p className="fr">
-          C&#34;est la voie que j&#34;ai choisie pour combattre le fléau.
+          C&#39;est la voie que j&#39;ai choisie pour combattre le fléau.
         </p>
         <p className="ar">هذا هو الطريق الذي اخترته لمحاربة هذه الآفة.</p>
         <p className="fr">
-          Néanmoins j&#34;avoue que je crains parfois que la peste et la
+          Néanmoins j&#39;avoue que je crains parfois que la peste et la
           monotonie de notre vie quotidienne ne changent plus jamais.
         </p>
         <p className="ar">
@@ -907,20 +907,20 @@ const RomTwo = (props: Props) => {
           حياتنا اليومية مرة أخرى.
         </p>
         <p className="fr">
-          Dans ces moments-là l&#34;indifférence s&#34;empare de moi.
+          Dans ces moments-là l&#39;indifférence s&#39;empare de moi.
         </p>
         <p className="ar">في هذه اللحظات تأسرني اللامبالاة.</p>
         <p className="fr">
-          Je suis tellement fatigué, tellement las, vous n&#34;en avez pas la
-          moindre idée, mon cher ami.&#34;
+          Je suis tellement fatigué, tellement las, vous n&#39;en avez pas la
+          moindre idée, mon cher ami.&#39;
         </p>
         <p className="ar">
-          أنا متعب جدًا ، مرهق جدًا ، ليس لديك أي فكرة ، يا صديقي العزيز &#34;.
+          أنا متعب جدًا ، مرهق جدًا ، ليس لديك أي فكرة ، يا صديقي العزيز &#39;.
         </p>
         <p className="fr">
           Il est compréhensif face aux besoins amoureux de Rambert, mais il
-          tient à ce qu&#34;on respecte les lois, qu&#34;on se soumette à
-          l&#34;intérêt général, qu&#34;on y soumet son bonheur individuel.
+          tient à ce qu&#39;on respecte les lois, qu&#39;on se soumette à
+          l&#39;intérêt général, qu&#39;on y soumet son bonheur individuel.
         </p>
         <p className="ar">
           إنه يتفهم احتياجات رامبرت الغرامية ، لكنه يصر على أننا نحترم القوانين
@@ -929,7 +929,7 @@ const RomTwo = (props: Props) => {
         <p className="fr">
           Il cherche à être en accord avec lui et le monde, il est fidèle à son
           métier et à ses convictions Il révèle ses faiblesses, craintes, bref
-          ses sentiments qu’il éprouve face à la peste lorsqu’il s&#34;imagine
+          ses sentiments qu’il éprouve face à la peste lorsqu’il s&#39;imagine
           la portée de cette maladie (de ce fléau), mais il refoule ses idées
           inquiétantes et envisage courageusement l’action, le combat du fléau.
         </p>
@@ -955,19 +955,19 @@ const RomTwo = (props: Props) => {
           بفضل الراوي غير المتجانسة ، لدينا تفاصيل عن ملامح وشخصية رامبرت:
         </p>
         <p className="fr">
-          &#34; Rieux reçut un jeune homme dont on lui dit qu&#34;il était
-          journaliste et qu&#34;il était déjà venu le matin. Il s&#34;appelait
+          &#39; Rieux reçut un jeune homme dont on lui dit qu&#39;il était
+          journaliste et qu&#39;il était déjà venu le matin. Il s&#39;appelait
           Raymond Rambert. Court de taille, les épaules épaisses, le visage
-          décidé, les yeux clairs et intelligents.&#34;
+          décidé, les yeux clairs et intelligents.&#39;
         </p>
         <p className="ar">
-          &#34;استقبل ريو شابًا قيل له إنه صحفي وقد جاء بالفعل في الصباح. كان
+          &#39;استقبل ريو شابًا قيل له إنه صحفي وقد جاء بالفعل في الصباح. كان
           اسمه ريموند رامبرت. قصير القامة ، أكتاف كثيفة ، وجه حازم ، عيون صافية
-          وذكية&#34;.
+          وذكية&#39;.
         </p>
         <p className="fr">
-          Il croit que l&#34;on ne peut pas être heureux dans le malheur.
-          L&#34;amour aide à surmonter tous les obstacles.
+          Il croit que l&#39;on ne peut pas être heureux dans le malheur.
+          L&#39;amour aide à surmonter tous les obstacles.
         </p>
         <p className="ar">
           إنه يعتقد أنه لا يمكن للمرء أن يكون سعيدًا في المحنة. الحب يساعد في
@@ -989,21 +989,21 @@ const RomTwo = (props: Props) => {
           إنه رجل متمرس. لذلك فهو يهتم قبل كل شيء بحبه ، لتحقيق سعادته الفردية.
         </p>
         <p className="fr">
-          La peste lui a fait comprendre qu&#34;on doit parfois retarder son
+          La peste lui a fait comprendre qu&#39;on doit parfois retarder son
           désir personnel.
         </p>
         <p className="ar">
           جعله الطاعون يفهم أنه يجب على المرء أحيانًا تأخير رغبته الشخصية.
         </p>
         <p className="fr">
-          Le bonheur personnel n&#34;est pas à réaliser dans la misère des
+          Le bonheur personnel n&#39;est pas à réaliser dans la misère des
           autres.
         </p>
         <p className="ar">لا يجب أن تتحقق السعادة الشخصية في بؤس الآخرين.</p>
         <p className="fr">
-          Donc il reste à Oran, s&#34;engage dans la lutte pour
-          l&#34;affranchissement de la peste afin de pouvoir rejoindre la femme
-          qu&#34;il aime.
+          Donc il reste à Oran, s&#39;engage dans la lutte pour
+          l&#39;affranchissement de la peste afin de pouvoir rejoindre la femme
+          qu&#39;il aime.
         </p>
         <p className="ar">
           لذلك يبقى في وهران ، ينخرط في النضال من أجل التحرر من الطاعون حتى
@@ -1022,12 +1022,12 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="ar">قام الراوي غير المتجانسة بعمل صورة مادية لتارو.</p>
         <p className="fr">
-          Il est &#34; un homme encore jeune, à la silhouette lourde, au visage
-          massif et creusé, barré d&#34;épais sourcils. &#34;
+          Il est &#39; un homme encore jeune, à la silhouette lourde, au visage
+          massif et creusé, barré d&#39;épais sourcils. &#39;
         </p>
         <p className="ar">
-          إنه &#34;رجل لا يزال شابًا ، ذو بنية ثقيلة ، ووجه ضخم غارق ، وحواجب
-          كثيفة&#34;.
+          إنه &#39;رجل لا يزال شابًا ، ذو بنية ثقيلة ، ووجه ضخم غارق ، وحواجب
+          كثيفة&#39;.
         </p>
         <p className="fr">
           Tarrou est le personnage central du roman car on le trouve dans les
@@ -1051,7 +1051,7 @@ const RomTwo = (props: Props) => {
         <p className="fr">Il a participé aux formations sanitaires.</p>
         <p className="ar">شارك في التدريب الصحي.</p>
         <p className="fr">
-          Il explique au docteur Rieux pourquoi il combat la peste. C&#34;est
+          Il explique au docteur Rieux pourquoi il combat la peste. C&#39;est
           pourquoi toute sa vie est une révolte contre la mort.
         </p>
         <p className="ar">
@@ -1059,11 +1059,11 @@ const RomTwo = (props: Props) => {
           تمرد على الموت.
         </p>
         <p className="fr">
-          Tarrou a fait maintes expériences dans la vie : il s&#34;est révolté
+          Tarrou a fait maintes expériences dans la vie : il s&#39;est révolté
           contre la condamnation à mort, il a combattu la société qui est basée
-          sur la condamnation à mort, il a rejoint d&#34;autres militants dans
+          sur la condamnation à mort, il a rejoint d&#39;autres militants dans
           leur lutte pour une société plus libérale et démocratique (la guerre
-          en Espagne), il s&#34;est complètement détourné de tout acte violent
+          en Espagne), il s&#39;est complètement détourné de tout acte violent
           et a fini par travailler dans les formations sanitaires.
         </p>
         <p className="ar">
@@ -1074,26 +1074,26 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           Ces expériences lui ont prouvé que chacun est porteur de la peste, que
-          l&#34;homme est donc coupable et responsable des fléaux :
+          l&#39;homme est donc coupable et responsable des fléaux :
         </p>
         <p className="ar">
           أثبتت له هذه التجارب أن كل شخص حامل للطاعون ، وبالتالي فإن الإنسان
           مذنب ومسؤول عن الأوبئة:
         </p>
         <p className="fr">
-          &#34; Nous ne pouvions pas faire un geste en ce monde sans risquer de
-          faire mourir (...) J&#34;ai perdu la paix (...) Et c&#34;est pourquoi
-          j&#34;ai décidé de refuser tout ce qui, de près ou de loin, pour de
-          bonnes ou de mauvaises raisons, fait mourir ou justifier qu&#34;on
-          fasse mourir.&#34;
+          &#39; Nous ne pouvions pas faire un geste en ce monde sans risquer de
+          faire mourir (...) J&#39;ai perdu la paix (...) Et c&#39;est pourquoi
+          j&#39;ai décidé de refuser tout ce qui, de près ou de loin, pour de
+          bonnes ou de mauvaises raisons, fait mourir ou justifier qu&#39;on
+          fasse mourir.&#39;
         </p>
         <p className="ar">
-          &#34;لم نتمكن من القيام بلفتة في هذا العالم دون المخاطرة بالموت (...)
+          &#39;لم نتمكن من القيام بلفتة في هذا العالم دون المخاطرة بالموت (...)
           لقد فقدت السلام (...) ولهذا قررت أن أرفض كل ما يقتل ، بالقرب أو من
-          بعيد ، لأسباب جيدة أو سيئة ، أو يبرر القتل &#34;.
+          بعيد ، لأسباب جيدة أو سيئة ، أو يبرر القتل &#39;.
         </p>
         <p className="fr">
-          L&#34;attitude de Tarrou retrace son itinéraire à la fois politique et
+          L&#39;attitude de Tarrou retrace son itinéraire à la fois politique et
           moral. Tarrou est prêt pour un combat solidaire.
         </p>
         <p className="ar">
@@ -1105,25 +1105,25 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="ar">يدعو إلى المجتمع والتضامن في مواجهة البلاء:</p>
         <p className="fr">
-          &#34; C&#34;est pourquoi encore cette épidémie ne m&#34;apprend rien,
-          sinon qu&#34;il faut la combattre à vos côtés.&#34;
+          &#39; C&#39;est pourquoi encore cette épidémie ne m&#39;apprend rien,
+          sinon qu&#39;il faut la combattre à vos côtés.&#39;
         </p>
         <p className="ar">
-          &#34;هذا هو السبب في أن هذا الوباء لا يزال يعلمني شيئًا ، باستثناء أنه
-          يجب محاربته بجانبك.&#34;
+          &#39;هذا هو السبب في أن هذا الوباء لا يزال يعلمني شيئًا ، باستثناء أنه
+          يجب محاربته بجانبك.&#39;
         </p>
         <p className="fr">
           Pour Tarrou, la peste est un mal inhérent à la nature humaine. Il
           considère donc le mal comme une fatalité ; le mal est inscrit en
-          l&#34;homme :&#34; Chacun le porte en soi, la peste (...) personne au
-          monde n&#34;en est indemne.&#34;
+          l&#39;homme :&#39; Chacun le porte en soi, la peste (...) personne au
+          monde n&#39;en est indemne.&#39;
         </p>
         <p className="ar">
           بالنسبة لتارو ، يعتبر الطاعون شرًا متأصلًا في الطبيعة البشرية. لذلك
-          يعتبر الشر بمثابة وفاة ؛ الشر مكتوب في الإنسان: &#34;كل شخص يحمله في
-          نفسه ، والطاعون (...) لا يخلو منه أحد في العالم&#34;.
+          يعتبر الشر بمثابة وفاة ؛ الشر مكتوب في الإنسان: &#39;كل شخص يحمله في
+          نفسه ، والطاعون (...) لا يخلو منه أحد في العالم&#39;.
         </p>
-        <p className="fr">Tarrou tente d&#34;échapper à cette fatalité.</p>
+        <p className="fr">Tarrou tente d&#39;échapper à cette fatalité.</p>
         <p className="ar">يحاول Tarrou الهروب من هذه الوفاة.</p>
         <p className="fr">
           Il ne cesse de lutter et exhorter les hommes au combat quotidien
@@ -1143,19 +1143,19 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           Le malade semble, en effet, perdre progressivement contact avec le
-          monde réel qui l&#34;entoure. Il ne reste plus que &#34;la
-          lumière&#34; de son regard pour &#34;éclairer&#34; son visage.
+          monde réel qui l&#39;entoure. Il ne reste plus que &#39;la
+          lumière&#39; de son regard pour &#39;éclairer&#39; son visage.
         </p>
         <p className="ar">
           في الواقع ، يبدو أن المريض يفقد تدريجياً الاتصال بالعالم الحقيقي من
-          حوله. لم يتبق سوى &#34;ضوء&#34; نظرته &#34;لإلقاء الضوء&#34; على وجهه.
+          حوله. لم يتبق سوى &#39;ضوء&#39; نظرته &#39;لإلقاء الضوء&#39; على وجهه.
         </p>
         <p className="fr">
-          L&#34;intensité même de cette lumière diminue &#34; plus pâle à chaque
-          fois&#34;, image symbolique de la vie qui lentement s&#34;amenuise.
+          L&#39;intensité même de cette lumière diminue &#39; plus pâle à chaque
+          fois&#39;, image symbolique de la vie qui lentement s&#39;amenuise.
         </p>
         <p className="ar">
-          تتناقص شدة هذا الضوء &#34;شاحبة في كل مرة&#34; ، وهي صورة رمزية للحياة
+          تتناقص شدة هذا الضوء &#39;شاحبة في كل مرة&#39; ، وهي صورة رمزية للحياة
           تتضاءل ببطء.
         </p>
 
@@ -1168,19 +1168,19 @@ const RomTwo = (props: Props) => {
 
         <p className="fr">
           Le narrateur hétérodiégétique peint un portrait physique de Joseph
-          Grand : Il est &#34;un employé.
+          Grand : Il est &#39;un employé.
         </p>
         <p className="ar">
-          يرسم الراوي غير المتجانس صورة مادية لجوزيف جراند: إنه &#34;موظف.
+          يرسم الراوي غير المتجانس صورة مادية لجوزيف جراند: إنه &#39;موظف.
         </p>
         <p className="fr">
-          C&#34;était un homme d&#34;une cinquantaine d&#34;années, à la
+          C&#39;était un homme d&#39;une cinquantaine d&#39;années, à la
           moustache jaune, long et voûté, les épaules étroites et les membres
-          maigres.&#34;
+          maigres.&#39;
         </p>
         <p className="ar">
           كان رجلاً في الخمسين من عمره تقريبًا ، له شارب أصفر ، طويل ومنحن ،
-          أكتاف ضيقة وأطراف رفيعة &#34;.
+          أكتاف ضيقة وأطراف رفيعة &#39;.
         </p>
         <p className="fr">
           Grand reste un personnage moyen, humain dans sa décision de lutter
@@ -1212,16 +1212,16 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="ar">يلاحظ الراوي مكانته وجسده:</p>
         <p className="fr">
-          &#34; C&#34;était le père Paneloux, un jésuite érudit et militant.
+          &#39; C&#39;était le père Paneloux, un jésuite érudit et militant.
           (...) Il était de taille moyenne, mais trapue. Il avait une voix
-          forte, passionnée, qui portait loin.&#34;
+          forte, passionnée, qui portait loin.&#39;
         </p>
         <p className="ar">
-          &#34;كان الأب بانلو ، اليسوعي المثقف والمتشدد. (...) كان متوسط القامة
-          ، لكنه ممتلئ الجسم. كان صوته قويًا وعاطفيًا كان بعيدًا.&#34;
+          &#39;كان الأب بانلو ، اليسوعي المثقف والمتشدد. (...) كان متوسط القامة
+          ، لكنه ممتلئ الجسم. كان صوته قويًا وعاطفيًا كان بعيدًا.&#39;
         </p>
         <p className="fr">
-          Il sait user d&#34;une technique oratoire pour capter l&#34;attention
+          Il sait user d&#39;une technique oratoire pour capter l&#39;attention
           de son publique.
         </p>
         <p className="ar">
@@ -1233,15 +1233,15 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="ar">يتخذ نبرة اتهامية لوصم الدفء الديني لأهل وهران:</p>
         <p className="fr">
-          &#34; Mes frères, vous êtes dans le malheur, mes frères, vous
-          l&#34;avez mérité.&#34;
+          &#39; Mes frères, vous êtes dans le malheur, mes frères, vous
+          l&#39;avez mérité.&#39;
         </p>
         <p className="ar">
-          &#34;إخواني ، أنتم في مصيبة ، يا إخواني ، لقد استحقتم ذلك&#34;.
+          &#39;إخواني ، أنتم في مصيبة ، يا إخواني ، لقد استحقتم ذلك&#39;.
         </p>
         <p className="fr">
           Devant cette punition collective, et devant la cruauté du ciel,
-          Paneloux a compris qu&#34;il n&#34;y a pas un Dieu bon et juste dont
+          Paneloux a compris qu&#39;il n&#39;y a pas un Dieu bon et juste dont
           on peut comprendre les actes.
         </p>
         <p className="ar">
@@ -1249,36 +1249,36 @@ const RomTwo = (props: Props) => {
           لا يوجد إله صالح وعادل يمكننا فهم أفعاله.
         </p>
         <p className="fr">
-          Il n&#34;est pas assez fort de vivre cette contradiction entre sa
-          conviction et la réalité, donc il s&#34;abandonne à la mort.
+          Il n&#39;est pas assez fort de vivre cette contradiction entre sa
+          conviction et la réalité, donc il s&#39;abandonne à la mort.
         </p>
         <p className="ar">
           إنه ليس قوياً بما يكفي ليعيش هذا التناقض بين قناعته والواقع ، فيترك
           نفسه حتى الموت.
         </p>
         <p className="fr">
-          Le narrateur hétérodiégétique remplit la fonction d&#34;évaluation ou
+          Le narrateur hétérodiégétique remplit la fonction d&#39;évaluation ou
           de commentaire.
         </p>
         <p className="ar">
           يقوم الراوي المغاير نباتي بوظيفة التقييم أو التعليق.
         </p>
         <p className="fr">
-          Son jugement se caractérise par l&#34;objectivité et par la vision
+          Son jugement se caractérise par l&#39;objectivité et par la vision
           illimitée :
         </p>
         <p className="ar">يتميز حكمه بالموضوعية والرؤية اللامحدودة:</p>
         <p className="fr">
-          &#34; Il y a eu dans le monde autant de pestes que de guerres. Et
+          &#39; Il y a eu dans le monde autant de pestes que de guerres. Et
           pourtant pestes et guerres trouvent les gens toujours aussi
-          dépourvus.&#34;
+          dépourvus.&#39;
         </p>
         <p className="ar">
-          &#34;كانت هناك العديد من الأوبئة في العالم بقدر ما كانت هناك حروب. ومع
-          ذلك فإن الأوبئة والحروب لا تزال تجد الناس عاجزين تمامًا.&#34;
+          &#39;كانت هناك العديد من الأوبئة في العالم بقدر ما كانت هناك حروب. ومع
+          ذلك فإن الأوبئة والحروب لا تزال تجد الناس عاجزين تمامًا.&#39;
         </p>
         <p className="fr">
-          Ce commentaire du narrateur hétérodiégétique qui s&#34;identifie à
+          Ce commentaire du narrateur hétérodiégétique qui s&#39;identifie à
           Camus, est plus proche de La fonction métanarrative par laquelle le
           narrateur se prononce dans le récit sur le récit lui-même.
         </p>
@@ -1287,28 +1287,28 @@ const RomTwo = (props: Props) => {
           وظيفة ما وراء السرد التي يقرر الراوي بواسطتها في القصة في القصة نفسها.
         </p>
         <p className="fr">
-          Cette fonction permet à l&#34;écrivain de déclarer quelque chose
+          Cette fonction permet à l&#39;écrivain de déclarer quelque chose
           concernant son oeuvre et son thème proposé.
         </p>
         <p className="ar">
           تتيح هذه الميزة للكاتب أن يعلن شيئًا عن عمله وموضوعه المقترح.
         </p>
         <p className="fr">
-          Ce commentaire montre la portée symbolique de l&#34;oeuvre.
+          Ce commentaire montre la portée symbolique de l&#39;oeuvre.
         </p>
         <p className="ar">يوضح هذا التعليق الأهمية الرمزية للعمل.</p>
         <p className="fr">
-          A l&#34;épidémie qui ronge les corps, correspond le fléau qui mine les
-          âmes. C&#34;est la peste intérieure, c&#34;est la tendance de
-          l&#34;homme à condamner ses semblables.
+          A l&#39;épidémie qui ronge les corps, correspond le fléau qui mine les
+          âmes. C&#39;est la peste intérieure, c&#39;est la tendance de
+          l&#39;homme à condamner ses semblables.
         </p>
         <p className="ar">
           إلى الوباء الذي يقضم الجسد ، يقابله البلاء الذي يقوض الروح. إنه
           الطاعون الداخلي ، إنه ميل الإنسان لإدانة زملائه.
         </p>
         <p className="fr">
-          La peste signifie tout ce qui empêche l&#34;homme de vivre et
-          d&#34;exercer, dans la liberté et la joie, son métier d&#34;homme.
+          La peste signifie tout ce qui empêche l&#39;homme de vivre et
+          d&#39;exercer, dans la liberté et la joie, son métier d&#39;homme.
         </p>
         <p className="ar">
           يعني الطاعون كل ما يمنع الإنسان من أن يعيش ويمارس مهنته كإنسان بحرية
@@ -1331,25 +1331,25 @@ const RomTwo = (props: Props) => {
           ومن ثم ، فإن تأريخ الطاعون هذا يمكن أن يستحضر وقائع الحرب.
         </p>
         <p className="fr">
-          C&#34;est ce qui explique l&#34;emploi d&#34;un réseau lexical du
-          combat et de la guerre &#34; perdus, morts, douleur, violence,
+          C&#39;est ce qui explique l&#39;emploi d&#39;un réseau lexical du
+          combat et de la guerre &#39; perdus, morts, douleur, violence,
           victoire, terreur, arme, mourir.
         </p>
         <p className="ar">
-          وهذا يفسر استخدام شبكة معجمية للقتال والحرب &#34;خسر ، ميت ، ألم ، عنف
+          وهذا يفسر استخدام شبكة معجمية للقتال والحرب &#39;خسر ، ميت ، ألم ، عنف
           ، نصر ، إرهاب ، سلاح ، موت.
         </p>
         <p className="fr">
-          L&#34;allégorie de la peste permet donc une transposition romanesque
+          L&#39;allégorie de la peste permet donc une transposition romanesque
           de la réalité.
         </p>
         <p className="ar">
           وبالتالي ، فإن قصة الطاعون تسمح بتبديل رومانسي للواقع.
         </p>
         <p className="fr">
-          L&#34;allusion à la période de la seconde guerre mondiale et à
-          l&#34;occupation allemande transparaît dans le texte à travers
-          l&#34;atmosphère de libération de la ville.
+          L&#39;allusion à la période de la seconde guerre mondiale et à
+          l&#39;occupation allemande transparaît dans le texte à travers
+          l&#39;atmosphère de libération de la ville.
         </p>
         <p className="ar">
           تتجلى الإشارة إلى فترة الحرب العالمية الثانية والاحتلال الألماني في
@@ -1357,7 +1357,7 @@ const RomTwo = (props: Props) => {
         </p>
         <p className="fr">
           Oran délivrée de la peste rappelle Paris libérée de la guerre et de
-          l&#34;occupant.
+          l&#39;occupant.
         </p>
         <p className="ar">
           تحرر وهران من وباء الطاعون تذكر باريس بتحررها من الحرب والمحتل.
@@ -1365,7 +1365,7 @@ const RomTwo = (props: Props) => {
         <p className="fr">
           Mais, la signification du récit dépasse encore cette lecture et tend à
           renvoyer le lecteur à toute guerre et à tout fléau menaçant
-          l&#34;humanité.
+          l&#39;humanité.
         </p>
         <p className="ar">
           لكن معنى القصة لا يزال يتجاوز هذه القراءة ويميل إلى إعادة القارئ إلى

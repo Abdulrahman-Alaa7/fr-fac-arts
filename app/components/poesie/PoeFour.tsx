@@ -28,7 +28,7 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="fr">
           Son père, Clément Eugène Grindel, est comptable lorsque naît son fils
-          mais ouvre peu après 1900 un bureau d&#34;agence immobilière.
+          mais ouvre peu après 1900 un bureau d&#39;agence immobilière.
         </p>
         <p className="ar">
           كان والده ، كليمان أوجين جريندل ، محاسبًا عندما ولد ابنه ، ولكن بعد
@@ -37,14 +37,14 @@ const PoeFour = (props: Props) => {
         <p className="fr">Sa mère, Jeanne-Marie Cousin, est couturière.</p>
         <p className="ar">والدته ، جين ماري كوزين ، خياطة.</p>
         <p className="fr">
-          Vers 1908 la famille s&#34;installe à Paris, rue Louis-Blanc.
+          Vers 1908 la famille s&#39;installe à Paris, rue Louis-Blanc.
         </p>
         <p className="ar">
           حوالي عام 1908 انتقلت العائلة إلى باريس ، شارع لويس بلانك.
         </p>
         <p className="fr">
-          Éluard fréquente l&#34;école communale de Saint-Denis, celle
-          d&#34;Aulnay-sous-Bois puis entre comme boursier à l&#34;école
+          Éluard fréquente l&#39;école communale de Saint-Denis, celle
+          d&#39;Aulnay-sous-Bois puis entre comme boursier à l&#39;école
           supérieure Colbert.
         </p>
         <p className="ar">
@@ -60,8 +60,8 @@ const PoeFour = (props: Props) => {
           هشة ، مع والدته ، في غليون ، سويسرا.
         </p>
         <p className="fr">
-          Une grave crise hémoptysique l&#34;oblige à prolonger son séjour et il
-          est alors contraint, à l&#34;âge de seize ans, d&#34;interrompre ses
+          Une grave crise hémoptysique l&#39;oblige à prolonger son séjour et il
+          est alors contraint, à l&#39;âge de seize ans, d&#39;interrompre ses
           études, car atteint de tuberculose.
         </p>
         <p className="ar">
@@ -69,7 +69,7 @@ const PoeFour = (props: Props) => {
           إلى الانقطاع عن دراسته بسبب إصابته بمرض السل.
         </p>
         <p className="fr">
-          Il reste hospitalisé jusqu&#34;en février 1914 au sanatorium de
+          Il reste hospitalisé jusqu&#39;en février 1914 au sanatorium de
           Clavadel, près de Davos2.
         </p>
         <p className="ar">
@@ -77,14 +77,14 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="fr">
           Il y rencontre une jeune russe de son âge en exil Helena Diakonova
-          qu&#34;il surnomme Gala.
+          qu&#39;il surnomme Gala.
         </p>
         <p className="ar">
           هناك يلتقي بشاب روسي من سنه في المنفى هيلينا دياكونوفا الذي يلقبه بـ
           Gala.
         </p>
         <p className="fr">
-          La forte personnalité, l&#34;impétuosité, l&#34;esprit de décision, la
+          La forte personnalité, l&#39;impétuosité, l&#39;esprit de décision, la
           grande culture de la jeune fille impressionnent le jeune Éluard qui
           prend avec elle son premier élan de poésie amoureuse, un élan qui se
           prolongera dans tous ses écrits.
@@ -98,7 +98,7 @@ const PoeFour = (props: Props) => {
           Elle dessine son profil, et il ajoute à la main : « Je suis votre
           disciple ».
         </p>
-        <p className="ar">ترسم ملفه الشخصي ويضيف بيده: &#34;أنا تلميذك&#34;.</p>
+        <p className="ar">ترسم ملفه الشخصي ويضيف بيده: &#39;أنا تلميذك&#39;.</p>
         <p className="fr">
           Ils lisent ensemble les poèmes de Gérard de Nerval, Charles
           Baudelaire, Lautréamont et Guillaume Apollinaire.
@@ -115,13 +115,13 @@ const PoeFour = (props: Props) => {
           بعد أن أصبح بالغًا في 14 ديسمبر 1916 ، تزوج غالا في 21 يناير التالي.
         </p>
         <p className="fr">
-          Le 11 mai 1918, il écrit à l&#34;un de ses amis : « J&#34;ai assisté à
-          l&#34;arrivée au monde, très simplement, d&#34;une belle petite fille,
+          Le 11 mai 1918, il écrit à l&#39;un de ses amis : « J&#39;ai assisté à
+          l&#39;arrivée au monde, très simplement, d&#39;une belle petite fille,
           Cécile, ma fille ».
         </p>
         <p className="ar">
-          في 11 مايو 1918 ، كتب إلى أحد أصدقائه: &#34;لقد شاهدت وصول فتاة صغيرة
-          جميلة ، سيسيل ، ابنتي إلى العالم&#34;.
+          في 11 مايو 1918 ، كتب إلى أحد أصدقائه: &#39;لقد شاهدت وصول فتاة صغيرة
+          جميلة ، سيسيل ، ابنتي إلى العالم&#39;.
         </p>
         <p className="fr">
           En 1918, lorsque la victoire est proclamée, Paul Éluard allie la
@@ -132,20 +132,20 @@ const PoeFour = (props: Props) => {
           للعالم:
         </p>
         <p className="fr">
-          c&#34;est le mouvement Dada qui va commencer cette remise en question,
-          dans l&#34;absurdité, la folie, la drôlerie et le non-sens.
+          c&#39;est le mouvement Dada qui va commencer cette remise en question,
+          dans l&#39;absurdité, la folie, la drôlerie et le non-sens.
         </p>
         <p className="ar">
           إن حركة الدادائية هي التي ستبدأ هذا التساؤل ، في عبثية وجنون وروح
           دعابة وهراء.
         </p>
         <p className="fr">
-          C&#34;est ensuite le surréalisme qui lui donnera son contenu.
+          C&#39;est ensuite le surréalisme qui lui donnera son contenu.
         </p>
         <p className="ar">ومن ثم فإن السريالية هي التي ستعطيها محتواها.</p>
         <p className="fr">
           Juste avant les surréalistes, les dadaïstes font scandale. Éluard, ami
-          intime d&#34;André Breton, est de toutes les manifestations dada.
+          intime d&#39;André Breton, est de toutes les manifestations dada.
         </p>
         <p className="ar">
           قبل السرياليين بقليل ، تسبب الدادائيون في فضيحة. يشارك إيلوار ، وهو
@@ -174,15 +174,15 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="ar">
           في عام 1920 ، كان إيلوار الوحيد من بين المجموعة التي أكدت أن اللغة
-          يمكن أن تكون &#34;هدفًا&#34; ، في حين اعتبرها الآخرون قبل كل شيء
-          &#34;وسيلة للتدمير&#34;.
+          يمكن أن تكون &#39;هدفًا&#39; ، في حين اعتبرها الآخرون قبل كل شيء
+          &#39;وسيلة للتدمير&#39;.
         </p>
         <p className="fr">
           En 1922, il promet à André Breton de « ruiner la littérature » et de
           ne plus rien produire.
         </p>
         <p className="ar">
-          في عام 1922 ، وعد أندريه بريتون بـ &#34;تدمير الأدب&#34; وعدم إنتاج
+          في عام 1922 ، وعد أندريه بريتون بـ &#39;تدمير الأدب&#39; وعدم إنتاج
           المزيد.
         </p>
         <p className="fr">
@@ -199,40 +199,40 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="ar">
           في اليوم التالي ، نُشرت مجموعة Dying not to die ، والتي تسلط الضوء على
-          &#34;لتبسيط كل شيء ، أهدي كتابي الأخير إلى André Breton&#34;.
+          &#39;لتبسيط كل شيء ، أهدي كتابي الأخير إلى André Breton&#39;.
         </p>
         <p className="fr">
-          Il est de retour à Paris au début du mois d&#34;octobre comme si de
-          rien n&#34;était. Breton en dit : « Alors il m&#34;a mis un petit mot,
-          qu&#34;il m&#34;attendait hier [au café].Cyrano, ni plus ni moins.
+          Il est de retour à Paris au début du mois d&#39;octobre comme si de
+          rien n&#39;était. Breton en dit : « Alors il m&#39;a mis un petit mot,
+          qu&#39;il m&#39;attendait hier [au café].Cyrano, ni plus ni moins.
         </p>
         <p className="ar">
           عاد إلى باريس في بداية أكتوبر وكأن شيئًا لم يحدث. يقول بريتون عن ذلك:
-          &#34;لقد كتب لي ملاحظة صغيرة ، أنه كان يتوقعني بالأمس [في المقهى].
+          &#39;لقد كتب لي ملاحظة صغيرة ، أنه كان يتوقعني بالأمس [في المقهى].
           سيرانو ، لا أكثر ولا أقل.
         </p>
         <p className="fr">
-          C&#34;est bien le même, à n&#34;en pas douter. Des vacances, quoi ! ».
+          C&#39;est bien le même, à n&#39;en pas douter. Des vacances, quoi ! ».
         </p>
-        <p className="ar">إنه نفس الشيء بلا شك. العطل ، ماذا! &#34;.</p>
+        <p className="ar">إنه نفس الشيء بلا شك. العطل ، ماذا! &#39;.</p>
         <p className="fr">
           Tout naturellement, il participe au pamphlet Un cadavre écrit par les
           surréalistes en réaction aux funérailles nationales faites à
-          l&#34;écrivain Anatole France.
+          l&#39;écrivain Anatole France.
         </p>
         <p className="ar">
           بطبيعة الحال ، شارك في كتيب جثة كتبها السرياليون كرد فعل على الجنازة
           الوطنية للكاتب أناتول فرانس.
         </p>
         <p className="fr">
-          Toute la vie d&#34;Éluard se confond à présent avec celle du mouvement
+          Toute la vie d&#39;Éluard se confond à présent avec celle du mouvement
           surréaliste.
         </p>
         <p className="ar">
           تندمج كل حياة إيلوار الآن مع حياة الحركة السريالية.
         </p>
         <p className="fr">
-          C&#34;est cependant lui qui échappe le mieux à la réputation de
+          C&#39;est cependant lui qui échappe le mieux à la réputation de
           violence et qui est le mieux accepté comme écrivain par la critique
           traditionnelle.
         </p>
@@ -247,7 +247,7 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="ar">
           ينحني إيلوار إلى القاعدة السريالية التي لخصتها جملة كونت دي
-          لوتريامونت: &#34;الشعر يجب أن يقوم به الجميع ، وليس شخص واحد&#34;.
+          لوتريامونت: &#39;الشعر يجب أن يقوم به الجميع ، وليس شخص واحد&#39;.
         </p>
         <p className="fr">
           Avec Benjamin Péret, il écrit 152 proverbes mis au goût du jour.
@@ -269,8 +269,8 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="ar">يبررون ذلك في النشرة الجماعية Au grand jour.</p>
         <p className="fr">
-          C&#34;est aussi l&#34;époque où il publie deux recueils essentiels :
-          Capitale de la douleur (1926) et L&#34;Amour la poésie (1929).
+          C&#39;est aussi l&#39;époque où il publie deux recueils essentiels :
+          Capitale de la douleur (1926) et L&#39;Amour la poésie (1929).
         </p>
         <p className="ar">
           كان ذلك أيضًا الوقت الذي نشر فيه مجموعتين أساسيتين: عاصمة الألم (1926)
@@ -284,7 +284,7 @@ const PoeFour = (props: Props) => {
           في عام 1928 ، عاد إلى المصحة مع غالا ، حيث أمضيا آخر شتاء معًا.
         </p>
         <p className="fr">
-          C&#34;est à ce moment que Gala, qui était ouvertement la maîtresse de
+          C&#39;est à ce moment que Gala, qui était ouvertement la maîtresse de
           Max Ernst rencontre Salvador Dali et quitte le poête pour le peintre.
         </p>
         <p className="ar">
@@ -292,19 +292,19 @@ const PoeFour = (props: Props) => {
           سلفادور دالي وتركت الشاعر للرسام.
         </p>
         <p className="fr">
-          Paul Eluard dit à Gala : « Ta chevelure glisse dans l&#34;abîme qui
+          Paul Eluard dit à Gala : « Ta chevelure glisse dans l&#39;abîme qui
           justifie notre éloignement. »
         </p>
         <p className="ar">
-          يقول بول إلوارد لغالا: &#34;شعرك ينزلق في الهاوية مما يبرر اغترابنا. »
+          يقول بول إلوارد لغالا: &#39;شعرك ينزلق في الهاوية مما يبرر اغترابنا. »
         </p>
         <p className="fr">
           Peu après, il fait la connaissance de Maria Benz, une artiste de
-          music-hall Franco-Allemande surnommée &#34;Nusch&#34;.
+          music-hall Franco-Allemande surnommée &#39;Nusch&#39;.
         </p>
         <p className="ar">
           بعد فترة وجيزة ، التقى ماريا بنز ، فنانة قاعة الموسيقى الفرنسية
-          الألمانية الملقبة &#34;نوش&#34;.
+          الألمانية الملقبة &#39;نوش&#39;.
         </p>
 
         <div className="heading">
@@ -315,13 +315,13 @@ const PoeFour = (props: Props) => {
         </div>
 
         <p className="fr">
-          En 1931, il s&#34;insurge contre l&#34;Exposition coloniale organisée
+          En 1931, il s&#39;insurge contre l&#39;Exposition coloniale organisée
           à Paris et signe un tract où est écrit : « Si vous voulez la paix,
           préparez la guerre civile ».
         </p>
         <p className="ar">
           في عام 1931 ، تمرد على المعرض الاستعماري الذي تم تنظيمه في باريس ووقع
-          منشورًا كتب فيه: &#34;إذا كنت تريد السلام ، فاستعد للحرب الأهلية&#34;.
+          منشورًا كتب فيه: &#39;إذا كنت تريد السلام ، فاستعد للحرب الأهلية&#39;.
         </p>
         <p className="fr">
           Exclu du parti communiste, il continue sa lutte pour la révolution,
@@ -332,7 +332,7 @@ const PoeFour = (props: Props) => {
           الثورات.
         </p>
         <p className="fr">
-          Ambassadeur du surréalisme, il voyage dans toute l&#34;Europe soumise
+          Ambassadeur du surréalisme, il voyage dans toute l&#39;Europe soumise
           à des régimes fascisants.
         </p>
         <p className="ar">
@@ -348,7 +348,7 @@ const PoeFour = (props: Props) => {
           الديمقراطيات الأوروبية النادرة ، حيث رحبت بهم العاصمة براغ بحرارة.
         </p>
         <p className="fr">
-          L&#34;organe du parti communiste hongrois les présente comme deux
+          L&#39;organe du parti communiste hongrois les présente comme deux
           poètes, les plus grands de la France contemporaine.
         </p>
         <p className="ar">
@@ -357,20 +357,20 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="fr">
           En Espagne en 1936, il apprend le soulèvement franquiste, contre
-          lequel il s&#34;insurge violemment.
+          lequel il s&#39;insurge violemment.
         </p>
         <p className="ar">
           في إسبانيا عام 1936 ، علم بانتفاضة فرانكو التي تمرد ضدها بعنف.
         </p>
         <p className="fr">
-          L&#34;année suivante, le bombardement de Guernica lui inspire le poème
+          L&#39;année suivante, le bombardement de Guernica lui inspire le poème
           Victoire de Guernica.
         </p>
         <p className="ar">
           في العام التالي ، ألهمه قصف غيرنيكا لكتابة قصيدة انتصار غيرنيكا.
         </p>
         <p className="fr">
-          Pendant ces deux années terribles pour l&#34;Espagne, Éluard et
+          Pendant ces deux années terribles pour l&#39;Espagne, Éluard et
           Picasso ne se quittent guère.
         </p>
         <p className="ar">
@@ -382,17 +382,17 @@ const PoeFour = (props: Props) => {
         <p className="fr">
           « Tu tiens la flamme entre tes doigts et tu peins comme un incendie ».
         </p>
-        <p className="ar">&#34;تحمل اللهب بين أصابعك وترسم كالنار&#34;.</p>
+        <p className="ar">&#39;تحمل اللهب بين أصابعك وترسم كالنار&#39;.</p>
         <p className="fr">
-          Mobilisé dès septembre 1939 dans l&#34;intendance, il s&#34;installe
-          avec Nusch à Paris après l&#34;armistice (22 juin 1940).
+          Mobilisé dès septembre 1939 dans l&#39;intendance, il s&#39;installe
+          avec Nusch à Paris après l&#39;armistice (22 juin 1940).
         </p>
         <p className="ar">
           حشد في سبتمبر 1939 في الوكالة ، وانتقل مع نوش إلى باريس بعد الهدنة (22
           يونيو 1940).
         </p>
         <p className="fr">
-          En janvier 1942, il s&#34;installe chez des amis, Christian et Yvonne
+          En janvier 1942, il s&#39;installe chez des amis, Christian et Yvonne
           Zervos, près de Vézelay à proximité des maquis.
         </p>
         <p className="ar">
@@ -405,7 +405,7 @@ const PoeFour = (props: Props) => {
         <p className="ar">طلب إيلوار إعادة تسجيله السري في الحزب الشيوعي.</p>
         <p className="fr">
           Les vingt et une strophes de Liberté sont parachutées par les avions
-          anglais à des milliers d&#34;exemplaires au-dessus de la France (ce
+          anglais à des milliers d&#39;exemplaires au-dessus de la France (ce
           poème est mis en musique par Francis Poulenc dès 1944).
         </p>
         <p className="ar">
@@ -416,20 +416,20 @@ const PoeFour = (props: Props) => {
         <p className="fr">
           En 1943, avec Pierre Seghers et Jean Lescure, il rassemble les textes
           de nombreux poètes résistants et publie un livre controversé5 intitulé
-          L&#34;Honneur des poètes.
+          L&#39;Honneur des poètes.
         </p>
         <p className="ar">
           في عام 1943 ، جمع مع بيير سيغيرز وجان ليسكيور نصوص العديد من الشعراء
-          المقاومين ونشر كتابًا مثيرًا للجدل 5 بعنوان L&#34;Honneur des poetes.
+          المقاومين ونشر كتابًا مثيرًا للجدل 5 بعنوان L&#39;Honneur des poetes.
         </p>
         <p className="fr">
-          Face à l&#34;oppression, les poètes chantent en choeur l&#34;espoir,
+          Face à l&#39;oppression, les poètes chantent en choeur l&#39;espoir,
           la liberté.
         </p>
         <p className="ar">في مواجهة الظلم يغني الشعراء بجوقة الأمل والحرية.</p>
         <p className="fr">
-          C&#34;est la première anthologie d&#34;Éluard où il montre sa volonté
-          d&#34;ouverture et de rassemblement.
+          C&#39;est la première anthologie d&#39;Éluard où il montre sa volonté
+          d&#39;ouverture et de rassemblement.
         </p>
         <p className="ar">
           هذه أول مختارات إيلوار التي يُظهر فيها رغبته في الانفتاح والوحدة.
@@ -446,7 +446,7 @@ const PoeFour = (props: Props) => {
         <p className="ar">مع Nusch ، يضاعف الجولات والمؤتمرات.</p>
         <p className="fr">
           Mais le 28 novembre 1946, pendant un séjour en Suisse, il reçoit un
-          appel téléphonique lui apprenant la mort subite de Nusch, d&#34;une
+          appel téléphonique lui apprenant la mort subite de Nusch, d&#39;une
           hémorragie cérébrale. Terrassé, il écrit :
         </p>
         <p className="ar">
@@ -462,20 +462,20 @@ const PoeFour = (props: Props) => {
           ها هو اليوم كثير جدًا: الوقت يفيض.
         </p>
         <p className="fr">
-          Mon amour si léger prend le poids d&#34;un supplice.
+          Mon amour si léger prend le poids d&#39;un supplice.
         </p>
         <p className="ar">حبي الخفيف يكتسب عبء التعذيب.</p>
         <p className="fr">
           Quelques amis intimes lui redonnent peu à peu le « dur désir de durer
-          » et il retrouve ses forces dans l&#34;amour de l&#34;humanité.
+          » et il retrouve ses forces dans l&#39;amour de l&#39;humanité.
         </p>
         <p className="ar">
-          أعاد له بعض الأصدقاء المقربين تدريجياً &#34;رغبته الشديدة في
-          البقاء&#34; واستعاد قوته في حب الإنسانية.
+          أعاد له بعض الأصدقاء المقربين تدريجياً &#39;رغبته الشديدة في
+          البقاء&#39; واستعاد قوته في حب الإنسانية.
         </p>
         <p className="fr">
-          Son recueil De l&#34;horizon d&#34;un homme à l&#34;horizon de tous
-          retrace ce cheminement qui mène Éluard de la souffrance à l&#34;espoir
+          Son recueil De l&#39;horizon d&#39;un homme à l&#39;horizon de tous
+          retrace ce cheminement qui mène Éluard de la souffrance à l&#39;espoir
           retrouvé.
         </p>
         <p className="ar">
@@ -483,19 +483,19 @@ const PoeFour = (props: Props) => {
           من المعاناة إلى استعادة الأمل.
         </p>
         <p className="fr">
-          La bataille de Grèce n&#34;est pas terminée, et son amour et sa lutte
+          La bataille de Grèce n&#39;est pas terminée, et son amour et sa lutte
           avec Nusch se poursuit au-delà de la mort :
         </p>
         <p className="ar">
           لم تنته معركة اليونان ، واستمر حبها وصراعها مع نوش إلى ما بعد الموت:
         </p>
         <p className="fr">
-          Il y a les maquis couleur de sang d&#34;Espagne <br />
+          Il y a les maquis couleur de sang d&#39;Espagne <br />
           Il y a les maquis couleur du ciel de Grèce <br />
-          Le pain le sang le ciel et le droit à l&#34;espoir <br />
-          Toi que j&#34;aime à jamais toi qui m&#34;as inventé <br />
+          Le pain le sang le ciel et le droit à l&#39;espoir <br />
+          Toi que j&#39;aime à jamais toi qui m&#39;as inventé <br />
           Tu chantais en rêvant le bonheur sur la terre <br />
-          Tu rêvais d&#34;être libre et je te continue <br />
+          Tu rêvais d&#39;être libre et je te continue <br />
         </p>
         <p className="ar">
           هناك مصارعو إسبانيا الملونون بالدم <br />
@@ -530,8 +530,8 @@ const PoeFour = (props: Props) => {
           أراغون.
         </p>
         <p className="fr">
-          L&#34;année suivante, au mois d&#34;avril, c&#34;est en tant que
-          délégué du Conseil mondial de la paix, qu&#34;Éluard participe aux
+          L&#39;année suivante, au mois d&#39;avril, c&#39;est en tant que
+          délégué du Conseil mondial de la paix, qu&#39;Éluard participe aux
           travaux du congrès qui se tient à la salle Pleyel à Paris.
         </p>
         <p className="ar">
@@ -580,7 +580,7 @@ const PoeFour = (props: Props) => {
         <p className="fr">
           En 1950, avec Dominique, il se rend à Prague pour une exposition
           consacrée à Vladimir Maïakovski, à Sofia en tant que délégué de
-          l&#34;association France-URSS, et à Moscou pour les cérémonies du 1er
+          l&#39;association France-URSS, et à Moscou pour les cérémonies du 1er
           Mai.
         </p>
         <p className="ar">
@@ -602,7 +602,7 @@ const PoeFour = (props: Props) => {
           Hugo.
         </p>
         <p className="ar">
-          في 25 فبراير ، يمثل &#34;الشعب الفرنسي&#34; في موسكو لإحياء الذكرى
+          في 25 فبراير ، يمثل &#39;الشعب الفرنسي&#39; في موسكو لإحياء الذكرى
           المائة والخمسين لميلاد فيكتور هوغو.
         </p>
         <p className="fr">
@@ -619,18 +619,18 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="ar">ستقام الجنازة يوم 22 نوفمبر في مقبرة بير لاشيز.</p>
         <p className="fr">
-          Le gouvernement refuse les funérailles nationales. L&#34;écrivain
+          Le gouvernement refuse les funérailles nationales. L&#39;écrivain
           Robert Sabatier déclare : « Ce jour-là, le monde entier était en deuil
           ».
         </p>
         <p className="ar">
-          الحكومة ترفض الجنازة الوطنية. يقول الكاتب روبرت ساباتير: &#34;في ذلك
-          اليوم ، كان العالم كله في حالة حداد&#34;.
+          الحكومة ترفض الجنازة الوطنية. يقول الكاتب روبرت ساباتير: &#39;في ذلك
+          اليوم ، كان العالم كله في حالة حداد&#39;.
         </p>
 
         <div className="heading">
           <h3>
-            L&#34;œuvre <br />
+            L&#39;œuvre <br />
             Exaltation de l’expérience amoureuse
             <span> العمل</span>
             <span> تمجيد تجربة الحب </span>
@@ -638,14 +638,14 @@ const PoeFour = (props: Props) => {
         </div>
 
         <p className="fr">
-          La poésie d&#34;Éluard est d&#34;abord une exaltation lucide du désir.
+          La poésie d&#39;Éluard est d&#39;abord une exaltation lucide du désir.
         </p>
         <p className="ar">
           إن شعر إيلوار هو أولاً وقبل كل شيء تمجيد واضح للرغبة.
         </p>
         <p className="fr">
           Capitale de la douleur (1926) montre que le monde de la maladie, de la
-          solitude et de la mort, est toujours menaçant, mais c&#34;est
+          solitude et de la mort, est toujours menaçant, mais c&#39;est
           justement aussi ce qui donne son prix au bonheur.
         </p>
         <p className="ar">
@@ -653,19 +653,19 @@ const PoeFour = (props: Props) => {
           دائمًا ، ولكنه أيضًا بالتحديد ما يعطي السعادة ثمنها.
         </p>
         <p className="fr">
-          L&#34;amour « égoïste » de L&#34;Amour la poésie peut également
-          s&#34;ouvrir et oeuvrer pour le bonheur de tous, comme en témoignent
+          L&#39;amour « égoïste » de L&#39;Amour la poésie peut également
+          s&#39;ouvrir et oeuvrer pour le bonheur de tous, comme en témoignent
           La Vie immédiate (1932) et Les Yeux fertiles (1936), célébrant son
           amour partagé avec Nusch.
         </p>
         <p className="ar">
-          يمكن للحب &#34;الأناني&#34; لشعر لامور أن ينفتح ويعمل من أجل سعادة
+          يمكن للحب &#39;الأناني&#39; لشعر لامور أن ينفتح ويعمل من أجل سعادة
           الجميع ، كما يتضح من الحياة الفورية (1932) والعيون الخصبة (1936) ،
           احتفالاً بحبه المشترك مع نوش.
         </p>
         <p className="fr">
-          La mort de Nusch est l&#34;occasion d&#34;un pari fou sur
-          l&#34;avenir, d&#34;un authentique recommencement.
+          La mort de Nusch est l&#39;occasion d&#39;un pari fou sur
+          l&#39;avenir, d&#39;un authentique recommencement.
         </p>
         <p className="ar">
           موت نوش هو مناسبة لرهان مجنون على المستقبل ، لبداية حقيقية.
@@ -692,7 +692,7 @@ const PoeFour = (props: Props) => {
           Jacques Gaucheron.
         </p>
         <p className="ar">
-          &#34;بالنسبة له ، الحب هو القوة الثورية الكبرى&#34; ، يؤكد جاك
+          &#39;بالنسبة له ، الحب هو القوة الثورية الكبرى&#39; ، يؤكد جاك
           غوشيرون.
         </p>
         <p className="fr">
@@ -720,7 +720,7 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="ar">
           الشرط الإجمالي الوحيد هو السعادة. <br />
-          يقول إيلوار: &#34;إن صنع العالم لا يتطلب كل شيء.
+          يقول إيلوار: &#39;إن صنع العالم لا يتطلب كل شيء.
         </p>
 
         <div className="heading">
@@ -731,15 +731,15 @@ const PoeFour = (props: Props) => {
         </div>
 
         <p className="fr">
-          Le langage de la poésie d&#34;Éluard dépasse l&#34;automatisme pur et
-          ne se contente pas de mettre au jour le minerai de l&#34;inconscient.
+          Le langage de la poésie d&#39;Éluard dépasse l&#39;automatisme pur et
+          ne se contente pas de mettre au jour le minerai de l&#39;inconscient.
         </p>
         <p className="ar">
           تتجاوز لغة شعر إيلوار الآلية البحتة ولا تكتفي بإلقاء الضوء على خام
           اللاوعي.
         </p>
         <p className="fr">
-          Il cherche à rendre évidentes des associations de mots, d&#34;images,
+          Il cherche à rendre évidentes des associations de mots, d&#39;images,
           qui pourtant échappent à tout lien logique.
         </p>
         <p className="ar">
@@ -747,25 +747,25 @@ const PoeFour = (props: Props) => {
           ارتباط منطقي.
         </p>
         <p className="fr">
-          Car si « la terre est bleue comme une orange » (L&#34;Amour, la
-          poésie), c&#34;est que, pour le poète, tout est possible à qui sait «
+          Car si « la terre est bleue comme une orange » (L&#39;Amour, la
+          poésie), c&#39;est que, pour le poète, tout est possible à qui sait «
           voir ».
         </p>
         <p className="ar">
-          لأنه إذا كانت &#34;الأرض زرقاء مثل البرتقالة&#34; (حب ، شعر) ، فذلك
-          لأنه بالنسبة للشاعر ، كل شيء ممكن لمن يعرف كيف &#34;يرى&#34;.
+          لأنه إذا كانت &#39;الأرض زرقاء مثل البرتقالة&#39; (حب ، شعر) ، فذلك
+          لأنه بالنسبة للشاعر ، كل شيء ممكن لمن يعرف كيف &#39;يرى&#39;.
         </p>
         <p className="fr">
-          C&#34;est en affranchissant la pensée de ses limites qu&#34;il
-          découvre l&#34;absolu poétique.
+          C&#39;est en affranchissant la pensée de ses limites qu&#39;il
+          découvre l&#39;absolu poétique.
         </p>
         <p className="ar">بتحرير الفكر من حدوده يكتشف المطلق الشعري.</p>
         <p className="fr">
-          Chez Éluard, la parole affirme : « J&#34;ai la beauté facile et
-          c&#34;est heureux » (Capitale de la douleur).
+          Chez Éluard, la parole affirme : « J&#39;ai la beauté facile et
+          c&#39;est heureux » (Capitale de la douleur).
         </p>
         <p className="ar">
-          في Éluard ، تؤكد الكلمة: &#34;لدي جمال سهل وهو سعيد&#34; (عاصمة
+          في Éluard ، تؤكد الكلمة: &#39;لدي جمال سهل وهو سعيد&#39; (عاصمة
           الألم).
         </p>
 
@@ -777,7 +777,7 @@ const PoeFour = (props: Props) => {
         </div>
 
         <p className="fr">
-          C&#34;est également en combattant la mort - et les atrocités liées à
+          C&#39;est également en combattant la mort - et les atrocités liées à
           la guerre - que le poète aspire à redonner un sens à la vie. On compte
           notamment, parmi ses écrits les plus engagés :
         </p>
@@ -816,8 +816,8 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="ar">
           بعد أن أصبحوا أصدقاء ، قاموا بنشر Les Maquis de France معًا. بالنسبة
-          له: &#34;دخل بول إيلوار التاريخ الأدبي عندما يتحدث عن الشعر المتواصل ،
-          فهو ليس كلمة فارغة&#34;.
+          له: &#39;دخل بول إيلوار التاريخ الأدبي عندما يتحدث عن الشعر المتواصل ،
+          فهو ليس كلمة فارغة&#39;.
         </p>
 
         <p className="fr">
@@ -876,12 +876,12 @@ const PoeFour = (props: Props) => {
           متواصل مثل شعره.
         </p>
         <p className="fr">
-          Lorsqu’il écrit l&#34;Immaculée Conception en 1930 avec André Breton,
+          Lorsqu’il écrit l&#39;Immaculée Conception en 1930 avec André Breton,
           il se bat contre les traitements que l’on inflige aux aliénés,
           l’aliénation étant l’une des pires représentations de l’exclusion.
         </p>
         <p className="ar">
-          عندما كتب &#34;الحبل بلا دنس&#34; في عام 1930 مع أندريه بريتون ، حارب
+          عندما كتب &#39;الحبل بلا دنس&#39; في عام 1930 مع أندريه بريتون ، حارب
           المعاملة التي تلحق بالمجنون ، فكان الاغتراب أحد أسوأ تمثيلات الإقصاء.
         </p>
         <p className="fr">
@@ -896,7 +896,7 @@ const PoeFour = (props: Props) => {
           instrument moral ».
         </p>
         <p className="ar">
-          لذلك يصبح الشعر &#34;فن لغة ، فن حياة ، أداة أخلاقية&#34;.
+          لذلك يصبح الشعر &#39;فن لغة ، فن حياة ، أداة أخلاقية&#39;.
         </p>
 
         <div className="heading">
@@ -937,7 +937,7 @@ const PoeFour = (props: Props) => {
           <span className="">1920</span>
         </p>
         <p className="fr">
-          • L&#34;amoureuse,<span className="green">1923</span>
+          • L&#39;amoureuse,<span className="green">1923</span>
         </p>
         <p className="ar">
           • الحبيب ، <span className="">1923</span>
@@ -952,7 +952,7 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="fr">
           • Capitale de la douleur, <span className="green">1926</span> <br />•
-          Les Dessous d&#34;une vie ou la Pyramide humaine,
+          Les Dessous d&#39;une vie ou la Pyramide humaine,
           <span className="green">1926</span> <br />• La Dame de carreau,{" "}
           <span className="green">1926</span>
         </p>
@@ -962,13 +962,13 @@ const PoeFour = (props: Props) => {
           1926
         </p>
         <p className="fr">
-          • L&#34;Amour la Poésie, <span className="green">1929</span>
+          • L&#39;Amour la Poésie, <span className="green">1929</span>
         </p>
         <p className="ar">• شعر الحب ، 1929</p>
         <p className="fr">
           • Ralentir travaux, <span className="green">1930</span>, en
           collaboration avec André Breton et René Char <br />• À toute épreuve,{" "}
-          <span className="green">1930</span> <br />• L&#34;immaculée
+          <span className="green">1930</span> <br />• L&#39;immaculée
           conception, <span className="green">1930</span>
         </p>
         <p className="ar">
@@ -995,7 +995,7 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="ar">• العيون الخصبة ، 1936</p>
         <p className="fr">
-          • Quelques-uns des mots qui jusqu&#34;ici m&#34;étaient
+          • Quelques-uns des mots qui jusqu&#39;ici m&#39;étaient
           mystérieusement interdits, GLM, <span className="green">1937</span>
         </p>
         <p className="ar">
@@ -1014,9 +1014,9 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="ar">• عرض ، 1939</p>
         <p className="fr">
-          • &#34;Le livre ouvert&#34; <span className="green">1941</span>
+          • &#39;Le livre ouvert&#39; <span className="green">1941</span>
         </p>
-        <p className="ar">• &#34;الكتاب المفتوح&#34; 1941</p>
+        <p className="ar">• &#39;الكتاب المفتوح&#39; 1941</p>
         <p className="fr">
           • Poésie et vérité <span className="green">1942</span> <br />•
           Liberté, <span className="green">1942</span>
@@ -1027,7 +1027,7 @@ const PoeFour = (props: Props) => {
         <p className="fr">
           • Avis, <span className="green">1943</span> <br />• Courage,
           <span className="green">1943</span> <br />• Les Sept poèmes
-          d&#34;amour en guerre, <span className="green">1943</span>
+          d&#39;amour en guerre, <span className="green">1943</span>
         </p>
         <p className="ar">
           • إشعار ، 1943 <br />
@@ -1044,7 +1044,7 @@ const PoeFour = (props: Props) => {
         <p className="fr">
           • Le Cinquième Poème visible, <span className="green">1947</span>{" "}
           <br />• Notre vie, <span className="green">1947</span> <br />• À
-          l&#34;intérieur de la vue, <span className="green">1947</span> <br />•
+          l&#39;intérieur de la vue, <span className="green">1947</span> <br />•
           La Courbe de tes yeux, <span className="green">1947</span> <br />• Le
           temps déborde, <span className="green">1947</span> <br />
         </p>
@@ -1091,9 +1091,9 @@ const PoeFour = (props: Props) => {
 
         <p className="fr">
           Jours de lenteur, jours de pluie, <br />
-          Jours de miroirs brisés et d&#34;aiguilles perdues, <br />
-          Jours de paupières closes à l&#34;horizon des mers, <br />
-          D&#34;heures toutes semblables, jours de captivité,
+          Jours de miroirs brisés et d&#39;aiguilles perdues, <br />
+          Jours de paupières closes à l&#39;horizon des mers, <br />
+          D&#39;heures toutes semblables, jours de captivité,
         </p>
         <p className="ar">
           أيام البطء، أيام المطر، <br />
@@ -1103,8 +1103,8 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="fr">
           Mon esprit qui brillait encore sur les feuilles <br />
-          Et les fleurs, mon esprit est nu comme l&#34;amour, <br />
-          L&#34;aurore qu&#34;il oublie lui fait baisser la tête <br />
+          Et les fleurs, mon esprit est nu comme l&#39;amour, <br />
+          L&#39;aurore qu&#39;il oublie lui fait baisser la tête <br />
           Et contempler son corps obéissant et vain.
         </p>
         <p className="ar">
@@ -1114,18 +1114,18 @@ const PoeFour = (props: Props) => {
           وتنظر إلى جسدها الذي يطيع وهو باطل.
         </p>
         <p className="fr">
-          Pourtant j&#34;ai vu les plus beaux yeux du monde, Dieux d&#34;argent
+          Pourtant j&#39;ai vu les plus beaux yeux du monde, Dieux d&#39;argent
           qui tenaient des saphirs dans leurs mains, De véritables dieux, des
-          oiseaux dans la terre Et dans l&#34;eau, je les ai vus.
+          oiseaux dans la terre Et dans l&#39;eau, je les ai vus.
         </p>
         <p className="ar">
           ومع ذلك، رأيت أجمل عيون في العالم، آلهة من الفضة تحمل الياقوت في
           أيديهم، آلهة حقيقية، وطيور في الأرض والماء، رأيتهم.
         </p>
         <p className="fr">
-          Leurs ailes sont les miennes, rien n&#34;existe <br />
+          Leurs ailes sont les miennes, rien n&#39;existe <br />
           Que leur vol qui secoue ma misère, <br />
-          Leur vol d&#34;étoile et de lumière (1) <br />
+          Leur vol d&#39;étoile et de lumière (1) <br />
           Leur vol de terre, leur vol de pierre <br />
           Sur les flots de leurs ailes.
         </p>
@@ -1146,11 +1146,11 @@ const PoeFour = (props: Props) => {
           </h3>
         </div>
 
-        <p className="fr">Une paronomase d&#34;yeux/dieux</p>
+        <p className="fr">Une paronomase d&#39;yeux/dieux</p>
         <p className="ar">بارونوماسيا العيون / الآلهة</p>
         <p className="fr">
           I- Les jours de tristesse <br />
-          II- L&#34;expérience passée <br />
+          II- L&#39;expérience passée <br />
           III- Une expérience de dieu-oiseau <br />
         </p>
         <p className="ar">
@@ -1175,7 +1175,7 @@ const PoeFour = (props: Props) => {
           الألم الجديدة.
         </p>
         <p className="fr">
-          Ce poème de dix huit vers libres, proches de l&#34;alexandrin, ponctué
+          Ce poème de dix huit vers libres, proches de l&#39;alexandrin, ponctué
           irrégulièrement de virgules a une structure originale.
         </p>
         <p className="ar">
@@ -1191,7 +1191,7 @@ const PoeFour = (props: Props) => {
           الهيكل.
         </p>
         <p className="fr">
-          Le poème de compose de trois quatrains et d&#34;un quintil final.
+          Le poème de compose de trois quatrains et d&#39;un quintil final.
         </p>
         <p className="ar">تتكون القصيدة من ثلاث رباعيات وخمسة أخيرة.</p>
 
@@ -1204,36 +1204,36 @@ const PoeFour = (props: Props) => {
 
         <p className="fr">
           Héléna Eluard plus connue sous le nom de Gala brisa tant le coeur
-          d&#34;Eluard que celui de Dali pour qui elle quitta notre poète.
+          d&#39;Eluard que celui de Dali pour qui elle quitta notre poète.
         </p>
         <p className="ar">
           Héléna Eluard المعروفة باسم Gala كسرت قلب Eluard وقلب Dali الذي تركت
           شاعرنا من أجله.
         </p>
         <p className="fr">
-          Désormais seul, son esprit est &#34;nu&#34; comme son amour.
+          Désormais seul, son esprit est &#39;nu&#39; comme son amour.
         </p>
-        <p className="ar">الآن وحده ، عقله &#34;عارية&#34; مثل حبه.</p>
+        <p className="ar">الآن وحده ، عقله &#39;عارية&#39; مثل حبه.</p>
         <p className="fr">
-          Les jours tous semblables sont d&#34;une infinie tristesse, le mot
-          &#34;jour&#34; revient cinq fois, ce sont d&#34;abord &#34;des jours
-          de lenteur&#34; des jours de grande fatigue physique et psychique,
-          puis &#34;des jours de pluie&#34;, d&#34;humeur maussade, &#34;des
-          jours de miroir brisés&#34;, jours de malheur, &#34;des jours
-          d&#34;aiguille perdues&#34;, des jours à chercher et à ne rien
-          trouver, &#34;des jours de paupières closes&#34; des jours de
-          dépression, d&#34;isolement, de fermeture sur soi-même.
+          Les jours tous semblables sont d&#39;une infinie tristesse, le mot
+          &#39;jour&#39; revient cinq fois, ce sont d&#39;abord &#39;des jours
+          de lenteur&#39; des jours de grande fatigue physique et psychique,
+          puis &#39;des jours de pluie&#39;, d&#39;humeur maussade, &#39;des
+          jours de miroir brisés&#39;, jours de malheur, &#39;des jours
+          d&#39;aiguille perdues&#39;, des jours à chercher et à ne rien
+          trouver, &#39;des jours de paupières closes&#39; des jours de
+          dépression, d&#39;isolement, de fermeture sur soi-même.
         </p>
         <p className="ar">
-          الأيام المتشابهة كلها حزينة بلا حدود ، تظهر كلمة &#34;يوم&#34; خمس
-          مرات ، أولاً هناك &#34;أيام من البطء&#34; ، أيام من التعب الجسدي
-          والعقلي الشديد ، ثم &#34;أيام المطر&#34; ، المزاج الكئيب ، &#34;أيام
-          المرآة المكسورة &#34;، أيام المحنة ،&#34; أيام الإبر الضائعة &#34;،
-          أيام البحث والعثور على أي شيء ،&#34; أيام الجفن المغلقة &#34;أيام
+          الأيام المتشابهة كلها حزينة بلا حدود ، تظهر كلمة &#39;يوم&#39; خمس
+          مرات ، أولاً هناك &#39;أيام من البطء&#39; ، أيام من التعب الجسدي
+          والعقلي الشديد ، ثم &#39;أيام المطر&#39; ، المزاج الكئيب ، &#39;أيام
+          المرآة المكسورة &#39;، أيام المحنة ،&#39; أيام الإبر الضائعة &#39;،
+          أيام البحث والعثور على أي شيء ،&#39; أيام الجفن المغلقة &#39;أيام
           الاكتئاب ، العزلة ، الإغلاق الذاتي.
         </p>
         <p className="fr">
-          Cette longue énumération de forme anaphorique est suivie d&#34;un
+          Cette longue énumération de forme anaphorique est suivie d&#39;un
           second quatrain plus régulier dans la longueur des vers, des
           hendécasyllabes et un alexandrin final.
         </p>
@@ -1242,27 +1242,27 @@ const PoeFour = (props: Props) => {
           طول الخطوط ، و hendecasyllables و alexandrine النهائي.
         </p>
         <p className="fr">
-          Il commence par une proposition principale, &#34;Mon esprit&#34; à
-          quoi est subordonnée une proposition relative à l&#34;imparfait
-          exprimant un passé récent dans lequel notre poète &#34;brillait
-          encore&#34;, éclairant et donnant vie à la nature.
+          Il commence par une proposition principale, &#39;Mon esprit&#39; à
+          quoi est subordonnée une proposition relative à l&#39;imparfait
+          exprimant un passé récent dans lequel notre poète &#39;brillait
+          encore&#39;, éclairant et donnant vie à la nature.
         </p>
         <p className="ar">
-          يبدأ بجملة رئيسية ، &#34;روحي&#34; تخضع لها فقرة تتعلق بالنقص الذي
-          يعبر عن الماضي القريب الذي &#34;لا يزال شاعرنا يلمع&#34; فيه ، ينير
+          يبدأ بجملة رئيسية ، &#39;روحي&#39; تخضع لها فقرة تتعلق بالنقص الذي
+          يعبر عن الماضي القريب الذي &#39;لا يزال شاعرنا يلمع&#39; فيه ، ينير
           الطبيعة ويعطي الحياة لها.
         </p>
         <p className="fr">
-          Désormais son étoile est bien pâle, il est &#34;nu&#34;, honteux,
+          Désormais son étoile est bien pâle, il est &#39;nu&#39;, honteux,
           atone.
         </p>
         <p className="ar">
-          من الآن فصاعدًا ، أصبح نجمه شاحبًا جدًا ، فهو &#34;عارٍ&#34; ، وخجل ،
+          من الآن فصاعدًا ، أصبح نجمه شاحبًا جدًا ، فهو &#39;عارٍ&#39; ، وخجل ،
           وبطيء.
         </p>
         <p className="fr">
-          L&#34;aurore, ce moment si particulier du jour à son réveil, qu&#34;il
-          affectionnait, ce moment d&#34;espoir, de projets, il en a honte
+          L&#39;aurore, ce moment si particulier du jour à son réveil, qu&#39;il
+          affectionnait, ce moment d&#39;espoir, de projets, il en a honte
           désormais, il plie la tête en signe de défaite.
         </p>
         <p className="ar">
@@ -1273,40 +1273,40 @@ const PoeFour = (props: Props) => {
 
         <div className="heading">
           <h3>
-            l&#34;expérience passée d&#34;un dieu-oiseau
+            l&#39;expérience passée d&#39;un dieu-oiseau
             <span> التجربة السابقة لإله طائر</span>
           </h3>
         </div>
 
         <p className="fr">
           Notre poète va puiser désormais dans ses souvenirs pour chercher les
-          raisons de son déclin, des oppositions qu&#34;il introduit par
-          l&#34;adverbe &#34;Pourtant&#34;.
+          raisons de son déclin, des oppositions qu&#39;il introduit par
+          l&#39;adverbe &#39;Pourtant&#39;.
         </p>
         <p className="ar">
           سوف يستفيد شاعرنا الآن من ذكرياته في البحث عن أسباب انحطاطه ،
-          والمعارضات التي يقدمها بالظرف &#34;بعد&#34;.
+          والمعارضات التي يقدمها بالظرف &#39;بعد&#39;.
         </p>
         <p className="fr">
-          Il se rappelle avoir vu &#34;les plus beaux yeux du monde&#34;, on
-          pense à ceux de sa compagne Gala, mais cela n&#34;explique pas le
-          titre &#34;leurs yeux toujours purs&#34;.
+          Il se rappelle avoir vu &#39;les plus beaux yeux du monde&#39;, on
+          pense à ceux de sa compagne Gala, mais cela n&#39;explique pas le
+          titre &#39;leurs yeux toujours purs&#39;.
         </p>
         <p className="ar">
-          يتذكر أنه رأى &#34;أجمل عيون في العالم&#34; ، نفكر في عيون رفيقه غالا
-          ، لكن هذا لا يفسر العنوان &#34;عيونهم دائمًا نقية&#34;.
+          يتذكر أنه رأى &#39;أجمل عيون في العالم&#39; ، نفكر في عيون رفيقه غالا
+          ، لكن هذا لا يفسر العنوان &#39;عيونهم دائمًا نقية&#39;.
         </p>
         <p className="fr">
-          Avec l&#34;adjectif possessif &#34;leurs&#34; au pluriel, ce ne
-          peuvent être ceux d&#34;une seule personne.
+          Avec l&#39;adjectif possessif &#39;leurs&#39; au pluriel, ce ne
+          peuvent être ceux d&#39;une seule personne.
         </p>
         <p className="ar">
-          مع صفة الملكية &#34;هم&#34; بصيغة الجمع ، لا يمكن أن تكون تلك الخاصة
+          مع صفة الملكية &#39;هم&#39; بصيغة الجمع ، لا يمكن أن تكون تلك الخاصة
           بشخص واحد.
         </p>
         <p className="fr">
-          En utilisant la paronomase, le glissement de sens d&#34;yeux sur dieu,
-          on comprend qu&#34;il s&#34;agit dans le titre des yeux des dieux, ils
+          En utilisant la paronomase, le glissement de sens d&#39;yeux sur dieu,
+          on comprend qu&#39;il s&#39;agit dans le titre des yeux des dieux, ils
           sont purs comme ceux des statues, sans larmes, les dieux jouissant de
           la félicité.
         </p>
@@ -1317,45 +1317,45 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="fr">
           Leur évocation se développe sur les trois vers suivants, ces dieux
-          sont des &#34;dieux d&#34;argent qui tenaient des saphirs dans leur
-          mains&#34;, les yeux sont assimilés à des saphirs, pierres précieuses
+          sont des &#39;dieux d&#39;argent qui tenaient des saphirs dans leur
+          mains&#39;, les yeux sont assimilés à des saphirs, pierres précieuses
           transparentes, le plus souvent bleues rappelant étrangement les yeux
           bleus de Gala.
         </p>
         <p className="ar">
-          يتطور استحضارهم في الابيات الثلاث التالية ، هذه الآلهة هي &#34;آلهة
-          فضية كانت تحمل الياقوت في أيديهم&#34; ، وتشبه العيون بالياقوت الأزرق ،
+          يتطور استحضارهم في الابيات الثلاث التالية ، هذه الآلهة هي &#39;آلهة
+          فضية كانت تحمل الياقوت في أيديهم&#39; ، وتشبه العيون بالياقوت الأزرق ،
           والأحجار الكريمة الشفافة ، وغالبًا ما تكون زرقاء ، تذكرنا بشكل غريب
           بعيون غالا الزرقاء.
         </p>
         <p className="fr">
           Ces dieux ont des pouvoirs extraordinaires, ce sont des dieux-oiseaux,
-          ils n’évoluent pas dans leur élément habituel, l&#34;air, qui serait
+          ils n’évoluent pas dans leur élément habituel, l&#39;air, qui serait
           trop banal, mais en triomphant des éléments les plus inhabituels, les
-          plus hostiles, &#34;dans la terre&#34;, &#34;dans l&#34;eau&#34;.
+          plus hostiles, &#39;dans la terre&#39;, &#39;dans l&#39;eau&#39;.
         </p>
         <p className="ar">
           هذه الآلهة لها قوى غير عادية ، هم آلهة الطيور ،إنها لا تتطور في عنصرها
           المعتاد ، الهواء ، الذي سيكون عاديًا للغاية ، ولكن من خلال الانتصار
-          على العناصر الأكثر غرابة والأكثر عدائية ، &#34;في الأرض&#34; ، &#34;في
-          الماء&#34;
+          على العناصر الأكثر غرابة والأكثر عدائية ، &#39;في الأرض&#39; ، &#39;في
+          الماء&#39;
         </p>
         <p className="fr">
-          Ces oiseaux rappellent étrangement les &#34;archipels sidéraux&#34; et
-          les &#34;millions d&#34;oiseaux d&#34;or&#34; du &#34;bateau ivre&#34;
+          Ces oiseaux rappellent étrangement les &#39;archipels sidéraux&#39; et
+          les &#39;millions d&#39;oiseaux d&#39;or&#39; du &#39;bateau ivre&#39;
           de Rimbaud.
         </p>
         <p className="ar">
-          تذكرنا هذه الطيور بشكل غريب بـ &#34;الأرخبيل النجمي&#34; و &#34;ملايين
-          الطيور الذهبية&#34; في &#34;قارب السكر&#34; لرامبو.
+          تذكرنا هذه الطيور بشكل غريب بـ &#39;الأرخبيل النجمي&#39; و &#39;ملايين
+          الطيور الذهبية&#39; في &#39;قارب السكر&#39; لرامبو.
         </p>
         <p className="fr">
-          En répétant &#34;je les ai vus&#34;, &#34;j&#34;ai vu&#34;, Eluard
+          En répétant &#39;je les ai vus&#39;, &#39;j&#39;ai vu&#39;, Eluard
           nous affirme toute la vérité de son expérience à la façon de la
           voyance de Rimbaud.
         </p>
         <p className="ar">
-          بتكرار &#34;رأيتهم&#34; ، &#34;رأيت&#34; ، يخبرنا إلوارد بالحقيقة
+          بتكرار &#39;رأيتهم&#39; ، &#39;رأيت&#39; ، يخبرنا إلوارد بالحقيقة
           الكاملة لتجربته بطريقة استبصار رامبو.
         </p>
 
@@ -1367,16 +1367,16 @@ const PoeFour = (props: Props) => {
         </div>
 
         <p className="fr">
-          Le paysage éluardien devait s&#34;ouvrir à l&#34;infini pour être un
-          espace de bonheur, infini dans lequel il devait devenir l&#34;égal
-          d&#34;un Dieu.
+          Le paysage éluardien devait s&#39;ouvrir à l&#39;infini pour être un
+          espace de bonheur, infini dans lequel il devait devenir l&#39;égal
+          d&#39;un Dieu.
         </p>
         <p className="ar">
           كان على المناظر الطبيعية في إلوارديان أن تنفتح على اللانهاية لتكون
           مساحة من السعادة اللامتناهية حيث كان عليه أن يصبح مساوياً للإله.
         </p>
         <p className="fr">
-          Dans cette ascension l&#34;imaginaire du poète est fondamentalement
+          Dans cette ascension l&#39;imaginaire du poète est fondamentalement
           aérien dans laquelle vent, brise, nuage, oiseau aile circulent
           généreusement.
         </p>
@@ -1389,46 +1389,46 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="ar">أجنحة هذه الآلهة الطيور له.</p>
         <p className="fr">
-          Notre poète veut affirmer qu&#34;il s&#34;identifie à ces
+          Notre poète veut affirmer qu&#39;il s&#39;identifie à ces
           dieux-oiseaux.
         </p>
         <p className="ar">
           شاعرنا يريد أن يؤكد أنه يتعاطف مع هذه الآلهة الطيور.
         </p>
         <p className="fr">
-          A la négativité de sa vie que &#34;rien n&#34;existe&#34;, que rien
-          n&#34;a d&#34;importance succède un rejet qui nous révèle la suite, la
-          seule préoccupation du poète, l&#34;obsession, se vouer entièrement et
-          seulement à ce &#34;vol&#34; qu&#34;il décrit entre les étoiles, en
-          pleine lumière, étendu sur la terre, solide, dur comme &#34;la
-          pierre&#34;.
+          A la négativité de sa vie que &#39;rien n&#39;existe&#39;, que rien
+          n&#39;a d&#39;importance succède un rejet qui nous révèle la suite, la
+          seule préoccupation du poète, l&#39;obsession, se vouer entièrement et
+          seulement à ce &#39;vol&#39; qu&#39;il décrit entre les étoiles, en
+          pleine lumière, étendu sur la terre, solide, dur comme &#39;la
+          pierre&#39;.
         </p>
         <p className="ar">
-          لسلبية حياته أن &#34;لا يوجد شيء&#34; ، وأن لا شيء مهم ، يخلفه الرفض
+          لسلبية حياته أن &#39;لا يوجد شيء&#39; ، وأن لا شيء مهم ، يخلفه الرفض
           الذي يكشف لنا ما يلي ، الهم الوحيد للشاعر ، الهوس ، أن يكرس نفسه
-          بالكامل وفقط لهذه &#34;السرقة&#34; التي يصف بين النجوم ، في ضوء كامل ،
-          ممدودة على الأرض ، صلبة ، صلبة مثل &#34;الحجر&#34;.
+          بالكامل وفقط لهذه &#39;السرقة&#39; التي يصف بين النجوم ، في ضوء كامل ،
+          ممدودة على الأرض ، صلبة ، صلبة مثل &#39;الحجر&#39;.
         </p>
         <p className="fr">
-          Ce vol est seul capable de secouer &#34;la misère&#34;, la
-          désespérance, le spleen qui l&#34;a envahi.
+          Ce vol est seul capable de secouer &#39;la misère&#39;, la
+          désespérance, le spleen qui l&#39;a envahi.
         </p>
         <p className="ar">
-          هذه السرقة وحدها قادرة على نفض &#34;البؤس&#34; واليأس والطحال الذي
+          هذه السرقة وحدها قادرة على نفض &#39;البؤس&#39; واليأس والطحال الذي
           اجتاحها.
         </p>
         <p className="fr">
           Sa pensée est désormais reliée à ce mince soutien de souvenirs fait
-          d&#34;images, même divinisées, &#34;d&#34;ailes&#34;, de
-          &#34;vol&#34;, d&#34;oiseaux&#34;, de &#34;dieux&#34;, des images de
-          mouvement, de vie&#34; qui compensent celles de son amour mort. Un
+          d&#39;images, même divinisées, &#39;d&#39;ailes&#39;, de
+          &#39;vol&#39;, d&#39;oiseaux&#39;, de &#39;dieux&#39;, des images de
+          mouvement, de vie&#39; qui compensent celles de son amour mort. Un
           bien fragile équilibre.
         </p>
         <p className="ar">
           من الآن فصاعدًا ، ارتبط تفكيره بهذا الدعم الضعيف للذكريات المصنوعة من
-          الصور ، وحتى المؤلَّفة ، لـ &#34;الأجنحة&#34; ، و &#34;الطيران&#34; ،
-          و &#34;الطيور&#34; ، و &#34;الآلهة&#34; ، وصور الحركة ، والحياة
-          &#34;التي تعوض موتاهم. حب. توازن دقيق للغاية.
+          الصور ، وحتى المؤلَّفة ، لـ &#39;الأجنحة&#39; ، و &#39;الطيران&#39; ،
+          و &#39;الطيور&#39; ، و &#39;الآلهة&#39; ، وصور الحركة ، والحياة
+          &#39;التي تعوض موتاهم. حب. توازن دقيق للغاية.
         </p>
         <div className="heading">
           <h3>
@@ -1439,18 +1439,18 @@ const PoeFour = (props: Props) => {
 
         <p className="fr">
           Avec le départ de Gala, Eluard se retrouve dans le même état
-          d&#34;esprit que Baudelaire.
+          d&#39;esprit que Baudelaire.
         </p>
         <p className="ar">
           مع رحيل حفل غالا ، وجد إلوارد نفسه في نفس الحالة الذهنية لبودلير.
         </p>
         <p className="fr">
           Tout rapproche Eluard et Baudelaire même les titres des recueils
-          &#34;Capitale de la Douleur&#34; et &#34;Fleurs du mal».
+          &#39;Capitale de la Douleur&#39; et &#39;Fleurs du mal».
         </p>
         <p className="ar">
-          كل شيء يجمع Eluard و Baudelaire معًا ، حتى عناوين مجموعتي &#34;Capital
-          of Pain&#34; و &#34;Flowers of Evil&#34;.
+          كل شيء يجمع Eluard و Baudelaire معًا ، حتى عناوين مجموعتي &#39;Capital
+          of Pain&#39; و &#39;Flowers of Evil&#39;.
         </p>
         <p className="fr">
           Gala était sa métropole, le coeur de son royaume, elle le fait
@@ -1458,7 +1458,7 @@ const PoeFour = (props: Props) => {
         </p>
         <p className="ar">كانت غالا مدينته ، قلب مملكته ، إنها تجعله يعاني.</p>
         <p className="fr">
-          Les cris de désarroi l&#34;emporte, et de très loin, sur les chants de
+          Les cris de désarroi l&#39;emporte, et de très loin, sur les chants de
           bonheur.
         </p>
         <p className="ar">

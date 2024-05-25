@@ -212,8 +212,8 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           نجل امرأة بولندية - Angélica de Kostrowitzky - ومجهول (على الأرجح ضابط
-          إيطالي ، Francesco Fulgi d&#34;Aspremont) ، عاش طفولته في إيطاليا ، ثم
-          ، بين 1886 و 1898 ، في Côte d &#34;Azure.
+          إيطالي ، Francesco Fulgi d&#39;Aspremont) ، عاش طفولته في إيطاليا ، ثم
+          ، بين 1886 و 1898 ، في Côte d &#39;Azure.
         </p>
         <p className="fr">En 1887, sa famille s’installe à Monaco.</p>
         <p className="ar">في عام 1887 ، انتقلت عائلته إلى موناكو.</p>
@@ -231,7 +231,7 @@ const PoeOne = (props: Props) => {
           Cette rencontre est remémorée dans le poème « Zone » (1912).
         </p>
         <p className="ar">
-          تم تذكر هذا الاجتماع في قصيدة &#34;المنطقة&#34; (1912).
+          تم تذكر هذا الاجتماع في قصيدة &#39;المنطقة&#39; (1912).
         </p>
         <p className="fr">
           En 1895, il poursuit ses études au collège Stanislas à Cannes.
@@ -291,7 +291,7 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           تتمتع أنجليكا بشخصية لا تقهر ومغامرة وتختار الذهاب إلى بلجيكا
-          &#34;لإعادة بناء صحتها المالية&#34;.
+          &#39;لإعادة بناء صحتها المالية&#39;.
         </p>
         <p className="fr">
           Pendant le séjour belge, Guillaume fréquente des réunions littéraires,
@@ -339,8 +339,8 @@ const PoeOne = (props: Props) => {
           déjà le thème de l’impossibilité d’un amour heureux ».
         </p>
         <p className="ar">
-          كتب لها بضعة قصائد &#34;عن شهوانية شابة يظهر فيها بالفعل موضوع استحالة
-          الحب السعيد&#34;.
+          كتب لها بضعة قصائد &#39;عن شهوانية شابة يظهر فيها بالفعل موضوع استحالة
+          الحب السعيد&#39;.
         </p>
         <p className="fr">
           Il éprouve peut-être sa première expérience d’échec d’amour.
@@ -354,8 +354,8 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           في الختام ، ستظل ذكريات ستافيلت حاضرة في ذاكرة الشاعر ، بقدر ما تتناول
-          بعض القصائد هذا الموضوع ، مثل &#34;ماري&#34; (كتبت عام 1912 ، ونشرت في
-          ألكولز) و &#34;لا بيتيت أوتو&#34; (مكتوبة باللغة 1914 ، نُشرت في
+          بعض القصائد هذا الموضوع ، مثل &#39;ماري&#39; (كتبت عام 1912 ، ونشرت في
+          ألكولز) و &#39;لا بيتيت أوتو&#39; (مكتوبة باللغة 1914 ، نُشرت في
           Calligrammes).
         </p>
         <div className="heading">
@@ -473,8 +473,8 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           في آب / أغسطس 1905 ، أخذ إجازة قصيرة في أمستردام بهولندا ، ستُذكر
-          ذكراها في قصيدة &#34;روزموند&#34; وفي عدد قليل من أبيات
-          &#34;المنطقة&#34;.
+          ذكراها في قصيدة &#39;روزموند&#39; وفي عدد قليل من أبيات
+          &#39;المنطقة&#39;.
         </p>
         <p className="fr">
           Le poète publie en outre des poèmes (« L’Émigrant de Landor Road », «
@@ -482,8 +482,8 @@ const PoeOne = (props: Props) => {
           Fort à la fin de 1905.
         </p>
         <p className="ar">
-          نشر الشاعر أيضًا قصائد (&#34;طريق L’Émigrant de Landor&#34; ،
-          &#34;Mai&#34; ، على سبيل المثال) في Vers et prose ، تم إنشاؤها بواسطة
+          نشر الشاعر أيضًا قصائد (&#39;طريق L’Émigrant de Landor&#39; ،
+          &#39;Mai&#39; ، على سبيل المثال) في Vers et prose ، تم إنشاؤها بواسطة
           André Salmon و Paul Fort في نهاية عام 1905.
         </p>
         <p className="fr">
@@ -524,8 +524,8 @@ const PoeOne = (props: Props) => {
           revendique « un lyrisme neuf et humaniste à la fois ».
         </p>
         <p className="ar">
-          ولذلك يؤكد أنه نسي &#34;لعبة الشعر القديمة&#34; ويدعي &#34;غنائية
-          جديدة وإنسانية في نفس الوقت&#34;.
+          ولذلك يؤكد أنه نسي &#39;لعبة الشعر القديمة&#39; ويدعي &#39;غنائية
+          جديدة وإنسانية في نفس الوقت&#39;.
         </p>
         <p className="fr">
           Dans cette nouvelle perspective, il renonce à publier une plaquette de
@@ -541,7 +541,7 @@ const PoeOne = (props: Props) => {
           France.
         </p>
         <p className="ar">
-          في مايو ، نشر &#34;La Chanson du Mal-Aimé&#34; في مجلة Mercure de
+          في مايو ، نشر &#39;La Chanson du Mal-Aimé&#39; في مجلة Mercure de
           France.
         </p>
         <p className="fr">
@@ -623,7 +623,7 @@ const PoeOne = (props: Props) => {
           de six fragments, qui figureront dans Alcools.
         </p>
         <p className="ar">
-          ولكن من هذه التجربة المؤلمة ، تنبثق &#34;À la Santé&#34; ، المكونة من
+          ولكن من هذه التجربة المؤلمة ، تنبثق &#39;À la Santé&#39; ، المكونة من
           ستة أجزاء ، والتي ستظهر في Alcools.
         </p>
         <p className="fr">
@@ -638,7 +638,7 @@ const PoeOne = (props: Props) => {
           مراجعة Les Soirées de Paris حيث سيكون Apollinaire مكانًا أساسيًا.
         </p>
         <p className="fr">Le poète y publie « Le Pont Mirabeau ».</p>
-        <p className="ar">الشاعر ينشر &#34;لو بونت ميرابو&#34; هناك.</p>
+        <p className="ar">الشاعر ينشر &#39;لو بونت ميرابو&#39; هناك.</p>
         <p className="fr">
           Un autre événement perturbe le poète : la relation entre Marie et lui
           se détériore, de plus en plus.
@@ -653,8 +653,8 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           أنهت علاقتهما في يونيو 1912. على الرغم من بعض العائدات ، سيكون
-          الانفصال نهائيًا. يشعر أبولينير &#34;مرة أخرى [...] مهجور ، محكوم عليه
-          بعدم الحب أبدًا&#34;.
+          الانفصال نهائيًا. يشعر أبولينير &#39;مرة أخرى [...] مهجور ، محكوم عليه
+          بعدم الحب أبدًا&#39;.
         </p>
         <p className="fr">
           Les activités littéraires deviennent de plus en plus fécondes, malgré
@@ -669,8 +669,8 @@ const PoeOne = (props: Props) => {
           Vendémiaire », celui-ci est son premier poème non ponctué.
         </p>
         <p className="ar">
-          في عام 1912 ، نشر أبولينير قصيدتين مهمتين: &#34;المنطقة&#34; و
-          &#34;Vendémiaire&#34; ، كانت هذه أول قصيدة غير مرقمة.
+          في عام 1912 ، نشر أبولينير قصيدتين مهمتين: &#39;المنطقة&#39; و
+          &#39;Vendémiaire&#39; ، كانت هذه أول قصيدة غير مرقمة.
         </p>
         <p className="fr">
           Dès lors il se prépare pour la publication de son volume de poèmes
@@ -710,7 +710,7 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           شاعر مندمج في الانعكاسات الأدبية والفنية ، نشر أيضًا ، في نفس العام ،
-          بيانه L&#34;Antitradition futuriste و Les Peintres cubistes: تأملات
+          بيانه L&#39;Antitradition futuriste و Les Peintres cubistes: تأملات
           جمالية دافع فيها عن أصالة هذا الاتجاه الجديد في الفن.
         </p>
         <div className="heading">
@@ -775,9 +775,9 @@ const PoeOne = (props: Props) => {
           possible, du mot qui n’est que lui-même ».
         </p>
         <p className="ar">
-          وفقًا لتريستان تسارا ، &#34;بدلاً من التلاعب بالكلمات ، المتعمد بشكل
+          وفقًا لتريستان تسارا ، &#39;بدلاً من التلاعب بالكلمات ، المتعمد بشكل
           معقول ، فضل أبولينير التعري الدقيق والحقيقي ، دون احتمال الاختلاط ،
-          للكلمة التي هي فقط نفسها&#34;.
+          للكلمة التي هي فقط نفسها&#39;.
         </p>
         <p className="fr">
           L’emploi pluriel de ce mot (alcools) est insolite, car ce « simple
@@ -786,8 +786,8 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           إن الاستخدام الجماعي لهذه الكلمة (كحول) أمر غير معتاد ، لأن هذه
-          &#34;الكلمة البسيطة ، المبتذلة والحارقة&#34; تمارس &#34;قوة إيحائية
-          أكثر ثراءً&#34;.
+          &#39;الكلمة البسيطة ، المبتذلة والحارقة&#39; تمارس &#39;قوة إيحائية
+          أكثر ثراءً&#39;.
         </p>
         <p className="fr">Puis, Apollinaire pense à réorganiser l’ensemble.</p>
         <p className="ar">ثم يفكر أبولينير في إعادة تنظيم الكل.</p>
@@ -796,23 +796,23 @@ const PoeOne = (props: Props) => {
           Chanson du Mal-Aimé ».
         </p>
         <p className="ar">
-          كان قد خطط أولاً أن تكون القصيدة الافتتاحية &#34;La Chanson du
-          Mal-Aimé&#34;.
+          كان قد خطط أولاً أن تكون القصيدة الافتتاحية &#39;La Chanson du
+          Mal-Aimé&#39;.
         </p>
         <p className="fr">
           Après celui-ci, il aurait placé les poèmes « Les Colchiques », «
           Palais », « Crépuscule » et « Le pont Mirabeau ».
         </p>
         <p className="ar">
-          بعد ذلك ، كان سيضع قصائد &#34;Les Colchiques&#34; و &#34;Palais&#34; و
-          &#34;Twilight&#34; و &#34;Le pont Mirabeau&#34;.
+          بعد ذلك ، كان سيضع قصائد &#39;Les Colchiques&#39; و &#39;Palais&#39; و
+          &#39;Twilight&#39; و &#39;Le pont Mirabeau&#39;.
         </p>
         <p className="fr">
           La version définitive d’Alcools s’ouvre cependant par « Zone » que le
           poète vient d’achever en 1912.
         </p>
         <p className="ar">
-          ومع ذلك ، تبدأ النسخة النهائية من Alcools بـ &#34;Zone&#34; الذي أكمله
+          ومع ذلك ، تبدأ النسخة النهائية من Alcools بـ &#39;Zone&#39; الذي أكمله
           الشاعر لتوه في عام 1912.
         </p>
         <p className="fr">
@@ -820,22 +820,22 @@ const PoeOne = (props: Props) => {
           Mirabeau » placé avant la « La Chanson du Mal-Aimé ».
         </p>
         <p className="ar">
-          وهكذا ، ستصبح &#34;Zone&#34; هي القصيدة الافتتاحية تليها &#34;Le Pont
-          Mirabeau&#34; التي توضع قبل &#34;La Chanson du Mal-Aimé&#34;.
+          وهكذا ، ستصبح &#39;Zone&#39; هي القصيدة الافتتاحية تليها &#39;Le Pont
+          Mirabeau&#39; التي توضع قبل &#39;La Chanson du Mal-Aimé&#39;.
         </p>
         <p className="fr">
           Ce dernier occupera la troisième position du recueil suivi de « Les
           Colchiques » et de « Palais ».
         </p>
         <p className="ar">
-          سيحتل هذا الأخير المركز الثالث في المجموعة يليه &#34;Les
-          Colchiques&#34; و &#34;Palais&#34;.
+          سيحتل هذا الأخير المركز الثالث في المجموعة يليه &#39;Les
+          Colchiques&#39; و &#39;Palais&#39;.
         </p>
         <p className="fr">
           « Chantre », un poème d’un unique vers précédera « Crépuscule ».
         </p>
         <p className="ar">
-          &#34;كانتور&#34; ، قصيدة من بيت واحد تسبق &#34;الشفق&#34;.
+          &#39;كانتور&#39; ، قصيدة من بيت واحد تسبق &#39;الشفق&#39;.
         </p>
         <p className="fr">
           De plus, le poète va y ajouter la plaquette Le Vent du Rhin qu’il a
@@ -851,7 +851,7 @@ const PoeOne = (props: Props) => {
           début et à la fin de l’oeuvre.
         </p>
         <p className="ar">
-          وُضعت تسع قصائد مؤرخة في منتصف المجموعة تحت عنوان &#34;وحيد القرن&#34;
+          وُضعت تسع قصائد مؤرخة في منتصف المجموعة تحت عنوان &#39;وحيد القرن&#39;
           بينما تناثرت قصائد وحيد القرن الأخرى في بداية العمل ونهايته.
         </p>
         <p className="fr">
@@ -859,8 +859,8 @@ const PoeOne = (props: Props) => {
           presque à la fin d’Alcools qui s’achève par « Vendémiaire ».
         </p>
         <p className="ar">
-          تمت إضافة مجموعة القصائد &#34;À la santé&#34; المكتوبة عام 1911
-          تقريبًا في نهاية Alcools التي تنتهي بـ &#34;Vendémiaire&#34;.
+          تمت إضافة مجموعة القصائد &#39;À la santé&#39; المكتوبة عام 1911
+          تقريبًا في نهاية Alcools التي تنتهي بـ &#39;Vendémiaire&#39;.
         </p>
         <p className="fr">
           Enfin, Alcools paraît aux éditions du Mercure de France à la fin
@@ -884,7 +884,7 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           وبالتالي ، تتضمن المجموعة تنوعًا شكليًا وموضوعيًا حيث تختلط القطع
-          الرمزية بقطع ترفض &#34;لعبة الشعر القديمة&#34;.
+          الرمزية بقطع ترفض &#39;لعبة الشعر القديمة&#39;.
         </p>
         <p className="fr">
           Les idées à propos de la poésie et de l’art qui s’imposent au début du
@@ -949,8 +949,8 @@ const PoeOne = (props: Props) => {
           d’André Salmon.
         </p>
         <p className="ar">
-          يعتقد دوهاميل أن Alcools ليس سوى &#34;متجر لبيع الأشياء المستعملة&#34;
-          له بعض القصائد &#34;قيمة&#34; ، لكنه ينتقد الإفراط في سعة الاطلاع
+          يعتقد دوهاميل أن Alcools ليس سوى &#39;متجر لبيع الأشياء المستعملة&#39;
+          له بعض القصائد &#39;قيمة&#39; ، لكنه ينتقد الإفراط في سعة الاطلاع
           والتقليد الذليل لفيرلين ومورياس ورامبو وهين والأصوات الأقرب مثل ماكس
           جاكوب. وأن أندريه سالمون.
         </p>
@@ -958,7 +958,7 @@ const PoeOne = (props: Props) => {
           Ainsi, Duhamel soutient que le poète n’écrit que « selon les livres ».
         </p>
         <p className="ar">
-          وهكذا ، يؤكد دوهاميل أن الشاعر لا يكتب إلا &#34;حسب الكتب&#34;.
+          وهكذا ، يؤكد دوهاميل أن الشاعر لا يكتب إلا &#39;حسب الكتب&#39;.
         </p>
         <p className="fr">
           Apollinaire a voulu envoyer ses témoins à Duhamel pour lui proposer un
@@ -975,7 +975,7 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           يعبر هنري غيون ، في La Nouvelle Revue française ، عن مقاومته لشعر
-          Alcools ، الذي يعتبره &#34;نهجًا مغامرًا&#34;.
+          Alcools ، الذي يعتبره &#39;نهجًا مغامرًا&#39;.
         </p>
         <p className="fr">
           Toutefois, il conclut que le recueil, composé de quelques poèmes «
@@ -983,8 +983,8 @@ const PoeOne = (props: Props) => {
           rare » à cette époque-là.
         </p>
         <p className="ar">
-          ومع ذلك ، يخلص إلى أن المجموعة ، المكونة من بضع قصائد &#34;جيدة أو
-          سيئة ، أصيلة أو ملفقة&#34; ، تقدم شيئًا &#34;نادرًا&#34; في ذلك الوقت.
+          ومع ذلك ، يخلص إلى أن المجموعة ، المكونة من بضع قصائد &#39;جيدة أو
+          سيئة ، أصيلة أو ملفقة&#39; ، تقدم شيئًا &#39;نادرًا&#39; في ذلك الوقت.
         </p>
         <p className="fr">
           Si en 1913, les réactions de la critique ont été négatives et
@@ -1105,7 +1105,7 @@ const PoeOne = (props: Props) => {
           que d’autres vers issus d’autres manuscrits.
         </p>
         <p className="ar">
-          للحصول على فكرة عن هذا ، في قصيدة &#34;La Chanson du Mal-Aimé&#34;
+          للحصول على فكرة عن هذا ، في قصيدة &#39;La Chanson du Mal-Aimé&#39;
           (1905) ، يخلط الشاعر بعض أبيات قليلة كتبها عام 1901 ، بالإضافة إلى
           أبيات أخرى من مخطوطات أخرى.
         </p>
@@ -1124,7 +1124,7 @@ const PoeOne = (props: Props) => {
         <p className="ar">
           عندما ظهر في مجموعة عام 1913 ، أضاف Apollinaire إهداءً ، وكتابًا
           كتابيًا وقطعة من ثلاثة مقاطع مقطعية مأخوذة من مخطوطة أخرى تسمى
-          &#34;Réponse des Cossaques zaporogues&#34;.
+          &#39;Réponse des Cossaques zaporogues&#39;.
         </p>
         <p className="fr">
           il y a un autre manuscrit de « La Chanson du Mal-Aimé », publié en
@@ -1132,8 +1132,8 @@ const PoeOne = (props: Props) => {
           chasse ».
         </p>
         <p className="ar">
-          هناك مخطوطة أخرى لـ &#34;La Chanson du Mal-Aimé&#34; ، نُشرت عام 1952
-          ، حيث نجد بيتين مستخدمين في &#34;Cors de Chasse&#34;.
+          هناك مخطوطة أخرى لـ &#39;La Chanson du Mal-Aimé&#39; ، نُشرت عام 1952
+          ، حيث نجد بيتين مستخدمين في &#39;Cors de Chasse&#39;.
         </p>
         <p className="fr">
           On ne peut pas pourtant affirmer que l’organisation d’Alcools reprend
@@ -1156,8 +1156,8 @@ const PoeOne = (props: Props) => {
           le « cubisme en littérature ».
         </p>
         <p className="ar">
-          يضيف هذا المعلق أيضًا أن أبولينير لديه تحفظات حول &#34;التكعيبية في
-          الأدب&#34;.
+          يضيف هذا المعلق أيضًا أن أبولينير لديه تحفظات حول &#39;التكعيبية في
+          الأدب&#39;.
         </p>
 
         <div className="heading">
@@ -1175,9 +1175,9 @@ const PoeOne = (props: Props) => {
           Clotilde ».
         </p>
         <p className="ar">
-          قصائد الكحوليات التي كتبت بين عامي 1898 و 1900 هي: &#34;الناسك&#34; ،
-          &#34;اللص&#34; ، &#34;ميرلين والمرأة العجوز&#34; ، &#34;الباب&#34; و
-          &#34;كلوتيلد&#34;.
+          قصائد الكحوليات التي كتبت بين عامي 1898 و 1900 هي: &#39;الناسك&#39; ،
+          &#39;اللص&#39; ، &#39;ميرلين والمرأة العجوز&#39; ، &#39;الباب&#39; و
+          &#39;كلوتيلد&#39;.
         </p>
         <p className="fr">
           Ils appartiennent aux compositions les plus anciennes et présentent
@@ -1200,7 +1200,7 @@ const PoeOne = (props: Props) => {
         <p className="fr">
           l’une correspond à la métrique régulière, au vocabulaire savant et
           obscur comme, par exemple, dans « L’Ermite », les substantifs «
-          l’hématidrose », c&#34;est-à-dire la sueur de sang et le « cucuphe »
+          l’hématidrose », c&#39;est-à-dire la sueur de sang et le « cucuphe »
           qui est un bonnet utilisé au Moyen Âge dans le fond duquel on plaçait
           des poudres médicamenteuses, ou dans « La Porte », le « pi-mus » un
           poisson légendaire chinois qui ne possède qu’un seul oeil et ne peut
@@ -1208,15 +1208,15 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           واحد يتوافق مع المقياس العادي ، إلى المفردات المكتسبة والغامضة ، على
-          سبيل المثال ، في &#34;الناسك&#34; ، الأسماء &#34;تعرق الدم&#34; ، أي
-          عرق الدم و &#34;القوقان&#34; وهو غطاء يستخدم في تم وضع مساحيق طبية في
-          قاع العصور الوسطى ، أو في &#34;La Porte&#34; ، &#34;pi-mus&#34; وهي
+          سبيل المثال ، في &#39;الناسك&#39; ، الأسماء &#39;تعرق الدم&#39; ، أي
+          عرق الدم و &#39;القوقان&#39; وهو غطاء يستخدم في تم وضع مساحيق طبية في
+          قاع العصور الوسطى ، أو في &#39;La Porte&#39; ، &#39;pi-mus&#39; وهي
           سمكة صينية أسطورية لها عين واحدة فقط ويمكن أن تعيش في زوجين فقط.
         </p>
         <p className="fr">
           De plus, il y a des emprunts à la botanique : des plantes herbacées
           comme « l’anémone » et « l’ancolie » (« Clotilde », les « clavaires »
-          qui sont une sorte de champignon, la « passiflore », c&#34;est-à-dire
+          qui sont une sorte de champignon, la « passiflore », c&#39;est-à-dire
           « la fleur de la Passion » qui est ainsi comparée à la représentation
           de la Passion du Christ, puisque ses fleurs et ses feuilles
           ressemblent à la couronne d’épines, aux clous et à la lance («
@@ -1224,11 +1224,11 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           بالإضافة إلى ذلك ، هناك اقتراضات من علم النبات: نباتات عشبية مثل
-          &#34;شقائق النعمان&#34; و &#34;كولومبين&#34; (&#34;كلوتيلد&#34; ،
-          &#34;كلافيريس&#34; وهي نوع من الفطر ، &#34;زهرة الآلام&#34; ، ج
-          &#34;أي&#34; زهرة الآلام &#34;التي تُقارن بالتالي بتمثيل آلام المسيح ،
-          إذ تشبه أزهارها وأوراقها تاج الأشواك والمسامير والحربة (&#34; الناسك
-          &#34;).
+          &#39;شقائق النعمان&#39; و &#39;كولومبين&#39; (&#39;كلوتيلد&#39; ،
+          &#39;كلافيريس&#39; وهي نوع من الفطر ، &#39;زهرة الآلام&#39; ، ج
+          &#39;أي&#39; زهرة الآلام &#39;التي تُقارن بالتالي بتمثيل آلام المسيح ،
+          إذ تشبه أزهارها وأوراقها تاج الأشواك والمسامير والحربة (&#39; الناسك
+          &#39;).
         </p>
         <p className="fr">
           On peut remarquer que le choix de mots rares et de sonorités vives de
@@ -1236,7 +1236,7 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           يمكن للمرء أن يلاحظ أن اختيار الكلمات النادرة والأصوات الحية للقافية
-          تعطي القصائد &#34;تركيز بارناسي معين&#34; ؛
+          تعطي القصائد &#39;تركيز بارناسي معين&#39; ؛
         </p>
         <p className="fr">
           on pourrait dire que ces traits parnassiens se trouvent parfois dans
@@ -1250,7 +1250,7 @@ const PoeOne = (props: Props) => {
           يمكن للمرء أن يقول أن هذه السمات البارناسية توجد أحيانًا في التمرين
           الإيقاعي وفي استحضار أسطورة تعطينا شعرًا وصفيًا ، ومع ذلك يجب التأكيد
           على أنه ، وفقًا لدوري ، فإن أبولينير معادي لبارناسوس ويتساءل عن مفهوم
-          هذا الشعر في &#34;اللص&#34; الذي يبجل العالم الوثني في عالم غارق في
+          هذا الشعر في &#39;اللص&#39; الذي يبجل العالم الوثني في عالم غارق في
           المسيحية.
         </p>
         <p className="fr">
@@ -1268,9 +1268,9 @@ const PoeOne = (props: Props) => {
           comme l’ermite, qui tente de devenir « saint » (« L’Ermite ».
         </p>
         <p className="ar">
-          يستحضر Apollinaire شخصيات صوفية مثل Merlin ، التي تراقب &#34;الحياة
-          والسبب الأبدي&#34; (&#34;Merlin والمرأة العجوز&#34;) ، ومثل الناسك
-          الذي يحاول أن يصبح &#34;مقدسًا&#34; (&#34;The Hermit&#34;).
+          يستحضر Apollinaire شخصيات صوفية مثل Merlin ، التي تراقب &#39;الحياة
+          والسبب الأبدي&#39; (&#39;Merlin والمرأة العجوز&#39;) ، ومثل الناسك
+          الذي يحاول أن يصبح &#39;مقدسًا&#39; (&#39;The Hermit&#39;).
         </p>
         <p className="fr">
           Mais, la noblesse de ton et l’évocation des images « sont un leurre »,
@@ -1278,8 +1278,8 @@ const PoeOne = (props: Props) => {
           burlesque », comme le signale Raymond.
         </p>
         <p className="ar">
-          لكن نبل النبرة واستحضار الصور &#34;خدعة&#34; ، لأن الخطاب الشعري يقدم
-          &#34;تنافرًا يحده هزليًا&#34; ، كما يشير ريموند.
+          لكن نبل النبرة واستحضار الصور &#39;خدعة&#39; ، لأن الخطاب الشعري يقدم
+          &#39;تنافرًا يحده هزليًا&#39; ، كما يشير ريموند.
         </p>
         <p className="fr">
           Par exemple, « L’Ermite » évoque l’image d’un moine qui médite en
@@ -1289,8 +1289,8 @@ const PoeOne = (props: Props) => {
           sont pas conquis.
         </p>
         <p className="ar">
-          على سبيل المثال ، &#34;الناسك&#34; يستحضر صورة الراهب الذي يتأمل برفقة
-          &#34;جمجمة مبيضة&#34; ، إنها كليشيهات. ومع ذلك ، بدلاً من إعادة تأكيد
+          على سبيل المثال ، &#39;الناسك&#39; يستحضر صورة الراهب الذي يتأمل برفقة
+          &#39;جمجمة مبيضة&#39; ، إنها كليشيهات. ومع ذلك ، بدلاً من إعادة تأكيد
           إيمانه بعد اجتياز جميع الاختبارات ، ينفصل ناسك الكحوليات عن الفضائل
           الدينية ، عندما لا يتم التغلب على أهدافه.
         </p>
@@ -1301,8 +1301,8 @@ const PoeOne = (props: Props) => {
           de ce poème.
         </p>
         <p className="ar">
-          وهو يدعي أنه &#34;ألمح إلى جميع القديسين المر&#34; ، ولكن &#34;لم يقدس
-          أحد خبز الفطير الحلو&#34;) ؛ سوف يغرق أخيرًا في الشهوة وفي البدعة التي
+          وهو يدعي أنه &#39;ألمح إلى جميع القديسين المر&#39; ، ولكن &#39;لم يقدس
+          أحد خبز الفطير الحلو&#39;) ؛ سوف يغرق أخيرًا في الشهوة وفي البدعة التي
           سأتحدث عنها في تحليل هذه القصيدة.
         </p>
         <p className="fr">
@@ -1311,7 +1311,7 @@ const PoeOne = (props: Props) => {
           femme et à l’amour.
         </p>
         <p className="ar">
-          في تحليل الدورة الرمزية نقترح قراءة قصيدتين ، &#34;الناسك&#34; ،
+          في تحليل الدورة الرمزية نقترح قراءة قصيدتين ، &#39;الناسك&#39; ،
           موضوعهما يلمح إلى المرأة والحب.
         </p>
 
@@ -1349,10 +1349,10 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           توجد إحداها في منتصف المجموعة ، وهي تسع قصائد تحت عنوان
-          &#34;Rhénanes&#34; (&#34;Nuit rhénane&#34; ، &#34;Mai&#34; ، &#34;La
-          synagoge&#34; ، &#34;Les cloches&#34; ، &#34;La Loreley&#34; ،
-          &#34;Schinderhannes&#34; ، &#34; رينيش الخريف &#34;،&#34; أشجار التنوب
-          &#34;،&#34; النساء &#34;).
+          &#39;Rhénanes&#39; (&#39;Nuit rhénane&#39; ، &#39;Mai&#39; ، &#39;La
+          synagoge&#39; ، &#39;Les cloches&#39; ، &#39;La Loreley&#39; ،
+          &#39;Schinderhannes&#39; ، &#39; رينيش الخريف &#39;،&#39; أشجار التنوب
+          &#39;،&#39; النساء &#39;).
         </p>
         <p className="fr">
           L’autre forme n’est pas une suite de poèmes, mais six poèmes
@@ -1362,9 +1362,9 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           الشكل الآخر ليس سلسلة من القصائد ، ولكن ست قصائد متناثرة في جميع أنحاء
-          المجموعة (&#34;Les Colchiques&#34; و &#34;Le Vent nocturne&#34; و
-          &#34;La Tzigane&#34; و &#34;Automne&#34; و &#34;Automne Maladie&#34; و
-          &#34;Marizibil&#34;) ، يظهر بعضها في البداية ، والبعض الآخر في نهاية
+          المجموعة (&#39;Les Colchiques&#39; و &#39;Le Vent nocturne&#39; و
+          &#39;La Tzigane&#39; و &#39;Automne&#39; و &#39;Automne Maladie&#39; و
+          &#39;Marizibil&#39;) ، يظهر بعضها في البداية ، والبعض الآخر في نهاية
           الكحوليات.
         </p>
         <p className="fr">
@@ -1372,7 +1372,7 @@ const PoeOne = (props: Props) => {
           une sorte de microstructure au sein du recueil.
         </p>
         <p className="ar">
-          وفقًا للعديد من المعلقين ، تظهر مجموعة &#34;Rhenish&#34; كنوع من
+          وفقًا للعديد من المعلقين ، تظهر مجموعة &#39;Rhenish&#39; كنوع من
           البنية المجهرية داخل المجموعة.
         </p>
         <p className="fr">
@@ -1405,7 +1405,7 @@ const PoeOne = (props: Props) => {
         <p className="fr">
           « La Loreley » qui a la thématique de l’amour et de la mort.
         </p>
-        <p className="ar">&#34;La Loreley&#34; التي تحمل موضوع الحب والموت.</p>
+        <p className="ar">&#39;La Loreley&#39; التي تحمل موضوع الحب والموت.</p>
         <p className="fr">
           Les huit autres poèmes sont groupés en couples qui reposent en même
           temps sur des combinaisons de thèmes communs et sur une symétrie
@@ -1422,8 +1422,8 @@ const PoeOne = (props: Props) => {
           faut résister.
         </p>
         <p className="ar">
-          بمعنى آخر ، تحاور القصيدة الأولى (&#34;Nuit rhénane&#34;) الأخيرة
-          (التاسعة ، &#34;Les femmes&#34;) ؛ كلاهما يعمل على موضوع الأغنية
+          بمعنى آخر ، تحاور القصيدة الأولى (&#39;Nuit rhénane&#39;) الأخيرة
+          (التاسعة ، &#39;Les femmes&#39;) ؛ كلاهما يعمل على موضوع الأغنية
           التعويذة (أغنية ملاح ، أغنية الريح) التي يجب مقاومتها.
         </p>
         <p className="fr">
@@ -1432,8 +1432,8 @@ const PoeOne = (props: Props) => {
           localisation : le bord du Rhin.
         </p>
         <p className="ar">
-          يسود موضوع الطبيعة في القصيدة الثانية والثامنة (&#34;مايو&#34; و
-          &#34;السابينز&#34;) التي تركز على مكان واحد: حافة نهر الراين.
+          يسود موضوع الطبيعة في القصيدة الثانية والثامنة (&#39;مايو&#39; و
+          &#39;السابينز&#39;) التي تركز على مكان واحد: حافة نهر الراين.
         </p>
         <p className="fr">
           Les poèmes de la troisième (« La Synagogue ») et de la septième
@@ -1441,8 +1441,8 @@ const PoeOne = (props: Props) => {
           judaïques et catholiques.
         </p>
         <p className="ar">
-          يسود موضوع الطبيعة في القصيدة الثانية والثامنة (&#34;مايو&#34; و
-          &#34;السابينز&#34;) التي تركز على مكان واحد: حافة نهر الراين.
+          يسود موضوع الطبيعة في القصيدة الثانية والثامنة (&#39;مايو&#39; و
+          &#39;السابينز&#39;) التي تركز على مكان واحد: حافة نهر الراين.
         </p>
         <p className="fr">
           Enfin, la dernière correspondance se trouve dans le quatrième et le
@@ -1451,7 +1451,7 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           أخيرًا ، تم العثور على المراسلات الأخيرة في القصائد الرابعة والسادسة
-          (&#34;The Bells&#34; و &#34;Schinderhannes&#34;) التي تصف الشخصيات
+          (&#39;The Bells&#39; و &#39;Schinderhannes&#39;) التي تصف الشخصيات
           الهامشية مثل الغجر وقطاع الطرق.
         </p>
         <p className="fr">
@@ -1461,7 +1461,7 @@ const PoeOne = (props: Props) => {
         </p>
         <p className="ar">
           تكرر القصائد الأخرى المنتشرة في Alcools بعض موضوعات مجموعة
-          &#34;Rhenish&#34; ، وقبل كل شيء تبرز أجواء المناظر الطبيعية في
+          &#39;Rhenish&#39; ، وقبل كل شيء تبرز أجواء المناظر الطبيعية في
           راينلاند.
         </p>
         <p className="fr">
@@ -1474,9 +1474,9 @@ const PoeOne = (props: Props) => {
           Colchiques »).
         </p>
         <p className="ar">
-          قررت أن أدرس قصيدتين من مجموعة &#34;Rhénanes&#34; (&#34;Mai&#34; و
-          &#34;La Loreley&#34;) وأخرى مبعثرة (&#34;La Tzigane&#34; و &#34;Les
-          Colchiques&#34;).
+          قررت أن أدرس قصيدتين من مجموعة &#39;Rhénanes&#39; (&#39;Mai&#39; و
+          &#39;La Loreley&#39;) وأخرى مبعثرة (&#39;La Tzigane&#39; و &#39;Les
+          Colchiques&#39;).
         </p>
         <p className="fr">
           Ils présentent l’avantage d’aborder la thématique de la femme et de

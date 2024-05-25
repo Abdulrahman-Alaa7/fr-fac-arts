@@ -119,6 +119,42 @@
   border-radius: 0px 0px 1px 10px !important;
 }
 
+.header-civi {
+  position: relative;
+  height: 450px;
+  background-image: url("../public/assets/civi.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0px 0px 1px 10px !important;
+}
+.header-Sty {
+  position: relative;
+  height: 450px;
+  background-image: url("../public/assets/orale-2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0px 0px 1px 10px !important;
+}
+
+.header-search {
+  position: relative;
+  height: 450px;
+  background-image: url("../public/assets/search.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0px 0px 1px 10px !important;
+}
+
+h3 span {
+  display: block;
+  direction: rtl;
+  line-height: 1.5;
+  font-size: 20px;
+}
+
 .overlay {
   position: absolute;
   width: 100%;

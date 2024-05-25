@@ -15,8 +15,8 @@ const ThirtySix = (props: Props) => {
           avec des yeux fixes et aigus.
         </p>
         <p className="ar">
-          &#34;مدام راكان، وقد شعرت بقرب النهاية، كانت تنظر إليهما بعيون حادة
-          وثاقبة.&#34;
+          &#39;مدام راكان، وقد شعرت بقرب النهاية، كانت تنظر إليهما بعيون حادة
+          وثاقبة.&#39;
         </p>
         <p className="fr">
           Et brusquement Thérèse et Laurent éclatèrent en sanglots. Une crise
@@ -25,9 +25,9 @@ const ThirtySix = (props: Props) => {
           d’attendri s’éveillait dans leur poitrine.
         </p>
         <p className="ar">
-          &#34;وفجأة، اندلعت ثيريز ولوران في البكاء. تحطمت معهما أزمة نهائية
+          &#39;وفجأة، اندلعت ثيريز ولوران في البكاء. تحطمت معهما أزمة نهائية
           وألقتهما في أحضان بعضهما البعض، ضعيفين مثل الأطفال. شعرا بأن شيئًا
-          حلوًا ومؤلفًا يستيقظ في صدورهما.&#34;
+          حلوًا ومؤلفًا يستيقظ في صدورهما.&#39;
         </p>
         <p className="fr">
           Ils pleurèrent, sans parler, songeant à la vie de boue qu’ils avaient
@@ -37,10 +37,10 @@ const ThirtySix = (props: Props) => {
           de néant.
         </p>
         <p className="ar">
-          &#34;وبكيا، دون الحديث، وهما يفكران في الحياة التي عاشاها في الوحل
+          &#39;وبكيا، دون الحديث، وهما يفكران في الحياة التي عاشاها في الوحل
           والتي سيعيشانها مرة أخرى، إذا كانا كافرين بما يكفي للعيش. ثم، عندما
           تذكرا الماضي، شعرا بالتعب والاشمئزاز من أنفسهما لدرجة كبيرة، حتى شعرا
-          بحاجة هائلة للراحة والعدم.&#34;
+          بحاجة هائلة للراحة والعدم.&#39;
         </p>
         <p className="fr">
           Ils échangèrent un dernier regard, un regard de remerciement, en face
@@ -50,18 +50,18 @@ const ThirtySix = (props: Props) => {
           consolation dans la mort.
         </p>
         <p className="ar">
-          &#34;تبادلا نظرة أخيرة، نظرة شاكرة، أمام السكين وزجاجة السم. أخذت
+          &#39;تبادلا نظرة أخيرة، نظرة شاكرة، أمام السكين وزجاجة السم. أخذت
           ثيريز الزجاجة وشربت منها حتى النصف، ثم ناولتها لوران الذي انهمر بقية
           السم في فمه. كان ذلك كالصاعقة. سقطا على بعضهما البعض، مصابين بالصعق،
-          ووجدا أخيرًا العزاء في الموت.&#34;
+          ووجدا أخيرًا العزاء في الموت.&#39;
         </p>
         <p className="fr">
           La bouche de la jeune femme alla heurter, sur le cou de son mari, la
           cicatrice qu’avaient laissée les dents de Camille.
         </p>
         <p className="ar">
-          &#34;ذهبت فم الشابة لتصطدم بندبة عنق زوجها الناتجة عن أسنان
-          كاميل.&#34;
+          &#39;ذهبت فم الشابة لتصطدم بندبة عنق زوجها الناتجة عن أسنان
+          كاميل.&#39;
         </p>
         <p className="fr">
           Les cadavres restèrent toute la nuit sur le carreau de la salle à
@@ -69,9 +69,9 @@ const ThirtySix = (props: Props) => {
           de la lampe que l’abat-jour jetait sur eux.
         </p>
         <p className="ar">
-          &#34;ظلت الجثث طوال الليل على الأرضية في غرفة الطعام، ملتوية ومنحنية،
+          &#39;ظلت الجثث طوال الليل على الأرضية في غرفة الطعام، ملتوية ومنحنية،
           مضاءة بالأنوار الصفراء التي تلقيها اللمبة عليها من خلال الغطاء العاكس
-          الذي ينثني عليهما.&#34;
+          الذي ينثني عليهما.&#39;
         </p>
         <p className="fr">
           Et, pendant près de douze heures, jusqu’au lendemain vers midi, madame
@@ -79,9 +79,9 @@ const ThirtySix = (props: Props) => {
           rassasier les yeux, les écrasant de regards lourds.
         </p>
         <p className="ar">
-          &#34;وخلال ما يقرب من اثنتي عشرة ساعة، حتى اليوم التالي حوالي الظهر،
+          &#39;وخلال ما يقرب من اثنتي عشرة ساعة، حتى اليوم التالي حوالي الظهر،
           نظرت مدام راكان، باردة وصامتة، إلى الجثتين عند قدميها، لا تستطيع إشباع
-          عينيها، وتحطمهما بنظرات ثقيلة.&#34;
+          عينيها، وتحطمهما بنظرات ثقيلة.&#39;
         </p>
       </div>
     </div>

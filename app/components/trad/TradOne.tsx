@@ -24,7 +24,7 @@ const TradOne = (props: Props) => {
         </div>
 
         <p className="fr">
-          En français, il n&#34;est pas toujours besoin d&#34;utiliser des
+          En français, il n&#39;est pas toujours besoin d&#39;utiliser des
           coordonnants car la juxtaposition peut assurer la continuité
           sémantique. Par contre, la langue arabe a toujours besoin de
           coordonner les propositions.
@@ -36,15 +36,15 @@ const TradOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          La phrase&#34; Ahmed a été malade, il est allé consulter un
-          médecin&#34; est correcte en français, mais on ne peut pas dire en
+          La phrase&#39; Ahmed a été malade, il est allé consulter un
+          médecin&#39; est correcte en français, mais on ne peut pas dire en
           arabe :
         </p>
         <p className="ar">
-          الجملة &#34;أحمد كان مريضاً ، ذهب لرؤية الطبيب&#34; صحيحة بالفرنسية ،
+          الجملة &#39;أحمد كان مريضاً ، ذهب لرؤية الطبيب&#39; صحيحة بالفرنسية ،
           لكن لا يمكنك أن تقول بالعربية :
           <br />
-          &#34;أحمد مريض، ذهب أحمد لزيارة الطبيب&#34;
+          &#39;أحمد مريض، ذهب أحمد لزيارة الطبيب&#39;
         </p>
 
         <p className="fr">
@@ -52,7 +52,7 @@ const TradOne = (props: Props) => {
           contexte, le rapport de conséquence).
         </p>
         <p className="ar">
-          يجب بالضرورة إضافة حرف &#34;ف&#34; الذي يعبر في هذا السياق عن العلاقة
+          يجب بالضرورة إضافة حرف &#39;ف&#39; الذي يعبر في هذا السياق عن العلاقة
           الناتجة.
         </p>
 
@@ -66,8 +66,8 @@ const TradOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          La ponctuation, si importante en français, n&#34;a pas le même statut
-          en arabe. D&#34;ailleurs les textes arabes très anciens n&#34;étaient
+          La ponctuation, si importante en français, n&#39;a pas le même statut
+          en arabe. D&#39;ailleurs les textes arabes très anciens n&#39;étaient
           même pas ponctués.
         </p>
         <p className="ar">
@@ -77,7 +77,7 @@ const TradOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          Pour vous donner une idée sur l&#34;importance de la ponctuation en
+          Pour vous donner une idée sur l&#39;importance de la ponctuation en
           français, comparez les énoncés suivants :
         </p>
         <p className="ar">
@@ -94,10 +94,10 @@ const TradOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          -Les professeurs disent: &#34;les élèves sont intelligents&#34;
+          -Les professeurs disent: &#39;les élèves sont intelligents&#39;
         </p>
         <p className="ar">
-          - يقول المعلمون:&#34; الطلاب أذكياء&#34;. <br />
+          - يقول المعلمون:&#39; الطلاب أذكياء&#39;. <br />
           يقول الأساتذة أن التلاميذ أذكياء
         </p>
 
@@ -108,9 +108,9 @@ const TradOne = (props: Props) => {
         </div>
 
         <p className="fr">
-          Notez bien que l&#34;utilisation des majuscules peut fonctionner comme
-          moyens d&#34;exprimer les jugements et la subjectivité de
-          l&#34;auteur.
+          Notez bien que l&#39;utilisation des majuscules peut fonctionner comme
+          moyens d&#39;exprimer les jugements et la subjectivité de
+          l&#39;auteur.
         </p>
         <p className="ar">
           يرجى ملاحظة أن استخدام الحروف الكبيرة يمكن أن يعمل كوسيلة للتعبير عن
@@ -120,12 +120,12 @@ const TradOne = (props: Props) => {
         <p className="fr">
           Par exemple, dans les expressions suivants: Beauté inaltérable » et je
           vois la Raison se manifester », la beauté et la raison sont présentées
-          d&#34;une manière allégorique comme des personnes ou comme des
+          d&#39;une manière allégorique comme des personnes ou comme des
           réalités supérieures.
         </p>
         <p className="ar">
-          على سبيل المثال، في التعبيرات التالية: &#34;الجمال الثابت&#34; و
-          &#34;أرى العقل يتجلى&#34;، يتم تقديم الجمال والعقل بطريقة استعارية
+          على سبيل المثال، في التعبيرات التالية: &#39;الجمال الثابت&#39; و
+          &#39;أرى العقل يتجلى&#39;، يتم تقديم الجمال والعقل بطريقة استعارية
           كأشخاص أو كواقعيات متفوقة.
         </p>
 
@@ -140,9 +140,9 @@ const TradOne = (props: Props) => {
 
         <p className="fr">
           Les majuscules peuvent aussi indiquer que ces noms doivent être
-          compris dans des acceptions particulières (c&#34;est-à-dire qu&#34;ils
+          compris dans des acceptions particulières (c&#39;est-à-dire qu&#39;ils
           sont employés dans des sens particuliers différents des significations
-          habituelles, vulgaires », qu&#34;on leur attribue communément).
+          habituelles, vulgaires », qu&#39;on leur attribue communément).
         </p>
         <p className="ar">
           يمكن أيضًا للاستخدام الحروف الكبيرة تشير إلى أن هذه الأسماء يجب فهمها
@@ -151,8 +151,8 @@ const TradOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          Il n&#34;est pas toujours aisé de traduire de tels effets de la
-          majuscule en arabe (pour la simple raison qu&#34;il n&#34;existe pas
+          Il n&#39;est pas toujours aisé de traduire de tels effets de la
+          majuscule en arabe (pour la simple raison qu&#39;il n&#39;existe pas
           de majuscule en arabe).
         </p>
         <p className="ar">
@@ -167,9 +167,9 @@ const TradOne = (props: Props) => {
         </div>
 
         <p className="fr">
-          Théoriquement, il y a deux &#34;temps&#34; principaux en langue arabe:
-          l&#34;inaccompli (المضارع ), qui équivaut au présent et au futur; et
-          l&#34;accompli (الماضي ), qui équivaut au passé.
+          Théoriquement, il y a deux &#39;temps&#39; principaux en langue arabe:
+          l&#39;inaccompli (المضارع ), qui équivaut au présent et au futur; et
+          l&#39;accompli (الماضي ), qui équivaut au passé.
         </p>
         <p className="ar">
           بشكل نظري، هناك زمنان رئيسيان في اللغة العربية: المضارع، الذي يعادل
@@ -177,11 +177,11 @@ const TradOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          Mais, en pratique, l&#34;arabe rend tous les temps verbaux français
-          (environ vingt temps grammaticaux) par l&#34;emploi des verbes
+          Mais, en pratique, l&#39;arabe rend tous les temps verbaux français
+          (environ vingt temps grammaticaux) par l&#39;emploi des verbes
           défectifs (كان وأخواتها ) et des particules ajoutés aux deux formules
-          temporelles : (قد – لقد – س – سوف) de base (l&#34;inaccompli et
-          l&#34;accompli).
+          temporelles : (قد – لقد – س – سوف) de base (l&#39;inaccompli et
+          l&#39;accompli).
         </p>
         <p className="ar">
           ولكن ، من الناحية العملية ، تجعل اللغة العربية جميع الأزمنة الفرنسية
@@ -191,7 +191,7 @@ const TradOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          Ainsi, l&#34;inaccompli et (ليس - لا – ما)placé après les particules
+          Ainsi, l&#39;inaccompli et (ليس - لا – ما)placé après les particules
           de négations ( لام الابتداء للتأكيد) après la particule de
           renforcement exprime le sens du présent.
         </p>
@@ -201,7 +201,7 @@ const TradOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          Il a le sens du futur après les adverbes d&#34;interrogation( أ - هل
+          Il a le sens du futur après les adverbes d&#39;interrogation( أ - هل
           ), la particule négative (لن ), les particules ( س - سوف ) la
           particule de doute (قد ) et toute autre expression marquant le futur.
         </p>
@@ -212,8 +212,8 @@ const TradOne = (props: Props) => {
         </p>
 
         <p className="fr">
-          L&#34;accompli a le sens du passé simple ou du passé composé après la
-          particule négative (لم ), et a le sens de l&#34;imparfait après le
+          L&#39;accompli a le sens du passé simple ou du passé composé après la
+          particule négative (لم ), et a le sens de l&#39;imparfait après le
           verbe défectif (كان ).
         </p>
         <p className="ar">
@@ -233,7 +233,7 @@ const TradOne = (props: Props) => {
         <p className="ar">تطبيق الطريقة التحليلية على الترجمة:</p>
 
         <p className="fr">
-          1-L&#34;analyse lecture attentive et relevé des traits spécifiques au
+          1-L&#39;analyse lecture attentive et relevé des traits spécifiques au
           texte.
         </p>
         <p className="ar">

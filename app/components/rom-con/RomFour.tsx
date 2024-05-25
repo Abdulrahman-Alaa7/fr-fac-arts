@@ -9,8 +9,8 @@ const RomFour = (props: Props) => {
         <div className="heading">
           <h3>
             Quatrième chapiter <br />
-            L&#34;espace Romanesque <br />
-            La nature de l&#34;espace dans La peste
+            L&#39;espace Romanesque <br />
+            La nature de l&#39;espace dans La peste
             <span> الفصل الرابع</span>
             <span> الفضاء الرومانسي</span>
             <span> طبيعة الفضاء في الطاعون</span>
@@ -18,12 +18,12 @@ const RomFour = (props: Props) => {
         </div>
 
         <p className="fr">
-          Certainement, il n&#34;y a pas de récit sans événements qui se
+          Certainement, il n&#39;y a pas de récit sans événements qui se
           déroulent dans un lieu quelconque.
         </p>
         <p className="ar">بالتأكيد ، لا توجد قصة بدون أحداث تقع في مكان ما.</p>
         <p className="fr">
-          Décrire l&#34;espace, c&#34;est anticiper sur l&#34;histoire qui va
+          Décrire l&#39;espace, c&#39;est anticiper sur l&#39;histoire qui va
           suivre, savoir le milieu social des personnages, refléter leur niveau
           socio- culturel.
         </p>
@@ -32,7 +32,7 @@ const RomFour = (props: Props) => {
           للشخصيات ، وتعكس مستواها الاجتماعي والثقافي.
         </p>
         <p className="fr">
-          Dans La peste, on met l&#34;accent sur la relation des personnages à
+          Dans La peste, on met l&#39;accent sur la relation des personnages à
           leurs milieux.
         </p>
         <p className="ar">
@@ -43,8 +43,8 @@ const RomFour = (props: Props) => {
         </p>
         <p className="ar">هذا الارتباط ، بدوره ، يؤثر على مسار الأحداث.</p>
         <p className="fr">
-          Pour cela, on distingue entre les aspects ; l&#34;espace réel qui met
-          en évidence la description matérielle du cadre de l&#34;action :
+          Pour cela, on distingue entre les aspects ; l&#39;espace réel qui met
+          en évidence la description matérielle du cadre de l&#39;action :
         </p>
         <p className="ar">
           لهذا ، نميز بين الجوانب ؛ المساحة الحقيقية التي تسلط الضوء على الوصف
@@ -52,8 +52,8 @@ const RomFour = (props: Props) => {
         </p>
         <p className="fr">
           espace fermé, ouvert, unique ou multiple, et le lien entre
-          l&#34;espace et l&#34;histoire racontée à travers les déplacements des
-          protagonistes qui permettent à l&#34;oeuvre d&#34;acquérir une
+          l&#39;espace et l&#39;histoire racontée à travers les déplacements des
+          protagonistes qui permettent à l&#39;oeuvre d&#39;acquérir une
           continuité narrative.
         </p>
         <p className="ar">
@@ -62,7 +62,7 @@ const RomFour = (props: Props) => {
           سرديّة.
         </p>
         <p className="fr">
-          L&#34;espace fournit des détails concernant les acteurs - impliqués,
+          L&#39;espace fournit des détails concernant les acteurs - impliqués,
           et repère le changement de leur comportement.
         </p>
         <p className="ar">
@@ -77,26 +77,26 @@ const RomFour = (props: Props) => {
           تؤثر البيئة على الشخصيات ، وتحفزهم على فعلهم ، وتدفعهم إلى العمل.
         </p>
         <p className="fr">
-          Puis l&#34;espace humain qui accentue l&#34;état psychique de
-          l&#34;homme par rapport à son milieu.
+          Puis l&#39;espace humain qui accentue l&#39;état psychique de
+          l&#39;homme par rapport à son milieu.
         </p>
         <p className="ar">
           ثم الفضاء البشري الذي يبرز الحالة النفسية للإنسان فيما يتعلق ببيئته.
         </p>
         <p className="fr">
-          L&#34;espace humain découvre le sentiment intime de la personne
-          pendant sa vue de l&#34;espace.
+          L&#39;espace humain découvre le sentiment intime de la personne
+          pendant sa vue de l&#39;espace.
         </p>
         <p className="ar">
           يكتشف الفضاء البشري الشعور الحميم للشخص أثناء رؤيته للفضاء.
         </p>
         <p className="fr">
-          Cette vue se diffère d&#34;une personne à une autre.
+          Cette vue se diffère d&#39;une personne à une autre.
         </p>
         <p className="ar">هذا الرأي يختلف من شخص لآخر.</p>
         <p className="fr">
-          Elle semble être ordinaire pour l&#34;une, tandis que, pour
-          l&#34;autre, la vue de l&#34;espace évoque des souvenirs remplis de
+          Elle semble être ordinaire pour l&#39;une, tandis que, pour
+          l&#39;autre, la vue de l&#39;espace évoque des souvenirs remplis de
           joie ou de tristesse.
         </p>
         <p className="ar">
@@ -105,8 +105,8 @@ const RomFour = (props: Props) => {
         </p>
         <p className="fr">
           Les noms et les couleurs des lieux dévoilent des sentiments distingués
-          qui vont, peut-être, de l&#34;amour à l&#34;agressivité et
-          l&#34;inverse.
+          qui vont, peut-être, de l&#39;amour à l&#39;agressivité et
+          l&#39;inverse.
         </p>
         <p className="ar">
           تكشف أسماء الأماكن وألوانها عن مشاعر مميزة تتراوح ربما من الحب إلى
@@ -120,14 +120,14 @@ const RomFour = (props: Props) => {
           إنها تثير حدس وغرائز وعواطف من يراها ، على سبيل المثال:
         </p>
         <p className="fr">
-          la tension, la dureté, la joie, l&#34;ennui, le dégoût, la peur et le
+          la tension, la dureté, la joie, l&#39;ennui, le dégoût, la peur et le
           bonheur.
         </p>
         <p className="ar">
           التوتر والصلابة والفرح والملل والاشمئزاز والخوف والسعادة.
         </p>
         <p className="fr">
-          La description, chez Camus n&#34;est pas un ornement, mais elle est au
+          La description, chez Camus n&#39;est pas un ornement, mais elle est au
           service des thèmes proposés.
         </p>
         <p className="ar">
@@ -140,7 +140,7 @@ const RomFour = (props: Props) => {
         <p className="ar">كل هذا يظهر من خلال نظرة الراوي ونظرة الشخصيات.</p>
         <p className="fr">
           Chez Camus, le narrateur recourt à la description matérielle du lieu
-          pour assurer l&#34;homogénéité du texte, jaillie de la cohérence entre
+          pour assurer l&#39;homogénéité du texte, jaillie de la cohérence entre
           les thèmes, les personnages et leurs milieux.
         </p>
         <p className="ar">
@@ -167,15 +167,15 @@ const RomFour = (props: Props) => {
           بوظيفته السردية.
         </p>
         <p className="fr">
-          C&#34;est ce qui explique l&#34;importance donnée à l&#34;espace
-          humain plus qu&#34;à l&#34;espace réel.
+          C&#39;est ce qui explique l&#39;importance donnée à l&#39;espace
+          humain plus qu&#39;à l&#39;espace réel.
         </p>
         <p className="ar">
           هذا يفسر الأهمية المعطاة للفضاء البشري أكثر من الفضاء الحقيقي.
         </p>
         <p className="fr">
-          Le narrateur concentre plus sur l&#34;illustration du rapport
-          psychique des personnages aux lieux (espace humain) que l&#34;aspect
+          Le narrateur concentre plus sur l&#39;illustration du rapport
+          psychique des personnages aux lieux (espace humain) que l&#39;aspect
           concret du lieu (espace réel).
         </p>
         <p className="ar">
@@ -183,7 +183,7 @@ const RomFour = (props: Props) => {
           البشري) أكثر من التركيز على الجانب الملموس للمكان (الفضاء الحقيقي).
         </p>
         <p className="fr">
-          Ainsi, l&#34;espace n&#34;est-il plus le cadre à priori d&#34;une
+          Ainsi, l&#39;espace n&#39;est-il plus le cadre à priori d&#39;une
           action à venir, mais une suite de réalités perçues et imaginées.
         </p>
         <p className="ar">
@@ -193,23 +193,23 @@ const RomFour = (props: Props) => {
 
         <div className="heading">
           <h3>
-            A)- L&#34;espace réel
+            A)- L&#39;espace réel
             <span> أ) - مساحة حقيقية </span>
           </h3>
         </div>
 
         <p className="fr">
-          L&#34;espace réel est présenté comme une réalité vécue par les acteurs
+          L&#39;espace réel est présenté comme une réalité vécue par les acteurs
           impliqués.
         </p>
         <p className="ar">
           يتم تقديم الفضاء الحقيقي كواقع يمر به الفاعلون المعنيون.
         </p>
         <p className="fr">
-          Mais, la nature de l&#34;espace se diffère d&#34;un texte à un autre :
-          d&#34;une part, il est fermé, c&#34;est à dire un univers clos, fermé
-          sur luimême, et d&#34;une autre part, il est un espace ouvert qui
-          s&#34;ouvre sur le monde entier.
+          Mais, la nature de l&#39;espace se diffère d&#39;un texte à un autre :
+          d&#39;une part, il est fermé, c&#39;est à dire un univers clos, fermé
+          sur luimême, et d&#39;une autre part, il est un espace ouvert qui
+          s&#39;ouvre sur le monde entier.
         </p>
         <p className="ar">
           لكن طبيعة الفضاء تختلف من نص إلى آخر: من ناحية ، إنه مغلق ، أي كون
@@ -217,18 +217,18 @@ const RomFour = (props: Props) => {
           العالم أجمع.
         </p>
         <p className="fr">
-          Tout texte se caractérise par la variation interne de l&#34;espace
-          (fermé - ouvert), et par sa multiplication puisqu&#34;on trouve à
-          l&#34;intérieur d&#34;un même texte plus d&#34;un lieu qui illustre un
-          des aspects de l&#34;action.
+          Tout texte se caractérise par la variation interne de l&#39;espace
+          (fermé - ouvert), et par sa multiplication puisqu&#39;on trouve à
+          l&#39;intérieur d&#39;un même texte plus d&#39;un lieu qui illustre un
+          des aspects de l&#39;action.
         </p>
         <p className="ar">
           يتميز أي نص بالتنوع الداخلي للمساحة (مغلق - مفتوح) ، وبتكاثره حيث يجد
           المرء في نفس النص أكثر من مكان واحد يوضح أحد جوانب الإجراء.
         </p>
         <p className="fr">
-          Les premières lignes de l&#34;oeuvre plantent le décor et situent
-          l&#34;action.
+          Les premières lignes de l&#39;oeuvre plantent le décor et situent
+          l&#39;action.
         </p>
         <p className="ar">
           حددت الأسطر الأولى من العمل المشهد وحدد موقع الحدث.
@@ -253,7 +253,7 @@ const RomFour = (props: Props) => {
           فرنسية على الساحل الجزائري.
         </p>
         <p className="fr">
-          Il décrit ensuite le site et le climat d&#34;Oran où se déroulent les
+          Il décrit ensuite le site et le climat d&#39;Oran où se déroulent les
           événements :
         </p>
         <p className="ar">ثم يصف موقع ومناخ وهران حيث تجري الأحداث:</p>
@@ -262,7 +262,7 @@ const RomFour = (props: Props) => {
         </p>
         <p className="ar">لا يمكن قراءة تغيير الفصول إلا في السماء.</p>
         <p className="fr">
-          Le printemps s’annonce seulement par la qualité de l&#34;air ou par
+          Le printemps s’annonce seulement par la qualité de l&#39;air ou par
           les corbeilles de fleurs que de petits vendeurs ramènent des banlieues
           ; c’est un printemps qu’on vend sur les marchés.
         </p>
@@ -272,7 +272,7 @@ const RomFour = (props: Props) => {
         </p>
         <p className="fr">
           Pendant l’été, le soleil incendie les maisons trop sèches et couvre
-          les murs d&#34;une cendre grise; on ne peut plus vivre alors que dans
+          les murs d&#39;une cendre grise; on ne peut plus vivre alors que dans
           l’ombre des volets clos.
         </p>
         <p className="ar">
@@ -321,14 +321,14 @@ const RomFour = (props: Props) => {
 
         <div className="heading">
           <h3>
-            B)- L&#34;espace humain
+            B)- L&#39;espace humain
             <span> ب) - الفضاء البشري </span>
           </h3>
         </div>
 
         <p className="fr">
-          L&#34;espace humain met l&#34;accent sur le rapport psychique de
-          l&#34;homme à son espace.
+          L&#39;espace humain met l&#39;accent sur le rapport psychique de
+          l&#39;homme à son espace.
         </p>
         <p className="ar">
           يؤكد الفضاء البشري على العلاقة النفسية بين الإنسان وفضائه.
@@ -342,7 +342,7 @@ const RomFour = (props: Props) => {
           التي قيلت.
         </p>
         <p className="fr">
-          Le lieu de l&#34;action, Oran ne semble avoir été choisi que pour sa
+          Le lieu de l&#39;action, Oran ne semble avoir été choisi que pour sa
           valeur symbolique.
         </p>
         <p className="ar">
@@ -351,7 +351,7 @@ const RomFour = (props: Props) => {
         <p className="fr">
           En effet, la description de cette cité laide a pour but de préparer
           psychiquement le lecteur à recevoir les événements mélancoliques et
-          mortuaires de l&#34;épidémie.
+          mortuaires de l&#39;épidémie.
         </p>
         <p className="ar">
           وبالفعل ، فإن وصف هذه المدينة القبيحة يهدف إلى إعداد القارئ نفسياً
@@ -359,7 +359,7 @@ const RomFour = (props: Props) => {
         </p>
         <p className="fr">
           Pour le narrateur, Oran est plus sévère que le fléau. La description
-          de cette ville souligne l&#34;état du pessimisme qui contrôle tout le
+          de cette ville souligne l&#39;état du pessimisme qui contrôle tout le
           monde pendant la deuxième guerre mondiale.
         </p>
         <p className="ar">
@@ -367,11 +367,11 @@ const RomFour = (props: Props) => {
           حالة التشاؤم التي سيطرت على الجميع خلال الحرب العالمية الثانية.
         </p>
         <p className="fr">
-          Tout le monde a été régné par la peur, l&#34;inquiétude, le désespoir.
+          Tout le monde a été régné par la peur, l&#39;inquiétude, le désespoir.
         </p>
         <p className="ar">كان الجميع يحكمهم الخوف والقلق واليأس.</p>
         <p className="fr">
-          Par ailleurs, l&#34;usage du présent de valeur générale sous-entend
+          Par ailleurs, l&#39;usage du présent de valeur générale sous-entend
           que ce qui se passe à Oran est identique à ce qui se passe dans le
           monde :
         </p>
@@ -380,13 +380,13 @@ const RomFour = (props: Props) => {
           وهران مطابق لما يحدث في العالم:
         </p>
         <p className="fr">
-          On ne peut plus vivre. (...) On y meurt. (...) On s&#34;y ennuie.
+          On ne peut plus vivre. (...) On y meurt. (...) On s&#39;y ennuie.
         </p>
         <p className="ar">
           لم نعد نستطيع العيش. (...) نموت هناك. (...) نشعر بالملل هناك.
         </p>
         <p className="fr">
-          Pour le narrateur du roman, Oran n&#34;est qu&#34;une forêt, habitée
+          Pour le narrateur du roman, Oran n&#39;est qu&#39;une forêt, habitée
           par des animaux qui ne cherchent que le manger.
         </p>
         <p className="ar">
@@ -395,7 +395,7 @@ const RomFour = (props: Props) => {
         </p>
         <p className="fr">
           Les habitants mènent une vie banale. Ils évitent tout motif
-          d&#34;inquiétude.
+          d&#39;inquiétude.
         </p>
         <p className="ar">يعيش السكان حياة عادية. يتجنبون أي سبب للقلق.</p>
         <p className="fr">
@@ -407,7 +407,7 @@ const RomFour = (props: Props) => {
         </p>
         <p className="fr">
           La description du lieu montre le déchirement intérieur du docteur
-          Rieux lors de l&#34;annonce de la peste.
+          Rieux lors de l&#39;annonce de la peste.
         </p>
         <p className="ar">
           يُظهر وصف المكان حسرة قلب الدكتور ريو عندما تم الإعلان عن الطاعون.
@@ -427,14 +427,14 @@ const RomFour = (props: Props) => {
         </p>
         <p className="fr">
           A proprement parler, la vitre incarne le désespoir (la guerre) et
-          l&#34;espoir (la science).
+          l&#39;espoir (la science).
         </p>
         <p className="ar">
           بالمعنى الدقيق للكلمة ، النافذة تجسد اليأس (الحرب) والأمل (العلم).
         </p>
         <p className="fr">
           La vitre matérialise symboliquement le contraste entre
-          l&#34;extérieur, Oran, et l&#34;intérieur, le cabinet où se trouve
+          l&#39;extérieur, Oran, et l&#39;intérieur, le cabinet où se trouve
           Rieux :
         </p>
         <p className="ar">
@@ -442,8 +442,8 @@ const RomFour = (props: Props) => {
           حيث يقع Rieux:
         </p>
         <p className="fr">
-          D&#34;un côté de la vitre, le ciel frais du printemps, et de
-          l&#34;autre côté le mot qui résonnait encore dans la pièce : la peste.
+          D&#39;un côté de la vitre, le ciel frais du printemps, et de
+          l&#39;autre côté le mot qui résonnait encore dans la pièce : la peste.
         </p>
         <p className="ar">
           على أحد جانبي النافذة ، سماء الربيع الباردة ، وعلى الجانب الآخر الكلمة
@@ -455,7 +455,7 @@ const RomFour = (props: Props) => {
         <p className="ar">إلى مسافتين تتوافقان مع وقتين مختلفين:</p>
         <p className="fr">
           le temps naturel, le cycle des saisons (le printemps) et déjà
-          l&#34;entrée dans un autre temps, celui de la peste.
+          l&#39;entrée dans un autre temps, celui de la peste.
         </p>
         <p className="ar">
           الزمن الطبيعي ، دورة الفصول (الربيع) والدخول إلى زمن آخر ، زمن
@@ -478,29 +478,29 @@ const RomFour = (props: Props) => {
           الدنيء والتعذيب الجسدي.
         </p>
         <p className="fr">
-          Les malades tirés avec des crochets.&#34; Oran n&#34;est qu&#34;un
+          Les malades tirés avec des crochets.&#39; Oran n&#39;est qu&#39;un
           groupe des cimetières.
         </p>
         <p className="ar">
-          يُخرج المرضى بخطافات &#34;. وهران مجموعة واحدة فقط من المقابر.
+          يُخرج المرضى بخطافات &#39;. وهران مجموعة واحدة فقط من المقابر.
         </p>
         <p className="fr">
-          L&#34;homme sent qu&#34;il est étranger à son corps. Le corps devient
-          lieu de souffrance et d&#34;horribles transformations.
+          L&#39;homme sent qu&#39;il est étranger à son corps. Le corps devient
+          lieu de souffrance et d&#39;horribles transformations.
         </p>
         <p className="ar">
           يشعر الرجل أنه غريب عن جسده. يصبح الجسد مكانًا للمعاناة والتحولات
           الرهيبة.
         </p>
         <p className="fr">
-          Les corps humains sont remplacés par &#34; des cadavres&#34;, et par
+          Les corps humains sont remplacés par &#39; des cadavres&#39;, et par
           les corps dégoulinants.
         </p>
         <p className="ar">
-          يتم استبدال أجساد البشر بـ &#34;الجثث&#34; ، وبتقطير الجثث.
+          يتم استبدال أجساد البشر بـ &#39;الجثث&#39; ، وبتقطير الجثث.
         </p>
         <p className="fr">
-          Les hommes ne se définissent plus qu&#34;en fonction de la mort ou de
+          Les hommes ne se définissent plus qu&#39;en fonction de la mort ou de
           leur misère physique et morale :
         </p>
         <p className="ar">
@@ -509,7 +509,7 @@ const RomFour = (props: Props) => {
         </p>
         <p className="fr">
           les agonisants, les mendiants, les bagnards. La situation
-          s&#34;aggrave.
+          s&#39;aggrave.
         </p>
         <p className="ar">المحتضر والمتسولين والمحكومين. الوضع يزداد سوءا.</p>
         <p className="fr">
@@ -521,8 +521,8 @@ const RomFour = (props: Props) => {
           المباني المتاحة.
         </p>
         <p className="fr">
-          L&#34;absence d&#34;espace propre à accueillir les morts reflète
-          l&#34;absence de respect dû aux morts.
+          L&#39;absence d&#39;espace propre à accueillir les morts reflète
+          l&#39;absence de respect dû aux morts.
         </p>
         <p className="ar">
           يعكس عدم وجود مساحة مناسبة لاستقبال الموتى عدم الاحترام الواجب للموتى.
@@ -535,26 +535,26 @@ const RomFour = (props: Props) => {
         <p className="ar">ريح الطاعون تغطي وهران كلها.</p>
         <p className="fr">
           Après bien des réticences et des tracasseries administratives, les
-          autorités prennent conscience de l&#34;épidémie et se décident à
-          &#34;fermer&#34; la ville.
+          autorités prennent conscience de l&#39;épidémie et se décident à
+          &#39;fermer&#39; la ville.
         </p>
         <p className="ar">
           بعد الكثير من التردد والمشاحنات الإدارية ، أصبحت السلطات على علم
-          بالوباء وقررت &#34;إغلاق&#34; المدينة.
+          بالوباء وقررت &#39;إغلاق&#39; المدينة.
         </p>
         <p className="fr">
           A ce moment là, Oran devient une grande prison qui reçoit des
           délinquants, des prévenus privés de liberté, des hommes condamnés à
-          mort. Oran devient un lieu infernal, préparé aux &#34;ennemis de
-          Dieu&#34; d&#34;après l&#34;expression du père Paneloux.
+          mort. Oran devient un lieu infernal, préparé aux &#39;ennemis de
+          Dieu&#39; d&#39;après l&#39;expression du père Paneloux.
         </p>
         <p className="ar">
           في ذلك الوقت ، أصبحت وهران سجنًا كبيرًا يستقبل الجانحين والمتهمين
           المحرومين من الحرية والرجال المحكوم عليهم بالإعدام. أصبحت وهران مكانًا
-          جهنميًا ، مُعدًا لـ &#34;أعداء الله&#34; حسب تعبير الأب بانلو.
+          جهنميًا ، مُعدًا لـ &#39;أعداء الله&#39; حسب تعبير الأب بانلو.
         </p>
         <p className="fr">
-          Devant l&#34;atrocité du fléau, les protagonistes essayent de fuir de
+          Devant l&#39;atrocité du fléau, les protagonistes essayent de fuir de
           ce lieu infernal. Mais, la ville est fermée.
         </p>
         <p className="ar">
@@ -577,11 +577,11 @@ const RomFour = (props: Props) => {
           يهدد المدينة.
         </p>
         <p className="fr">
-          Pour Rieux et Tarrou, &#34;les eaux&#34; rappellent l&#34;unité
-          primitive de l&#34;univers avant la séparation des éléments.
+          Pour Rieux et Tarrou, &#39;les eaux&#39; rappellent l&#39;unité
+          primitive de l&#39;univers avant la séparation des éléments.
         </p>
         <p className="ar">
-          بالنسبة لريو وتارو ، تذكر &#34;المياه&#34; الوحدة البدائية للكون قبل
+          بالنسبة لريو وتارو ، تذكر &#39;المياه&#39; الوحدة البدائية للكون قبل
           فصل العناصر.
         </p>
         <p className="fr">
@@ -592,7 +592,7 @@ const RomFour = (props: Props) => {
         </p>
         <p className="fr">
           Les eaux marines symbolisent pour les deux hommes le retour à
-          l&#34;origine, l&#34;enfance du monde, au temps d&#34;avant la peste.
+          l&#39;origine, l&#39;enfance du monde, au temps d&#39;avant la peste.
         </p>
         <p className="ar">
           ترمز مياه البحر للرجلين إلى العودة إلى الأصل ، طفولة العالم ، إلى وقت
@@ -610,7 +610,7 @@ const RomFour = (props: Props) => {
         <p className="ar">تعكس يد Rieux على الحجر الاتصال المباشر بالعالم.</p>
         <p className="fr">
           Elle découvre le désir de vivre : Rieux, qui sentait sous ses doigts
-          le visage grêlé des rochers, était plein d&#34;un étrange bonheur.
+          le visage grêlé des rochers, était plein d&#39;un étrange bonheur.
         </p>
         <p className="ar">
           تكتشف الرغبة في العيش: ريو ، الذي شعر تحت أصابعه بالوجه المحفور للصخور
@@ -625,13 +625,13 @@ const RomFour = (props: Props) => {
         </p>
         <p className="fr">
           Le phénomène des rats morts commence à disparaître. Une vie nouvelle
-          naît. Cette ville nouvelle change l&#34;aspect de la ville.
+          naît. Cette ville nouvelle change l&#39;aspect de la ville.
         </p>
         <p className="ar">
           تبدأ ظاهرة الفئران الميتة في الاختفاء. ولدت حياة جديدة. هذه المدينة
           الجديدة تغير مظهر المدينة.
         </p>
-        <p className="fr">Oran devient plus heureux qu&#34;auparavant.</p>
+        <p className="fr">Oran devient plus heureux qu&#39;auparavant.</p>
         <p className="ar">أصبحت وهران أسعد من ذي قبل.</p>
         <p className="fr">La ville est régnée par la joie et le salut :</p>
         <p className="ar">المدينة يحكمها الفرح والخلاص:</p>
@@ -644,7 +644,7 @@ const RomFour = (props: Props) => {
           En même temps, les trains commencèrent à fumer en gare pendant que,
           venus de mers lointaines, des navires mettaient déjà le cap sur notre
           port, marquant à leur manière que ce jour était, pour tous ceux qui
-          gémissaient d&#34;être séparés, celui de la grande réunion.
+          gémissaient d&#39;être séparés, celui de la grande réunion.
         </p>
         <p className="ar">
           في الوقت نفسه ، بدأت القطارات تدخن في المحطة بينما كانت السفن ، من

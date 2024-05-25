@@ -21,10 +21,10 @@ const TradFour = (props: Props) => {
 
         <div className="box">
           <p className="fr">
-            L’hésitation d&#34;avril, l&#34;odeur du pain à l&#34;aube, les
-            opinions d&#34;une femme sur les hommes, les écrits d&#34;Eschyle,
-            le commencement de l&#34;amour, l&#34;herbe sur une pierre, des
-            mères debout sur un filet de flûte et la peur qu&#34;inspire le
+            L’hésitation d&#39;avril, l&#39;odeur du pain à l&#39;aube, les
+            opinions d&#39;une femme sur les hommes, les écrits d&#39;Eschyle,
+            le commencement de l&#39;amour, l&#39;herbe sur une pierre, des
+            mères debout sur un filet de flûte et la peur qu&#39;inspire le
             souvenir aux conquérants.
           </p>
         </div>
@@ -37,9 +37,9 @@ const TradFour = (props: Props) => {
           <p className="fr">
             Sur cette terre, il y a ce qui mérite vie la fin de septembre, une
             femme qui sort de la quarantaine, mûre de tous ses abricots,
-            l&#34;heure de soleil en prison, des nuages qui imitent une volée de
-            créatures, les acclamations d&#34;un peuple pour ceux qui montent,
-            souriants, vers leur mort et la peur qu&#34;inspirent les chansons
+            l&#39;heure de soleil en prison, des nuages qui imitent une volée de
+            créatures, les acclamations d&#39;un peuple pour ceux qui montent,
+            souriants, vers leur mort et la peur qu&#39;inspirent les chansons
             aux tyrans.
           </p>
         </div>
@@ -61,7 +61,7 @@ const TradFour = (props: Props) => {
         </p>
         <div className="box">
           <p className="fr">
-            Elle s&#34;appelait Palestine. Puis on l&#34;appela Palestine.
+            Elle s&#39;appelait Palestine. Puis on l&#39;appela Palestine.
           </p>
         </div>
         <p className="ar">كانت تسمي فلسطین. صارت تسمي فلسطین.</p>
