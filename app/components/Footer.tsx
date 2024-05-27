@@ -10,7 +10,7 @@ type Props = {};
 const Footer = (props: Props) => {
   return (
     <div
-      className={`text-center p-4 relative overflow-hidden bg-background mt-6`}
+      className={`text-center p-4 relative overflow-hidden bg-background mt-3`}
     >
       <div
         className={`py-4 px-6 rounded-3xl bg-[#fff] text-[16px] dark:bg-background w-fit mx-auto border border-[#ccc] dark:border-[#9e9e9e29] 500px:text-[16px]`}
