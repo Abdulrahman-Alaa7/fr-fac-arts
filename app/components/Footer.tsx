@@ -21,7 +21,7 @@ const Footer = (props: Props) => {
             <Activity size={25} className="" />
           </div>
           <Link
-            href={`https://www.instagram.com/its.3abdulrahman/`}
+            href={`https://www.instagram.com/abdulrahmann.alaa`}
             className=" "
             target="_blank"
           >
